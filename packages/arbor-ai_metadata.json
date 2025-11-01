@@ -1,0 +1,11 @@
+{
+  "name": "arbor-ai",
+  "version": "0.2.16",
+  "summary": "A framework for optimizing DSPy programs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arbor_ai-0.2.16.tar.gz",
+  "download_time": "2025-11-01T18:55:18.108319",
+  "package_url": "https://pypi.org/project/arbor-ai/"
+}

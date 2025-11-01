@@ -1,0 +1,11 @@
+{
+  "name": "shredword-trainer",
+  "version": "0.0.2",
+  "summary": "BPE & Unigram trainers for Shredword tokenizer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shredword_trainer-0.0.2.tar.gz",
+  "download_time": "2025-11-01T18:55:14.254218",
+  "package_url": "https://pypi.org/project/shredword-trainer/"
+}

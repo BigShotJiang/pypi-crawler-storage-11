@@ -1,0 +1,11 @@
+{
+  "name": "CoolProp",
+  "version": "7.2.0",
+  "summary": "Open-source thermodynamic and transport properties database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coolprop-7.2.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-01T18:55:19.419089",
+  "package_url": "https://pypi.org/project/CoolProp/"
+}

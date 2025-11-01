@@ -1,0 +1,11 @@
+{
+  "name": "pyxenv",
+  "version": "0.2.0",
+  "summary": "npx-like tool for Python: switch versions and manage virtual environments",
+  "author": "Luigi C. Filho",
+  "license": "MIT",
+  "home_page": "https://github.com/luigicfilho/pyxenv",
+  "download_filename": "pyxenv-0.2.0.tar.gz",
+  "download_time": "2025-11-01T18:55:14.814896",
+  "package_url": "https://pypi.org/project/pyxenv/"
+}
