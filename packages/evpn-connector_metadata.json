@@ -1,0 +1,11 @@
+{
+  "name": "evpn-connector",
+  "version": "2.2.1",
+  "summary": "The main task of this daemon is to interact with the gobgp and ovs to provide a connection using the EVPN protocol",
+  "author": "VK Tech",
+  "license": null,
+  "home_page": "https://github.com/vktechdev/evpn_connector",
+  "download_filename": "evpn_connector-2.2.1.tar.gz",
+  "download_time": "2025-11-01T22:39:15.423123",
+  "package_url": "https://pypi.org/project/evpn-connector/"
+}

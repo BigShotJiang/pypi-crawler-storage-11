@@ -1,11 +1,11 @@
 {
   "name": "market-data-core",
-  "version": "1.4.50",
+  "version": "1.4.53",
   "summary": "Core contracts (protocols, models, errors, settings, telemetry, federation) for market data systems.",
   "author": "Matt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "market_data_core-1.4.50.tar.gz",
-  "download_time": "2025-11-01T21:37:33.608218",
+  "download_filename": "market_data_core-1.4.53.tar.gz",
+  "download_time": "2025-11-01T22:39:20.614536",
   "package_url": "https://pypi.org/project/market-data-core/"
 }

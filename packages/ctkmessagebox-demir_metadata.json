@@ -1,0 +1,11 @@
+{
+  "name": "ctkmessagebox-demir",
+  "version": "0.3.2",
+  "summary": "A modern CustomTkinter messagebox with icon and window icon support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctkmessagebox_demir-0.3.2.tar.gz",
+  "download_time": "2025-11-01T22:39:27.040413",
+  "package_url": "https://pypi.org/project/ctkmessagebox-demir/"
+}

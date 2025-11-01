@@ -1,0 +1,11 @@
+{
+  "name": "IODLoader",
+  "version": "0.1.0",
+  "summary": "Download and process English Indices of Deprivation data",
+  "author": "Chris Carlon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iodloader-0.1.0.tar.gz",
+  "download_time": "2025-11-01T22:39:17.143302",
+  "package_url": "https://pypi.org/project/IODLoader/"
+}
