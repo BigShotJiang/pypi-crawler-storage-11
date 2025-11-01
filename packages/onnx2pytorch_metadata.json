@@ -1,0 +1,11 @@
+{
+  "name": "onnx2pytorch",
+  "version": "0.5.2",
+  "summary": "Library to transform onnx model to pytorch.",
+  "author": "Talmaj Marinc",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/ToriML/onnx2pytorch",
+  "download_filename": "onnx2pytorch-0.5.2.tar.gz",
+  "download_time": "2025-11-01T23:38:11.142283",
+  "package_url": "https://pypi.org/project/onnx2pytorch/"
+}
