@@ -1,0 +1,11 @@
+{
+  "name": "bxson",
+  "version": "0.2.0",
+  "summary": "A JSON-like configuration format supporting native Base32, Base58, and Base64 data types, with Teaser RUI-style ;; comments.",
+  "author": "Teaserverse",
+  "license": "MIT",
+  "home_page": "https://github.com/TeaserLang/bxson",
+  "download_filename": "bxson-0.2.0.tar.gz",
+  "download_time": "2025-11-01T14:51:42.183021",
+  "package_url": "https://pypi.org/project/bxson/"
+}

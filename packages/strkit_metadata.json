@@ -1,0 +1,11 @@
+{
+  "name": "strkit",
+  "version": "0.24.1",
+  "summary": "A toolkit for analyzing variation in short(ish) tandem repeats.",
+  "author": "David Lougheed",
+  "license": "GPLv3",
+  "home_page": "https://github.com/davidlougheed/strkit",
+  "download_filename": "strkit-0.24.1.tar.gz",
+  "download_time": "2025-11-01T14:51:49.480440",
+  "package_url": "https://pypi.org/project/strkit/"
+}

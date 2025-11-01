@@ -1,0 +1,11 @@
+{
+  "name": "feature-engineering-rs",
+  "version": "0.2.97",
+  "summary": "A high-performance feature engineering package built with Rust and exposed to Python via PyO3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feature_engineering_rs-0.2.97.tar.gz",
+  "download_time": "2025-11-01T14:52:12.246705",
+  "package_url": "https://pypi.org/project/feature-engineering-rs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "showtime-cli",
+  "version": "0.3.22",
+  "summary": "Command line show tracker using the TVMaze public API",
+  "author": "Evgeniy Vasilev",
+  "license": "MIT",
+  "home_page": "https://github.com/aquilax/showtime",
+  "download_filename": "showtime_cli-0.3.22.tar.gz",
+  "download_time": "2025-11-01T14:51:39.058818",
+  "package_url": "https://pypi.org/project/showtime-cli/"
+}

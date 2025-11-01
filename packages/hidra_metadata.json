@@ -1,0 +1,11 @@
+{
+  "name": "hidra",
+  "version": "0.2.0b1",
+  "summary": "A lightweight multitenancy library for FastAPI applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hidra-0.2.0b1.tar.gz",
+  "download_time": "2025-11-01T14:51:38.015648",
+  "package_url": "https://pypi.org/project/hidra/"
+}

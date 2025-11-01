@@ -1,0 +1,11 @@
+{
+  "name": "apiMoneyFusion",
+  "version": "0.1.4",
+  "summary": "API pour gérer la transactions dans fusion Money pour python",
+  "author": "Assemien Dev",
+  "license": null,
+  "home_page": "https://github.com/AssemienDev/docs.moneyfusion.net.git",
+  "download_filename": "apimoneyfusion-0.1.4.tar.gz",
+  "download_time": "2025-11-01T14:51:52.054613",
+  "package_url": "https://pypi.org/project/apiMoneyFusion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "krcg-api",
+  "version": "3.4",
+  "summary": "Web API for VTES cards and TWDA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "krcg_api-3.4.tar.gz",
+  "download_time": "2025-11-01T14:51:31.712363",
+  "package_url": "https://pypi.org/project/krcg-api/"
+}

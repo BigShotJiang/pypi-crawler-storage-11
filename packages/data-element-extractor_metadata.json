@@ -1,11 +1,11 @@
 {
   "name": "data-element-extractor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "This python package is designed to provide an adaptable framework for data extraction. It can be used to manage and extract data from text across multiple topics using Large Language Models (LLMs).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "data_element_extractor-0.1.0.tar.gz",
-  "download_time": "2025-11-01T14:16:53.771456",
+  "download_filename": "data_element_extractor-0.2.0.tar.gz",
+  "download_time": "2025-11-01T14:51:51.026791",
   "package_url": "https://pypi.org/project/data-element-extractor/"
 }
