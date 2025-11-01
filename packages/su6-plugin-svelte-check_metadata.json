@@ -1,0 +1,11 @@
+{
+  "name": "su6-plugin-svelte-check",
+  "version": "0.5.2",
+  "summary": "Svelte-check plugin for `su6`",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "su6_plugin_svelte_check-0.5.2.tar.gz",
+  "download_time": "2025-11-01T14:17:09.307112",
+  "package_url": "https://pypi.org/project/su6-plugin-svelte-check/"
+}

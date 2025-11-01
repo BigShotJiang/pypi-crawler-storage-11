@@ -1,0 +1,11 @@
+{
+  "name": "directory-manager-AP",
+  "version": "0.1.4",
+  "summary": "Универсальный инструмент для работы с директориями и файлами",
+  "author": "Александр",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "directory_manager_ap-0.1.4.tar.gz",
+  "download_time": "2025-11-01T14:17:19.708225",
+  "package_url": "https://pypi.org/project/directory-manager-AP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "utt",
+  "version": "1.31",
+  "summary": "A simple command-line time tracker",
+  "author": "Mathieu Larose",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/larose/utt",
+  "download_filename": "utt-1.31.tar.gz",
+  "download_time": "2025-11-01T14:17:04.046005",
+  "package_url": "https://pypi.org/project/utt/"
+}

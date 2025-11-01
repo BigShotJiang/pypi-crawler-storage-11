@@ -1,0 +1,11 @@
+{
+  "name": "pop-wrapper",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python wrapper for the Popcat API",
+  "author": "land_lmao",
+  "license": "MIT",
+  "home_page": "https://github.com/LandWarderer2772/pop-wrapper",
+  "download_filename": "pop_wrapper-1.0.0.tar.gz",
+  "download_time": "2025-11-01T14:16:51.169000",
+  "package_url": "https://pypi.org/project/pop-wrapper/"
+}

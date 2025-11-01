@@ -1,0 +1,11 @@
+{
+  "name": "icalendar-events-cli",
+  "version": "1.0.2",
+  "summary": "Command-line tool to read events from a iCalendar (ICS)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icalendar_events_cli-1.0.2.tar.gz",
+  "download_time": "2025-11-01T14:17:15.038479",
+  "package_url": "https://pypi.org/project/icalendar-events-cli/"
+}

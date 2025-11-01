@@ -1,0 +1,11 @@
+{
+  "name": "invisicode",
+  "version": "1.0.2",
+  "summary": "Fast and efficient coding of binary data into non-breaking unicode whitespace",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "invisicode-1.0.2.tar.gz",
+  "download_time": "2025-11-01T14:16:59.794713",
+  "package_url": "https://pypi.org/project/invisicode/"
+}

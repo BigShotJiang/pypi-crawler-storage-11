@@ -1,0 +1,11 @@
+{
+  "name": "unirules",
+  "version": "0.1.4",
+  "summary": "unirules is a Python library for building declarative rule sets with a friendly DSL over discrete and interval domains, then turning them into runtime resolvers and analyzers that fit into your applications.",
+  "author": "Dmitry Shevchenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unirules-0.1.4.tar.gz",
+  "download_time": "2025-11-01T14:17:29.069373",
+  "package_url": "https://pypi.org/project/unirules/"
+}

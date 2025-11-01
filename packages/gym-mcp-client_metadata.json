@@ -1,0 +1,11 @@
+{
+  "name": "gym-mcp-client",
+  "version": "0.1.0",
+  "summary": "A unified interface for local and remote Gymnasium environments via gym-mcp-server",
+  "author": "Haggai Shachar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gym_mcp_client-0.1.0.tar.gz",
+  "download_time": "2025-11-01T14:17:14.527026",
+  "package_url": "https://pypi.org/project/gym-mcp-client/"
+}

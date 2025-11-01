@@ -1,0 +1,11 @@
+{
+  "name": "langfuse-mcp-better",
+  "version": "1.2.2",
+  "summary": "Enhanced Langfuse MCP server with training data extraction for fine-tuning and reinforcement learning. Supports LangGraph node filtering and multiple output formats.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langfuse_mcp_better-1.2.2-py3-none-any.whl",
+  "download_time": "2025-11-01T14:16:56.864139",
+  "package_url": "https://pypi.org/project/langfuse-mcp-better/"
+}
