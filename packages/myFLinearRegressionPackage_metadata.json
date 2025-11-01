@@ -1,0 +1,11 @@
+{
+  "name": "myFLinearRegressionPackage",
+  "version": "1.0.0",
+  "summary": "An awesome package that does something",
+  "author": "Achouri Youcef",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/myFLinearRegressionPackage/",
+  "download_filename": "myflinearregressionpackage-1.0.0.tar.gz",
+  "download_time": "2025-11-01T21:16:19.260175",
+  "package_url": "https://pypi.org/project/myFLinearRegressionPackage/"
+}

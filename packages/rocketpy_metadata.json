@@ -1,0 +1,11 @@
+{
+  "name": "rocketpy",
+  "version": "1.11.0",
+  "summary": "Advanced 6-DOF trajectory simulation for High-Power Rocketry.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rocketpy-1.11.0.tar.gz",
+  "download_time": "2025-11-01T21:16:30.219276",
+  "package_url": "https://pypi.org/project/rocketpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "doc-workflow",
+  "version": "0.1.2a4",
+  "summary": "A Python Document Management Framework for generating and sending (pdf, docx, etc) documents to customers",
+  "author": "Iulian Ciorăscu",
+  "license": "MIT",
+  "home_page": "https://github.com/iulica/doc-workflow",
+  "download_filename": "doc_workflow-0.1.2a4.tar.gz",
+  "download_time": "2025-11-01T21:16:29.189224",
+  "package_url": "https://pypi.org/project/doc-workflow/"
+}

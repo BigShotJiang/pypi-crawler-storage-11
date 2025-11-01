@@ -1,0 +1,11 @@
+{
+  "name": "mosaicprot",
+  "version": "0.1.13",
+  "summary": "MosaicProt CLI: Detect ORFs, Find Alternative ORFs, Generate Mosaic Proteins",
+  "author": "Umut Cakir & Ali Yurtseven",
+  "license": null,
+  "home_page": "https://github.com/umutcakir/MosaicProt",
+  "download_filename": "mosaicprot-0.1.13.tar.gz",
+  "download_time": "2025-11-01T21:16:20.286355",
+  "package_url": "https://pypi.org/project/mosaicprot/"
+}
