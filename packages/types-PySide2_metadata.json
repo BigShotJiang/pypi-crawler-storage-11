@@ -1,0 +1,11 @@
+{
+  "name": "types-PySide2",
+  "version": "5.15.2.1.8",
+  "summary": "The most accurate stubs for PySide2",
+  "author": "Chad Dombrova",
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_pyside2-5.15.2.1.8-py2.py3-none-any.whl",
+  "download_time": "2025-11-01T19:37:55.233865",
+  "package_url": "https://pypi.org/project/types-PySide2/"
+}

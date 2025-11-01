@@ -1,0 +1,11 @@
+{
+  "name": "hoyolab-rss-feeds",
+  "version": "2.5.1",
+  "summary": "RSS feed generator for official game news from Hoyolab.",
+  "author": "c3kay",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "hoyolab_rss_feeds-2.5.1.tar.gz",
+  "download_time": "2025-11-01T19:37:58.521055",
+  "package_url": "https://pypi.org/project/hoyolab-rss-feeds/"
+}

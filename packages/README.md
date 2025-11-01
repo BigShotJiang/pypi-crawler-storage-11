@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T19:25:19.419744
-- **Total Packages**: 87
-- **Total Size**: 0.4 MB
+- **Download Time**: 2025-11-01T19:38:33.961511
+- **Total Packages**: 84
+- **Total Size**: 27.05 MB
 
 ## Packages List
+- glitchlings
+- goodreads-miner
+- human-cupid
+- jupyterlab-chat
+- evenage
+- toolos
+- orq-ai-sdk
+- peakbagger
+- ffmpeg-quality-metrics
+- webquiz
+- pymammotion
+- llm-ner-nel
+- juham-automation
+- types-PySide2
+- ccda-to-omop
+- fracnetics
+- arizona-forum-api-async
+- badgerdict
+- hoyolab-rss-feeds
+- lukhed-stocks
+- ravyn
+- specpulse
+- scooby
+- alpha-berkeley-framework
+- bidsprep
+- streamlit-lightweight-charts-pro
+- litellm
+- mtbsync
+- cli-command-parser
+- kabukit
+- keepa
+- reos
+- avyas-aurica-base-apps-app-sync
+- avyas-aurica-base-apps-app-manager
+- avyas-aurica-base-apps-nl-generator
+- avyas-aurica-base-apps-dashboard-app
+- avyas-aurica-base-apps-chat-app
+- avyas-aurica-base-apps-weather-app
+- mcp-cli
+- plover-websocket-server
+- fiche-resume
 - svc-infra
 - framekit
 - deltachat-rpc-server
@@ -16,14 +57,12 @@
 - tinyros
 - acido
 - m9s-calendar
-- mtbsync
 - m9s-party-carddav-client
 - kosty
 - locust
 - m9s-dav-client
 - iatoolkit
 - m9s-party-vcard
-- llm-ner-nel
 - mosaic-materials
 - toml-rs
 - arc-atlas
@@ -31,10 +70,8 @@
 - optimal-classification-cutoffs
 - sleipnirgroup-jormungandr
 - kwark
-- evenage
 - patchvec
 - biapy
-- mcp-cli
 - wikipya
 - prqlc
 - bloxplorer
@@ -47,49 +84,9 @@
 - shredword-trainer
 - pyxenv
 - kani-tts
-- bidsprep
 - asanAI
 - socx
 - arbor-ai
 - promptabs
 - CoolProp
 - genailib
-- reos
-- energiapy
-- androidtvremote2
-- akoma2md
-- random-bode-generator
-- authtuna
-- zigpy-xbee
-- panelbeater
-- bytedocs-flask
-- python-dropbox-api
-- biblematesc
-- biblematetc
-- nodoka
-- fastapi-ipware
-- vose
-- reddit-auto-mod
-- hyperquant
-- lytool
-- wraipperz
-- esperanto
-- dfpyre
-- spotpython
-- rdflib-ocdm
-- floatcsep
-- OpenImageIO
-- markdup
-- topgrade
-- stellars-jupyterlab-darcula-theme
-- snapmark
-- deepfabric
-- stellars-jupyterlab-sublime-theme
-- ocr-facture-api
-- jupyterlab-mmd-to-png-extension
-- sbase
-- basecase
-- pytest-seleniumbase
-- pytest-sbase
-- selenium-base
-- seleniumbase

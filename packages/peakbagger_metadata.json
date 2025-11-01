@@ -1,0 +1,11 @@
+{
+  "name": "peakbagger",
+  "version": "1.9.0",
+  "summary": "Explore mountain peak data from PeakBagger.com directly in your terminal. Search peaks by name, view comprehensive details, browse ascent trip reports, analyze seasonal climbing patterns, and export data as JSON. Built for hikers, climbers, and data enthusiasts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peakbagger-1.9.0.tar.gz",
+  "download_time": "2025-11-01T19:37:52.037061",
+  "package_url": "https://pypi.org/project/peakbagger/"
+}

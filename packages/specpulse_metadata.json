@@ -1,11 +1,11 @@
 {
   "name": "specpulse",
-  "version": "2.4.1",
-  "summary": "SpecPulse v2.2.4 - AI-Enhanced Specification-Driven Development Framework",
+  "version": "2.4.2",
+  "summary": "SpecPulse v2.4.2 - AI-Enhanced Specification-Driven Development Framework",
   "author": "SpecPulse",
   "license": "MIT",
   "home_page": "https://github.com/specpulse",
-  "download_filename": "specpulse-2.4.1.tar.gz",
-  "download_time": "2025-11-01T18:26:36.261312",
+  "download_filename": "specpulse-2.4.2.tar.gz",
+  "download_time": "2025-11-01T19:38:00.111163",
   "package_url": "https://pypi.org/project/specpulse/"
 }
