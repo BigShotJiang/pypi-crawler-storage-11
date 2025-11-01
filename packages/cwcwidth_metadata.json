@@ -1,0 +1,11 @@
+{
+  "name": "cwcwidth",
+  "version": "0.1.12",
+  "summary": "Python bindings for wc(s)width",
+  "author": "Sebastian Ramacher",
+  "license": "MIT",
+  "home_page": "https://github.com/sebastinas/cwcwidth",
+  "download_filename": "cwcwidth-0.1.12.tar.gz",
+  "download_time": "2025-11-01T17:51:04.522704",
+  "package_url": "https://pypi.org/project/cwcwidth/"
+}

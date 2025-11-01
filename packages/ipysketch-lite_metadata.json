@@ -1,0 +1,11 @@
+{
+  "name": "ipysketch-lite",
+  "version": "0.4.3",
+  "summary": "Simple sketching tool for Jupyter notebooks",
+  "author": null,
+  "license": "Copyright (c) 2025 Matthew Andre Taylor",
+  "home_page": null,
+  "download_filename": "ipysketch_lite-0.4.3.tar.gz",
+  "download_time": "2025-11-01T17:51:03.984937",
+  "package_url": "https://pypi.org/project/ipysketch-lite/"
+}

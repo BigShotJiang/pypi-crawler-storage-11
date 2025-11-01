@@ -1,0 +1,11 @@
+{
+  "name": "cihai-cli",
+  "version": "0.31.0",
+  "summary": "Command line frontend for the cihai CJK language library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cihai_cli-0.31.0.tar.gz",
+  "download_time": "2025-11-01T17:51:12.976551",
+  "package_url": "https://pypi.org/project/cihai-cli/"
+}
