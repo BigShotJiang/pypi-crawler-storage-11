@@ -1,0 +1,11 @@
+{
+  "name": "stdlb",
+  "version": "0.1.1",
+  "summary": "Wildcard-import the Python standard library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stdlb-0.1.1.tar.gz",
+  "download_time": "2025-11-01T16:21:57.499692",
+  "package_url": "https://pypi.org/project/stdlb/"
+}

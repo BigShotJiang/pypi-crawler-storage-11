@@ -1,11 +1,11 @@
 {
   "name": "django-components-daisyui",
-  "version": "0.0.1a0",
+  "version": "0.0.1a1",
   "summary": "Reusable daisyUI components with django-components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_components_daisyui-0.0.1a0.tar.gz",
-  "download_time": "2025-11-01T15:37:04.967304",
+  "download_filename": "django_components_daisyui-0.0.1a1.tar.gz",
+  "download_time": "2025-11-01T16:22:07.662798",
   "package_url": "https://pypi.org/project/django-components-daisyui/"
 }

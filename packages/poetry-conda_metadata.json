@@ -1,0 +1,11 @@
+{
+  "name": "poetry-conda",
+  "version": "0.1.7",
+  "summary": "Poetry plugin that allows for the creation of virtual environments using Poetry, without interfering with the Conda environment in which Poetry is installed",
+  "author": "Renan Santos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poetry_conda-0.1.7.tar.gz",
+  "download_time": "2025-11-01T16:21:52.231038",
+  "package_url": "https://pypi.org/project/poetry-conda/"
+}

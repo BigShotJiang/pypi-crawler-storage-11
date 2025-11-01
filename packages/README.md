@@ -1,18 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T15:52:15.923354
-- **Total Packages**: 85
-- **Total Size**: 20.34 MB
+- **Download Time**: 2025-11-01T16:22:31.630777
+- **Total Packages**: 77
+- **Total Size**: 15.78 MB
 
 ## Packages List
+- mehta
+- langchain-snowflake
+- aspy21
+- abertpy
+- aignostics
+- markdup
+- markdown-reader
+- poetry-conda
+- chuk-mcp-client-oauth
+- PEER-pytorch
+- notionary
+- odfdo
+- imgvisfeat
+- pyrmute
+- deepnote-toolkit
+- stdlb
+- robotframework-testcontainers
+- cartographer3d-plugin
+- airtable-client
+- atalaya
+- deltachat-rpc-client
+- timber-common
+- verify-oidc-identity
+- xian-linter
+- pixi-kernel
+- gns3-mcp
+- mcix
+- product-key-memory
+- jps-jira-workspace-utils
+- aiobmsble
+- mcp-beads
+- snowflake-keypair-helper
+- most-client
+- django-components-daisyui
+- abstract_dataloader
+- pqjwt
+- liger-kernel-nightly
+- langfuse-mcp-better
 - kuzu-memory
-- animageo
+- unscript
+- gtm-mcp
+- bearishpy
+- auto-yt-dlp
+- gegede
+- spice-mcp
+- webtoolkit
 - yeref
+- rdf2vecgpu
+- avro-py
+- getgauge
+- maxx
+- pymemeru
+- animageo
 - highway-core
 - agentview
 - su6
-- fin-sentiment
 - otai_otobo_znuny
 - otai_hf_local
 - otai_base
@@ -22,7 +71,6 @@
 - findfile
 - quantaroute-geocoding
 - mangoautomation
-- chuk-mcp-client-oauth
 - pycont-lite
 - lumarr
 - pyinfra-orbstack
@@ -30,64 +78,8 @@
 - krcg-bot
 - zenable-mcp
 - vmware-workstation-pro-mcp-server
-- atalaya
-- mcp-beads
 - kaq-quant-common
 - osism
-- timber-common
 - edwh
 - phonon-web-tools
 - marshmallow
-- flekspy
-- vital
-- dbviz
-- polychromos
-- toml-rs
-- yta-editor-nodes-cpu
-- aett
-- enable-pip
-- langfuse-mcp-better
-- hd2api.py
-- spice-mcp
-- asmr18
-- gvit
-- importee
-- pmccc
-- gns3-mcp
-- markdown-reader
-- PySharpe
-- ebird-api-data
-- ginkgo-tools
-- django-components-daisyui
-- daisyui-components-django
-- agentle
-- pqjwt
-- kombu
-- mcp-mini-deepresearch
-- fastflight
-- miso-client
-- nonebot-plugin-llmchat
-- starlette
-- localqtl
-- dsf-label-sdk
-- django-bolt
-- mcicli
-- luasense
-- rediskit
-- vose
-- pyquantile
-- resilient-http
-- pfst
-- pandas-plink-ng
-- tart-cargo
-- luausense
-- awesome-audit-log-django
-- importer-core
-- ccflow
-- mk-view-simple
-- adaptive-sparse-training
-- leaf-framework
-- pydal2sql
-- acido
-- instrumentaipdfsplitter
-- auto-yt-dlp
