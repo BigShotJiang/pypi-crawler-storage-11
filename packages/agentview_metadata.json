@@ -1,0 +1,11 @@
+{
+  "name": "agentview",
+  "version": "0.1.0",
+  "summary": "Causality analysis and decision provenance for LangGraph agents",
+  "author": "Varun Kruthiventi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentview-0.1.0.tar.gz",
+  "download_time": "2025-11-01T15:51:33.687052",
+  "package_url": "https://pypi.org/project/agentview/"
+}

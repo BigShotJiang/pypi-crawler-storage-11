@@ -1,11 +1,11 @@
 {
   "name": "su6",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "summary": "Python cli tool to use tools for some common code quality checks (opinionated)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "su6-1.10.0.tar.gz",
-  "download_time": "2025-11-01T14:17:11.869078",
+  "download_filename": "su6-1.10.1.tar.gz",
+  "download_time": "2025-11-01T15:51:34.223497",
   "package_url": "https://pypi.org/project/su6/"
 }

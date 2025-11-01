@@ -1,0 +1,11 @@
+{
+  "name": "phonon-web-tools",
+  "version": "0.1.4",
+  "summary": "Tools to convert phonon visualization data into a web-friendly format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonon_web_tools-0.1.4.tar.gz",
+  "download_time": "2025-11-01T15:51:47.377780",
+  "package_url": "https://pypi.org/project/phonon-web-tools/"
+}

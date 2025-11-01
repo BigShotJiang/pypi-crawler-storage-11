@@ -1,11 +1,11 @@
 {
   "name": "krcg-bot",
-  "version": "4.4",
+  "version": "4.5",
   "summary": "Discord bot for VTES cards",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krcg_bot-4.4.tar.gz",
-  "download_time": "2025-11-01T15:37:12.188385",
+  "download_filename": "krcg_bot-4.5.tar.gz",
+  "download_time": "2025-11-01T15:51:42.700103",
   "package_url": "https://pypi.org/project/krcg-bot/"
 }

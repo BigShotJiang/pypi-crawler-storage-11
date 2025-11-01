@@ -1,11 +1,11 @@
 {
   "name": "atalaya",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Flexible experiment logging helpers for PyTorch projects.",
   "author": "Joao Ramos",
   "license": "MIT",
   "home_page": "https://github.com/jacr13/Atalaya",
-  "download_filename": "atalaya-0.2.2.tar.gz",
-  "download_time": "2025-11-01T15:37:09.092488",
+  "download_filename": "atalaya-0.2.3.tar.gz",
+  "download_time": "2025-11-01T15:51:44.266263",
   "package_url": "https://pypi.org/project/atalaya/"
 }

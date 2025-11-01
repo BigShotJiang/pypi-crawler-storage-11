@@ -1,0 +1,11 @@
+{
+  "name": "findfile",
+  "version": "2.1.2",
+  "summary": "This package provides the function to search target file(s)/dir(s) using keyword, alleviating the possibility of failure to find files by specifying relative/absolute path",
+  "author": "Yang Heng",
+  "license": "MIT",
+  "home_page": "https://github.com/yangheng95/findfile",
+  "download_filename": "findfile-2.1.2.tar.gz",
+  "download_time": "2025-11-01T15:51:38.396172",
+  "package_url": "https://pypi.org/project/findfile/"
+}

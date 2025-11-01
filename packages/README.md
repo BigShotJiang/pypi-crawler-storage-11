@@ -1,17 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T15:37:43.082235
+- **Download Time**: 2025-11-01T15:52:15.923354
 - **Total Packages**: 85
-- **Total Size**: 26.69 MB
+- **Total Size**: 20.34 MB
 
 ## Packages List
+- kuzu-memory
+- animageo
+- yeref
+- highway-core
+- agentview
+- su6
+- fin-sentiment
+- otai_otobo_znuny
+- otai_hf_local
+- otai_base
+- open_ticket_ai
+- spotpython
+- bgpsimulator
+- findfile
+- quantaroute-geocoding
+- mangoautomation
+- chuk-mcp-client-oauth
+- pycont-lite
+- lumarr
+- pyinfra-orbstack
+- pyncbitk-runtime
+- krcg-bot
+- zenable-mcp
+- vmware-workstation-pro-mcp-server
+- atalaya
+- mcp-beads
+- kaq-quant-common
+- osism
+- timber-common
+- edwh
+- phonon-web-tools
+- marshmallow
+- flekspy
+- vital
+- dbviz
+- polychromos
+- toml-rs
+- yta-editor-nodes-cpu
+- aett
+- enable-pip
+- langfuse-mcp-better
 - hd2api.py
 - spice-mcp
 - asmr18
 - gvit
 - importee
-- yeref
 - pmccc
 - gns3-mcp
 - markdown-reader
@@ -21,18 +61,14 @@
 - django-components-daisyui
 - daisyui-components-django
 - agentle
-- dbviz
 - pqjwt
 - kombu
 - mcp-mini-deepresearch
 - fastflight
-- atalaya
 - miso-client
 - nonebot-plugin-llmchat
 - starlette
-- fin-sentiment
 - localqtl
-- krcg-bot
 - dsf-label-sdk
 - django-bolt
 - mcicli
@@ -50,44 +86,8 @@
 - ccflow
 - mk-view-simple
 - adaptive-sparse-training
-- timber-common
 - leaf-framework
 - pydal2sql
 - acido
 - instrumentaipdfsplitter
 - auto-yt-dlp
-- mcp-postgres-duwenji
-- fealpy
-- akoma2md
-- zollo
-- pydal2sql-core
-- lukhed-basic-utils
-- headson
-- immunopipe
-- vmware-workstation-pro-mcp-server
-- astra-ai
-- image-to-image
-- anc
-- proxmox-cli
-- gazpar2haws
-- echocorn
-- arthexis
-- pdbe-mcp-server
-- content-core
-- witchery
-- pragmastat
-- biosak
-- pyrobale
-- context-mcp
-- structuretoolkit
-- omniopt2
-- PyEasyUtils
-- onion-arch
-- disko
-- urlDNA
-- cosmol-viewer
-- chemformula
-- krcg-api
-- lunaengine
-- mredu
-- surreal-commands
