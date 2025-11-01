@@ -1,0 +1,11 @@
+{
+  "name": "queryboost",
+  "version": "0.1.3.post1",
+  "summary": "The official Python client for the Queryboost API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "queryboost-0.1.3.post1.tar.gz",
+  "download_time": "2025-11-01T20:38:26.392411",
+  "package_url": "https://pypi.org/project/queryboost/"
+}

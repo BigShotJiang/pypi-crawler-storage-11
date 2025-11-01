@@ -1,0 +1,11 @@
+{
+  "name": "myRocketPackage",
+  "version": "1.0.0",
+  "summary": "An awesome package that does something",
+  "author": "Achouri Youcef",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/myRocketPackage/",
+  "download_filename": "myrocketpackage-1.0.0.tar.gz",
+  "download_time": "2025-11-01T20:38:24.340047",
+  "package_url": "https://pypi.org/project/myRocketPackage/"
+}

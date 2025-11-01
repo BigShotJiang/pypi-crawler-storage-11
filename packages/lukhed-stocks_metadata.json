@@ -1,11 +1,11 @@
 {
   "name": "lukhed-stocks",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "A collection of stock analysis functions and api wrappers",
   "author": "lukhed",
   "license": null,
   "home_page": "https://github.com/lukhed/lukhed_stocks",
-  "download_filename": "lukhed_stocks-0.2.2.tar.gz",
-  "download_time": "2025-11-01T19:37:59.059253",
+  "download_filename": "lukhed_stocks-0.2.4.tar.gz",
+  "download_time": "2025-11-01T20:38:20.422301",
   "package_url": "https://pypi.org/project/lukhed-stocks/"
 }

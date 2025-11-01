@@ -1,0 +1,11 @@
+{
+  "name": "swifteda",
+  "version": "3.0.0",
+  "summary": "A lightweight open-source tool to automate the EDA pipeline from reading and cleaning to visualization.",
+  "author": "Rohan Babaria",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Nitroxium18/Swift_EDA",
+  "download_filename": "swifteda-3.0.0.tar.gz",
+  "download_time": "2025-11-01T20:38:29.524753",
+  "package_url": "https://pypi.org/project/swifteda/"
+}

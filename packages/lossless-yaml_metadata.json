@@ -1,0 +1,11 @@
+{
+  "name": "lossless-yaml",
+  "version": "0.2.0",
+  "summary": "Yet Another YAML AST - programmatically transform YAML, preserving whitespace and comments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lossless_yaml-0.2.0.tar.gz",
+  "download_time": "2025-11-01T20:38:19.872420",
+  "package_url": "https://pypi.org/project/lossless-yaml/"
+}
