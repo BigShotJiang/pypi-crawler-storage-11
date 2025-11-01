@@ -1,11 +1,11 @@
 {
   "name": "vose",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Cython implementation of Vose's Alias method.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vose-0.2.0-cp311-cp311-macosx_10_9_universal2.whl",
-  "download_time": "2025-11-01T15:37:15.307736",
+  "download_filename": "vose-0.2.1-cp311-cp311-macosx_10_9_universal2.whl",
+  "download_time": "2025-11-01T18:44:29.274493",
   "package_url": "https://pypi.org/project/vose/"
 }

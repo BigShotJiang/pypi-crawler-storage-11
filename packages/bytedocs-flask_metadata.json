@@ -1,0 +1,11 @@
+{
+  "name": "bytedocs-flask",
+  "version": "1.0.0",
+  "summary": "Automatic API documentation generator for Flask - inspired by Scramble for Laravel",
+  "author": "ByteDocs Contributors",
+  "license": null,
+  "home_page": "https://github.com/aibnuhibban/bytedocs-flask",
+  "download_filename": "bytedocs_flask-1.0.0.tar.gz",
+  "download_time": "2025-11-01T18:44:26.119708",
+  "package_url": "https://pypi.org/project/bytedocs-flask/"
+}

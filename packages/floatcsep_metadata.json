@@ -1,0 +1,11 @@
+{
+  "name": "floatcsep",
+  "version": "0.4.0",
+  "summary": "CSEP Floating Experiment application",
+  "author": "Pablo Iturrieta",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/cseptesting/floatcsep.git",
+  "download_filename": "floatcsep-0.4.0.tar.gz",
+  "download_time": "2025-11-01T18:44:34.178517",
+  "package_url": "https://pypi.org/project/floatcsep/"
+}

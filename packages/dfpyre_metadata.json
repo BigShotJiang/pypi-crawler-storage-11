@@ -1,11 +1,11 @@
 {
   "name": "dfpyre",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A package for creating and modifying code templates for the DiamondFire Minecraft server.",
   "author": "Amp",
   "license": "MIT",
   "home_page": "https://github.com/Amp63/pyre",
-  "download_filename": "dfpyre-0.9.0.tar.gz",
-  "download_time": "2025-11-01T18:26:18.238559",
+  "download_filename": "dfpyre-0.9.1.tar.gz",
+  "download_time": "2025-11-01T18:44:32.535896",
   "package_url": "https://pypi.org/project/dfpyre/"
 }
