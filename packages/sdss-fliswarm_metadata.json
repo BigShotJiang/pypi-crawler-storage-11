@@ -1,0 +1,11 @@
+{
+  "name": "sdss-fliswarm",
+  "version": "0.6.1",
+  "summary": "A tool to create and manage Docker instances of flicamera",
+  "author": "José Sánchez-Gallego",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdss_fliswarm-0.6.1.tar.gz",
+  "download_time": "2025-11-01T22:51:17.708763",
+  "package_url": "https://pypi.org/project/sdss-fliswarm/"
+}

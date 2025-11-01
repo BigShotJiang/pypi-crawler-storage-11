@@ -1,0 +1,11 @@
+{
+  "name": "versapy",
+  "version": "0.1.0",
+  "summary": "Tauri-like Python framework for webview apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "versapy-0.1.0.tar.gz",
+  "download_time": "2025-11-01T22:51:24.908930",
+  "package_url": "https://pypi.org/project/versapy/"
+}

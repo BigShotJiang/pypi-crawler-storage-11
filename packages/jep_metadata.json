@@ -1,0 +1,11 @@
+{
+  "name": "jep",
+  "version": "4.3.0",
+  "summary": "Jep embeds CPython in Java through JNI.",
+  "author": null,
+  "license": "Zlib",
+  "home_page": null,
+  "download_filename": "jep-4.3.0.tar.gz",
+  "download_time": "2025-11-01T22:51:03.218920",
+  "package_url": "https://pypi.org/project/jep/"
+}

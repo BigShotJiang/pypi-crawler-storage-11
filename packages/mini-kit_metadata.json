@@ -1,0 +1,11 @@
+{
+  "name": "mini-kit",
+  "version": "0.2.0",
+  "summary": "Small self-contained micro packages for deep learning codebases.",
+  "author": "Karim Abou Zeid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mini_kit-0.2.0.tar.gz",
+  "download_time": "2025-11-01T22:51:27.997981",
+  "package_url": "https://pypi.org/project/mini-kit/"
+}
