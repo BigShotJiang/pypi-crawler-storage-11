@@ -1,0 +1,11 @@
+{
+  "name": "celbridge",
+  "version": "0.1.0",
+  "summary": "A command-line interface for managing Celbridge projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "celbridge-0.1.0.tar.gz",
+  "download_time": "2025-11-01T20:19:42.077561",
+  "package_url": "https://pypi.org/project/celbridge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyexcel-xlsxr",
+  "version": "0.6.2",
+  "summary": "Read xlsx file using partial xml",
+  "author": "C.W.",
+  "license": "New BSD",
+  "home_page": "https://github.com/pyexcel/pyexcel-xlsxr",
+  "download_filename": "pyexcel_xlsxr-0.6.2.tar.gz",
+  "download_time": "2025-11-01T20:19:39.907102",
+  "package_url": "https://pypi.org/project/pyexcel-xlsxr/"
+}

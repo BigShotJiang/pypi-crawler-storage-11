@@ -1,0 +1,11 @@
+{
+  "name": "nw-3dino-convert",
+  "version": "1.0.0",
+  "summary": "OBJ file converter for 3Dino.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nw_3dino_convert-1.0.0.tar.gz",
+  "download_time": "2025-11-01T20:19:41.537231",
+  "package_url": "https://pypi.org/project/nw-3dino-convert/"
+}

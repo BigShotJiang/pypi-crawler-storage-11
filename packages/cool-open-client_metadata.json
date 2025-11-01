@@ -1,0 +1,11 @@
+{
+  "name": "cool-open-client",
+  "version": "0.0.17",
+  "summary": "This library will enable the use of the CoolAutomation API by third party projects",
+  "author": "Shay Gus",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/ShayGus/CoolControlOpenClient",
+  "download_filename": "cool_open_client-0.0.17.tar.gz",
+  "download_time": "2025-11-01T20:19:34.934692",
+  "package_url": "https://pypi.org/project/cool-open-client/"
+}

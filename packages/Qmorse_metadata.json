@@ -1,0 +1,11 @@
+{
+  "name": "Qmorse",
+  "version": "1.2.2",
+  "summary": "A lightweight Morse-like library for Python",
+  "author": "Hobab",
+  "license": null,
+  "home_page": "https://github.com/amiralihabibzadeh/Qmorse",
+  "download_filename": "qmorse-1.2.2.tar.gz",
+  "download_time": "2025-11-01T20:19:22.746762",
+  "package_url": "https://pypi.org/project/Qmorse/"
+}
