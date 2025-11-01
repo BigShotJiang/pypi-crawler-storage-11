@@ -1,0 +1,11 @@
+{
+  "name": "vira-cli",
+  "version": "2.0",
+  "summary": "🚀 AI-powered CLI helper: translate natural language into shell commands.",
+  "author": "Vũ Văn Định",
+  "license": "MIT",
+  "home_page": "https://github.com/vuvandinh123/vira-cli",
+  "download_filename": "vira_cli-2.0.tar.gz",
+  "download_time": "2025-11-01T19:14:19.432421",
+  "package_url": "https://pypi.org/project/vira-cli/"
+}

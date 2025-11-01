@@ -1,0 +1,11 @@
+{
+  "name": "bloxplorer",
+  "version": "0.2.0",
+  "summary": "Bitcoin blockchain explorer",
+  "author": "Vali Voicu",
+  "license": "MIT",
+  "home_page": "https://github.com/valinsky/bloxplorer",
+  "download_filename": "bloxplorer-0.2.0.tar.gz",
+  "download_time": "2025-11-01T19:14:17.888550",
+  "package_url": "https://pypi.org/project/bloxplorer/"
+}

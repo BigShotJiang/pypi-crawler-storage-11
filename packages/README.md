@@ -1,33 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T18:56:00.826111
-- **Total Packages**: 88
-- **Total Size**: 6.37 MB
+- **Download Time**: 2025-11-01T19:14:46.652671
+- **Total Packages**: 87
+- **Total Size**: 7.46 MB
 
 ## Packages List
-- git-history-extraction
+- fiche-resume
+- svc-infra
+- framekit
+- deltachat-rpc-server
+- ministatus
+- pymakehelper
+- csa_header
+- splurge-sql-runner
+- tinyros
+- acido
+- m9s-calendar
+- mtbsync
+- m9s-party-carddav-client
+- kosty
+- locust
+- m9s-dav-client
+- iatoolkit
+- m9s-party-vcard
+- llm-ner-nel
+- mosaic-materials
+- toml-rs
+- arc-atlas
+- CliRemote
+- optimal-classification-cutoffs
+- sleipnirgroup-jormungandr
+- kwark
+- evenage
+- patchvec
+- biapy
+- mcp-cli
+- wikipya
+- prqlc
+- bloxplorer
+- svs-core
+- async-hvac
+- vira-cli
+- zoho-projects-sdk
 - implica
+- git-history-extraction
 - shredword-trainer
 - pyxenv
 - kani-tts
 - bidsprep
 - asanAI
-- mcp-cli
 - socx
 - arbor-ai
 - promptabs
 - CoolProp
 - genailib
-- evenage
 - reos
 - energiapy
 - androidtvremote2
 - akoma2md
 - random-bode-generator
-- mtbsync
 - authtuna
-- sleipnirgroup-jormungandr
 - zigpy-xbee
 - panelbeater
 - bytedocs-flask
@@ -60,37 +93,3 @@
 - pytest-seleniumbase
 - pytest-sbase
 - selenium-base
-- seleniumbase
-- exllamav3
-- pyinfra-orbstack
-- asynkit
-- gptbioinsightor
-- vega-framework
-- datawrapper-mcp
-- physics-utils
-- ccxt-ir
-- grpcmodel
-- waveome
-- pyiron-atomistics
-- nsi-designer
-- aponyx
-- acido
-- openbb-core
-- gana
-- runlayer
-- gravixlayer
-- doctra
-- bytedocs-fastapi
-- human-cupid
-- pytrendy
-- tacotoolbox
-- nemos
-- lattifai
-- archive-md-urls
-- edq-utils
-- omnipy
-- BoumWave
-- cicada-mcp
-- specpulse
-- je-editor
-- mcitemlib
