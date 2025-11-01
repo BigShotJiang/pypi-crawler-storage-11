@@ -1,0 +1,11 @@
+{
+  "name": "aioident",
+  "version": "1.0.0",
+  "summary": "Simple ident protocol parser for Python AsyncIO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aioident-1.0.0.tar.gz",
+  "download_time": "2025-11-01T18:26:43.338761",
+  "package_url": "https://pypi.org/project/aioident/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grpcmodel",
+  "version": "0.0.1",
+  "summary": "gRPCModel, gRPC models and schemas in Python, designed for simplicity, compatibility, and robustness.",
+  "author": "River Studio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grpcmodel-0.0.1.tar.gz",
+  "download_time": "2025-11-01T18:26:23.583452",
+  "package_url": "https://pypi.org/project/grpcmodel/"
+}
