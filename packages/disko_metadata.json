@@ -1,0 +1,11 @@
+{
+  "name": "disko",
+  "version": "1.1.1",
+  "summary": "Discrete Sky Operator (DiSkO) Aperture Synthesis Radio Imaging",
+  "author": "Tim Molteno",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "disko-1.1.1.tar.gz",
+  "download_time": "2025-11-01T15:37:39.012362",
+  "package_url": "https://pypi.org/project/disko/"
+}

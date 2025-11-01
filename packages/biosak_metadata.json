@@ -1,0 +1,11 @@
+{
+  "name": "biosak",
+  "version": "1.123.8",
+  "summary": "BioSAK",
+  "author": "Weizhi Song",
+  "license": "GPL3+",
+  "home_page": "https://github.com/songweizhi/BioSAK",
+  "download_filename": "biosak-1.123.8.tar.gz",
+  "download_time": "2025-11-01T15:37:35.392725",
+  "package_url": "https://pypi.org/project/biosak/"
+}

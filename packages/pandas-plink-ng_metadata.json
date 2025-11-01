@@ -1,0 +1,11 @@
+{
+  "name": "pandas-plink-ng",
+  "version": "2.3.2.post1",
+  "summary": "Fork of pandas-plink with NumPy >=2.0 support and modern Python/GPU-stack compatibility",
+  "author": "Danilo Horta",
+  "license": "MIT",
+  "home_page": "https://github.com/KrotosBenjamin/pandas-plink-ng",
+  "download_filename": "pandas_plink_ng-2.3.2.post1.tar.gz",
+  "download_time": "2025-11-01T15:37:17.362615",
+  "package_url": "https://pypi.org/project/pandas-plink-ng/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "echocorn",
+  "version": "1.0.0b0",
+  "summary": "Very fast asynchronous asgi server with HTTP/1.1 and HTTP/2.0",
+  "author": "MishaKorzhik_He1Zen",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mishakorzik/echocorn",
+  "download_filename": "echocorn-1.0.0b0.tar.gz",
+  "download_time": "2025-11-01T15:37:32.278795",
+  "package_url": "https://pypi.org/project/echocorn/"
+}

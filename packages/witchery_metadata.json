@@ -1,0 +1,11 @@
+{
+  "name": "witchery",
+  "version": "0.3.0",
+  "summary": "Witchery is a powerful Python library that offers various functionalities for code analysis and modification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "witchery-0.3.0.tar.gz",
+  "download_time": "2025-11-01T15:37:34.340268",
+  "package_url": "https://pypi.org/project/witchery/"
+}

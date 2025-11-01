@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-llmchat",
+  "version": "0.4.1",
+  "summary": "Nonebot AI group chat plugin supporting multiple API preset configurations",
+  "author": "FuQuan i@fuquan.moe",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_llmchat-0.4.1.tar.gz",
+  "download_time": "2025-11-01T15:37:10.120649",
+  "package_url": "https://pypi.org/project/nonebot-plugin-llmchat/"
+}

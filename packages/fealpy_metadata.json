@@ -1,0 +1,11 @@
+{
+  "name": "fealpy",
+  "version": "3.4.0",
+  "summary": "FEALPy: Finite Element Analysis Library in Python",
+  "author": "Huayi Wei",
+  "license": "GNU",
+  "home_page": "http://github.com/weihuayi/fealpy",
+  "download_filename": "fealpy-3.4.0.tar.gz",
+  "download_time": "2025-11-01T15:37:25.077567",
+  "package_url": "https://pypi.org/project/fealpy/"
+}

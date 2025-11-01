@@ -1,11 +1,11 @@
 {
   "name": "pyquantile",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "A fast quantile estimator for streamed data. Produces a quantile estimate without storing any data points.",
   "author": "Richard Smythe",
   "license": null,
   "home_page": null,
-  "download_filename": "pyquantile-0.1.4.tar.gz",
-  "download_time": "2025-11-01T15:17:52.286037",
+  "download_filename": "pyquantile-0.1.8.tar.gz",
+  "download_time": "2025-11-01T15:37:15.822345",
   "package_url": "https://pypi.org/project/pyquantile/"
 }

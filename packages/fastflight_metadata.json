@@ -1,0 +1,11 @@
+{
+  "name": "fastflight",
+  "version": "0.4.4",
+  "summary": "FastFlight is a high-performance data transfer framework that integrates Apache Arrow Flight to fetch and stream large-scale data from multiple sources, using a modular, pluggable architecture for various data services, and offers optional FastAPI integration for HTTP-based access.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastflight-0.4.4.tar.gz",
+  "download_time": "2025-11-01T15:37:08.576591",
+  "package_url": "https://pypi.org/project/fastflight/"
+}

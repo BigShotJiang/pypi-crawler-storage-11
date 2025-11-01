@@ -1,0 +1,11 @@
+{
+  "name": "zollo",
+  "version": "0.1.0",
+  "summary": "Hybrid bundler for Python and Node.js projects",
+  "author": "Isaiah Jones",
+  "license": "---\r\n        \r\n        ## 2️⃣ `zollo.config.json`\r\n        \r\n        ```json\r\n        {\r\n          \"name\": \"my_zollo_project\",\r\n          \"output\": \".zollo_build\",\r\n          \"hidden\": true\r\n        }\r\n        ",
+  "home_page": null,
+  "download_filename": "zollo-0.1.0.tar.gz",
+  "download_time": "2025-11-01T15:37:26.610384",
+  "package_url": "https://pypi.org/project/zollo/"
+}
