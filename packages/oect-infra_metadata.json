@@ -1,11 +1,11 @@
 {
   "name": "oect-infra",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "OECT (Organic Electrochemical Transistor) data processing infrastructure for experiment management, feature engineering, and analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oect_infra-1.0.9.tar.gz",
-  "download_time": "2025-11-01T14:38:56.197822",
+  "download_filename": "oect_infra-1.0.10.tar.gz",
+  "download_time": "2025-11-01T17:37:11.157247",
   "package_url": "https://pypi.org/project/oect-infra/"
 }

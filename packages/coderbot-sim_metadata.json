@@ -1,11 +1,11 @@
 {
   "name": "coderbot-sim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "starting robotics with simple simulation environments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coderbot_sim-0.0.2.tar.gz",
-  "download_time": "2025-11-01T16:41:43.729347",
+  "download_filename": "coderbot_sim-0.0.3.tar.gz",
+  "download_time": "2025-11-01T17:36:53.453290",
   "package_url": "https://pypi.org/project/coderbot-sim/"
 }

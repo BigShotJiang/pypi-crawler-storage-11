@@ -1,0 +1,11 @@
+{
+  "name": "vpp-papi",
+  "version": "2.3.2",
+  "summary": "VPP Python binding",
+  "author": "Ole Troan",
+  "license": "Apache-2.0",
+  "home_page": "https://wiki.fd.io/view/VPP/Python_API",
+  "download_filename": "vpp_papi-2.3.2.tar.gz",
+  "download_time": "2025-11-01T17:36:56.356274",
+  "package_url": "https://pypi.org/project/vpp-papi/"
+}
