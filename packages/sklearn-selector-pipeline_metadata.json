@@ -1,0 +1,11 @@
+{
+  "name": "sklearn-selector-pipeline",
+  "version": "0.1.0",
+  "summary": "Meta-estimators that combine feature selectors with classifiers and regressors",
+  "author": "Debajyati",
+  "license": null,
+  "home_page": "https://github.com/Debajyati/sklearn-selector-pipeline",
+  "download_filename": "sklearn_selector_pipeline-0.1.0.tar.gz",
+  "download_time": "2025-11-01T16:41:45.826887",
+  "package_url": "https://pypi.org/project/sklearn-selector-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "maxapi-python",
+  "version": "1.1.14",
+  "summary": "Python wrapper для API мессенджера Max",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxapi_python-1.1.14.tar.gz",
+  "download_time": "2025-11-01T16:41:35.770935",
+  "package_url": "https://pypi.org/project/maxapi-python/"
+}

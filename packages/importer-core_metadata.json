@@ -1,11 +1,11 @@
 {
   "name": "importer-core",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "summary": "A comprehensive Python package and module management system with advanced analysis capabilities",
   "author": "Moamen Walid",
   "license": "MIT",
   "home_page": "https://github.com/mikl37228-spec/importer-core",
-  "download_filename": "importer_core-1.1.18.tar.gz",
-  "download_time": "2025-11-01T15:37:19.417951",
+  "download_filename": "importer_core-1.1.19.tar.gz",
+  "download_time": "2025-11-01T16:41:34.736202",
   "package_url": "https://pypi.org/project/importer-core/"
 }
