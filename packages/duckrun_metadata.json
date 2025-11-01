@@ -1,0 +1,11 @@
+{
+  "name": "duckrun",
+  "version": "0.2.17",
+  "summary": "Lakehouse task runner powered by DuckDB for Microsoft Fabric",
+  "author": "mim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckrun-0.2.17.tar.gz",
+  "download_time": "2025-11-01T14:38:42.907766",
+  "package_url": "https://pypi.org/project/duckrun/"
+}

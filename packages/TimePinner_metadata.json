@@ -1,0 +1,11 @@
+{
+  "name": "TimePinner",
+  "version": "1.0.0",
+  "summary": "一个用于代码中计时的小工具。",
+  "author": "g1879",
+  "license": "MIT",
+  "home_page": "https://drissionpage.cn/TimePinner",
+  "download_filename": "timepinner-1.0.0.tar.gz",
+  "download_time": "2025-11-01T14:38:49.857037",
+  "package_url": "https://pypi.org/project/TimePinner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "orm1",
+  "version": "0.5.1",
+  "summary": "Object-relational mapping library for PostgreSQL",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "orm1-0.5.1.tar.gz",
+  "download_time": "2025-11-01T14:38:45.546599",
+  "package_url": "https://pypi.org/project/orm1/"
+}

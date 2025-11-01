@@ -1,0 +1,11 @@
+{
+  "name": "luasense",
+  "version": "0.4.0",
+  "summary": "Intelligent autocompletion for Lua scripting language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "luasense-0.4.0.tar.gz",
+  "download_time": "2025-11-01T14:38:36.053759",
+  "package_url": "https://pypi.org/project/luasense/"
+}

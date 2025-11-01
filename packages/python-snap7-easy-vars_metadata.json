@@ -1,0 +1,11 @@
+{
+  "name": "python-snap7-easy-vars",
+  "version": "1.0.4",
+  "summary": "A Python wrapper for the snap7 PLC communication library with easy variable management",
+  "author": "Marvin Ruciński",
+  "license": "MIT",
+  "home_page": "https://github.com/SNS-Automatyk/python-snap7-easy-vars",
+  "download_filename": "python_snap7_easy_vars-1.0.4.tar.gz",
+  "download_time": "2025-11-01T14:38:41.727284",
+  "package_url": "https://pypi.org/project/python-snap7-easy-vars/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "create-tg-bot",
+  "version": "0.1.5",
+  "summary": "A modular, CLI-first Python boilerplate for building Telegram bots. Fast setup, clean architecture, and open-source ready.",
+  "author": "Emil Astanov",
+  "license": "MIT",
+  "home_page": "https://github.com/emilastanov/create-tg-bot",
+  "download_filename": "create_tg_bot-0.1.5.tar.gz",
+  "download_time": "2025-11-01T14:38:55.549749",
+  "package_url": "https://pypi.org/project/create-tg-bot/"
+}

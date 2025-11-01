@@ -1,0 +1,11 @@
+{
+  "name": "jiratui",
+  "version": "1.5.0",
+  "summary": "A TUI for interacting with Atlassian Jira from your terminal.",
+  "author": "Gaston T.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jiratui-1.5.0.tar.gz",
+  "download_time": "2025-11-01T14:39:15.847163",
+  "package_url": "https://pypi.org/project/jiratui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "firewall-test",
+  "version": "0.0.6",
+  "summary": "OXL Firewall Testing Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firewall_test-0.0.6.tar.gz",
+  "download_time": "2025-11-01T14:39:23.520453",
+  "package_url": "https://pypi.org/project/firewall-test/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-agent",
+  "version": "0.1.2",
+  "summary": "A lightweight, reasoning-driven cognitive agent framework with planning, acting, reflection, and usage tracking.",
+  "author": "Ranjith Kumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cognitive_agent-0.1.2.tar.gz",
+  "download_time": "2025-11-01T14:38:46.711906",
+  "package_url": "https://pypi.org/project/cognitive-agent/"
+}

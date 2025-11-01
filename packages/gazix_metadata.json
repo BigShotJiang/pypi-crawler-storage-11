@@ -1,0 +1,11 @@
+{
+  "name": "gazix",
+  "version": "1.7.3",
+  "summary": "Programs to manipulate the GitLab-CI API for the project alya",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gazix-1.7.3.tar.gz",
+  "download_time": "2025-11-01T14:39:19.643086",
+  "package_url": "https://pypi.org/project/gazix/"
+}
