@@ -1,30 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T14:52:17.866260
-- **Total Packages**: 89
-- **Total Size**: 40.84 MB
+- **Download Time**: 2025-11-01T15:18:09.236187
+- **Total Packages**: 91
+- **Total Size**: 0.19 MB
 
 ## Packages List
-- cosmol-viewer
-- rediskit
-- chemformula
-- krcg-api
-- lunaengine
-- mredu
-- surreal-commands
-- urlDNA
-- vmware-workstation-pro-mcp-server
-- langfuse-mcp-better
-- np2typing
-- carbonarc
-- mangoautomation
-- mangotools
-- fit-webview-bridge
-- hidra
-- pyx-core
-- showtime-cli
-- markdown-to-blog
 - omniopt2
 - lattifai
 - deebot-client
@@ -34,9 +15,11 @@
 - megatron-core
 - megatron-fsdp
 - armonia
+- vmware-workstation-pro-mcp-server
 - data-grimorium
 - pyxpg
 - ootools-oocli
+- hidra
 - bsvae
 - chromasql
 - evidence-decryptor
@@ -52,6 +35,7 @@
 - pyinfra-orbstack
 - seedboxsync-front
 - lattifai-core
+- np2typing
 - streamlit-launcher
 - wink-sdk-user-settings
 - wink-sdk-travel-agent
@@ -95,3 +79,21 @@
 - ccflow-rest
 - ccflow-ray
 - ccflow-http
+- ccflow-ftp
+- ccflow-dask
+- ccflow-celery
+- wisent
+- efootprint
+- pop-wrapper
+- fastapi-blocks-registry
+- evenage
+- resilient-http
+- oasis-rofl-client
+- knx-ga-exporter
+- mle-kit-mcp
+- relyapi
+- academia-mcp
+- langfuse-mcp-better
+- django-cfg
+- mapget
+- unicode-inspect
