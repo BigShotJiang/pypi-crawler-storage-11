@@ -1,0 +1,11 @@
+{
+  "name": "feldera",
+  "version": "0.173.0",
+  "summary": "The feldera python client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feldera-0.173.0.tar.gz",
+  "download_time": "2025-11-01T23:51:11.515240",
+  "package_url": "https://pypi.org/project/feldera/"
+}

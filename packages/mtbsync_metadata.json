@@ -1,11 +1,11 @@
 {
   "name": "mtbsync",
-  "version": "0.10.14",
+  "version": "0.10.15",
   "summary": "Align MTB GoPro runs and transfer markers using computer vision",
   "author": "MTB Sync Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mtbsync-0.10.14.tar.gz",
-  "download_time": "2025-11-01T23:38:16.382700",
+  "download_filename": "mtbsync-0.10.15.tar.gz",
+  "download_time": "2025-11-01T23:51:10.342119",
   "package_url": "https://pypi.org/project/mtbsync/"
 }
