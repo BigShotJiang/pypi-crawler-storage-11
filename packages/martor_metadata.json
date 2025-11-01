@@ -1,0 +1,11 @@
+{
+  "name": "martor",
+  "version": "1.7.16",
+  "summary": "Django Markdown Editor",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "martor-1.7.16.tar.gz",
+  "download_time": "2025-11-01T16:52:51.222993",
+  "package_url": "https://pypi.org/project/martor/"
+}
