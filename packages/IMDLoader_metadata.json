@@ -1,11 +1,11 @@
 {
   "name": "IMDLoader",
-  "version": "0.1.1",
-  "summary": "Download and process English Indices of Deprivation data files",
+  "version": "0.1.2",
+  "summary": "Download and process English Indices of Deprivation data",
   "author": "Chris Carlon",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imdloader-0.1.1.tar.gz",
-  "download_time": "2025-11-01T21:37:33.093076",
+  "download_filename": "imdloader-0.1.2.tar.gz",
+  "download_time": "2025-11-01T21:51:32.395930",
   "package_url": "https://pypi.org/project/IMDLoader/"
 }

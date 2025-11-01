@@ -1,0 +1,11 @@
+{
+  "name": "dkdbutils",
+  "version": "0.0.24",
+  "summary": "Common DB utils and access libs and patterns for dagknows services",
+  "author": "Sriram Panyam",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/dagknows/dkdbutils",
+  "download_filename": "dkdbutils-0.0.24-py3-none-any.whl",
+  "download_time": "2025-11-01T21:51:30.326637",
+  "package_url": "https://pypi.org/project/dkdbutils/"
+}

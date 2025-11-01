@@ -1,17 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T21:38:11.681595
+- **Download Time**: 2025-11-01T21:52:14.553391
 - **Total Packages**: 88
-- **Total Size**: 21.48 MB
+- **Total Size**: 8.25 MB
 
 ## Packages List
+- scixtract
+- pyThermoModels
+- fprime-gds
+- dkdbutils
+- pyoekoboxonline
+- toltecmk
+- mtbsync
+- IMDLoader
+- libsql-morewheels
+- cdk-factory
+- machineconfig
+- sakuragasaki46-suou
+- suou
+- lerobot-teleoperator-teleop
+- specpulse
+- lerobot-robot-xarm
+- spider-client
+- spice-mcp
 - nimbus-analytics
 - py-obdii
 - neuroglia-python
 - crystalyse
 - pydantic-gitlab-webhooks
-- swingft-cli
 - futured
 - wosfile
 - market-data-store
@@ -19,11 +36,9 @@
 - market-data-orchestrator
 - bough
 - tinyshift
-- IMDLoader
 - market-data-core
 - kinemotion
 - myNewLinearRegressionPackage
-- lerobot-robot-xarm
 - addok-france
 - ataraxis-communication-interface
 - ccxt-ir
@@ -63,7 +78,6 @@
 - myFLinearRegressionPackage
 - facial-recognition
 - mosaicprot
-- mtbsync
 - coralsnake
 - xjbmpC
 - drafteleu
@@ -80,17 +94,3 @@
 - sourmash-plugin-abundhist
 - rocketpy
 - c2cwsgiutils
-- matplobbot-shared
-- fit-webview-bridge
-- mcp-cli
-- bivario
-- pymusiclooper
-- leaf-framework
-- etherscanio
-- datawrapper-mcp
-- torchrtm
-- libHeroMVC
-- tensorwatchext
-- pepflow
-- mdcmd
-- fmailersdk

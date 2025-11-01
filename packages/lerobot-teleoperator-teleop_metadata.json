@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-teleoperator-teleop",
+  "version": "0.0.1",
+  "summary": "LeRobot teleop integration",
+  "author": "Spes Robotics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lerobot_teleoperator_teleop-0.0.1.tar.gz",
+  "download_time": "2025-11-01T21:51:35.586203",
+  "package_url": "https://pypi.org/project/lerobot-teleoperator-teleop/"
+}
