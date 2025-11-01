@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T21:16:57.310939
-- **Total Packages**: 83
-- **Total Size**: 20.35 MB
+- **Download Time**: 2025-11-01T21:38:11.681595
+- **Total Packages**: 88
+- **Total Size**: 21.48 MB
 
 ## Packages List
+- nimbus-analytics
+- py-obdii
+- neuroglia-python
+- crystalyse
+- pydantic-gitlab-webhooks
+- swingft-cli
+- futured
+- wosfile
+- market-data-store
+- market-data-pipeline
+- market-data-orchestrator
+- bough
+- tinyshift
+- IMDLoader
+- market-data-core
+- kinemotion
+- myNewLinearRegressionPackage
+- lerobot-robot-xarm
+- addok-france
+- ataraxis-communication-interface
+- ccxt-ir
+- wagtail-external-links-report
+- pypomes-iam
+- plover-websocket-server
+- doc-to-speech
+- glitter-cli
+- claude-mpm
+- crystalyse-ai
+- fewlab
+- check-config
+- ipywidgets
+- metaclass-registry
+- tornadopy
+- widgetsnbextension
+- omniopt2
+- prefect-kubernetes
+- prefect-aws
+- rpnpy
+- openhcs
+- takerest
+- scitex
+- hbmpC
+- mirakuru
+- jupyterlab-widgets
+- jbmpC
 - masai-framework
 - par-cc-usage
 - auto-di-tag
@@ -22,23 +67,19 @@
 - coralsnake
 - xjbmpC
 - drafteleu
-- jbmpC
 - slashed
 - xhbmpC
 - pysimplefin
-- hbmpC
 - toon-format
 - ruff-api
 - pyfuzzy-toolbox
 - tapo
 - realms-cli
 - repsim
-- market-data-orchestrator
 - doc-workflow
 - sourmash-plugin-abundhist
 - rocketpy
 - c2cwsgiutils
-- rpnpy
 - matplobbot-shared
 - fit-webview-bridge
 - mcp-cli
@@ -53,39 +94,3 @@
 - pepflow
 - mdcmd
 - fmailersdk
-- lossless-yaml
-- lukhed-stocks
-- terraform-ingest
-- sz_semantics
-- nba-video-generator
-- myRocketPackage
-- valid-social
-- markdown-reader
-- chatgpt-md-converter
-- queryboost
-- kohakuvault
-- fastjet
-- creb
-- jupyterlab-parquet-viewer-extension
-- zombie-squirrel
-- swifteda
-- litellm-proxy-extras
-- qanswer_sdk
-- deepseek-agent
-- alpha-berkeley-framework
-- Qmorse
-- smb-exploitation-tool
-- objwatch
-- apt-toolkit
-- trading-models
-- cdk-fck-nat
-- copilotagent
-- taskfile-help
-- acido
-- py2Dmol
-- cybrid-api-organization-python
-- cybrid-api-bank-python
-- cybrid-api-id-python
-- myfy
-- myfy-frontend
-- myfy-cli

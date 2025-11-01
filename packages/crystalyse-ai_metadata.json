@@ -1,0 +1,11 @@
+{
+  "name": "crystalyse-ai",
+  "version": "1.0.15",
+  "summary": "DEPRECATED - Use 'crystalyse' package instead. This package is no longer maintained.",
+  "author": "CrystaLyse.AI Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crystalyse_ai-1.0.15.tar.gz",
+  "download_time": "2025-11-01T21:37:40.413463",
+  "package_url": "https://pypi.org/project/crystalyse-ai/"
+}

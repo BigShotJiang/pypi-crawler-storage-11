@@ -1,11 +1,11 @@
 {
   "name": "plover-websocket-server",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "A server for exposing Plover engine events and functionality",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plover_websocket_server-0.1.14.tar.gz",
-  "download_time": "2025-11-01T19:38:10.191662",
+  "download_filename": "plover_websocket_server-0.1.15.tar.gz",
+  "download_time": "2025-11-01T21:37:38.303738",
   "package_url": "https://pypi.org/project/plover-websocket-server/"
 }

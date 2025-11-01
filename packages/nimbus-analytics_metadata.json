@@ -1,0 +1,11 @@
+{
+  "name": "nimbus-analytics",
+  "version": "0.1.0b1",
+  "summary": "Open-source alternative to Segment & Mixpanel - High-performance event analytics backend",
+  "author": "Bahagh",
+  "license": "MIT",
+  "home_page": "https://github.com/bahagh/nimbus",
+  "download_filename": "nimbus_analytics-0.1.0b1.tar.gz",
+  "download_time": "2025-11-01T21:37:26.295125",
+  "package_url": "https://pypi.org/project/nimbus-analytics/"
+}

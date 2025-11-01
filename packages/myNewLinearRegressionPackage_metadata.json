@@ -1,0 +1,11 @@
+{
+  "name": "myNewLinearRegressionPackage",
+  "version": "1.0.0",
+  "summary": "An awesome package that does something",
+  "author": "Achouri Youcef",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/myNewLinearRegressionPackage/",
+  "download_filename": "mynewlinearregressionpackage-1.0.0.tar.gz",
+  "download_time": "2025-11-01T21:37:34.644702",
+  "package_url": "https://pypi.org/project/myNewLinearRegressionPackage/"
+}

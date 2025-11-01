@@ -1,0 +1,11 @@
+{
+  "name": "futured",
+  "version": "1.5.1",
+  "summary": "Functional interface for concurrent futures, including async coroutines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "futured-1.5.1.tar.gz",
+  "download_time": "2025-11-01T21:37:29.415453",
+  "package_url": "https://pypi.org/project/futured/"
+}
