@@ -1,0 +1,11 @@
+{
+  "name": "montydb",
+  "version": "2.5.6",
+  "summary": "Monty, Mongo tinified. MongoDB implemented in Python !",
+  "author": "davidlatwe",
+  "license": "BSD-3-Clause License",
+  "home_page": "https://github.com/davidlatwe/montydb",
+  "download_filename": "montydb-2.5.6.tar.gz",
+  "download_time": "2025-11-01T23:17:59.765423",
+  "package_url": "https://pypi.org/project/montydb/"
+}

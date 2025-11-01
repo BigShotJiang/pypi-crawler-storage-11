@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T22:51:37.138098
-- **Total Packages**: 72
-- **Total Size**: 22.18 MB
+- **Download Time**: 2025-11-01T23:18:30.191237
+- **Total Packages**: 80
+- **Total Size**: 14.11 MB
 
 ## Packages List
+- market-data-orchestrator
+- market-data-store
+- market-data-pipeline
+- vector-logic
+- market-data-core
+- agentor
+- taranis-models
+- fisher-rxc
+- abstract-ide
+- akoma2md
+- cdk-factory
+- mlserve-sdk
+- fit-webview-bridge
+- stable-worldmodel
+- peakbagger
+- gwa
+- pbs-installer
+- netifaces-plus
+- graphiti-memory
+- avyas-aurica-base-apps-weather-app
+- avyas-aurica-base-apps-app-manager
+- avyas-aurica-base-apps-nl-generator
+- avyas-aurica-base-apps-chat-app
+- avyas-aurica-base-apps-app-sync
+- avyas-aurica-base-apps-aurica-storage
+- avyas-aurica-base-apps-dashboard-app
+- valid-social
+- pex
+- sliderule
+- openhcs
+- montydb
+- cyberark-tpc-plugin-validator
+- tmg-hmc
+- clippy-code
+- splurge-vendor-sync
+- frame-fwl
+- openstack-flavor-manager
+- addok-sqlite-store
+- openweights
+- specpulse
+- get-metars
+- pypomes-iam
+- tendril-utils-core
+- rpnpy
 - model-resolver
 - maktaba
 - flyteidl2
@@ -16,12 +60,9 @@
 - mtbsync
 - jep
 - code-puppy
-- rpnpy
 - sdss-flicamera
 - arraybridge
 - x-4357-make-progress-board-x
-- cdk-factory
-- openweights
 - terraform-ingest
 - jerry-thomas
 - xmanager-slurm
@@ -34,47 +75,14 @@
 - arbi
 - MProcs
 - graphql-core
-- market-data-pipeline
 - fewlab
-- market-data-store
-- market-data-orchestrator
 - scixtract
 - mcpath
-- market-data-core
 - datamarket
 - sdss-fliswarm
-- swingft-test
 - abstract-gui
 - biblematesc
 - biblematetc
 - outline-vpn-api
-- peakbagger
 - aidge-model-explorer
 - free-transformer
-- OpenOne
-- digamma-ep
-- spice-mcp
-- biblemate
-- versapy
-- fastapi-voyager
-- slskd-api
-- matplobbot-shared
-- fit-webview-bridge
-- django-ninja-aio-crud
-- mini-kit
-- glitter-cli
-- copilotagent
-- evpn-connector
-- wetterdienst
-- IODLoader
-- css-inline
-- jupyter-ai-agents
-- django-nativemojo
-- chatroutes
-- tm-simulator
-- pyslammer
-- kohakuvault
-- disposable-email-domains
-- masai-framework
-- venvflon
-- ctkmessagebox-demir

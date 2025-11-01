@@ -1,0 +1,11 @@
+{
+  "name": "clippy-code",
+  "version": "3.4.0",
+  "summary": "A powerful CLI coding agent powered by OpenAI-compatible LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clippy_code-3.4.0.tar.gz",
+  "download_time": "2025-11-01T23:18:01.698940",
+  "package_url": "https://pypi.org/project/clippy-code/"
+}

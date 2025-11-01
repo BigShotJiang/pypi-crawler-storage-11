@@ -1,0 +1,11 @@
+{
+  "name": "netifaces-plus",
+  "version": "0.12.5",
+  "summary": "Portable network interface information (Supports Python 3.6 and higher)",
+  "author": null,
+  "license": "MIT License",
+  "home_page": "https://github.com/tsukumijima/netifaces-plus",
+  "download_filename": "netifaces_plus-0.12.5.tar.gz",
+  "download_time": "2025-11-01T23:17:51.136512",
+  "package_url": "https://pypi.org/project/netifaces-plus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "addok-sqlite-store",
+  "version": "1.1.0",
+  "summary": "Store documents in SQLite for Addok.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "addok_sqlite_store-1.1.0.tar.gz",
+  "download_time": "2025-11-01T23:18:04.307506",
+  "package_url": "https://pypi.org/project/addok-sqlite-store/"
+}

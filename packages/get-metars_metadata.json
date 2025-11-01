@@ -1,0 +1,11 @@
+{
+  "name": "get-metars",
+  "version": "0.6.2",
+  "summary": "Simple command line tool to download METAR's and TAF's for a given station and store them in text files.",
+  "author": "diego-garro",
+  "license": "MIT",
+  "home_page": "https://github.com/diego-garro/tafver-metars",
+  "download_filename": "get_metars-0.6.2.tar.gz",
+  "download_time": "2025-11-01T23:18:06.628742",
+  "package_url": "https://pypi.org/project/get-metars/"
+}
