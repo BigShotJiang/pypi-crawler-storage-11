@@ -1,0 +1,11 @@
+{
+  "name": "etherscanio",
+  "version": "0.1.0",
+  "summary": "Lightweight Python wrapper for the Etherscan v2 Multi-chain API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "etherscanio-0.1.0.tar.gz",
+  "download_time": "2025-11-01T20:51:20.309673",
+  "package_url": "https://pypi.org/project/etherscanio/"
+}

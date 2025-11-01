@@ -1,0 +1,11 @@
+{
+  "name": "pymusiclooper",
+  "version": "3.6.0",
+  "summary": "Repeat music endlessly and create seamless music loops, with play/export/tagging support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymusiclooper-3.6.0.tar.gz",
+  "download_time": "2025-11-01T20:51:18.713144",
+  "package_url": "https://pypi.org/project/pymusiclooper/"
+}

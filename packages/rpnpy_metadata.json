@@ -1,11 +1,11 @@
 {
   "name": "rpnpy",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "summary": "Control an RPN calculator from Python.",
   "author": "Nícolas F. R. A. Prado",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rpnpy-3.0.0.tar.gz",
-  "download_time": "2025-11-01T20:19:33.827610",
+  "download_filename": "rpnpy-3.0.2.tar.gz",
+  "download_time": "2025-11-01T20:51:21.485154",
   "package_url": "https://pypi.org/project/rpnpy/"
 }
