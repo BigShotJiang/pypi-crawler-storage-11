@@ -1,11 +1,11 @@
 {
   "name": "mcp-cli",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "A cli for the Model Context Provider",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_cli-0.9.3.tar.gz",
-  "download_time": "2025-11-01T19:14:16.339696",
+  "download_filename": "mcp_cli-0.9.4.tar.gz",
+  "download_time": "2025-11-01T19:24:47.132710",
   "package_url": "https://pypi.org/project/mcp-cli/"
 }

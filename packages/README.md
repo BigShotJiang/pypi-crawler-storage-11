@@ -1,12 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-01T19:14:46.652671
+- **Download Time**: 2025-11-01T19:25:19.419744
 - **Total Packages**: 87
-- **Total Size**: 7.46 MB
+- **Total Size**: 0.4 MB
 
 ## Packages List
-- fiche-resume
 - svc-infra
 - framekit
 - deltachat-rpc-server
@@ -93,3 +92,4 @@
 - pytest-seleniumbase
 - pytest-sbase
 - selenium-base
+- seleniumbase
