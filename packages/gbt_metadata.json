@@ -1,0 +1,11 @@
+{
+  "name": "gbt",
+  "version": "0.3",
+  "summary": "A gradient boosted tree library with automatic feature engineering.",
+  "author": "Zhangzhang Si",
+  "license": "MIT",
+  "home_page": "https://github.com/zzsi/gbt",
+  "download_filename": "gbt-0.3.tar.gz",
+  "download_time": "2025-11-02T21:52:06.376385",
+  "package_url": "https://pypi.org/project/gbt/"
+}
