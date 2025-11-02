@@ -1,0 +1,11 @@
+{
+  "name": "trackbear-api",
+  "version": "0.0.1",
+  "summary": "Python library for using the Trackbear app API https://help.trackbear.app/api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trackbear_api-0.0.1.tar.gz",
+  "download_time": "2025-11-02T21:17:22.010159",
+  "package_url": "https://pypi.org/project/trackbear-api/"
+}

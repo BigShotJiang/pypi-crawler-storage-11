@@ -1,11 +1,11 @@
 {
   "name": "oddments",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Collection of general-purpose utilities.",
   "author": "Zachary Einck",
   "license": "MIT",
   "home_page": "https://github.com/zteinck/oddments",
-  "download_filename": "oddments-0.4.0.tar.gz",
-  "download_time": "2025-11-02T16:54:34.123936",
+  "download_filename": "oddments-0.4.1.tar.gz",
+  "download_time": "2025-11-02T21:16:57.577255",
   "package_url": "https://pypi.org/project/oddments/"
 }

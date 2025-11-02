@@ -1,11 +1,11 @@
 {
   "name": "namdtools",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "A Python interface to NAMD",
   "author": "C. Lockhart",
   "license": null,
   "home_page": "https://www.lockhartlab.org",
-  "download_filename": "namdtools-0.3.0.tar.gz",
-  "download_time": "2025-11-02T01:45:24.664343",
+  "download_filename": "namdtools-0.4.2.tar.gz",
+  "download_time": "2025-11-02T21:17:04.871630",
   "package_url": "https://pypi.org/project/namdtools/"
 }

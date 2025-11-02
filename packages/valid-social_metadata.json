@@ -1,11 +1,11 @@
 {
   "name": "valid-social",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Automate posting to multiple social media platforms right from your terminal.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "valid_social-0.1.5.tar.gz",
-  "download_time": "2025-11-01T23:51:16.813440",
+  "download_filename": "valid_social-0.1.7.tar.gz",
+  "download_time": "2025-11-02T21:17:17.279048",
   "package_url": "https://pypi.org/project/valid-social/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rocket-HAFA",
+  "version": "0.1.1",
+  "summary": "A package for simulating rockets and shuttles",
+  "author": "nouar hafnaoui",
+  "license": "MIT",
+  "home_page": "https://github.com/hafa",
+  "download_filename": "rocket_hafa-0.1.1.tar.gz",
+  "download_time": "2025-11-02T21:16:49.283615",
+  "package_url": "https://pypi.org/project/rocket-HAFA/"
+}

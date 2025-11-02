@@ -1,0 +1,11 @@
+{
+  "name": "gpxshift",
+  "version": "0.0.1",
+  "summary": "A tool for shifting timestamps in GPX files",
+  "author": "cglwn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpxshift-0.0.1.tar.gz",
+  "download_time": "2025-11-02T21:17:21.496076",
+  "package_url": "https://pypi.org/project/gpxshift/"
+}

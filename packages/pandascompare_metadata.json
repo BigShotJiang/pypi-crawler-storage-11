@@ -1,0 +1,11 @@
+{
+  "name": "pandascompare",
+  "version": "0.6.3",
+  "summary": "Generates comparison reports for pandas DataFrames.",
+  "author": "Zachary Einck",
+  "license": "MIT",
+  "home_page": "https://github.com/zteinck/pandascompare",
+  "download_filename": "pandascompare-0.6.3.tar.gz",
+  "download_time": "2025-11-02T21:16:52.369496",
+  "package_url": "https://pypi.org/project/pandascompare/"
+}

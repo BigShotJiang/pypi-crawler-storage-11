@@ -1,0 +1,11 @@
+{
+  "name": "avwx-swift",
+  "version": "0.1.0.dev2",
+  "summary": "Python connector for the FAA SWIFT data information system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "avwx_swift-0.1.0.dev2.tar.gz",
+  "download_time": "2025-11-02T21:17:27.163986",
+  "package_url": "https://pypi.org/project/avwx-swift/"
+}

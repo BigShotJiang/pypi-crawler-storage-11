@@ -1,11 +1,11 @@
 {
   "name": "quietml",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "A lightweight Python tool to silence and simplify noisy ML logs globally or temporarily.",
   "author": "Kaustubh Aggarwal",
   "license": "MIT",
   "home_page": "https://github.com/kaustubh3103/quietml",
-  "download_filename": "quietml-2.0.1.tar.gz",
-  "download_time": "2025-11-02T18:26:05.017708",
+  "download_filename": "quietml-2.1.0.tar.gz",
+  "download_time": "2025-11-02T21:17:05.903850",
   "package_url": "https://pypi.org/project/quietml/"
 }
