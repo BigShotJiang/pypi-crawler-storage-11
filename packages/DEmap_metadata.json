@@ -1,0 +1,11 @@
+{
+  "name": "DEmap",
+  "version": "0.14.0",
+  "summary": "Machine-learn the threshold displacement energy surface of a material with Gaussian Process Regression. ",
+  "author": "Ashley Dickson",
+  "license": "MIT license",
+  "home_page": "https://github.com/Ash-Dickson/DEmap",
+  "download_filename": "demap-0.14.0.tar.gz",
+  "download_time": "2025-11-02T15:18:31.184383",
+  "package_url": "https://pypi.org/project/DEmap/"
+}

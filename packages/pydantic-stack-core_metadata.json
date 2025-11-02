@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-stack-core",
+  "version": "0.1.3",
+  "summary": "Minimal library for stackable, renderable Pydantic models",
+  "author": "HEAVEN Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_stack_core-0.1.3.tar.gz",
+  "download_time": "2025-11-02T15:18:12.261273",
+  "package_url": "https://pypi.org/project/pydantic-stack-core/"
+}

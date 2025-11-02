@@ -1,0 +1,11 @@
+{
+  "name": "minitouch.py",
+  "version": "1.1.3",
+  "summary": "python wrapper of minitouch, forked from [williamfzc/pyminitouch](https://github.com/williamfzc/pyminitouch)",
+  "author": "EvATive7",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minitouch_py-1.1.3.tar.gz",
+  "download_time": "2025-11-02T15:18:24.280882",
+  "package_url": "https://pypi.org/project/minitouch.py/"
+}

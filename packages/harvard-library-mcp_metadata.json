@@ -1,11 +1,11 @@
 {
   "name": "harvard-library-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Harvard University Library catalog API",
   "author": "Harvard Library MCP Team",
   "license": null,
   "home_page": null,
-  "download_filename": "harvard_library_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-02T01:45:42.861501",
+  "download_filename": "harvard_library_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-02T15:18:35.525522",
   "package_url": "https://pypi.org/project/harvard-library-mcp/"
 }

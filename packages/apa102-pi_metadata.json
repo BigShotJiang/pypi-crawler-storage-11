@@ -1,0 +1,11 @@
+{
+  "name": "apa102-pi",
+  "version": "2.5.4",
+  "summary": "Driver for APA102 LEDs on a Raspberry Pi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apa102_pi-2.5.4.tar.gz",
+  "download_time": "2025-11-02T15:18:36.567382",
+  "package_url": "https://pypi.org/project/apa102-pi/"
+}

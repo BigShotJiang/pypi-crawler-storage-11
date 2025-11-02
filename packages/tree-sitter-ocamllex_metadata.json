@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-ocamllex",
+  "version": "0.25.0",
+  "summary": "OCamllex grammar for tree-sitter",
+  "author": "Pieter Goetschalckx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_ocamllex-0.25.0.tar.gz",
+  "download_time": "2025-11-02T15:18:37.086436",
+  "package_url": "https://pypi.org/project/tree-sitter-ocamllex/"
+}

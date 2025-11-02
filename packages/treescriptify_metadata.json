@@ -1,0 +1,11 @@
+{
+  "name": "treescriptify",
+  "version": "0.3.4",
+  "summary": "Create TreeScript from an existing filesystem tree.",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/treescriptify",
+  "download_filename": "treescriptify-0.3.4.tar.gz",
+  "download_time": "2025-11-02T15:18:33.378806",
+  "package_url": "https://pypi.org/project/treescriptify/"
+}
