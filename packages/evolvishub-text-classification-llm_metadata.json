@@ -1,11 +1,11 @@
 {
   "name": "evolvishub-text-classification-llm",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Enterprise-grade text classification library with 11+ LLM providers, streaming, monitoring, and advanced workflows",
   "author": "Alban Maxhuni, PhD",
   "license": "Proprietary",
   "home_page": "https://github.com/evolvishub/text-classification-llm",
-  "download_filename": "evolvishub_text_classification_llm-1.0.1.tar.gz",
-  "download_time": "2025-11-02T13:32:32.934061",
+  "download_filename": "evolvishub_text_classification_llm-1.0.3.tar.gz",
+  "download_time": "2025-11-02T20:20:39.578642",
   "package_url": "https://pypi.org/project/evolvishub-text-classification-llm/"
 }

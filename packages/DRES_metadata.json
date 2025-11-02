@@ -1,0 +1,11 @@
+{
+  "name": "DRES",
+  "version": "0.2.2",
+  "summary": "A pure-Python hybrid cryptosystem featuring a novel Evolving-Key Chaining (EKC) mode.",
+  "author": "Danish",
+  "license": null,
+  "home_page": "https://github.com/1Danish-00/",
+  "download_filename": "dres-0.2.2.tar.gz",
+  "download_time": "2025-11-02T20:20:51.314877",
+  "package_url": "https://pypi.org/project/DRES/"
+}

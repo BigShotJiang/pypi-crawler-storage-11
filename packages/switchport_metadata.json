@@ -1,0 +1,11 @@
+{
+  "name": "switchport",
+  "version": "0.2.0",
+  "summary": "Python SDK for Switchport - Prompt management and A/B testing platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "switchport-0.2.0.tar.gz",
+  "download_time": "2025-11-02T20:20:25.951501",
+  "package_url": "https://pypi.org/project/switchport/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dcat-ap-plus",
+  "version": "0.1.0rc1",
+  "summary": "LinkML-based DCAT-AP extension for dataset context: evaluated entities/activities and generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcat_ap_plus-0.1.0rc1.tar.gz",
+  "download_time": "2025-11-02T20:20:27.561181",
+  "package_url": "https://pypi.org/project/dcat-ap-plus/"
+}

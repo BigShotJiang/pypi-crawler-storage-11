@@ -1,11 +1,11 @@
 {
   "name": "avyas-aurica-base-apps-app-manager",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Aurica app: app-manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avyas_aurica_base_apps_app_manager-1.0.13.tar.gz",
-  "download_time": "2025-11-01T23:17:53.075208",
+  "download_filename": "avyas_aurica_base_apps_app_manager-1.0.14.tar.gz",
+  "download_time": "2025-11-02T20:20:54.914153",
   "package_url": "https://pypi.org/project/avyas-aurica-base-apps-app-manager/"
 }

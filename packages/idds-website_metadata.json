@@ -1,11 +1,11 @@
 {
   "name": "idds-website",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "summary": "intelligent Data Delivery Service(iDDS) Package",
   "author": "IRIS-HEP Team",
   "license": "GPL",
   "home_page": null,
-  "download_filename": "idds_website-2.4.2.tar.gz",
-  "download_time": "2025-11-02T17:51:27.055852",
+  "download_filename": "idds_website-2.4.3.tar.gz",
+  "download_time": "2025-11-02T20:20:44.378754",
   "package_url": "https://pypi.org/project/idds-website/"
 }
