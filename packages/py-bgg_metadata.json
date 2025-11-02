@@ -1,0 +1,11 @@
+{
+  "name": "py-bgg",
+  "version": "1.0.0",
+  "summary": "A simple Board Game Geek (boardgamegeek.com) API library",
+  "author": "Jay Deiman",
+  "license": null,
+  "home_page": "http://stuffivelearned.org",
+  "download_filename": "py_bgg-1.0.0.tar.gz",
+  "download_time": "2025-11-02T18:44:43.491267",
+  "package_url": "https://pypi.org/project/py-bgg/"
+}

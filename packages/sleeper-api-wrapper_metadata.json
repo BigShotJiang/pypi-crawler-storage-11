@@ -1,0 +1,11 @@
+{
+  "name": "sleeper-api-wrapper",
+  "version": "1.2.1",
+  "summary": "A Python API wrapper for Sleeper Fantasy sports, as well as tools to simplify received data.",
+  "author": "Dan Song, Ford Higgins",
+  "license": "MIT",
+  "home_page": "https://github.com/dtsong/sleeper-api-wrapper",
+  "download_filename": "sleeper_api_wrapper-1.2.1.tar.gz",
+  "download_time": "2025-11-02T18:44:35.246163",
+  "package_url": "https://pypi.org/project/sleeper-api-wrapper/"
+}

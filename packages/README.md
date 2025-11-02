@@ -1,13 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T18:26:21.120428
-- **Total Packages**: 80
-- **Total Size**: 18.34 MB
+- **Download Time**: 2025-11-02T18:45:15.115539
+- **Total Packages**: 81
+- **Total Size**: 7.68 MB
 
 ## Packages List
-- plombery
+- markdown-reader
+- kingkybel-pyflashlogger
+- pytubefix
+- juriscraper
+- ace-skyspark-cli
+- megatron-core
+- megatron-fsdp
+- openfren
+- svg-ultralight
+- d2-sdk
+- human-errors
+- psvmp
+- sleeper-api-wrapper
+- VideoRAC
+- rocketdoo
+- pdf-image-retrieval
+- pyiron-workflow-atomistics
 - sphinx-breeze-theme
+- rastereasy
+- fit-webview-bridge
+- caveclient
+- glaip-sdk
+- docpilot
+- pyiron-workflow-lammps
+- mcp-pinecone-fastmcp
+- beets-notify
+- py-bgg
+- pytest-iam
+- latynkatar
+- recce-nightly
+- WhiteMist
+- plombery
 - immich-tools
 - toiro
 - academia-mcp
@@ -22,7 +52,6 @@
 - cloudvishnu
 - invoker-guard
 - gtext
-- psvmp
 - pdbplus
 - starlog-mcp
 - starship-mcp
@@ -49,7 +78,6 @@
 - llmling-models
 - sonar-tools
 - classicle
-- ace-skyspark-cli
 - pytestomatio
 - project-manager-mcp
 - ewoksjob
@@ -59,30 +87,3 @@
 - django-zooy
 - iam-sorry
 - chutes
-- llm-annotator
-- pyinfra-orbstack
-- csp-benchmarks
-- csp-benchmark
-- PlexTraktSync
-- pylelemmatize
-- django-spire
-- sbdl
-- reticulum
-- innerloop
-- avro-py
-- idds-workflow
-- idds-website
-- idds-monitor
-- idds-server
-- idds-doma
-- idds-common
-- idds-client
-- idds-atlas
-- DoSP
-- hok-camp-api
-- dataclass-args
-- pyfilebrowser
-- megatron-fsdp
-- megatron-core
-- h5md
-- eyeTestUtils

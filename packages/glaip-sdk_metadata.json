@@ -1,11 +1,11 @@
 {
   "name": "glaip-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python SDK for GL AIP (GDP Labs AI Agent Package) - Simplified CLI Design",
   "author": "Raymond Christopher",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glaip_sdk-0.1.2-py3-none-any.whl",
-  "download_time": "2025-11-02T13:52:07.012244",
+  "download_filename": "glaip_sdk-0.1.3-py3-none-any.whl",
+  "download_time": "2025-11-02T18:44:40.600182",
   "package_url": "https://pypi.org/project/glaip-sdk/"
 }

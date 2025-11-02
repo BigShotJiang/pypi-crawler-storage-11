@@ -1,11 +1,11 @@
 {
   "name": "markdown-reader",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Lightweight easy to use Markdown Viewer for Linux, macOS & Windows. Built on Qt5. Blazing-fast, minimal RAM, zero bloat. File navigation, Image caching. GPL v3 open-source",
   "author": "kaibruell",
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_reader-0.2.0.tar.gz",
-  "download_time": "2025-11-01T20:38:25.368397",
+  "download_filename": "markdown_reader-0.2.1.tar.gz",
+  "download_time": "2025-11-02T18:44:27.300156",
   "package_url": "https://pypi.org/project/markdown-reader/"
 }

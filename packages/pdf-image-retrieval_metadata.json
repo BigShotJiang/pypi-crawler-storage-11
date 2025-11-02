@@ -1,0 +1,11 @@
+{
+  "name": "pdf-image-retrieval",
+  "version": "0.1.1",
+  "summary": "Extracts images from PDFs, stores them in S3, and retrieves based on keyword search",
+  "author": "Aryan Dhandhukiya",
+  "license": null,
+  "home_page": "https://github.com/aryandhandhukiya/pdf-image-retrieval",
+  "download_filename": "pdf_image_retrieval-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-02T18:44:37.042160",
+  "package_url": "https://pypi.org/project/pdf-image-retrieval/"
+}
