@@ -1,11 +1,11 @@
 {
   "name": "littlelogger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A lightweight, zero-setup decorator for logging ML experiments to a JSONL file.",
   "author": "Asif Sayyed",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/Asifdotexe/LittleLogger",
-  "download_filename": "littlelogger-1.0.0.tar.gz",
-  "download_time": "2025-11-02T08:23:21.012649",
+  "download_filename": "littlelogger-1.0.1.tar.gz",
+  "download_time": "2025-11-02T10:19:27.675501",
   "package_url": "https://pypi.org/project/littlelogger/"
 }

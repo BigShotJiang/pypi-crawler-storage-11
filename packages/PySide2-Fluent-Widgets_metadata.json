@@ -1,0 +1,11 @@
+{
+  "name": "PySide2-Fluent-Widgets",
+  "version": "1.9.2",
+  "summary": "A fluent design widgets library based on PySide2",
+  "author": "zhiyiYo",
+  "license": "GPLv3",
+  "home_page": "https://qfluentwidgets.com",
+  "download_filename": "pyside2_fluent_widgets-1.9.2.tar.gz",
+  "download_time": "2025-11-02T10:19:16.172837",
+  "package_url": "https://pypi.org/project/PySide2-Fluent-Widgets/"
+}

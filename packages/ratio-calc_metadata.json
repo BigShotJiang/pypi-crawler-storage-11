@@ -1,0 +1,11 @@
+{
+  "name": "ratio-calc",
+  "version": "1.0.1",
+  "summary": "A comprehensive financial ratios calculator for Yahoo Finance data",
+  "author": "srinidhim3",
+  "license": "MIT",
+  "home_page": "https://github.com/srinidhim3/RatioCalc",
+  "download_filename": "ratio_calc-1.0.1.tar.gz",
+  "download_time": "2025-11-02T10:19:20.423764",
+  "package_url": "https://pypi.org/project/ratio-calc/"
+}

@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T09:52:24.639919
-- **Total Packages**: 83
-- **Total Size**: 10.94 MB
+- **Download Time**: 2025-11-02T10:19:55.169043
+- **Total Packages**: 81
+- **Total Size**: 13.29 MB
 
 ## Packages List
+- scitex
+- node-graph-engine
+- axedit
+- cvo251102app
+- efootprint
+- eptr2
+- PyQt-Fluent-Widgets
+- PySide2-Fluent-Widgets
+- PyQt6-Fluent-Widgets
+- PySide6-Fluent-Widgets
+- st-attn
+- ai-edge-torch-nightly
+- digital-life
+- orcheo-sdk
+- vira-cli
+- ratio-calc
+- drun
+- arthur-client
+- mtlearn
+- collie-mlops
+- abstractNN
+- funcium
+- itermap
+- dcex
+- lru-dict
+- heatmap_cli
+- aidmind
+- django-moses
+- markten
+- littlelogger
+- docker-pyo3
+- git-sanity
+- meatie
+- cvo251102lib
+- aigroup-quant-mcp
+- hurodes
+- fastapi-oauth20
+- pymimir-rl
+- pygeoinf
+- lll-simple-ai-service
+- deepchecks-llm-client
+- mcp-notify
 - gha-utils
 - PyCGraph
 - emerge
@@ -21,7 +63,6 @@
 - marinerg-test-access
 - masai-framework
 - scrapy-mcp-middleware
-- aigroup-quant-mcp
 - geoservercloud
 - biofetch
 - marinerg-facility
@@ -31,7 +72,6 @@
 - fnschool
 - pyomie
 - ichec-django-core
-- markten
 - pasarguard-node-bridge
 - toneformat
 - mcp-postgres-duwenji
@@ -39,7 +79,6 @@
 - cookiecutter-uv-package
 - namedivider-core
 - fastapi-redis-utils
-- drun
 - akari-bot-webrender
 - lll-simple-ai-shared
 - VersaLog
@@ -48,44 +87,3 @@
 - aiowallhaven
 - agentops-client
 - prof4nities
-- fluxloop-cli
-- asyncio_for_robotics
-- autogluon.common
-- Nirman-cli
-- hsi-preprocessing-toolkit
-- dcex
-- pybibtexer
-- phantom-make
-- importee
-- protograf
-- pycses
-- django-daisy
-- harp-proxy
-- tendril-utils-fsutils
-- mcp-aktools
-- pymud
-- vovk-hello-world
-- gopu-ai
-- bwamem
-- square-common-bl
-- mechanical-tolerance-calculator
-- tendril-utils-core
-- copula-scengen
-- ttp
-- nonebot-plugin-marshoai
-- gpustack-runtime
-- himig
-- odoo-addon-l10n-ro-stock
-- azpaddypy
-- port-ocean
-- tfp-nightly
-- vector-dataloader
-- bandcamp-lib
-- onvif-python
-- hinaagent-core
-- square-authentication-helper
-- deciml
-- fit-webview-bridge
-- cosmograph
-- opennsfw2
-- bsdk

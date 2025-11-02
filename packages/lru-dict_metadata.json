@@ -1,0 +1,11 @@
+{
+  "name": "lru-dict",
+  "version": "1.4.1",
+  "summary": "An Dict like LRU container.",
+  "author": "Amit Dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lru_dict-1.4.1.tar.gz",
+  "download_time": "2025-11-02T10:19:25.097545",
+  "package_url": "https://pypi.org/project/lru-dict/"
+}
