@@ -1,11 +1,11 @@
 {
   "name": "dshellInterpreter",
-  "version": "0.2.20.9",
+  "version": "0.2.20.10",
   "summary": "A Discord bot interpreter for creating custom commands and automations.",
   "author": "Chronos",
   "license": "MIT",
   "home_page": "https://github.com/BOXERRMD/Dshell_Interpreter",
-  "download_filename": "dshellinterpreter-0.2.20.9.tar.gz",
-  "download_time": "2025-11-02T16:43:10.434532",
+  "download_filename": "dshellinterpreter-0.2.20.10.tar.gz",
+  "download_time": "2025-11-02T16:54:28.420777",
   "package_url": "https://pypi.org/project/dshellInterpreter/"
 }

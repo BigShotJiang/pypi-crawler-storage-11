@@ -1,0 +1,11 @@
+{
+  "name": "rapid-api-client",
+  "version": "0.8.3",
+  "summary": "Rapidly develop your API clients using decorators and annotations",
+  "author": "Sébastien MB",
+  "license": null,
+  "home_page": "https://github.com/essembeh/rapid-api-client",
+  "download_filename": "rapid_api_client-0.8.3.tar.gz",
+  "download_time": "2025-11-02T16:54:38.745925",
+  "package_url": "https://pypi.org/project/rapid-api-client/"
+}

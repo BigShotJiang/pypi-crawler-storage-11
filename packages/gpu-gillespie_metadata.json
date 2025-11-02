@@ -1,11 +1,11 @@
 {
   "name": "gpu-gillespie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "High-performance GPU-accelerated Gillespie stochastic simulation algorithms",
   "author": "GPU-Gillespie Development Team",
   "license": "MIT",
-  "home_page": "https://github.com/gpu-gillespie/gpu-gillespie",
-  "download_filename": "gpu_gillespie-1.0.0.tar.gz",
-  "download_time": "2025-11-02T15:18:32.859942",
+  "home_page": "https://github.com/SiyuanMa42/gpu-gillespie",
+  "download_filename": "gpu_gillespie-1.0.1.tar.gz",
+  "download_time": "2025-11-02T16:54:49.574597",
   "package_url": "https://pypi.org/project/gpu-gillespie/"
 }

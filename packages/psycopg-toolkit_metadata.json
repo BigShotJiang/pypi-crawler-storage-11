@@ -1,0 +1,11 @@
+{
+  "name": "psycopg-toolkit",
+  "version": "0.3.0",
+  "summary": "A Python PostgreSQL database utility with connection pooling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psycopg_toolkit-0.3.0.tar.gz",
+  "download_time": "2025-11-02T16:54:46.995679",
+  "package_url": "https://pypi.org/project/psycopg-toolkit/"
+}

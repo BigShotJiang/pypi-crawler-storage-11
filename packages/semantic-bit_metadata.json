@@ -1,0 +1,11 @@
+{
+  "name": "semantic-bit",
+  "version": "1.0.2",
+  "summary": "Generate structured JSON metadata for up to 5000 characters of text.",
+  "author": "Dan Ray, Gregory Blacketter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semantic_bit-1.0.2.tar.gz",
+  "download_time": "2025-11-02T16:54:22.688910",
+  "package_url": "https://pypi.org/project/semantic-bit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kaiiddo-dld",
+  "version": "0.1.0",
+  "summary": "A social media downloader and info fetcher",
+  "author": "Aryan Rathod",
+  "license": null,
+  "home_page": "https://github.com/ProKaiiddo/kaiiddo-dld",
+  "download_filename": "kaiiddo_dld-0.1.0.tar.gz",
+  "download_time": "2025-11-02T16:54:44.957943",
+  "package_url": "https://pypi.org/project/kaiiddo-dld/"
+}

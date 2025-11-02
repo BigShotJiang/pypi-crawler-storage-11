@@ -1,0 +1,11 @@
+{
+  "name": "anb-python-components",
+  "version": "1.4.1",
+  "summary": "Набор компонентов Python, которые упрощают разработку / A set of Python components that simplify development",
+  "author": "Александр Бабаев",
+  "license": null,
+  "home_page": "https://gitflic.ru/project/babaev-an/anb-python-components",
+  "download_filename": "anb_python_components-1.4.1.tar.gz",
+  "download_time": "2025-11-02T16:54:26.318655",
+  "package_url": "https://pypi.org/project/anb-python-components/"
+}
