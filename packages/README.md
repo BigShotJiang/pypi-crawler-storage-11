@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T20:39:45.166984
+- **Download Time**: 2025-11-02T20:52:39.679439
 - **Total Packages**: 81
-- **Total Size**: 33.66 MB
+- **Total Size**: 4.48 MB
 
 ## Packages List
+- reactivated
+- chutes
+- django-db-views
+- batchling
+- openbb-store
+- nostr-tools
+- nwp500-python
+- pyarchinit-mini
 - epics-sumo
 - usb-inspector
 - rayforge
@@ -48,7 +56,6 @@
 - flashforge-python-api
 - searxng-mcp-server
 - cve-report-aggregator
-- reactivated
 - switchport
 - djangocms-attributes-field
 - dcat-ap-plus
@@ -80,10 +87,3 @@
 - idds-workflow
 - idds-website
 - idds-monitor
-- idds-server
-- idds-doma
-- idds-common
-- idds-client
-- idds-atlas
-- pico-ioc
-- openbb-store
