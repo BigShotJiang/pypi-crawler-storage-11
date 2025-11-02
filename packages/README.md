@@ -1,15 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T20:21:10.823267
-- **Total Packages**: 85
-- **Total Size**: 18.11 MB
+- **Download Time**: 2025-11-02T20:39:45.166984
+- **Total Packages**: 81
+- **Total Size**: 33.66 MB
 
 ## Packages List
+- epics-sumo
+- usb-inspector
+- rayforge
+- limnoria
+- togglCli
+- d4rktg
+- pdf-strings
+- prettystack
+- pianosdk
+- mnemoreg
+- jablonski-plots
+- m9s-party-vcard
+- kopi-docka
+- layercode-gym
+- scantool
+- layercode-create-app
+- py-scriptor
+- tailwhip
+- imgctl
+- rigolwfm-dho800
+- monday-client
+- rustautogui-py
+- kailash-kaizen
+- cdk-factory
+- rigol-dho824-mcp
+- mainsequence
+- pico-fastapi
+- seuils
+- pathpilot
+- feed2fedi
+- sjlt
+- computer-mcp
+- repoguess
+- bosesoundtouchapi
+- kausal
+- easier
+- skypilot-nightly
+- claude-code-fallback
+- cs2pattern
+- flashforge-python-api
+- searxng-mcp-server
 - cve-report-aggregator
 - reactivated
 - switchport
-- sjlt
 - djangocms-attributes-field
 - dcat-ap-plus
 - void-engine
@@ -21,7 +61,6 @@
 - csle-cli
 - csle-rest-api
 - csle-agents
-- mainsequence
 - gym-csle-intrusion-response-game
 - gym-csle-stopping-game
 - csle-system-identification
@@ -34,7 +73,6 @@
 - jukebox-fm
 - evolvishub-text-classification-llm
 - glitter-cli
-- tailwhip
 - toapigdc
 - dataframe-textual
 - PySideJZ
@@ -47,47 +85,5 @@
 - idds-common
 - idds-client
 - idds-atlas
-- cs2pattern
 - pico-ioc
 - openbb-store
-- dfpyre
-- gvit
-- hyperway
-- DRES
-- mcp-serializer
-- qastudio-pytest
-- avyas-aurica-base-apps-weather-app
-- avyas-aurica-base-apps-nl-generator
-- avyas-aurica-base-apps-chat-app
-- avyas-aurica-base-apps-aurica-storage
-- avyas-aurica-base-apps-app-manager
-- avyas-aurica-base-apps-dashboard-app
-- avyas-aurica-base-apps-digital-twin
-- avyas-aurica-base-apps-app-sync
-- avyas-aurica-base-apps-auth-app
-- classicle
-- vcf2ldif
-- braindecode
-- openfisca-nouvelle-caledonie
-- swarms
-- reasonchip
-- imgbb-sdk
-- darkgraylib
-- meshcore-cli
-- cdk-factory
-- tornadopy
-- cachesaver
-- jupyterlab-miami-nights
-- immich-tools
-- unstructured2graph
-- td0update-sj
-- tracera-axolotl
-- tacozip
-- tenzir-changelog
-- bough
-- pythonanywhere-core
-- pymodins
-- antsibull-docs
-- customTraceback
-- check-config
-- chutes

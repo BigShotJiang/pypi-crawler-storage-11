@@ -1,0 +1,11 @@
+{
+  "name": "epics-sumo",
+  "version": "4.7",
+  "summary": "Python support tool for EPICS software development",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "epics_sumo-4.7.tar.gz",
+  "download_time": "2025-11-02T20:39:01.692567",
+  "package_url": "https://pypi.org/project/epics-sumo/"
+}

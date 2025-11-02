@@ -1,0 +1,11 @@
+{
+  "name": "limnoria",
+  "version": "2025.11.2",
+  "summary": "A multipurpose Python IRC bot, designed for flexibility and robustness , while being easy to install, set up, and maintain.",
+  "author": "Valentin Lorentz",
+  "license": null,
+  "home_page": "https://limnoria.net/",
+  "download_filename": "limnoria-2025.11.2.tar.gz",
+  "download_time": "2025-11-02T20:39:03.248992",
+  "package_url": "https://pypi.org/project/limnoria/"
+}

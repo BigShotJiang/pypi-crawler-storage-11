@@ -1,0 +1,11 @@
+{
+  "name": "togglCli",
+  "version": "4.0.1",
+  "summary": "Command line tool and set of Python wrapper classes for interacting with toggl's API",
+  "author": "D. Robert Adams & Adam Uhlir",
+  "license": "MIT",
+  "home_page": "https://toggl.uhlir.dev",
+  "download_filename": "togglcli-4.0.1.tar.gz",
+  "download_time": "2025-11-02T20:39:03.765422",
+  "package_url": "https://pypi.org/project/togglCli/"
+}

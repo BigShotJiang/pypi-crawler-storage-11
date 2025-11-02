@@ -1,0 +1,11 @@
+{
+  "name": "pathpilot",
+  "version": "0.3.4",
+  "summary": "Library that facilitates file and folder manipulation in Python.",
+  "author": "Zachary Einck",
+  "license": "MIT",
+  "home_page": "https://github.com/zteinck/pathpilot",
+  "download_filename": "pathpilot-0.3.4.tar.gz",
+  "download_time": "2025-11-02T20:39:16.437172",
+  "package_url": "https://pypi.org/project/pathpilot/"
+}

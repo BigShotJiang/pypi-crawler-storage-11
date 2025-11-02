@@ -1,11 +1,11 @@
 {
   "name": "jablonski-plots",
-  "version": "1.0",
+  "version": "1.0.2",
   "summary": "An easy way to plot publication-ready Jablonski diagrams",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "jablonski_plots-1.0.tar.gz",
-  "download_time": "2025-11-02T18:55:23.026687",
+  "download_filename": "jablonski_plots-1.0.2.tar.gz",
+  "download_time": "2025-11-02T20:39:06.890594",
   "package_url": "https://pypi.org/project/jablonski-plots/"
 }
