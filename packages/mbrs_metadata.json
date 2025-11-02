@@ -1,0 +1,11 @@
+{
+  "name": "mbrs",
+  "version": "0.1.8",
+  "summary": "A library for minimum Bayes risk (MBR) decoding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbrs-0.1.8.tar.gz",
+  "download_time": "2025-11-02T11:51:27.730807",
+  "package_url": "https://pypi.org/project/mbrs/"
+}

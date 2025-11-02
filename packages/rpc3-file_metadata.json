@@ -1,0 +1,11 @@
+{
+  "name": "rpc3-file",
+  "version": "1.0.0rc6",
+  "summary": "Read/write access to data files in RPC3 file format.",
+  "author": "Andreas Martin",
+  "license": "BSD-2-Clause License",
+  "home_page": "http://github.com/a-ma72/rpc3-file",
+  "download_filename": "rpc3_file-1.0.0rc6.tar.gz",
+  "download_time": "2025-11-02T11:51:34.312105",
+  "package_url": "https://pypi.org/project/rpc3-file/"
+}

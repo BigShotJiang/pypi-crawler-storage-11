@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T11:40:25.912141
-- **Total Packages**: 87
-- **Total Size**: 14.79 MB
+- **Download Time**: 2025-11-02T11:52:09.406819
+- **Total Packages**: 91
+- **Total Size**: 27.84 MB
 
 ## Packages List
+- abstract-backend
+- cb-jtag
+- pyarchinit-mini
+- pyrealsense2-beta
+- markten
+- maleo-infra
+- robotframework-schemathesislibrary
+- inferencesh
+- django-powercrud
+- legit-api-client
+- pyhttpx-pro
+- maleo-database
+- byquant
+- mbrs
+- omniopt2
+- Canaille
+- sigmf-toolkit
+- opteryx
+- domgen
+- megatron-core
+- megatron-fsdp
+- tensorwatchext
+- routine-workflow
+- beancode
+- odoo-addon-partner-identification
+- rpc3-file
+- nvidia-nat-mcp
+- Nirman-cli
+- nvidia-nat-llama-index
+- nvidia-nat-s3
+- nvidia-nat
 - nvidia-nat-all
 - nvidia-nat-weave
 - docker-hosts
@@ -34,7 +65,6 @@
 - utils-devops
 - nvidia-nat-data-flywheel
 - nvidia-nat-langchain
-- omniopt2
 - aiqtoolkit-semantic-kernel
 - aiqtoolkit-weave
 - aiqtoolkit-mem0ai
@@ -67,29 +97,3 @@
 - penlab
 - codernetes
 - pygsl
-- dkinst
-- scikit-hep
-- tf-keras-nightly
-- evbunpack
-- inferencesh
-- legit-api-client
-- test-pioneer
-- digsim-logic-simulator
-- envwizard
-- p115client
-- tensorwatchext
-- gemini-imagen
-- cmeel-m4
-- maleo-schemas
-- orcheo-sdk
-- acido
-- devtrack-sdk
-- flake8-debug
-- angreal
-- ksbanim
-- deepdir
-- biem-helmholtz-sphere
-- asyncio_for_robotics
-- drun
-- openubmc-bingo
-- pydraulics
