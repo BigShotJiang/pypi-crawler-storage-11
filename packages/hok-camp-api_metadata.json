@@ -1,0 +1,11 @@
+{
+  "name": "hok-camp-api",
+  "version": "1.0.0",
+  "summary": "An unofficial, asynchronous API wrapper for the Honor of Kings Camp website.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hok_camp_api-1.0.0.tar.gz",
+  "download_time": "2025-11-02T17:51:31.576516",
+  "package_url": "https://pypi.org/project/hok-camp-api/"
+}

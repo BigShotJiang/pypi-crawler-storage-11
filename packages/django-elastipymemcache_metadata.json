@@ -1,0 +1,11 @@
+{
+  "name": "django-elastipymemcache",
+  "version": "3.0.0",
+  "summary": "pymemcache-based Django cache backend for Amazon ElastiCache with auto discovery",
+  "author": "Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_elastipymemcache-3.0.0.tar.gz",
+  "download_time": "2025-11-02T17:51:40.723290",
+  "package_url": "https://pypi.org/project/django-elastipymemcache/"
+}

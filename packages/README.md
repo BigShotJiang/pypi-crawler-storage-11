@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T17:39:04.675686
-- **Total Packages**: 83
-- **Total Size**: 48.71 MB
+- **Download Time**: 2025-11-02T17:52:10.607612
+- **Total Packages**: 85
+- **Total Size**: 12.98 MB
 
 ## Packages List
+- innerloop
+- avro-py
+- idds-workflow
+- idds-website
+- idds-monitor
+- idds-server
+- idds-doma
+- idds-common
+- idds-client
+- idds-atlas
+- DoSP
+- hok-camp-api
+- dataclass-args
+- pyfilebrowser
+- reticulum
+- megatron-fsdp
+- megatron-core
+- project-manager-mcp
+- h5md
+- free-transformer
+- eyeTestUtils
+- starship-mcp
+- adv-optm
+- habemus-papadum-plumbum
+- ccda-to-omop
+- cicada-mcp
+- ospe
+- fastapi-api-key
+- django-elastipymemcache
+- miso-client
+- supertropical-algebra
+- fastapi-lambda
+- beets-notify
+- psycopg-toolkit
+- bluer-ugv
+- pypjt
+- bluer-sbc
+- cybrid-api-bank-python
 - vellum-workflow-server
 - cybrid-api-organization-python
 - qbittorrent-remote-client
@@ -17,7 +55,6 @@
 - fast-er-link
 - crystalwindow
 - versapy
-- fastapi-lambda
 - kaiiddo-dld
 - talus-eastwind
 - databoost
@@ -26,7 +63,6 @@
 - nightscout-dash
 - ecomlib
 - ace-skyspark-lib
-- ccda-to-omop
 - abertpy
 - django-cfg
 - pfsense-redactor
@@ -40,8 +76,6 @@
 - django-litestream
 - winipedia-django
 - pyegeria
-- eyeTestUtils
-- pypjt
 - swingft-test-v3
 - langgraph-agent-toolkit
 - ptwebdiscover
@@ -57,35 +91,3 @@
 - vcspull
 - kailash-kaizen
 - 128Autograder
-- CAPE-parsers
-- winipedia-utils
-- langchain-pinecone
-- openfisca-nouvelle-caledonie
-- Graphinate
-- minidocker
-- optimalportfolios
-- acido
-- navground
-- gtext
-- frame-fwl
-- pyarchinit-mini
-- ace-context-engineering
-- posthoganalytics
-- posthog
-- gfModParser
-- pyomicron
-- frigidaire
-- gridstatusio
-- petal-app-manager
-- cfv
-- pywhatlang
-- passginity
-- fleet-client
-- piwwwaterflow
-- rug
-- utils-devops
-- hippocampai
-- chemgraphbuilder
-- pytorch-tabnet2
-- passgen3
-- jambazid-poetry-demo
