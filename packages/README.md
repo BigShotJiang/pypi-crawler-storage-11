@@ -1,12 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T05:20:26.821717
-- **Total Packages**: 73
-- **Total Size**: 6.39 MB
+- **Download Time**: 2025-11-02T05:41:41.496616
+- **Total Packages**: 76
+- **Total Size**: 1.48 MB
 
 ## Packages List
+- groundx
+- jax-hf
 - swingft-test-v2
+- prompt-blender
+- omnipkg
+- cb-events
+- videowall
+- acido
+- duckrun
+- aioprox
+- serio
+- smiles2mol
+- tabula-mutabilis
+- coherent-client
+- color-print-abi6374
+- emblematic
+- ast-tool-py
 - genailib
 - pygitzen
 - pyconnldap
@@ -15,18 +31,14 @@
 - valid8r
 - CrystalWindowLib
 - defog
-- smiles2mol
-- aioprox
 - otree
 - MF-Tools
 - pyvider-components
 - pyvider
-- serio
 - booklab
 - svc-infra
 - provide-foundation
 - instantsplat
-- duckrun
 - fnschool
 - fastapi-mongo-base
 - ansible-doc-template-extractor
@@ -37,7 +49,6 @@
 - weirdfingers-boards
 - lg2slack
 - tcg-research-desk
-- acido
 - ami-helper
 - cccc-pair
 - cpanbd
@@ -71,11 +82,3 @@
 - findmyjoint
 - pharox
 - pqsdk
-- hypothesis
-- vmware-workstation-pro-mcp-server
-- real-ladybug
-- iranetf
-- blocksimpy
-- sleipnirgroup-jormungandr
-- aieng-platform-onboard
-- polystore
