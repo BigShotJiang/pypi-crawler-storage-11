@@ -1,11 +1,11 @@
 {
   "name": "claude-todo-emulator",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "This is an MCP server that emulates Claude Code's task management system, providing persistent todo functionality for AI coding assistants in IDEs like Cursor, Windsurf, and others.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_todo_emulator-0.3.0.tar.gz",
-  "download_time": "2025-11-01T14:17:10.328157",
+  "download_filename": "claude_todo_emulator-0.3.1.tar.gz",
+  "download_time": "2025-11-02T15:38:03.605143",
   "package_url": "https://pypi.org/project/claude-todo-emulator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "guiderails",
+  "version": "0.1.0",
+  "summary": "Tutorials-as-Code: Execute and validate Markdown tutorials",
+  "author": "GuideRails Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "guiderails-0.1.0.tar.gz",
+  "download_time": "2025-11-02T15:38:17.637668",
+  "package_url": "https://pypi.org/project/guiderails/"
+}

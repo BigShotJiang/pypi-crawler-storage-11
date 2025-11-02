@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T15:18:54.562927
-- **Total Packages**: 78
-- **Total Size**: 14.61 MB
+- **Download Time**: 2025-11-02T15:38:38.694744
+- **Total Packages**: 77
+- **Total Size**: 17.36 MB
 
 ## Packages List
+- langchain-localai
+- je-editor
+- syntaxlight
+- fluxloop-cli
+- lattifai
+- dshellInterpreter
+- afl2-himpunan
+- ae-core
+- kagura-ai
+- chuk-tool-processor
+- convnet
+- scantool
+- claude-todo-emulator
+- krisp-audio
+- oasm.dev
+- valid8r
+- TkinterExtras
+- mcp-learning
+- omniopt2
+- org-roam-mcp
+- pyinfra-orbstack
+- novelai-sdk
+- recator
+- reasoning-library
+- GeneralManager
+- agent-orchestration-lib
+- hyperquant
+- django-litestream
+- ddgs
+- drun
+- tira
+- jobspy-enhanced-scraper
+- pyavrocd
+- greeum
+- PasswordGenerator-UAA
+- SURE-tools
+- qaip
+- carconnectivity-plugin-mqtt-homeassistant
+- guiderails
+- nottf2
+- mainsequence
+- marginaleffects
+- max-div
+- zeta-cli
+- nano-dev-utils
+- swiftbot
 - pydantic-stack-core
 - megatron-core
 - megatron-fsdp
@@ -15,13 +61,11 @@
 - je-editor-dev
 - secrets-manager-aws
 - uipath-runtime
-- nottf2
 - ruuvitag-ble
 - samsung-widgets
 - uplang
 - thinking-engine
 - conciliate
-- oasm.dev
 - aethermagic
 - oasm.rtmq2
 - kaenova-prompty
@@ -30,57 +74,12 @@
 - convert-stream
 - legit-api-client
 - minitouch.py
-- jobspy-enhanced-scraper
 - xmlu
-- omniopt2
 - mumuipc.py
-- kagura-ai
 - Lily-S2T
 - carconnectivity-connector-skoda
-- SURE-tools
 - shinestacker
 - coinex-mcp-server
 - DEmap
 - claude-worktree
 - earthcare-downloader
-- gpu-gillespie
-- treescriptify
-- PyWSGIRef
-- carconnectivity-plugin-webui
-- austin-tui
-- harvard-library-mcp
-- mbnpy
-- apa102-pi
-- tree-sitter-ocamllex
-- p115wsgidav
-- TACE
-- param-helper
-- sensor-state-data
-- carconnectivity-plugin-homekit
-- delta-trace-db
-- tacoreader
-- opensyndrome
-- chalkbox
-- sportsball
-- openshift-python-wrapper
-- frame-fwl
-- carconnectivity-plugin-abrp
-- datafast
-- carconnectivity-cli
-- pyfaceau
-- hbrowser
-- spacemouse-sdk
-- flarelette-jwt
-- gns3-mcp
-- monopoly-core
-- TkinterExtras
-- nano-dev-utils
-- tfkit-py
-- webresearcher
-- langchain-localai
-- simplefractions
-- factorialhr
-- hcom
-- zeta-cli
-- kailash-dataflow
-- kailash

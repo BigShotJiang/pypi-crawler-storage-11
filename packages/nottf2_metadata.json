@@ -1,11 +1,11 @@
 {
   "name": "nottf2",
-  "version": "25.10.0.10",
+  "version": "25.10.0.11",
   "summary": "Add utilities for `tf2` in Python not currently built-in in ROS2.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nottf2-25.10.0.10.tar.gz",
-  "download_time": "2025-11-02T15:18:16.957875",
+  "download_filename": "nottf2-25.10.0.11.tar.gz",
+  "download_time": "2025-11-02T15:38:18.158935",
   "package_url": "https://pypi.org/project/nottf2/"
 }

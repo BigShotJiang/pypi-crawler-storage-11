@@ -1,0 +1,11 @@
+{
+  "name": "ae-core",
+  "version": "0.3.80",
+  "summary": "ae namespace module portion core: application core constants, helper functions and base classes",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_core",
+  "download_filename": "ae_core-0.3.80.tar.gz",
+  "download_time": "2025-11-02T15:38:00.322154",
+  "package_url": "https://pypi.org/project/ae-core/"
+}

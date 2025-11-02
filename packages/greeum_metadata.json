@@ -1,0 +1,11 @@
+{
+  "name": "greeum",
+  "version": "3.1.2",
+  "summary": "Context-Dependent Neural Memory System for LLMs with GraphIndex beam search, STM/LTM consolidation, and semantic tagging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "greeum-3.1.2.tar.gz",
+  "download_time": "2025-11-02T15:38:14.975565",
+  "package_url": "https://pypi.org/project/greeum/"
+}

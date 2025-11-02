@@ -1,11 +1,11 @@
 {
   "name": "TkinterExtras",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "Some extra classes and functions for tkinter",
   "author": "Marcus Collins",
   "license": null,
   "home_page": null,
-  "download_filename": "tkinterextras-0.3.1.tar.gz",
-  "download_time": "2025-11-02T14:51:50.632061",
+  "download_filename": "tkinterextras-0.4.1.tar.gz",
+  "download_time": "2025-11-02T15:38:05.764623",
   "package_url": "https://pypi.org/project/TkinterExtras/"
 }

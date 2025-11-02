@@ -1,0 +1,11 @@
+{
+  "name": "qaip",
+  "version": "0.3.1",
+  "summary": "The official Python library for the qaip API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qaip-0.3.1.tar.gz",
+  "download_time": "2025-11-02T15:38:16.542571",
+  "package_url": "https://pypi.org/project/qaip/"
+}
