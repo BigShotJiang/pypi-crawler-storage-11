@@ -1,26 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T08:53:42.306078
-- **Total Packages**: 92
-- **Total Size**: 15.81 MB
+- **Download Time**: 2025-11-02T09:18:53.981168
+- **Total Packages**: 88
+- **Total Size**: 1.21 MB
 
 ## Packages List
-- tendril-utils-core
-- copula-scengen
-- modernctkmessagebox
-- ttp
-- mechanical-tolerance-calculator
-- nonebot-plugin-marshoai
-- gpustack-runtime
-- himig
-- odoo-addon-l10n-ro-stock
-- azpaddypy
-- port-ocean
-- tfp-nightly
-- vector-dataloader
-- bandcamp-lib
-- onvif-python
 - hinaagent-core
 - square-authentication-helper
 - deciml
@@ -98,3 +83,14 @@
 - robhan-cdk-lib.utils
 - pymimir
 - lightrun
+- gbq
+- trajectoryevals
+- ai-tools-box
+- genshin-impact
+- programgarden
+- programgarden-dashboard
+- PureCloudPlatformClientV2
+- dlt645
+- gguf-connector
+- MetaRpcMT4
+- MetaRpcMT5
