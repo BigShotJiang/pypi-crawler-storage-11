@@ -1,11 +1,11 @@
 {
   "name": "transpiler-mate",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Schema.org 2 metadata formats transpiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "transpiler_mate-0.9.0.tar.gz",
-  "download_time": "2025-11-02T12:37:09.718690",
+  "download_filename": "transpiler_mate-0.10.0.tar.gz",
+  "download_time": "2025-11-02T22:40:12.514908",
   "package_url": "https://pypi.org/project/transpiler-mate/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cloudmersive-barcode-api-client",
+  "version": "3.2.0",
+  "summary": "barcodeapi",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.cloudmersive.com/barcode-api",
+  "download_filename": "cloudmersive_barcode_api_client-3.2.0.tar.gz",
+  "download_time": "2025-11-02T22:40:00.217812",
+  "package_url": "https://pypi.org/project/cloudmersive-barcode-api-client/"
+}

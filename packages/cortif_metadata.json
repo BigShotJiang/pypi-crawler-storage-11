@@ -1,0 +1,11 @@
+{
+  "name": "cortif",
+  "version": "0.1.1",
+  "summary": "Cortif Local Runner CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortif-0.1.1.tar.gz",
+  "download_time": "2025-11-02T22:40:09.786895",
+  "package_url": "https://pypi.org/project/cortif/"
+}

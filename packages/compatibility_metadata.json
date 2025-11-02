@@ -1,0 +1,11 @@
+{
+  "name": "compatibility",
+  "version": "2.0.0",
+  "summary": "A library that checks whether the running version of Python is compatible and tested. Remind the user to check for updates of the library.",
+  "author": "Rüdiger Voigt",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "compatibility-2.0.0.tar.gz",
+  "download_time": "2025-11-02T22:40:31.139146",
+  "package_url": "https://pypi.org/project/compatibility/"
+}

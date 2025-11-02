@@ -1,11 +1,11 @@
 {
   "name": "tqdm-daemon",
-  "version": "0.2.8",
+  "version": "0.3.1",
   "summary": "A daemon program for tqdm utils.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tqdm_daemon-0.2.8.tar.gz",
-  "download_time": "2025-11-02T19:14:52.081505",
+  "download_filename": "tqdm_daemon-0.3.1.tar.gz",
+  "download_time": "2025-11-02T22:40:28.405810",
   "package_url": "https://pypi.org/project/tqdm-daemon/"
 }

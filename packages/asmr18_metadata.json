@@ -1,11 +1,11 @@
 {
   "name": "asmr18",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Downloader for ASMR18.fans",
   "author": "Yosefario Dev",
   "license": null,
   "home_page": "https://github.com/yosefario-dev/asmr18",
-  "download_filename": "asmr18-0.1.0.tar.gz",
-  "download_time": "2025-11-02T21:52:07.406208",
+  "download_filename": "asmr18-0.1.1.tar.gz",
+  "download_time": "2025-11-02T22:40:02.996142",
   "package_url": "https://pypi.org/project/asmr18/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "robotforge-python-sdk",
+  "version": "0.2.1",
+  "summary": "Multi-layered Python SDK for AI/ML telemetry",
+  "author": "RobotForge",
+  "license": null,
+  "home_page": "https://github.com/robotforge/telemetry-sdk",
+  "download_filename": "robotforge_python_sdk-0.2.1.tar.gz",
+  "download_time": "2025-11-02T22:40:14.713671",
+  "package_url": "https://pypi.org/project/robotforge-python-sdk/"
+}

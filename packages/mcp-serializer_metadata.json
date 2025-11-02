@@ -1,11 +1,11 @@
 {
   "name": "mcp-serializer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Register MCP features and serialize JSON-RPC requests into response data",
   "author": "Amir Ebrahim md.amire02@gmail.com",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "mcp_serializer-1.0.0.tar.gz",
-  "download_time": "2025-11-02T20:20:51.830535",
+  "home_page": "https://github.com/mdamire/mcp-serializer",
+  "download_filename": "mcp_serializer-1.1.0.tar.gz",
+  "download_time": "2025-11-02T22:40:11.960397",
   "package_url": "https://pypi.org/project/mcp-serializer/"
 }

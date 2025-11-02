@@ -1,0 +1,11 @@
+{
+  "name": "cookiecutter-python",
+  "version": "2.7.0",
+  "summary": "1-click Generator of Python Project, from Template with streamlined \"DevOps\" using a powerful CI/CD Pipeline.",
+  "author": "Konstantinos Lampridis",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "cookiecutter_python-2.7.0.tar.gz",
+  "download_time": "2025-11-02T22:40:11.411250",
+  "package_url": "https://pypi.org/project/cookiecutter-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "topalias",
+  "version": "3.0.0",
+  "summary": "Can be run in the console from anywhere.",
+  "author": "Sergey Chudakov",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/CSRedRat/topalias",
+  "download_filename": "topalias-3.0.0-py3-none-any.whl",
+  "download_time": "2025-11-02T22:39:47.422959",
+  "package_url": "https://pypi.org/project/topalias/"
+}
