@@ -1,0 +1,11 @@
+{
+  "name": "tendril-utils-fsutils",
+  "version": "0.3.1",
+  "summary": "Filesystem utilities for tendril",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-utils-fsutils",
+  "download_filename": "tendril_utils_fsutils-0.3.1.tar.gz",
+  "download_time": "2025-11-02T09:38:22.471935",
+  "package_url": "https://pypi.org/project/tendril-utils-fsutils/"
+}

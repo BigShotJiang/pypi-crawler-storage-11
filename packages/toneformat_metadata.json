@@ -1,0 +1,11 @@
+{
+  "name": "toneformat",
+  "version": "1.0.0",
+  "summary": "TONE – Token-Optimized Notation Engine for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toneformat-1.0.0.tar.gz",
+  "download_time": "2025-11-02T09:38:04.332927",
+  "package_url": "https://pypi.org/project/toneformat/"
+}

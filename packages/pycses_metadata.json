@@ -1,0 +1,11 @@
+{
+  "name": "pycses",
+  "version": "0.1.1",
+  "summary": "CSES access framework for Python, refactored by MacrosMeng.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycses-0.1.1.tar.gz",
+  "download_time": "2025-11-02T09:38:20.728047",
+  "package_url": "https://pypi.org/project/pycses/"
+}

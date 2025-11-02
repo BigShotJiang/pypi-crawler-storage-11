@@ -1,0 +1,11 @@
+{
+  "name": "harp-proxy",
+  "version": "0.9.1",
+  "summary": "HARP is an API Runtime Proxy, a toolkit to enhance the speed, reliability and observability of external APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "harp_proxy-0.9.1.tar.gz",
+  "download_time": "2025-11-02T09:38:21.898483",
+  "package_url": "https://pypi.org/project/harp-proxy/"
+}

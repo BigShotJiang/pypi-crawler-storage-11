@@ -1,0 +1,11 @@
+{
+  "name": "square-common-bl",
+  "version": "5.0.10",
+  "summary": "common business layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_common_bl-5.0.10.tar.gz",
+  "download_time": "2025-11-02T09:38:25.908693",
+  "package_url": "https://pypi.org/project/square-common-bl/"
+}
