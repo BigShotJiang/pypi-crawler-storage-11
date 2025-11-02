@@ -1,0 +1,11 @@
+{
+  "name": "ibind",
+  "version": "0.1.21",
+  "summary": "IBind is a REST and WebSocket client library for Interactive Brokers Client Portal Web API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibind-0.1.21.tar.gz",
+  "download_time": "2025-11-02T12:37:22.267917",
+  "package_url": "https://pypi.org/project/ibind/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentic-file-search",
+  "version": "0.1.0",
+  "summary": "Autonomous folder exploration agent powered by Anthropic Claude",
+  "author": "Li Chen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_file_search-0.1.0.tar.gz",
+  "download_time": "2025-11-02T12:37:15.515482",
+  "package_url": "https://pypi.org/project/agentic-file-search/"
+}

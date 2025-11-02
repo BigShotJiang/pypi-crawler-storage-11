@@ -1,0 +1,11 @@
+{
+  "name": "url-extractor-pro",
+  "version": "5.0.0",
+  "summary": "A powerful, pure Python tool for extracting all URLs and extensions from target websites with WAF bypass",
+  "author": "ArkhAngelLifeJiggy",
+  "license": null,
+  "home_page": "https://github.com/LifeJiggy/URL-Extractor",
+  "download_filename": "url_extractor_pro-5.0.0.tar.gz",
+  "download_time": "2025-11-02T12:37:17.071537",
+  "package_url": "https://pypi.org/project/url-extractor-pro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tlp-ui",
+  "version": "1.8.1",
+  "summary": "GTK UI for tlp",
+  "author": "Daniel Christophis",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/d4nj1/TLPUI",
+  "download_filename": "tlp_ui-1.8.1.tar.gz",
+  "download_time": "2025-11-02T12:37:11.878071",
+  "package_url": "https://pypi.org/project/tlp-ui/"
+}

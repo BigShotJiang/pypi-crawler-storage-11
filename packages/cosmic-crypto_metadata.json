@@ -1,0 +1,11 @@
+{
+  "name": "cosmic-crypto",
+  "version": "0.1.0",
+  "summary": "Overkill cryptography with cosmic random images",
+  "author": "ZaiperUnbound",
+  "license": null,
+  "home_page": "https://github.com/dreamingcuriosity/cosmic-crypto",
+  "download_filename": "cosmic_crypto-0.1.0.tar.gz",
+  "download_time": "2025-11-02T12:37:22.786418",
+  "package_url": "https://pypi.org/project/cosmic-crypto/"
+}
