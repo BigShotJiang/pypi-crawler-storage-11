@@ -1,11 +1,11 @@
 {
   "name": "fftloggin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "High-performance vectorized FFTLog implementation for fast Hankel transforms in pure Python with optional numexpr acceleration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fftloggin-0.2.0.tar.gz",
-  "download_time": "2025-11-02T03:07:25.461671",
+  "download_filename": "fftloggin-0.2.1.tar.gz",
+  "download_time": "2025-11-02T05:51:56.974789",
   "package_url": "https://pypi.org/project/fftloggin/"
 }

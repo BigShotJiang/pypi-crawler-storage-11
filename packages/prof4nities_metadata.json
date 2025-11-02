@@ -1,0 +1,11 @@
+{
+  "name": "prof4nities",
+  "version": "0.1.0",
+  "summary": "A Python library for filtering profane words using string matching techniques.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prof4nities-0.1.0.tar.gz",
+  "download_time": "2025-11-02T05:51:57.999711",
+  "package_url": "https://pypi.org/project/prof4nities/"
+}

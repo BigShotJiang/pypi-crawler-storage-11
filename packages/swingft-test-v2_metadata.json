@@ -1,11 +1,11 @@
 {
   "name": "swingft-test-v2",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "summary": "Swingft CLI tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swingft_test_v2-1.0.8.tar.gz",
-  "download_time": "2025-11-02T05:41:03.763122",
+  "download_filename": "swingft_test_v2-1.1.0.tar.gz",
+  "download_time": "2025-11-02T05:51:55.434892",
   "package_url": "https://pypi.org/project/swingft-test-v2/"
 }
