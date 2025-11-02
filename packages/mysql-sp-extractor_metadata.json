@@ -1,0 +1,11 @@
+{
+  "name": "mysql-sp-extractor",
+  "version": "0.1.0",
+  "summary": "Extract stored procedures from MySQL/SingleStore databases",
+  "author": "Ernesto Herrera Morales",
+  "license": null,
+  "home_page": "https://github.com/eherrera/mysql-sp-extractor",
+  "download_filename": "mysql_sp_extractor-0.1.0.tar.gz",
+  "download_time": "2025-11-02T01:45:11.019929",
+  "package_url": "https://pypi.org/project/mysql-sp-extractor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "market-data-store",
-  "version": "0.6.68",
+  "version": "0.6.69",
   "summary": "Data store control-plane (schema, migrations, policies, ops) for market-data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "market_data_store-0.6.68.tar.gz",
-  "download_time": "2025-11-01T23:38:17.931652",
+  "download_filename": "market_data_store-0.6.69.tar.gz",
+  "download_time": "2025-11-02T01:45:23.617792",
   "package_url": "https://pypi.org/project/market-data-store/"
 }
