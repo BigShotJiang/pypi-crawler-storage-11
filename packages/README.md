@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T06:51:02.576826
-- **Total Packages**: 82
-- **Total Size**: 6.11 MB
+- **Download Time**: 2025-11-02T07:19:11.257068
+- **Total Packages**: 84
+- **Total Size**: 34.28 MB
 
 ## Packages List
+- localsets
+- acg-frontend-mcp
+- tritonparse
+- programgarden-community
+- shopline-sdk-python
+- vicoa
+- mcp-welcome-speech-cjshen
+- ab-token-issuer-store-service
+- aigroup-quant-mcp
+- streamlit-nightly
+- pyarchinit-mini
+- geneinfo
+- leaf-framework
+- programgarden-finance
+- charmd
+- polyagent
+- tf-models-nightly
+- symphra-excel
+- embar
+- isolate-proto
+- Uranus-IDE
+- RBniCSx
+- py-browser-automation
+- pysail
+- winipedia-pyside
+- defog
+- ykinter
+- automation-ide
 - faster-eth-abi
 - student-logger
 - bwamem
@@ -27,19 +55,15 @@
 - coralsnake
 - ass-to-lrc
 - docstring-format-checker
-- Uranus-IDE
 - py-wlcommands
 - mavi-companion
-- ykinter
 - pulumi-aws-native
 - viewinline
 - workflow-use
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- acg-frontend-mcp
 - xsget
 - callflow-tracer
-- localsets
 - gguf-connector
 - ant-ray-cpp-nightly
 - bruce-django-requests-logger
@@ -66,25 +90,3 @@
 - ttkbootstrap-icons-remix
 - ttkbootstrap-icons-meteocons
 - ttkbootstrap-icons-mat
-- minidocker
-- unike
-- ttkbootstrap-icons-lucide
-- bouquin
-- ttkbootstrap-icons-ion
-- ttkbootstrap-icons-gmi
-- ttkbootstrap-icons-fluent
-- ttkbootstrap-icons-fa
-- bintang
-- ttkbootstrap-icons-eva
-- barebones-rpg
-- flashinfer-python
-- remove-channel
-- ttkbootstrap-icons-devicon
-- grafa
-- ttkbootstrap-icons
-- nivara
-- lg2slack
-- clig
-- agtest
-- langchain-dev-utils
-- swingft-test-v2
