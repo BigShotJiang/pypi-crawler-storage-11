@@ -1,11 +1,11 @@
 {
   "name": "headson",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "Budget‑constrained JSON preview renderer (Python bindings)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "headson-0.6.5.tar.gz",
-  "download_time": "2025-11-02T21:52:09.532244",
+  "download_filename": "headson-0.6.6.tar.gz",
+  "download_time": "2025-11-02T22:18:36.505503",
   "package_url": "https://pypi.org/project/headson/"
 }

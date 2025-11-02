@@ -1,0 +1,11 @@
+{
+  "name": "pyairobotrest",
+  "version": "0.1.0",
+  "summary": "Python library for Airobot thermostat TE1 local REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyairobotrest-0.1.0.tar.gz",
+  "download_time": "2025-11-02T22:18:17.131607",
+  "package_url": "https://pypi.org/project/pyairobotrest/"
+}

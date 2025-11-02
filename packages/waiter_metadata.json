@@ -1,0 +1,11 @@
+{
+  "name": "waiter",
+  "version": "1.5.1",
+  "summary": "Delayed iteration for polling and retries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waiter-1.5.1.tar.gz",
+  "download_time": "2025-11-02T22:18:12.134547",
+  "package_url": "https://pypi.org/project/waiter/"
+}
