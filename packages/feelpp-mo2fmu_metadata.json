@@ -1,0 +1,11 @@
+{
+  "name": "feelpp-mo2fmu",
+  "version": "0.6.0",
+  "summary": "Feel++ modelica to fmu converter package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feelpp_mo2fmu-0.6.0-py3-none-any.whl",
+  "download_time": "2025-11-02T16:22:45.747355",
+  "package_url": "https://pypi.org/project/feelpp-mo2fmu/"
+}

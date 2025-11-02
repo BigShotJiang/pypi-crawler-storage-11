@@ -1,11 +1,11 @@
 {
   "name": "scantool",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "summary": "MCP server for multi-language code analysis with structure extraction, metadata parsing, and search capabilities across Python, JavaScript, TypeScript, Rust, Go, C/C++, Java, PHP, C#, Ruby, Markdown, plain text, and images",
   "author": "Marius Berge Eide",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scantool-0.9.7.tar.gz",
-  "download_time": "2025-11-02T15:38:03.067624",
+  "download_filename": "scantool-0.9.8.tar.gz",
+  "download_time": "2025-11-02T16:22:36.821501",
   "package_url": "https://pypi.org/project/scantool/"
 }

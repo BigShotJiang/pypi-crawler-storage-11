@@ -1,0 +1,11 @@
+{
+  "name": "trytond",
+  "version": "7.6.10",
+  "summary": "Tryton server",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond-7.6.10.tar.gz",
+  "download_time": "2025-11-02T16:23:06.713436",
+  "package_url": "https://pypi.org/project/trytond/"
+}

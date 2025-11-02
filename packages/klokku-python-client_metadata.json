@@ -1,0 +1,11 @@
+{
+  "name": "klokku-python-client",
+  "version": "0.2.1",
+  "summary": "Klokku REST API client",
+  "author": "Mariusz Józala",
+  "license": "MIT",
+  "home_page": "https://klokku.com",
+  "download_filename": "klokku_python_client-0.2.1.tar.gz",
+  "download_time": "2025-11-02T16:22:51.538920",
+  "package_url": "https://pypi.org/project/klokku-python-client/"
+}

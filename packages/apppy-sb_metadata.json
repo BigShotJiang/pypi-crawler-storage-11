@@ -1,11 +1,11 @@
 {
   "name": "apppy-sb",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "Supabase integrations for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_sb-0.6.4.tar.gz",
-  "download_time": "2025-11-02T13:51:58.301156",
+  "download_filename": "apppy_sb-0.6.5.tar.gz",
+  "download_time": "2025-11-02T16:23:11.988436",
   "package_url": "https://pypi.org/project/apppy-sb/"
 }

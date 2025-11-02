@@ -1,0 +1,11 @@
+{
+  "name": "ci-guardian",
+  "version": "0.1.0",
+  "summary": "Git hooks automation for Claude Code projects - enforces code quality, security, and prevents hook bypass",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ci_guardian-0.1.0.tar.gz",
+  "download_time": "2025-11-02T16:22:55.703174",
+  "package_url": "https://pypi.org/project/ci-guardian/"
+}

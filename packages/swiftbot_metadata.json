@@ -1,11 +1,11 @@
 {
   "name": "swiftbot",
-  "version": "1.0.0",
-  "summary": "Ultra-fast Telegram bot framework with 30× faster routing & consume 20-30% less memory",
+  "version": "1.0.1",
+  "summary": "A blazing-fast Telegram bot framework built for performance and simplicity.",
   "author": "Arjun-M",
   "license": null,
   "home_page": "https://github.com/Arjun-M/SwiftBot",
-  "download_filename": "swiftbot-1.0.0.tar.gz",
-  "download_time": "2025-11-02T15:38:21.302603",
+  "download_filename": "swiftbot-1.0.1.tar.gz",
+  "download_time": "2025-11-02T16:22:39.975961",
   "package_url": "https://pypi.org/project/swiftbot/"
 }

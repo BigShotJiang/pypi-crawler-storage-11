@@ -1,0 +1,11 @@
+{
+  "name": "idsignal",
+  "version": "0.2.0",
+  "summary": "A python module with tools which can be used to add signaling between different components.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "idsignal-0.2.0.tar.gz",
+  "download_time": "2025-11-02T16:22:55.183659",
+  "package_url": "https://pypi.org/project/idsignal/"
+}
