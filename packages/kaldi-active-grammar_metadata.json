@@ -1,0 +1,11 @@
+{
+  "name": "kaldi-active-grammar",
+  "version": "3.2.0",
+  "summary": "Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time",
+  "author": "David Zurow",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/daanzu/kaldi-active-grammar",
+  "download_filename": "kaldi_active_grammar-3.2.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-02T15:52:00.161931",
+  "package_url": "https://pypi.org/project/kaldi-active-grammar/"
+}

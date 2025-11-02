@@ -1,0 +1,11 @@
+{
+  "name": "cmeel-autoconf",
+  "version": "2.72.0.1",
+  "summary": "cmeel distribution for autoconf",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/cmeel-autoconf",
+  "download_filename": "cmeel_autoconf-2.72.0.1.tar.gz",
+  "download_time": "2025-11-02T15:51:50.932788",
+  "package_url": "https://pypi.org/project/cmeel-autoconf/"
+}

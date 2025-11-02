@@ -1,0 +1,11 @@
+{
+  "name": "crystalwindow",
+  "version": "0.7.6",
+  "summary": "pygame but remade, easy window/player/tile handling",
+  "author": "CrystalBallyHereXD",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crystalwindow-0.7.6.tar.gz",
+  "download_time": "2025-11-02T15:51:45.987236",
+  "package_url": "https://pypi.org/project/crystalwindow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-orchestration-lib",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A framework for building composable, observable, and maintainable agent workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_orchestration_lib-0.3.2.tar.gz",
-  "download_time": "2025-11-02T15:38:10.629735",
+  "download_filename": "agent_orchestration_lib-0.3.3.tar.gz",
+  "download_time": "2025-11-02T15:51:50.364404",
   "package_url": "https://pypi.org/project/agent-orchestration-lib/"
 }

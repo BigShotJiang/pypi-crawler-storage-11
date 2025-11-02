@@ -1,0 +1,11 @@
+{
+  "name": "metacopier-api",
+  "version": "1.2.5",
+  "summary": "MetaCopier API",
+  "author": "MetaCopier Support",
+  "license": "MIT",
+  "home_page": "https://docs.metacopier.io",
+  "download_filename": "metacopier_api-1.2.5.tar.gz",
+  "download_time": "2025-11-02T15:51:54.479141",
+  "package_url": "https://pypi.org/project/metacopier-api/"
+}
