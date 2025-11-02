@@ -1,0 +1,11 @@
+{
+  "name": "rotary-logger",
+  "version": "1.0.0",
+  "summary": "A module that provides a universal python light on iops way of logging to files your program execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotary_logger-1.0.0.tar.gz",
+  "download_time": "2025-11-02T05:19:50.620852",
+  "package_url": "https://pypi.org/project/rotary-logger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "genailib",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A simple library to display file content",
   "author": "kimjomkoung",
   "license": "MIT",
   "home_page": "https://pypi.org/project/genailib/",
-  "download_filename": "genailib-0.0.7.tar.gz",
-  "download_time": "2025-11-01T18:55:19.981283",
+  "download_filename": "genailib-0.0.8.tar.gz",
+  "download_time": "2025-11-02T05:19:49.087873",
   "package_url": "https://pypi.org/project/genailib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "smiles2mol",
+  "version": "1.0.0",
+  "summary": "Chemical structure generator from SMILES strings.",
+  "author": "Shota Inoue",
+  "license": "MIT",
+  "home_page": "https://github.com/s-inoue0108/smiles2mol",
+  "download_filename": "smiles2mol-1.0.0.tar.gz",
+  "download_time": "2025-11-02T05:19:53.190913",
+  "package_url": "https://pypi.org/project/smiles2mol/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MF-Tools",
+  "version": "1.4.4",
+  "summary": "Collection of helpful utilities for Manim",
+  "author": "John Connell",
+  "license": "MIT",
+  "home_page": "https://github.com/TheMathematicFanatic/MF_Tools",
+  "download_filename": "mf_tools-1.4.4.tar.gz",
+  "download_time": "2025-11-02T05:19:54.730021",
+  "package_url": "https://pypi.org/project/MF-Tools/"
+}
