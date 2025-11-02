@@ -1,11 +1,11 @@
 {
   "name": "ospe",
-  "version": "0.0.3",
-  "summary": "python package",
+  "version": "0.0.4",
+  "summary": "Operating System & Python Exercises - All in one package",
   "author": "Vivek Gupta",
   "license": null,
   "home_page": null,
-  "download_filename": "ospe-0.0.3.tar.gz",
-  "download_time": "2025-11-02T19:25:44.138749",
+  "download_filename": "ospe-0.0.4.tar.gz",
+  "download_time": "2025-11-02T19:38:15.552805",
   "package_url": "https://pypi.org/project/ospe/"
 }

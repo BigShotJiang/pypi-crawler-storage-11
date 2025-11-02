@@ -1,22 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T19:26:27.973093
-- **Total Packages**: 82
-- **Total Size**: 9.02 MB
+- **Download Time**: 2025-11-02T19:38:53.059843
+- **Total Packages**: 78
+- **Total Size**: 4.38 MB
 
 ## Packages List
+- spells-mtg
+- pyxatu
+- genlist-butler
+- pmmv
+- cdk-vscode-server
+- blocksimpy
+- immich-tools
+- cyclopts
+- ospe
+- genailib
+- agentpm
+- aggregate
+- genshin-impact
+- unstructured2graph
+- auto-yt-dlp
+- toapigdc
+- docpilot
+- tastytrade
 - frame-fwl
 - headson
-- ospe
 - ultralytics-actions
 - imgbb-sdk
 - lunaengine
 - bugbug
 - mqttasgi
 - blindfold
-- genshin-impact
-- immich-tools
 - macrosmiles
 - caniscrape
 - customTraceback
@@ -26,9 +41,7 @@
 - dataframe-textual
 - d4rktg
 - sagemaker-studio-dataengineering-sessions
-- pyxatu
 - AnsiCoolFORMATING
-- toapigdc
 - kosty
 - renovosolutions.aws-cdk-aurora-native-backup
 - lm-deluge
@@ -45,7 +58,6 @@
 - glean-config
 - jenkins-ai-optimizer
 - utils-devops
-- unstructured2graph
 - fgo-api-types
 - nu-lpw-v-cn
 - reasoning-library
@@ -53,7 +65,6 @@
 - aiobmsble
 - fit-webview-bridge
 - kopi-docka
-- genlist-butler
 - pyvolgrid
 - posthoganalytics
 - posthog
@@ -73,18 +84,3 @@
 - matplobbot-shared
 - nous
 - tenauth
-- bluer-algo
-- clockwork
-- kivy-latex-label
-- GPTQModel
-- markdown-reader
-- pg-helper
-- GameSentenceMiner
-- pytera
-- rsspolymlp
-- human-errors
-- kingkybel-pyflashlogger
-- code-puppy
-- kisters.water.time_series
-- pymunk
-- free-transformer
