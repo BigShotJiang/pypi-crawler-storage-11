@@ -1,0 +1,11 @@
+{
+  "name": "detectk-alerters-mattermost",
+  "version": "0.1.0",
+  "summary": "Mattermost alerter for DetectK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "detectk_alerters_mattermost-0.1.0.tar.gz",
+  "download_time": "2025-11-02T22:51:47.272579",
+  "package_url": "https://pypi.org/project/detectk-alerters-mattermost/"
+}

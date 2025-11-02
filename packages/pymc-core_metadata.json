@@ -1,0 +1,11 @@
+{
+  "name": "pymc-core",
+  "version": "1.0.3",
+  "summary": "A Python MeshCore library with SPI LoRa radio support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymc_core-1.0.3.tar.gz",
+  "download_time": "2025-11-02T22:51:49.363365",
+  "package_url": "https://pypi.org/project/pymc-core/"
+}

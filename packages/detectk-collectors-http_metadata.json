@@ -1,0 +1,11 @@
+{
+  "name": "detectk-collectors-http",
+  "version": "0.1.0",
+  "summary": "HTTP/REST API collector for DetectK",
+  "author": "DetectK Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "detectk_collectors_http-0.1.0.tar.gz",
+  "download_time": "2025-11-02T22:51:47.792300",
+  "package_url": "https://pypi.org/project/detectk-collectors-http/"
+}
