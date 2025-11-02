@@ -1,0 +1,11 @@
+{
+  "name": "eval-ab-3d-mot",
+  "version": "2.0.0",
+  "summary": "Evaluation for the Pure AB-3D-MOT.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eval_ab_3d_mot-2.0.0.tar.gz",
+  "download_time": "2025-11-02T17:38:46.374191",
+  "package_url": "https://pypi.org/project/eval-ab-3d-mot/"
+}

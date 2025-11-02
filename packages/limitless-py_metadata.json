@@ -1,0 +1,11 @@
+{
+  "name": "limitless-py",
+  "version": "0.2.0",
+  "summary": "Zero-dep rate limiter — faster than ratelimit, ironically named",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "limitless_py-0.2.0.tar.gz",
+  "download_time": "2025-11-02T17:38:23.394094",
+  "package_url": "https://pypi.org/project/limitless-py/"
+}

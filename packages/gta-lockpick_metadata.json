@@ -1,11 +1,11 @@
 {
   "name": "gta-lockpick",
-  "version": "0.5",
+  "version": "0.6",
   "summary": "Lockpicking automation helper for GTA5 RP mainly for Legacy Roleplay servers where you have to lockpick houses to rob them",
   "author": "Piyush aka Demol",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gta_lockpick-0.5.tar.gz",
-  "download_time": "2025-11-02T01:45:19.334542",
+  "download_filename": "gta_lockpick-0.6.tar.gz",
+  "download_time": "2025-11-02T17:38:44.157722",
   "package_url": "https://pypi.org/project/gta-lockpick/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "riscv-simulator",
+  "version": "0.1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "riscv_simulator-0.1.tar.gz",
+  "download_time": "2025-11-02T17:38:30.123165",
+  "package_url": "https://pypi.org/project/riscv-simulator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-lambda",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "FastAPI fork optimized for AWS Lambda with minimal cold start overhead (inspired by FastAPI by Sebastián Ramírez)",
   "author": "Tobias Silicani",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_lambda-0.3.0.tar.gz",
-  "download_time": "2025-11-01T17:51:11.931491",
+  "download_filename": "fastapi_lambda-0.4.0.tar.gz",
+  "download_time": "2025-11-02T17:38:27.558676",
   "package_url": "https://pypi.org/project/fastapi-lambda/"
 }

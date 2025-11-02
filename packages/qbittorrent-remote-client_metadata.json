@@ -1,0 +1,11 @@
+{
+  "name": "qbittorrent-remote-client",
+  "version": "0.2.0",
+  "summary": "A Python-based command-line tool for remotely managing qBittorrent instances via the Web API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbittorrent_remote_client-0.2.0-py3-none-any.whl",
+  "download_time": "2025-11-02T17:38:22.874832",
+  "package_url": "https://pypi.org/project/qbittorrent-remote-client/"
+}

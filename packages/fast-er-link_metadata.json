@@ -1,0 +1,11 @@
+{
+  "name": "fast-er-link",
+  "version": "0.3.1",
+  "summary": "GPU-Accelerated Record Linkage and Deduplication in Python",
+  "author": "Jacob Morrier, Sulekha Kishore, R. Michael Alvarez",
+  "license": null,
+  "home_page": "https://github.com/jacobmorrier/fast-er",
+  "download_filename": "fast_er_link-0.3.1.tar.gz",
+  "download_time": "2025-11-02T17:38:26.022610",
+  "package_url": "https://pypi.org/project/fast-er-link/"
+}

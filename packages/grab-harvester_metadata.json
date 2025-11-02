@@ -1,0 +1,11 @@
+{
+  "name": "grab-harvester",
+  "version": "0.0.1",
+  "summary": "A lightweight, concurrent, and robust batch file downloader for Python. Simplifies fetching multiple files from URLs by using a thread pool, checking for existing files, and reporting failures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grab_harvester-0.0.1.tar.gz",
+  "download_time": "2025-11-02T17:38:25.511496",
+  "package_url": "https://pypi.org/project/grab-harvester/"
+}
