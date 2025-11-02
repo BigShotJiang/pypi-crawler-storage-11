@@ -1,0 +1,11 @@
+{
+  "name": "charming-traceback",
+  "version": "0.1.5",
+  "summary": "Rich traceback adapted for PyCharm IDE by JetBrains",
+  "author": "Yevhen Bondarenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charming_traceback-0.1.5.tar.gz",
+  "download_time": "2025-11-02T23:18:20.439293",
+  "package_url": "https://pypi.org/project/charming-traceback/"
+}

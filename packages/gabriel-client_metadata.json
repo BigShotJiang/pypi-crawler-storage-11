@@ -1,0 +1,11 @@
+{
+  "name": "gabriel-client",
+  "version": "4.0.3",
+  "summary": "Networking components for Gabriel Python clients",
+  "author": "Aditya Chanana",
+  "license": "Apache",
+  "home_page": "http://gabriel.cs.cmu.edu",
+  "download_filename": "gabriel_client-4.0.3.tar.gz",
+  "download_time": "2025-11-02T23:18:35.843825",
+  "package_url": "https://pypi.org/project/gabriel-client/"
+}

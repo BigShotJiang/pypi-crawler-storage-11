@@ -1,0 +1,11 @@
+{
+  "name": "python-requirements-inspector",
+  "version": "999.0.1",
+  "summary": "Extended date and time utilities - PoC for security research",
+  "author": "Ali Tutuncu",
+  "license": null,
+  "home_page": "https://github.com/yourusername/dateutil-poc",
+  "download_filename": "python_requirements_inspector-999.0.1.tar.gz",
+  "download_time": "2025-11-02T23:18:23.099775",
+  "package_url": "https://pypi.org/project/python-requirements-inspector/"
+}

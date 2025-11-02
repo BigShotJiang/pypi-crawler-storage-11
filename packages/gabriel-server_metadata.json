@@ -1,0 +1,11 @@
+{
+  "name": "gabriel-server",
+  "version": "4.0.3",
+  "summary": "Server for Wearable Cognitive Assistance Applications",
+  "author": "Aditya Chanana",
+  "license": "Apache",
+  "home_page": "http://gabriel.cs.cmu.edu",
+  "download_filename": "gabriel_server-4.0.3.tar.gz",
+  "download_time": "2025-11-02T23:18:38.423387",
+  "package_url": "https://pypi.org/project/gabriel-server/"
+}
