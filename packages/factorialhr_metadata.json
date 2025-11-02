@@ -1,0 +1,11 @@
+{
+  "name": "factorialhr",
+  "version": "5.0.2",
+  "summary": "Python package for the api of FactorialHR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "factorialhr-5.0.2.tar.gz",
+  "download_time": "2025-11-02T14:39:05.969092",
+  "package_url": "https://pypi.org/project/factorialhr/"
+}

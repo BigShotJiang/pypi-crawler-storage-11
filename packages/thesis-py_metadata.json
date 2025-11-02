@@ -1,0 +1,11 @@
+{
+  "name": "thesis-py",
+  "version": "1.0.3",
+  "summary": "Python SDK for Thesis.io APIs.",
+  "author": "Oraichain Labs",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/oraichain/thesis-py",
+  "download_filename": "thesis_py-1.0.3.tar.gz",
+  "download_time": "2025-11-02T14:39:24.914776",
+  "package_url": "https://pypi.org/project/thesis-py/"
+}

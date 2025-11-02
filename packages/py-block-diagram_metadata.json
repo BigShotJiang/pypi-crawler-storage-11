@@ -1,0 +1,11 @@
+{
+  "name": "py-block-diagram",
+  "version": "1.6.1",
+  "summary": "package for  the backend of modeling controls block diagrams in python",
+  "author": "Ryan Krauss",
+  "license": null,
+  "home_page": "https://github.com/ryanGT/py_block_diagram",
+  "download_filename": "py_block_diagram-1.6.1.tar.gz",
+  "download_time": "2025-11-02T14:39:18.239789",
+  "package_url": "https://pypi.org/project/py-block-diagram/"
+}

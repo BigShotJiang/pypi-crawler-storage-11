@@ -1,32 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T14:17:59.598355
-- **Total Packages**: 83
-- **Total Size**: 22.05 MB
+- **Download Time**: 2025-11-02T14:39:45.295430
+- **Total Packages**: 72
+- **Total Size**: 18.79 MB
 
 ## Packages List
-- lexia
+- langchain-localai
+- simplefractions
+- p115wsgidav
+- factorialhr
+- TkinterExtras
+- hcom
+- zeta-cli
+- kailash-dataflow
+- kagura-ai
+- spacemouse-sdk
+- kailash
+- terminate
+- chuk-mcp
+- blackmarblepy
+- mytestpkg-bipin
+- samsung-widgets
+- pygenpdf-json
+- coinex-mcp-server
+- uplang
+- tacoreader
+- chutes
+- snapmark
+- sploitscan
+- legit-api-client
+- icupy
+- py-block-diagram
+- pushikoo-interface
+- anna-agent
+- kaspersmicrobit
 - fluxloop-cli
+- nonebot-plugin-course-schedule
+- dc43-contracts-app
+- dc43-integrations
+- dc43-service-backends
+- dc43-service-clients
+- dshellInterpreter
+- thesis-py
+- seaart
+- mem-llm
+- django-minio-backend
+- onion-arch
+- maleo-middlewares
+- compel
+- project-manager-mcp
+- cql2
+- carconnectivity-connector-tronity
+- rigol-dho824-mcp
+- lexia
 - frogml
 - py-ip2region
 - conson-xp
 - soia-client
-- pushikoo-interface
 - flowtrace
 - asyncmq
 - gh-release-install
-- onion-arch
-- dshellInterpreter
-- legit-api-client
 - pyexcel-handsontable
 - VideoRAC
-- TkinterExtras
 - carconnectivity-connector-seatcupra
 - mini-apigw
 - signal-client
 - oasm
-- nonebot-plugin-course-schedule
 - diffrays
 - slurm-requests
 - cmpr
@@ -38,54 +78,3 @@
 - code-puppy
 - highway-core
 - fluxloop
-- dc43-contracts-app
-- dc43-integrations
-- dc43-service-backends
-- dc43-service-clients
-- vmfinder
-- maleo-google
-- rest-requests
-- fificore
-- specpulse
-- terminate
-- pytelecomm
-- jfjoch-client
-- openmemory-py
-- recator
-- testgres.postgres-configuration
-- maleo-client
-- timetap
-- paraconsistent
-- airflow-breeze-manager
-- ravanan
-- openubmc-bingo
-- loam
-- dayabay-model-official
-- asynkit
-- rigol-dho824-mcp
-- tfkit-py
-- toons
-- python-plugins
-- maleo-infra
-- pyarchinit-mini
-- tensordict-nightly
-- bsym
-- fidax
-- PyX
-- fastapi-limiter-valkey
-- absfuyu
-- maleo-database
-- aethermagic
-- mcp2py
-- jupyterlab-classiq
-- classiq
-- diem-cli
-- cwltool
-- imgcmprs
-- cloud-native-architecture-mcp
-- intuned-browser
-- Blinter
-- httpdbg
-- madevent7
-- carconnectivity-connector-volkswagen
-- apppy-logger

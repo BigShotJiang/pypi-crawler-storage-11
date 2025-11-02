@@ -1,11 +1,11 @@
 {
   "name": "dc43-integrations",
-  "version": "0.24.0.0",
+  "version": "0.25.0.0",
   "summary": "Runtime integrations built on dc43 service contracts",
   "author": "Andy Petrella",
   "license": null,
   "home_page": null,
-  "download_filename": "dc43_integrations-0.24.0.0.tar.gz",
-  "download_time": "2025-11-02T14:17:32.816898",
+  "download_filename": "dc43_integrations-0.25.0.0.tar.gz",
+  "download_time": "2025-11-02T14:39:22.738678",
   "package_url": "https://pypi.org/project/dc43-integrations/"
 }

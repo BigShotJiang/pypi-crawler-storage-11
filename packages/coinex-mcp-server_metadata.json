@@ -1,0 +1,11 @@
+{
+  "name": "coinex-mcp-server",
+  "version": "0.1.0a2",
+  "summary": "A CoinEx MCP (Model Context Protocol) server that enables AI agents to interact with the CoinEx cryptocurrency exchange",
+  "author": "CoinEx MCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coinex_mcp_server-0.1.0a2.tar.gz",
+  "download_time": "2025-11-02T14:39:13.837224",
+  "package_url": "https://pypi.org/project/coinex-mcp-server/"
+}

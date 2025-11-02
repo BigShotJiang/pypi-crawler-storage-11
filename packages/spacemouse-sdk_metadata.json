@@ -1,0 +1,11 @@
+{
+  "name": "spacemouse-sdk",
+  "version": "0.1.0",
+  "summary": "A Python SDK for spacemouse functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spacemouse_sdk-0.1.0.tar.gz",
+  "download_time": "2025-11-02T14:39:09.365880",
+  "package_url": "https://pypi.org/project/spacemouse-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "p115wsgidav",
-  "version": "0.0.3",
+  "version": "0.0.3.2",
   "summary": "Python 115 WsgiDAV",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/p115client/tree/main/modules/p115wsgidav",
-  "download_filename": "p115wsgidav-0.0.3.tar.gz",
-  "download_time": "2025-11-02T12:36:59.139968",
+  "download_filename": "p115wsgidav-0.0.3.2.tar.gz",
+  "download_time": "2025-11-02T14:39:05.395880",
   "package_url": "https://pypi.org/project/p115wsgidav/"
 }
