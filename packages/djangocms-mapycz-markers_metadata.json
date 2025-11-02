@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-mapycz-markers",
+  "version": "3.0.0",
+  "summary": "DjangoCMS Mapy.cz Markers",
+  "author": "Zdeněk Böhm",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.nic.cz/djangocms-apps/djangocms-mapycz-markers.git",
+  "download_filename": "djangocms_mapycz_markers-3.0.0.tar.gz",
+  "download_time": "2025-11-02T16:43:07.800949",
+  "package_url": "https://pypi.org/project/djangocms-mapycz-markers/"
+}

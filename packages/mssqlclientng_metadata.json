@@ -1,0 +1,11 @@
+{
+  "name": "mssqlclientng",
+  "version": "0.9.1",
+  "summary": "Enhanced version of impacket's mssqlclient.py. It lets you interact with Microsoft SQL Server (MS SQL / MSSQL) servers and their linked instances, impersonating any account encountered along the way, without requiring complex T-SQL queries.",
+  "author": "n3rada",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/n3rada/mssqlclient-ng",
+  "download_filename": "mssqlclientng-0.9.1.tar.gz",
+  "download_time": "2025-11-02T16:43:12.066048",
+  "package_url": "https://pypi.org/project/mssqlclientng/"
+}
