@@ -1,11 +1,11 @@
 {
   "name": "cloud-native-architecture-mcp",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "MCP server for building cloud-native architecture diagrams (Kubernetes, AWS, GCP)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloud_native_architecture_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-02T13:32:06.279316",
+  "download_filename": "cloud_native_architecture_mcp-0.1.5.tar.gz",
+  "download_time": "2025-11-02T13:51:47.550424",
   "package_url": "https://pypi.org/project/cloud-native-architecture-mcp/"
 }

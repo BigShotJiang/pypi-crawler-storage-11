@@ -1,11 +1,11 @@
 {
   "name": "wraipperz",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "summary": "Simple wrappers for various AI APIs including LLMs, ASR, and TTS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wraipperz-0.1.45-py3-none-any.whl",
-  "download_time": "2025-11-01T18:44:31.463621",
+  "download_filename": "wraipperz-0.1.46-py3-none-any.whl",
+  "download_time": "2025-11-02T13:51:44.173148",
   "package_url": "https://pypi.org/project/wraipperz/"
 }

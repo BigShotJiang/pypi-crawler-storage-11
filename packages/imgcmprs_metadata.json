@@ -1,0 +1,11 @@
+{
+  "name": "imgcmprs",
+  "version": "0.1.2",
+  "summary": "Fast, safe CLI to compress JPEG & PNG, lossless/lossy, batch or single images.",
+  "author": "Eyad Mohammed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgcmprs-0.1.2.tar.gz",
+  "download_time": "2025-11-02T13:51:47.008743",
+  "package_url": "https://pypi.org/project/imgcmprs/"
+}
