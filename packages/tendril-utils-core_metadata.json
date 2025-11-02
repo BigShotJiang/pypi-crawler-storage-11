@@ -1,11 +1,11 @@
 {
   "name": "tendril-utils-core",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Core utilities for tendril",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/tendril-framework/tendril-utils-core",
-  "download_filename": "tendril_utils_core-0.6.0.tar.gz",
-  "download_time": "2025-11-01T23:18:07.918970",
+  "download_filename": "tendril_utils_core-0.6.1.tar.gz",
+  "download_time": "2025-11-02T08:52:54.613446",
   "package_url": "https://pypi.org/project/tendril-utils-core/"
 }

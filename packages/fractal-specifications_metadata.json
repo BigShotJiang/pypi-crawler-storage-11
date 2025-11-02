@@ -1,0 +1,11 @@
+{
+  "name": "fractal-specifications",
+  "version": "3.4.1",
+  "summary": "Fractal Specifications is an implementation of the specification pattern for building SOLID logic for your Python applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fractal_specifications-3.4.1.tar.gz",
+  "download_time": "2025-11-02T08:53:09.323732",
+  "package_url": "https://pypi.org/project/fractal-specifications/"
+}

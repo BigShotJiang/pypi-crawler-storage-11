@@ -1,0 +1,11 @@
+{
+  "name": "ttp",
+  "version": "0.10.0",
+  "summary": "Template Text Parser",
+  "author": "Denis Mulyalin",
+  "license": "MIT",
+  "home_page": "https://github.com/dmulyalin/ttp",
+  "download_filename": "ttp-0.10.0.tar.gz",
+  "download_time": "2025-11-02T08:52:56.152491",
+  "package_url": "https://pypi.org/project/ttp/"
+}

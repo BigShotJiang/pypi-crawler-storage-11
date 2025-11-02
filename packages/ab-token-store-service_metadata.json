@@ -1,11 +1,11 @@
 {
   "name": "ab-token-store-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Storres user tokens for Auth Broker.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_token_store_service-0.1.0.tar.gz",
-  "download_time": "2025-11-02T08:23:22.045901",
+  "download_filename": "ab_token_store_service-0.1.1.tar.gz",
+  "download_time": "2025-11-02T08:53:11.935742",
   "package_url": "https://pypi.org/project/ab-token-store-service/"
 }
