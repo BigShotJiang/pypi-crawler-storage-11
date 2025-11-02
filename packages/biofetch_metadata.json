@@ -1,0 +1,11 @@
+{
+  "name": "biofetch",
+  "version": "1.0.2",
+  "summary": "Unified Bioinformatics Data Downloader - CLI and Python Package",
+  "author": "Ananaya",
+  "license": "MIT",
+  "home_page": "https://github.com/Ananaya-J/Biofetch",
+  "download_filename": "biofetch-1.0.2.tar.gz",
+  "download_time": "2025-11-02T09:51:50.166963",
+  "package_url": "https://pypi.org/project/biofetch/"
+}
