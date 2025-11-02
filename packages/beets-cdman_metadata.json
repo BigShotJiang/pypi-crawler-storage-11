@@ -1,11 +1,11 @@
 {
   "name": "beets-cdman",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Easily manage your CD collection with beets",
   "author": "Tactical Laptop Bag",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/TacticalLaptopBag/beets-cdman",
-  "download_filename": "beets_cdman-1.0.0.tar.gz",
-  "download_time": "2025-11-01T20:19:36.546197",
+  "download_filename": "beets_cdman-1.0.2.tar.gz",
+  "download_time": "2025-11-02T21:37:36.498850",
   "package_url": "https://pypi.org/project/beets-cdman/"
 }

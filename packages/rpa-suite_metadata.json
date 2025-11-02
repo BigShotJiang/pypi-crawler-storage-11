@@ -1,0 +1,11 @@
+{
+  "name": "rpa-suite",
+  "version": "1.6.6",
+  "summary": "Comprehensive Python toolkit for RPA automation: email, logging, database tracking, browser automation, OCR, desktop automation, and more. Essential utilities for building robust automation workflows with Selenium, Botcity, and custom solutions.",
+  "author": "Camilo Costa de Carvalho",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rpa_suite-1.6.6.tar.gz",
+  "download_time": "2025-11-02T21:37:40.621755",
+  "package_url": "https://pypi.org/project/rpa-suite/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hassette",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "summary": "Hassette is a simple, modern, async-first Python framework for building Home Assistant automations.",
   "author": "Jessica",
   "license": null,
   "home_page": null,
-  "download_filename": "hassette-0.15.0.tar.gz",
-  "download_time": "2025-11-02T21:17:00.655733",
+  "download_filename": "hassette-0.15.1.tar.gz",
+  "download_time": "2025-11-02T21:37:46.805149",
   "package_url": "https://pypi.org/project/hassette/"
 }

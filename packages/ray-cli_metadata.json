@@ -1,0 +1,11 @@
+{
+  "name": "ray-cli",
+  "version": "0.6.0",
+  "summary": "Command-line utility for generating and broadcasting DMX over sACN",
+  "author": "Norbert Batiuk",
+  "license": "MIT",
+  "home_page": "https://github.com/nobbmaestro/ray-cli",
+  "download_filename": "ray_cli-0.6.0.tar.gz",
+  "download_time": "2025-11-02T21:37:45.107763",
+  "package_url": "https://pypi.org/project/ray-cli/"
+}
