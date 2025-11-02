@@ -1,0 +1,11 @@
+{
+  "name": "ass-to-lrc",
+  "version": "0.3.0",
+  "summary": "Convert ASS subtitle files to LRC lyrics format with karaoke timing support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ass_to_lrc-0.3.0.tar.gz",
+  "download_time": "2025-11-02T06:50:28.488076",
+  "package_url": "https://pypi.org/project/ass-to-lrc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bwamem",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "summary": "Bindings to bwa aligner",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "bwamem-0.0.41.tar.gz",
-  "download_time": "2025-11-02T06:29:40.949012",
+  "download_filename": "bwamem-0.0.42-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-11-02T06:50:19.628303",
   "package_url": "https://pypi.org/project/bwamem/"
 }

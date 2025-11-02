@@ -1,0 +1,11 @@
+{
+  "name": "rsspolymlp",
+  "version": "0.2.9",
+  "summary": "A framework for random structure search using polynomial MLPs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsspolymlp-0.2.9.tar.gz",
+  "download_time": "2025-11-02T06:50:24.906610",
+  "package_url": "https://pypi.org/project/rsspolymlp/"
+}

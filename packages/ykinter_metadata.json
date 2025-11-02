@@ -1,0 +1,11 @@
+{
+  "name": "ykinter",
+  "version": "1.0.0",
+  "summary": "一个极简的Python GUI库，基于tkinter，让GUI开发变得简单易用",
+  "author": "王子毅",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ykinter-1.0.0.tar.gz",
+  "download_time": "2025-11-02T06:50:31.575572",
+  "package_url": "https://pypi.org/project/ykinter/"
+}
