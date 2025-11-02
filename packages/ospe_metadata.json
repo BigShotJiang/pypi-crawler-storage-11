@@ -1,11 +1,11 @@
 {
   "name": "ospe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": null,
   "author": "xyz",
   "license": null,
   "home_page": null,
-  "download_filename": "ospe-0.0.1.tar.gz",
-  "download_time": "2025-11-02T17:51:39.656342",
+  "download_filename": "ospe-0.0.2.tar.gz",
+  "download_time": "2025-11-02T19:14:41.989383",
   "package_url": "https://pypi.org/project/ospe/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "divide21env",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Gymnasium environment for the game Divide21",
   "author": "Jacinto Jeje Matamba Quimua",
   "license": "MIT",
   "home_page": "https://github.com/jaci-hub/divide21Env",
-  "download_filename": "divide21env-0.1.4.tar.gz",
-  "download_time": "2025-11-02T18:55:34.685605",
+  "download_filename": "divide21env-0.1.5.tar.gz",
+  "download_time": "2025-11-02T19:14:49.466365",
   "package_url": "https://pypi.org/project/divide21env/"
 }

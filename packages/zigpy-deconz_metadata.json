@@ -1,0 +1,11 @@
+{
+  "name": "zigpy-deconz",
+  "version": "0.25.5",
+  "summary": "A library which communicates with Deconz radios for zigpy",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "zigpy_deconz-0.25.5.tar.gz",
+  "download_time": "2025-11-02T19:14:39.340395",
+  "package_url": "https://pypi.org/project/zigpy-deconz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "textsimilarityplus",
+  "version": "0.1.0",
+  "summary": "A simple ML package to compute text similarity using TF-IDF",
+  "author": "Devam Shah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textsimilarityplus-0.1.0.tar.gz",
+  "download_time": "2025-11-02T19:14:37.218300",
+  "package_url": "https://pypi.org/project/textsimilarityplus/"
+}

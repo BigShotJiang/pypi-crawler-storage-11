@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-ai-optimizer",
+  "version": "1.0.1",
+  "summary": "MCP server for Jenkins integration with AI assistants, providing build management, log analysis, and failure diagnostics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jenkins_ai_optimizer-1.0.1.tar.gz",
+  "download_time": "2025-11-02T19:14:41.453881",
+  "package_url": "https://pypi.org/project/jenkins-ai-optimizer/"
+}
