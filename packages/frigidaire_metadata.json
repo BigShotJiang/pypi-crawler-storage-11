@@ -1,0 +1,11 @@
+{
+  "name": "frigidaire",
+  "version": "0.18.26",
+  "summary": "Python API for the Frigidaire 2.0 App",
+  "author": "Brian Marks",
+  "license": "MIT",
+  "home_page": "https://github.com/bm1549/frigidaire",
+  "download_filename": "frigidaire-0.18.26.tar.gz",
+  "download_time": "2025-11-02T17:16:39.404261",
+  "package_url": "https://pypi.org/project/frigidaire/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "piwwwaterflow",
+  "version": "1.2.5",
+  "summary": "Raspberry Pi Waterflow resilient system",
+  "author": "Ismael Raya",
+  "license": null,
+  "home_page": "https://github.com/Phornee/piwwwaterflow",
+  "download_filename": "piwwwaterflow-1.2.5-py3-none-any.whl",
+  "download_time": "2025-11-02T17:16:45.198989",
+  "package_url": "https://pypi.org/project/piwwwaterflow/"
+}

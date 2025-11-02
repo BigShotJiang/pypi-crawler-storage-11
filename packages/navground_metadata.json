@@ -1,0 +1,11 @@
+{
+  "name": "navground",
+  "version": "0.7.0",
+  "summary": "A playground to experiment with navigation algorithms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "navground-0.7.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-11-02T17:16:33.707765",
+  "package_url": "https://pypi.org/project/navground/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pytorch-tabnet2",
-  "version": "4.5.2",
+  "version": "4.5.3",
   "summary": "PyTorch implementation of TabNet",
   "author": "DreamQuark",
   "license": null,
   "home_page": null,
-  "download_filename": "pytorch_tabnet2-4.5.2.tar.gz",
-  "download_time": "2025-11-01T16:41:48.491225",
+  "download_filename": "pytorch_tabnet2-4.5.3.tar.gz",
+  "download_time": "2025-11-02T17:16:47.766464",
   "package_url": "https://pypi.org/project/pytorch-tabnet2/"
 }

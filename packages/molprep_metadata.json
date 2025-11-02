@@ -1,11 +1,11 @@
 {
   "name": "molprep",
-  "version": "0.0.1rc11762102352",
+  "version": "0.0.2",
   "summary": "A Python package for streamlined preparation of protein structures and drug-like molecules for virtual screening workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "molprep-0.0.1rc11762102352.tar.gz",
-  "download_time": "2025-11-02T16:54:22.173542",
+  "download_filename": "molprep-0.0.2.tar.gz",
+  "download_time": "2025-11-02T17:16:49.313061",
   "package_url": "https://pypi.org/project/molprep/"
 }

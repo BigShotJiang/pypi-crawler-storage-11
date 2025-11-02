@@ -1,0 +1,11 @@
+{
+  "name": "cfv",
+  "version": "3.2.0",
+  "summary": "Command-line File Verify - versatile file checksum creator and verifier",
+  "author": "Lisa Gnedt (Current Maintainer)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfv-3.2.0.tar.gz",
+  "download_time": "2025-11-02T17:16:42.121940",
+  "package_url": "https://pypi.org/project/cfv/"
+}

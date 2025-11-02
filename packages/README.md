@@ -1,16 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T16:54:59.783914
-- **Total Packages**: 75
-- **Total Size**: 27.22 MB
+- **Download Time**: 2025-11-02T17:17:10.676415
+- **Total Packages**: 81
+- **Total Size**: 23.88 MB
 
 ## Packages List
+- CAPE-parsers
+- winipedia-utils
+- langchain-pinecone
+- openfisca-nouvelle-caledonie
+- aiohomematic-test-support
+- Graphinate
+- minidocker
+- optimalportfolios
+- acido
+- navground
+- customTraceback
+- gtext
+- frame-fwl
+- pyarchinit-mini
+- ace-context-engineering
+- posthoganalytics
+- posthog
+- gfModParser
+- nightscout-dash
+- pyomicron
+- frigidaire
+- swingft-test-v3
+- ptwebdiscover
+- gridstatusio
+- petal-app-manager
+- cfv
+- pywhatlang
+- passginity
+- kaiiddo-dld
+- fleet-client
+- crystalwindow
+- piwwwaterflow
+- rug
+- utils-devops
+- hippocampai
+- chemgraphbuilder
+- pytorch-tabnet2
+- passgen3
+- jambazid-poetry-demo
+- molprep
+- atprun
+- homa
+- lpsds
 - starship-mcp
 - polysolve
 - pddlpy
 - adwaithamadhu
-- molprep
 - semantic-bit
 - mysingle
 - tacoreader
@@ -19,9 +61,7 @@
 - ministatus
 - omniopt2
 - anb-python-components
-- swingft-test-v3
 - aind-clabe
-- nightscout-dash
 - dshellInterpreter
 - ci-guardian
 - pure-ab-3d-mot
@@ -38,7 +78,6 @@
 - llwp
 - langmiddle
 - dogpile-breaker
-- fleet-client
 - ansible-doc-template-extractor
 - je-editor-dev
 - je-editor
@@ -47,37 +86,4 @@
 - sap-gui-engine
 - trytond-account
 - obscurix
-- atprun
 - starlog-mcp
-- trytond-account-payment-stripe
-- hyhound
-- trytond-account-statement-rule
-- kodexa-cli
-- q3dviewer
-- kaiiddo-dld
-- gmtorch
-- acido
-- psycopg-toolkit
-- trytond-account-stock-eu
-- chutes
-- pushikoo-interface
-- gpu-gillespie
-- pfsense-redactor
-- arc-atlas
-- trytond-account-tax-non-deductible
-- tts-chatterbox
-- iot-inspector
-- ttkbootstrap-icons-fa
-- symlink-editor
-- pyarchinit-mini
-- datachain
-- trytond-document-incoming-invoice
-- scantool
-- sdss-flicamera
-- quietml
-- asn1cipher
-- swiftbot
-- aignostics
-- evenage
-- trytond-sale-discount
-- ttkbootstrap-icons
