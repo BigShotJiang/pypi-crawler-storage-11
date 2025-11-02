@@ -1,0 +1,11 @@
+{
+  "name": "tacc-encoder",
+  "version": "0.2.1",
+  "summary": "Mapping utilities for converting between tokenizer tokens and zero-centred ids",
+  "author": "Elijah Kurien",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tacc_encoder-0.2.1.tar.gz",
+  "download_time": "2025-11-02T04:54:50.927491",
+  "package_url": "https://pypi.org/project/tacc-encoder/"
+}

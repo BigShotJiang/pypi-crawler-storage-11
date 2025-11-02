@@ -1,11 +1,11 @@
 {
   "name": "facial-recognition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Most effective and easiest to install python library for recognising faces in images or videos",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "facial_recognition-0.0.1.tar.gz",
-  "download_time": "2025-11-01T21:16:19.772950",
+  "download_filename": "facial_recognition-0.0.2.tar.gz",
+  "download_time": "2025-11-02T04:55:12.683900",
   "package_url": "https://pypi.org/project/facial-recognition/"
 }

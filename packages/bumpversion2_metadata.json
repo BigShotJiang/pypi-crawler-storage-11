@@ -1,0 +1,11 @@
+{
+  "name": "bumpversion2",
+  "version": "1.5.1",
+  "summary": "Make it easy to bump version by command line.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bumpversion2-1.5.1.tar.gz",
+  "download_time": "2025-11-02T04:55:14.248238",
+  "package_url": "https://pypi.org/project/bumpversion2/"
+}

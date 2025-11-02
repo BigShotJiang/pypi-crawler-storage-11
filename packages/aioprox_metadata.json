@@ -1,0 +1,11 @@
+{
+  "name": "aioprox",
+  "version": "0.1.2",
+  "summary": "Async Python proxy manager with latency testing",
+  "author": "JordanAllen101",
+  "license": "MIT",
+  "home_page": "https://github.com/JordanAllen101/AioProx",
+  "download_filename": "aioprox-0.1.2.tar.gz",
+  "download_time": "2025-11-02T04:54:56.834955",
+  "package_url": "https://pypi.org/project/aioprox/"
+}

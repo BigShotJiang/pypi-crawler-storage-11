@@ -1,11 +1,11 @@
 {
   "name": "tianhe-ragas",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "tianhe ragas modules",
   "author": "Tianhe-Ai",
   "license": "Apache 2.0",
   "home_page": "https://github.com/cicit/tianhe",
-  "download_filename": "tianhe_ragas-1.0.4.tar.gz",
-  "download_time": "2025-11-01T14:38:46.188917",
+  "download_filename": "tianhe_ragas-1.0.5.tar.gz",
+  "download_time": "2025-11-02T04:54:54.216077",
   "package_url": "https://pypi.org/project/tianhe-ragas/"
 }
