@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-server-lib",
+  "version": "0.0.1",
+  "summary": "This is a library to control minecraft server",
+  "author": "fanghuangxu",
+  "license": "Apache-2.0",
+  "home_page": "https://gitee.com/colidstudio/minecraft-server-lib",
+  "download_filename": "minecraft_server_lib-0.0.1.tar.gz",
+  "download_time": "2025-11-02T03:53:39.625320",
+  "package_url": "https://pypi.org/project/minecraft-server-lib/"
+}

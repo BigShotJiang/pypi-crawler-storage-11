@@ -1,0 +1,11 @@
+{
+  "name": "textual-vimkeys-input",
+  "version": "0.3.2",
+  "summary": "Comprehensive Vim-style modal editing widget for Textual with operator+motion, text objects, and visual mode",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textual_vimkeys_input-0.3.2.tar.gz",
+  "download_time": "2025-11-02T03:53:53.039602",
+  "package_url": "https://pypi.org/project/textual-vimkeys-input/"
+}

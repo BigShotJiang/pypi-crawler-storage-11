@@ -1,0 +1,11 @@
+{
+  "name": "bork",
+  "version": "10.0.3",
+  "summary": "A program to help build, maintain, and release PEP 517-compliant projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bork-10.0.3.tar.gz",
+  "download_time": "2025-11-02T03:53:41.716792",
+  "package_url": "https://pypi.org/project/bork/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "changelist-data",
+  "version": "0.2.5",
+  "summary": "Data package for Changelists CLI Tools",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/changelist-data/",
+  "download_filename": "changelist_data-0.2.5.tar.gz",
+  "download_time": "2025-11-02T03:53:42.742416",
+  "package_url": "https://pypi.org/project/changelist-data/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "circuitpython-serial-neopixel",
+  "version": "1.0.0",
+  "summary": "A CircuitPython library for managing segments of NeoPixel strips as independent addressable units (works on CircuitPython and Raspberry Pi)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "circuitpython_serial_neopixel-1.0.0.tar.gz",
+  "download_time": "2025-11-02T03:53:53.552012",
+  "package_url": "https://pypi.org/project/circuitpython-serial-neopixel/"
+}
