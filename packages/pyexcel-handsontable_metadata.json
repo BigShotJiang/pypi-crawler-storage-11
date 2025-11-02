@@ -1,0 +1,11 @@
+{
+  "name": "pyexcel-handsontable",
+  "version": "0.0.3",
+  "summary": "A pyexcel plugin to render data as handsontable in html pages",
+  "author": "C.W.",
+  "license": "New BSD",
+  "home_page": "https://github.com/pyexcel-renderers/pyexcel-handsontable",
+  "download_filename": "pyexcel_handsontable-0.0.3-py3-none-any.whl",
+  "download_time": "2025-11-02T14:17:20.295193",
+  "package_url": "https://pypi.org/project/pyexcel-handsontable/"
+}

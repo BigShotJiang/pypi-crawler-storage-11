@@ -1,0 +1,11 @@
+{
+  "name": "signal-client",
+  "version": "0.1.0",
+  "summary": "A Python framework for building Signal bots.",
+  "author": "cornellshakh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "signal_client-0.1.0.tar.gz",
+  "download_time": "2025-11-02T14:17:22.905959",
+  "package_url": "https://pypi.org/project/signal-client/"
+}

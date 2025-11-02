@@ -1,11 +1,11 @@
 {
   "name": "terminate",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Different ways to exit program.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terminate-0.0.4.tar.gz",
-  "download_time": "2025-11-02T13:32:06.799348",
+  "download_filename": "terminate-0.0.5.tar.gz",
+  "download_time": "2025-11-02T14:17:37.134512",
   "package_url": "https://pypi.org/project/terminate/"
 }

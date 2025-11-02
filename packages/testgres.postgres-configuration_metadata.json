@@ -1,0 +1,11 @@
+{
+  "name": "testgres.postgres-configuration",
+  "version": "0.1.0",
+  "summary": "PostgreSQL Configuration Python Library",
+  "author": "Postgres Professional",
+  "license": "PostgreSQL",
+  "home_page": "https://github.com/postgrespro/testgres.pg_conf",
+  "download_filename": "testgres_postgres_configuration-0.1.0.tar.gz",
+  "download_time": "2025-11-02T14:17:39.789573",
+  "package_url": "https://pypi.org/project/testgres.postgres-configuration/"
+}

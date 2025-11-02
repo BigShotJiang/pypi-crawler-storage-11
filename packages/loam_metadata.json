@@ -1,0 +1,11 @@
+{
+  "name": "loam",
+  "version": "0.9.0",
+  "summary": "Light configuration manager",
+  "author": "Adrien Morison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "loam-0.9.0.tar.gz",
+  "download_time": "2025-11-02T14:17:43.512872",
+  "package_url": "https://pypi.org/project/loam/"
+}

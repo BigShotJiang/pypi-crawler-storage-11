@@ -1,0 +1,11 @@
+{
+  "name": "diffrays",
+  "version": "1.6.2",
+  "summary": "Binary Diff Analysis Tool - Decompile, Compare, and Visualize Binary Changes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diffrays-1.6.2.tar.gz",
+  "download_time": "2025-11-02T14:17:24.789988",
+  "package_url": "https://pypi.org/project/diffrays/"
+}

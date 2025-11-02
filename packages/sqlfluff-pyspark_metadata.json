@@ -1,0 +1,11 @@
+{
+  "name": "sqlfluff-pyspark",
+  "version": "0.1.1",
+  "summary": "Checks and fixes SQL code for PySpark SQL using SQLFluff.",
+  "author": "Daniel Tom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlfluff_pyspark-0.1.1.tar.gz",
+  "download_time": "2025-11-02T14:17:27.965391",
+  "package_url": "https://pypi.org/project/sqlfluff-pyspark/"
+}

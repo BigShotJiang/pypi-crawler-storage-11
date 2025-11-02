@@ -1,11 +1,11 @@
 {
   "name": "onion-arch",
-  "version": "0.0.1",
-  "summary": "[a useless module now.] Loose your package-project with Onion-Mode.",
+  "version": "0.1.2",
+  "summary": "Loose your package-project with Onion-Mode.",
   "author": null,
   "license": "Apache Licence 2.0",
   "home_page": null,
-  "download_filename": "onion_arch-0.0.1.tar.gz",
-  "download_time": "2025-11-01T15:37:38.494748",
+  "download_filename": "onion_arch-0.1.2.tar.gz",
+  "download_time": "2025-11-02T14:17:18.716792",
   "package_url": "https://pypi.org/project/onion-arch/"
 }

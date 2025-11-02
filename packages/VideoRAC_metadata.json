@@ -1,11 +1,11 @@
 {
   "name": "VideoRAC",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Video Retrieval-Augmented Chunking and Q&A Generation Toolkit",
   "author": null,
   "license": "CC BY 4.0",
   "home_page": null,
-  "download_filename": "videorac-0.1.1.tar.gz",
-  "download_time": "2025-11-02T13:52:07.552697",
+  "download_filename": "videorac-0.1.5.tar.gz",
+  "download_time": "2025-11-02T14:17:20.815634",
   "package_url": "https://pypi.org/project/VideoRAC/"
 }

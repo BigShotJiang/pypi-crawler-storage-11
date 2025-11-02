@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-limiter-valkey",
+  "version": "0.1.2",
+  "summary": "A request rate limiter for fastapi",
+  "author": "Scraiber",
+  "license": "Apache2.0",
+  "home_page": null,
+  "download_filename": "fastapi_limiter_valkey-0.1.2.tar.gz",
+  "download_time": "2025-11-02T14:17:50.762933",
+  "package_url": "https://pypi.org/project/fastapi-limiter-valkey/"
+}
