@@ -1,0 +1,11 @@
+{
+  "name": "nivara",
+  "version": "0.2.4",
+  "summary": "Minimal client to record LLM/AI usage metrics to the Nivara Metrics API",
+  "author": "Nivara Tech",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "nivara-0.2.4.tar.gz",
+  "download_time": "2025-11-02T06:30:05.754380",
+  "package_url": "https://pypi.org/project/nivara/"
+}

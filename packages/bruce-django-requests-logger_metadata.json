@@ -1,0 +1,11 @@
+{
+  "name": "bruce-django-requests-logger",
+  "version": "0.1.1",
+  "summary": "A Django middleware for comprehensive HTTP request logging",
+  "author": "Bruce",
+  "license": null,
+  "home_page": "https://github.com/yourusername/bruce-django-requests-logger",
+  "download_filename": "bruce_django_requests_logger-0.1.1.tar.gz",
+  "download_time": "2025-11-02T06:29:39.305761",
+  "package_url": "https://pypi.org/project/bruce-django-requests-logger/"
+}

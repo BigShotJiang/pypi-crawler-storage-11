@@ -1,18 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T05:52:30.478631
-- **Total Packages**: 76
-- **Total Size**: 3.6 MB
+- **Download Time**: 2025-11-02T06:30:23.033399
+- **Total Packages**: 84
+- **Total Size**: 47.02 MB
 
 ## Packages List
 - callflow-tracer
-- ai-tools-box
-- clig
+- localsets
+- gguf-connector
+- mavi-companion
+- ant-ray-cpp-nightly
+- bruce-django-requests-logger
+- influxobject
 - acido
+- bwamem
+- pb-dolphin
+- ai-edge-litert-nightly
+- acg-frontend-mcp
+- tart-cargo
+- cdk-factory
+- omnigenome
+- omnigenbench
+- ai-tools-box
+- fostrom
+- poping
+- duplifinder
+- winipedia-django
+- pywebtask
+- pyg-nightly
+- pulumi-aws-native
+- viewinline
+- jhanvi
+- ttkbootstrap-icons-weather
+- duckrun
+- ttkbootstrap-icons-typicons
+- winipedia-utils
+- ttkbootstrap-icons-simple
+- ttkbootstrap-icons-rpga
+- ttkbootstrap-icons-remix
+- ttkbootstrap-icons-meteocons
+- ttkbootstrap-icons-mat
+- minidocker
+- unike
+- ttkbootstrap-icons-lucide
+- bouquin
+- ttkbootstrap-icons-ion
+- ttkbootstrap-icons-gmi
+- ttkbootstrap-icons-fluent
+- ttkbootstrap-icons-fa
+- bintang
+- ttkbootstrap-icons-eva
+- barebones-rpg
+- flashinfer-python
+- remove-channel
+- ttkbootstrap-icons-devicon
+- grafa
+- ttkbootstrap-icons
+- nivara
+- lg2slack
+- clig
 - agtest
 - langchain-dev-utils
-- winipedia-utils
 - swingft-test-v2
 - akari-bot-webrender
 - ugly-bot
@@ -25,7 +74,6 @@
 - omnipkg
 - cb-events
 - videowall
-- duckrun
 - aioprox
 - serio
 - smiles2mol
@@ -42,43 +90,3 @@
 - valid8r
 - CrystalWindowLib
 - defog
-- otree
-- MF-Tools
-- pyvider-components
-- pyvider
-- booklab
-- svc-infra
-- provide-foundation
-- instantsplat
-- fnschool
-- fastapi-mongo-base
-- ansible-doc-template-extractor
-- pyfaceau
-- never-primp
-- langchain-trigger-server
-- nasap-net
-- weirdfingers-boards
-- lg2slack
-- tcg-research-desk
-- ami-helper
-- cccc-pair
-- cpanbd
-- tinyshare
-- kinemotion
-- cmpr
-- tacc-encoder
-- iamdata
-- glaip-sdk
-- bouquin
-- vicoa
-- loadforecasting-models
-- tianhe-ragas
-- tradedangerous
-- deeprails
-- stata-mcp
-- spiderx
-- cdk-factory
-- unofficial-hardcover
-- kailash-dataflow
-- customTraceback
-- weakincentives
