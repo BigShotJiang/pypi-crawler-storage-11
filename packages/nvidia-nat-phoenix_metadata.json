@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nat-phoenix",
+  "version": "1.3.0",
+  "summary": "Subpackage for Arize Phoenix integration in NeMo Agent toolkit",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvidia_nat_phoenix-1.3.0-py3-none-any.whl",
+  "download_time": "2025-11-02T08:23:31.788752",
+  "package_url": "https://pypi.org/project/nvidia-nat-phoenix/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hinaagent-core",
+  "version": "1.0.0",
+  "summary": "HinaAgent核心依赖包，包含核心功能和API服务器相关依赖",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hinaagent_core-1.0.0.tar.gz",
+  "download_time": "2025-11-02T08:23:40.520008",
+  "package_url": "https://pypi.org/project/hinaagent-core/"
+}
