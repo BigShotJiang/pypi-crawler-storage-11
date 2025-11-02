@@ -1,0 +1,11 @@
+{
+  "name": "quest-niche",
+  "version": "0.1.5",
+  "summary": "Querying functional and structural niches on spatial transcriptomics data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quest_niche-0.1.5.tar.gz",
+  "download_time": "2025-11-02T03:07:22.166274",
+  "package_url": "https://pypi.org/project/quest-niche/"
+}

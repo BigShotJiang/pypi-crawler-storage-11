@@ -1,0 +1,11 @@
+{
+  "name": "radia",
+  "version": "4.32",
+  "summary": "3D Magnetostatics Computer Code with OpenMP Parallelization",
+  "author": "Pascal Elleaume",
+  "license": "LGPL-2.1",
+  "home_page": "https://github.com/ksugahar/Radia_NGSolve",
+  "download_filename": "radia-4.32.tar.gz",
+  "download_time": "2025-11-02T03:07:23.539068",
+  "package_url": "https://pypi.org/project/radia/"
+}

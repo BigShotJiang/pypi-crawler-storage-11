@@ -1,0 +1,11 @@
+{
+  "name": "kenpompy",
+  "version": "0.5.0",
+  "summary": "A python package for scraping kenpom.com NCAA basketball data.",
+  "author": "Jared Andrews",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/j-andrews7/kenpompy",
+  "download_filename": "kenpompy-0.5.0.tar.gz",
+  "download_time": "2025-11-02T03:07:37.336222",
+  "package_url": "https://pypi.org/project/kenpompy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ldpx",
+  "version": "0.3.0",
+  "summary": "ldplayer abstraction layer for python (bundled with a CLI with batch support).",
+  "author": "ZackaryW",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ldpx-0.3.0.tar.gz",
+  "download_time": "2025-11-02T03:07:12.721671",
+  "package_url": "https://pypi.org/project/ldpx/"
+}

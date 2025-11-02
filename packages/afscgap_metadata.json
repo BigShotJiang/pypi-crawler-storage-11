@@ -1,0 +1,11 @@
+{
+  "name": "afscgap",
+  "version": "2.0.2",
+  "summary": "Tools for interacting with the public bottom trawl surveys data from the NOAA AFSC GAP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "afscgap-2.0.2.tar.gz",
+  "download_time": "2025-11-02T03:07:30.556643",
+  "package_url": "https://pypi.org/project/afscgap/"
+}
