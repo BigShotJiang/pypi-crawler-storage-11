@@ -1,0 +1,11 @@
+{
+  "name": "rodrigo0000-fastapi-core-utils",
+  "version": "1.0.1",
+  "summary": "Utility functions for FastAPI applications",
+  "author": "R Firm",
+  "license": "MIT",
+  "home_page": "https://github.com/rfirm/fastapi-core-utils",
+  "download_filename": "rodrigo0000_fastapi_core_utils-1.0.1.tar.gz",
+  "download_time": "2025-11-02T10:40:22.434477",
+  "package_url": "https://pypi.org/project/rodrigo0000-fastapi-core-utils/"
+}

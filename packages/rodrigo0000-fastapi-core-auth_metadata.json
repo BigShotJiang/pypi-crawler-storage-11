@@ -1,0 +1,11 @@
+{
+  "name": "rodrigo0000-fastapi-core-auth",
+  "version": "1.0.1",
+  "summary": "Authentication module for FastAPI with JWT, OAuth2, and user management",
+  "author": "R Firm",
+  "license": "MIT",
+  "home_page": "https://github.com/rfirm/fastapi-core-auth",
+  "download_filename": "rodrigo0000_fastapi_core_auth-1.0.1.tar.gz",
+  "download_time": "2025-11-02T10:40:26.068354",
+  "package_url": "https://pypi.org/project/rodrigo0000-fastapi-core-auth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "feedzgerald",
+  "version": "0.1.0",
+  "summary": "Curate your RSS feeds by filtering existing ones",
+  "author": "Balthazar Rouberol",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feedzgerald-0.1.0.tar.gz",
+  "download_time": "2025-11-02T10:40:21.381985",
+  "package_url": "https://pypi.org/project/feedzgerald/"
+}

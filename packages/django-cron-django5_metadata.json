@@ -1,11 +1,11 @@
 {
   "name": "django-cron-django5",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Running python crons in a Django 5 project",
   "author": "Ravi Ojha",
   "license": "MIT",
   "home_page": "https://github.com/ticketping-com/django-cron",
-  "download_filename": "django_cron_django5-0.6.1.tar.gz",
-  "download_time": "2025-11-02T04:44:17.341160",
+  "download_filename": "django_cron_django5-0.6.2.tar.gz",
+  "download_time": "2025-11-02T10:40:16.695493",
   "package_url": "https://pypi.org/project/django-cron-django5/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "PILSkinMC",
+  "version": "1.0.2",
+  "summary": "PILSkinMC is a basic Minecraft player skin renderer for Python's PIL (Pillow) library.",
+  "author": "SkylasJustVibin",
+  "license": "MIT",
+  "home_page": "https://github.com/SkylaDev/PILSkinMC",
+  "download_filename": "pilskinmc-1.0.2.tar.gz",
+  "download_time": "2025-11-02T10:40:20.339971",
+  "package_url": "https://pypi.org/project/PILSkinMC/"
+}

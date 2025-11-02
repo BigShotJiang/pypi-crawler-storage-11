@@ -1,0 +1,11 @@
+{
+  "name": "tuix-core",
+  "version": "0.1.0",
+  "summary": "Core engine for the TUIX framework.",
+  "author": "custosh",
+  "license": "MIT",
+  "home_page": "https://github.com/custosh/tuix-core",
+  "download_filename": "tuix_core-0.1.0.tar.gz",
+  "download_time": "2025-11-02T10:40:28.782289",
+  "package_url": "https://pypi.org/project/tuix-core/"
+}
