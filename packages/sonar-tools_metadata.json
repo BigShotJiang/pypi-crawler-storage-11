@@ -1,0 +1,11 @@
+{
+  "name": "sonar-tools",
+  "version": "3.16.2",
+  "summary": "A collection of utility tools for the SonarQube ecosystem",
+  "author": "Olivier Korach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sonar_tools-3.16.2-py3-none-any.whl",
+  "download_time": "2025-11-02T18:26:00.187696",
+  "package_url": "https://pypi.org/project/sonar-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chuk-mcp-client-oauth",
-  "version": "0.3.1",
+  "version": "0.3.5",
   "summary": "A reusable OAuth 2.0 client library for MCP (Model Context Protocol) servers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chuk_mcp_client_oauth-0.3.1.tar.gz",
-  "download_time": "2025-11-01T16:52:48.514489",
+  "download_filename": "chuk_mcp_client_oauth-0.3.5.tar.gz",
+  "download_time": "2025-11-02T18:25:56.424307",
   "package_url": "https://pypi.org/project/chuk-mcp-client-oauth/"
 }

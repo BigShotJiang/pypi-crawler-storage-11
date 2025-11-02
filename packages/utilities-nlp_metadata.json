@@ -1,11 +1,11 @@
 {
   "name": "utilities-nlp",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/utilities_nlp",
-  "download_filename": "utilities_nlp-1.0.2.tar.gz",
-  "download_time": "2025-11-02T16:23:01.454634",
+  "download_filename": "utilities_nlp-1.0.5.tar.gz",
+  "download_time": "2025-11-02T18:26:03.454212",
   "package_url": "https://pypi.org/project/utilities-nlp/"
 }

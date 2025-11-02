@@ -1,0 +1,11 @@
+{
+  "name": "faber",
+  "version": "0.5.9",
+  "summary": "Faber is a construction tool.",
+  "author": "Stefan Seefeld",
+  "license": "BSL",
+  "home_page": "https://stefanseefeld.github.io/faber",
+  "download_filename": "faber-0.5.9.tar.gz",
+  "download_time": "2025-11-02T18:25:53.798823",
+  "package_url": "https://pypi.org/project/faber/"
+}

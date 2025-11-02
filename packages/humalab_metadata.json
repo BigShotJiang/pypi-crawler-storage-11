@@ -1,0 +1,11 @@
+{
+  "name": "humalab",
+  "version": "0.0.7",
+  "summary": "Python SDK for HumaLab - A platform for adaptive AI validation.",
+  "author": "HumaLab Team",
+  "license": null,
+  "home_page": "https://github.com/humalab/humalab_sdk",
+  "download_filename": "humalab-0.0.7.tar.gz",
+  "download_time": "2025-11-02T18:26:03.994764",
+  "package_url": "https://pypi.org/project/humalab/"
+}

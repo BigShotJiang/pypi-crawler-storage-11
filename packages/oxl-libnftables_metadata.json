@@ -1,0 +1,11 @@
+{
+  "name": "oxl-libnftables",
+  "version": "1.0.2.post1",
+  "summary": "Copy of the python3-nftables module used to interact with libnftables",
+  "author": "OXL IT Services",
+  "license": null,
+  "home_page": "https://github.com/O-X-L/python3-nftables",
+  "download_filename": "oxl_libnftables-1.0.2.post1.tar.gz",
+  "download_time": "2025-11-02T18:25:49.004966",
+  "package_url": "https://pypi.org/project/oxl-libnftables/"
+}

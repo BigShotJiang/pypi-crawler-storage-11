@@ -1,11 +1,11 @@
 {
   "name": "stdkit",
-  "version": "0.1.1.dev2",
+  "version": "0.1.1.dev3",
   "summary": "Pure-stdlib Python utilities",
   "author": "oyghen",
   "license": null,
   "home_page": null,
-  "download_filename": "stdkit-0.1.1.dev2.tar.gz",
-  "download_time": "2025-11-01T20:19:55.839590",
+  "download_filename": "stdkit-0.1.1.dev3.tar.gz",
+  "download_time": "2025-11-02T18:25:48.465284",
   "package_url": "https://pypi.org/project/stdkit/"
 }

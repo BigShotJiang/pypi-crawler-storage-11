@@ -1,11 +1,11 @@
 {
   "name": "timetap",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "A lightweight, thread-safe Python profiler for hierarchical code timing with GPU support",
   "author": "Johan Olsson",
   "license": null,
   "home_page": null,
-  "download_filename": "timetap-0.1.1.tar.gz",
-  "download_time": "2025-11-02T14:17:40.858537",
+  "download_filename": "timetap-1.0.0.tar.gz",
+  "download_time": "2025-11-02T18:25:58.550116",
   "package_url": "https://pypi.org/project/timetap/"
 }

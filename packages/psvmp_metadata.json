@@ -1,0 +1,11 @@
+{
+  "name": "psvmp",
+  "version": "2.0.3",
+  "summary": "PS Vita Media Processor - download, convert and transfer media",
+  "author": "v7upSln",
+  "license": "MIT",
+  "home_page": "https://github.com/v7upSln/PSVMP",
+  "download_filename": "psvmp-2.0.3.tar.gz",
+  "download_time": "2025-11-02T18:25:46.377718",
+  "package_url": "https://pypi.org/project/psvmp/"
+}

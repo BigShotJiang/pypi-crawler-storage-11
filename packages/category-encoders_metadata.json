@@ -1,0 +1,11 @@
+{
+  "name": "category-encoders",
+  "version": "2.9.0",
+  "summary": "A package for encoding categorical variables for machine learning",
+  "author": "PaulWestenthanner",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "category_encoders-2.9.0.tar.gz",
+  "download_time": "2025-11-02T18:25:50.039083",
+  "package_url": "https://pypi.org/project/category-encoders/"
+}
