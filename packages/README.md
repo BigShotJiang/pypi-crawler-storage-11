@@ -1,27 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T19:38:53.059843
-- **Total Packages**: 78
-- **Total Size**: 4.38 MB
+- **Download Time**: 2025-11-02T19:52:21.837561
+- **Total Packages**: 73
+- **Total Size**: 3.56 MB
 
 ## Packages List
+- jupyterlab-miami-nights
+- dataframe-textual
+- tailwhip
+- immich-tools
+- unstructured2graph
+- td0update-sj
+- tracera-axolotl
+- tacozip
+- tenzir-changelog
+- bough
+- pythonanywhere-core
+- toapigdc
+- pymodins
+- antsibull-docs
+- customTraceback
+- check-config
+- chutes
+- void-engine
+- td0update
+- acido
 - spells-mtg
+- docling-surya
 - pyxatu
 - genlist-butler
 - pmmv
 - cdk-vscode-server
 - blocksimpy
-- immich-tools
 - cyclopts
 - ospe
 - genailib
 - agentpm
 - aggregate
 - genshin-impact
-- unstructured2graph
 - auto-yt-dlp
-- toapigdc
 - docpilot
 - tastytrade
 - frame-fwl
@@ -34,11 +52,9 @@
 - blindfold
 - macrosmiles
 - caniscrape
-- customTraceback
 - aponyx
 - quantplay
 - cdk-factory
-- dataframe-textual
 - d4rktg
 - sagemaker-studio-dataengineering-sessions
 - AnsiCoolFORMATING
@@ -47,7 +63,6 @@
 - lm-deluge
 - langchain-pinecone
 - st-supabase-connection
-- tenzir-changelog
 - iatoolkit
 - textsimilarityplus
 - implica
@@ -64,23 +79,3 @@
 - tiferet
 - aiobmsble
 - fit-webview-bridge
-- kopi-docka
-- pyvolgrid
-- posthoganalytics
-- posthog
-- divide21env
-- lonwrap
-- wyn360-cli
-- llmling-models
-- django-zooy
-- tqdm-daemon
-- bookchain
-- compress-pptx
-- nulla
-- pyrudof
-- pygraham
-- jablonski-plots
-- openhive
-- matplobbot-shared
-- nous
-- tenauth
