@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-form-builder",
+  "version": "0.4.0",
+  "summary": "Adds a form editor to the structure board of django CMS.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "djangocms_form_builder-0.4.0.tar.gz",
+  "download_time": "2025-11-02T23:38:14.681821",
+  "package_url": "https://pypi.org/project/djangocms-form-builder/"
+}

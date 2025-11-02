@@ -1,39 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T23:19:03.430608
-- **Total Packages**: 88
-- **Total Size**: 27.52 MB
+- **Download Time**: 2025-11-02T23:38:44.249129
+- **Total Packages**: 80
+- **Total Size**: 11.38 MB
 
 ## Packages List
-- market-data-pipeline
+- propflow
+- pdf-indexer-mcp
+- gguf-connector
+- pyadvtools
+- megatron-core
+- megatron-fsdp
+- hv-bie
+- multimethod
+- aorta-sirius-dev
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- pex
+- logsteplib
+- kamihi
+- d4rktg
+- fileformats-medimage-extras
+- fileformats-medimage
+- moraine
+- avyas-aurica-base-apps-node-connection
+- termtweet
+- streamable
+- pyiron-workflow-lammps
+- djangocms-form-builder
+- groundx
+- lupyne
+- hope-flex-fields
+- evenage
+- selok-what-to-eat
+- detectk-alerters-slack
+- pytorch-frame
+- detectk-alerters-mattermost
+- detectk-collectors-http
+- detectk-collectors-sql
+- detectk-collectors-clickhouse
+- detectk-detectors
+- detectk
+- collab-tunnel
+- haphazard
+- pyarchinit-mini
+- httptap
+- SURE-tools
 - market-data-orchestrator
+- athena-client
+- adv-optm
+- image-namer
+- market-data-pipeline
 - market-data-store
 - pydantic-tfl-api
 - market-data-core
 - efference
 - pydoll-python
-- adv-optm
 - charming-traceback
 - fortnite-api
 - iagitbetter
-- runway-python
 - nettracer3d
-- python-requirements-inspector
-- faker-python
 - django-teamized
-- groundx
-- pyarchinit-mini
 - claude-mpm
 - pypardiso
 - agentsystems-sdk
-- termtweet
 - pyiron-workflow-atomistics
 - plombery
-- avyas-aurica-base-apps-node-connection
 - charmd
 - dry-foundation
-- image-namer
 - avyas-aurica-base-apps-chat-app
 - dataframe-textual
 - liteconf
@@ -50,47 +86,3 @@
 - gabriel-server
 - frame-fwl
 - csle-attack-profiler
-- gym-csle-cyborg
-- bucket-locker
-- gym-csle-apt-game
-- csle-tolerance
-- csle-cluster
-- csle-cli
-- csle-rest-api
-- csle-agents
-- gym-csle-intrusion-response-game
-- naeural-core
-- gym-csle-stopping-game
-- csle-system-identification
-- csle-defender
-- csle-attacker
-- csle-common
-- csle-collector
-- mci-py
-- csle-ryu
-- csle-base
-- fileformats-extras
-- fileformats
-- habemus-papadum-plumbum
-- strands-mlx
-- animesubinfo
-- splurge-tabular
-- aton
-- simstring-rust
-- llm-instrumentation
-- mcp-neo4j-temporal-substrate
-- spec-kitty-cli
-- stellars-jupyterlab-sublime-theme
-- chutes
-- th-helpers
-- openai-http-proxy
-- oai-proxy
-- lm-proxy-server
-- lm-proxy
-- llm-proxy-server
-- inference-proxy
-- ai-proxy-server
-- repsim
-- gpxo
-- aorta-sirius-dev
-- jupyter-ai-chat-commands

@@ -1,0 +1,11 @@
+{
+  "name": "selok-what-to-eat",
+  "version": "1.0.2",
+  "summary": "A simple command-line tool to suggest meals.",
+  "author": "Selok",
+  "license": "MIT",
+  "home_page": "https://github.com/Selok-Dev/what-to-eat",
+  "download_filename": "selok_what_to_eat-1.0.2.tar.gz",
+  "download_time": "2025-11-02T23:38:17.304081",
+  "package_url": "https://pypi.org/project/selok-what-to-eat/"
+}

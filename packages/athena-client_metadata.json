@@ -1,0 +1,11 @@
+{
+  "name": "athena-client",
+  "version": "1.0.30",
+  "summary": "An unofficial Python SDK for interacting with the OHDSI Athena Concepts API.",
+  "author": "Alvaro A. Alvarez P. ",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "athena_client-1.0.30.tar.gz",
+  "download_time": "2025-11-02T23:38:25.252231",
+  "package_url": "https://pypi.org/project/athena-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-frame",
+  "version": "0.3.0",
+  "summary": "Tabular Deep Learning Library for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytorch_frame-0.3.0.tar.gz",
+  "download_time": "2025-11-02T23:38:18.355425",
+  "package_url": "https://pypi.org/project/pytorch-frame/"
+}
