@@ -1,0 +1,11 @@
+{
+  "name": "penlab",
+  "version": "1.0.0",
+  "summary": "CLI tool para gestión de proyectos de pentesting y ciberseguridad",
+  "author": "h3lls1nk1",
+  "license": "MIT",
+  "home_page": "https://github.com/h3lls1nk1/penlab",
+  "download_filename": "penlab-1.0.0.tar.gz",
+  "download_time": "2025-11-02T11:26:49.714009",
+  "package_url": "https://pypi.org/project/penlab/"
+}

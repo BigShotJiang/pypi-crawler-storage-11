@@ -1,0 +1,11 @@
+{
+  "name": "devtrack-sdk",
+  "version": "0.3.0",
+  "summary": "Middleware-based API analytics and observability tool for FastAPI and Django",
+  "author": "Mahesh Solanke",
+  "license": "MIT",
+  "home_page": "https://github.com/mahesh-solanke/devtrack-sdk",
+  "download_filename": "devtrack_sdk-0.3.0.tar.gz",
+  "download_time": "2025-11-02T11:27:05.222849",
+  "package_url": "https://pypi.org/project/devtrack-sdk/"
+}

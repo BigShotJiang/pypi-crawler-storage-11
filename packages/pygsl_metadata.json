@@ -1,0 +1,11 @@
+{
+  "name": "pygsl",
+  "version": "2.6.4",
+  "summary": "GNU Scientific Library Interface",
+  "author": "Charl Linssen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygsl-2.6.4.tar.gz",
+  "download_time": "2025-11-02T11:26:51.129705",
+  "package_url": "https://pypi.org/project/pygsl/"
+}

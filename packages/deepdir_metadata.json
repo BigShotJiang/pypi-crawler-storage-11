@@ -1,0 +1,11 @@
+{
+  "name": "deepdir",
+  "version": "5.0.0",
+  "summary": "Advanced Directory Enumeration Tool - More powerful than dirsearch and gospider",
+  "author": "ArkhAngelLifeJiggy",
+  "license": null,
+  "home_page": "https://github.com/LifeJiggy/Deep-Dir.git",
+  "download_filename": "deepdir-5.0.0.tar.gz",
+  "download_time": "2025-11-02T11:27:07.780065",
+  "package_url": "https://pypi.org/project/deepdir/"
+}

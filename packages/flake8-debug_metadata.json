@@ -1,0 +1,11 @@
+{
+  "name": "flake8-debug",
+  "version": "0.3.0",
+  "summary": "Flake8 plugin to forbid debug function usage",
+  "author": "Vladimir Yahello",
+  "license": null,
+  "home_page": "https://github.com/vyahello/flake8-debug",
+  "download_filename": "flake8_debug-0.3.0.tar.gz",
+  "download_time": "2025-11-02T11:27:05.861381",
+  "package_url": "https://pypi.org/project/flake8-debug/"
+}

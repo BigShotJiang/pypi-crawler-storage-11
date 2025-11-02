@@ -1,0 +1,11 @@
+{
+  "name": "evbunpack",
+  "version": "0.2.6",
+  "summary": "Enigma Virtual Box Unpacker / 解包工具",
+  "author": "mos9527",
+  "license": null,
+  "home_page": "https://github.com/mos9527/evbunpack",
+  "download_filename": "evbunpack-0.2.6.tar.gz",
+  "download_time": "2025-11-02T11:26:54.349902",
+  "package_url": "https://pypi.org/project/evbunpack/"
+}

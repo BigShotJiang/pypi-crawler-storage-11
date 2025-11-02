@@ -1,0 +1,11 @@
+{
+  "name": "scikit-hep",
+  "version": "2025.11.1",
+  "summary": "Metapackage of Scikit-HEP project libraries for Particle Physics.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "scikit_hep-2025.11.1.tar.gz",
+  "download_time": "2025-11-02T11:26:52.399258",
+  "package_url": "https://pypi.org/project/scikit-hep/"
+}
