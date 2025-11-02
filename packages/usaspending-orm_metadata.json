@@ -1,0 +1,11 @@
+{
+  "name": "usaspending-orm",
+  "version": "0.6.0",
+  "summary": "A Python ORM wrapper for the USAspending.gov API with intuitive queries, automatic pagination, and smart caching",
+  "author": "Casey Dreier",
+  "license": "MIT",
+  "home_page": "https://github.com/planetary-society/usaspending-orm",
+  "download_filename": "usaspending_orm-0.6.0.tar.gz",
+  "download_time": "2025-11-02T04:44:12.571970",
+  "package_url": "https://pypi.org/project/usaspending-orm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitcd",
+  "version": "2.2.9",
+  "summary": "Tool for continuous delivery using git",
+  "author": "Claudio Walser",
+  "license": "Apache License",
+  "home_page": "https://www.gitcd.io",
+  "download_filename": "gitcd-2.2.9.tar.gz",
+  "download_time": "2025-11-02T04:44:15.753705",
+  "package_url": "https://pypi.org/project/gitcd/"
+}
