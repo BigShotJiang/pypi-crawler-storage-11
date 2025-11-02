@@ -1,0 +1,11 @@
+{
+  "name": "pystiebeleltron",
+  "version": "0.2.5",
+  "summary": "Python API for interacting with the Stiebel Eltron ISG web gateway via Modbus for controlling integral ventilation units and heat pumps.",
+  "author": "Manuel Stahl, Martin Fuchs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystiebeleltron-0.2.5.tar.gz",
+  "download_time": "2025-11-02T13:32:01.362720",
+  "package_url": "https://pypi.org/project/pystiebeleltron/"
+}

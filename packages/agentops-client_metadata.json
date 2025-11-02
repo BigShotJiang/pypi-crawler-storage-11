@@ -1,11 +1,11 @@
 {
   "name": "agentops-client",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "AI Reliability Engineering for LLM Agents - Monitor hallucinations, latency, and throughput",
   "author": "Ezaz Ahmad",
   "license": "MIT",
   "home_page": "https://github.com/ezazahamad2003/agentops",
-  "download_filename": "agentops_client-0.2.0.tar.gz",
-  "download_time": "2025-11-02T09:38:13.704864",
+  "download_filename": "agentops_client-0.2.2.tar.gz",
+  "download_time": "2025-11-02T13:32:30.804222",
   "package_url": "https://pypi.org/project/agentops-client/"
 }

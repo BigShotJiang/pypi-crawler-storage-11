@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-analytic-line-name-text",
+  "version": "17.0.1.0.0.2",
+  "summary": "Changes account analytic line name field to Text.",
+  "author": "Odoo Community Association (OCA), Solvos",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_account_analytic_line_name_text-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-02T13:32:17.806335",
+  "package_url": "https://pypi.org/project/odoo-addon-account-analytic-line-name-text/"
+}

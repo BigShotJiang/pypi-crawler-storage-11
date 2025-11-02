@@ -1,0 +1,11 @@
+{
+  "name": "zeta-cli",
+  "version": "1.0.0",
+  "summary": "ZETA - Zero-Latency Editing Terminal Agent: A friendly local AI terminal agent",
+  "author": "Sukin Shetty",
+  "license": "MIT",
+  "home_page": "https://github.com/SukinShetty/Zeta-CLI",
+  "download_filename": "zeta_cli-1.0.0.tar.gz",
+  "download_time": "2025-11-02T13:32:17.285959",
+  "package_url": "https://pypi.org/project/zeta-cli/"
+}

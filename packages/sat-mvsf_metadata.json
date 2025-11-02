@@ -1,0 +1,11 @@
+{
+  "name": "sat-mvsf",
+  "version": "0.1.5",
+  "summary": "Satellite Multi-View Stereo reconstruction with CPU-blocked projection, PyTorch support, and GDAL/CuPy integration",
+  "author": "Chen Liu (Wuhan University)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sat_mvsf-0.1.5.tar.gz",
+  "download_time": "2025-11-02T13:32:02.113940",
+  "package_url": "https://pypi.org/project/sat-mvsf/"
+}

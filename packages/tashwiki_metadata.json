@@ -1,0 +1,11 @@
+{
+  "name": "tashwiki",
+  "version": "0.2.0",
+  "summary": "Wiki-like static site generator",
+  "author": "Alexey Ryabov",
+  "license": "MIT",
+  "home_page": "https://github.com/b00bl1k/tashwiki",
+  "download_filename": "tashwiki-0.2.0.tar.gz",
+  "download_time": "2025-11-02T13:32:49.127547",
+  "package_url": "https://pypi.org/project/tashwiki/"
+}

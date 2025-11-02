@@ -1,0 +1,11 @@
+{
+  "name": "auric",
+  "version": "0.0.3",
+  "summary": "A modern, powerful, and type-safe Discord API wrapper for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auric-0.0.3.tar.gz",
+  "download_time": "2025-11-02T13:32:16.746796",
+  "package_url": "https://pypi.org/project/auric/"
+}

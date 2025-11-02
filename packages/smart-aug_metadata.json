@@ -1,0 +1,11 @@
+{
+  "name": "smart-aug",
+  "version": "0.1.0",
+  "summary": "An advanced image data augmentation library with geometric transforms.",
+  "author": "Divine Gupta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_aug-0.1.0.tar.gz",
+  "download_time": "2025-11-02T13:32:12.569234",
+  "package_url": "https://pypi.org/project/smart-aug/"
+}

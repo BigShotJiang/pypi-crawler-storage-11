@@ -1,0 +1,11 @@
+{
+  "name": "amharicNLP",
+  "version": "1.0.0",
+  "summary": "amharicNLP is a Python package for Amharic Natural Language Processing (NLP) and text preprocessing. ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amharicnlp-1.0.0.tar.gz",
+  "download_time": "2025-11-02T13:32:47.540871",
+  "package_url": "https://pypi.org/project/amharicNLP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "automatic-goggles",
+  "version": "0.8.0",
+  "summary": "A package for extracting structured fields from call transcripts and evaluating conversation quality with confidence scores",
+  "author": "Ashish Kalra",
+  "license": "MIT",
+  "home_page": "https://github.com/ashishorkalra/automatic-goggles",
+  "download_filename": "automatic_goggles-0.8.0.tar.gz",
+  "download_time": "2025-11-02T13:32:35.535628",
+  "package_url": "https://pypi.org/project/automatic-goggles/"
+}

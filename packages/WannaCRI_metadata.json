@@ -1,0 +1,11 @@
+{
+  "name": "WannaCRI",
+  "version": "0.3.1",
+  "summary": "Criware media formats library",
+  "author": "donmai",
+  "license": null,
+  "home_page": "https://github.com/donmai-me/WannaCRI",
+  "download_filename": "wannacri-0.3.1-py3-none-any.whl",
+  "download_time": "2025-11-02T13:32:05.234806",
+  "package_url": "https://pypi.org/project/WannaCRI/"
+}
