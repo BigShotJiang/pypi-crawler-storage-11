@@ -1,11 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T11:27:36.016430
-- **Total Packages**: 76
-- **Total Size**: 8.1 MB
+- **Download Time**: 2025-11-02T11:40:25.912141
+- **Total Packages**: 87
+- **Total Size**: 14.79 MB
 
 ## Packages List
+- nvidia-nat-all
+- nvidia-nat-weave
+- docker-hosts
+- nvidia-nat-adk
+- hud-sdk
+- send-mail-simplified
+- nvidia-nat-mem0ai
+- nvidia-nat-zep-cloud
+- nvidia-nat-phoenix
+- nvidia-nat-redis
+- abe-redis
+- nvidia-nat-crewai
+- zoho-projects-sdk
+- nvidia-nat-ingestion
+- nvidia-nat-test
+- nvidia-nat-mysql
+- nvidia-nat-semantic-kernel
+- nvidia-nat-agno
+- tnfr
+- nvidia-nat-opentelemetry
+- implica
+- nvidia-nat-ragaai
+- gohutool-pyboot-dataflow
+- adiumentum
+- nvidia-nat-profiling
+- utils-devops
+- nvidia-nat-data-flywheel
+- nvidia-nat-langchain
+- omniopt2
+- aiqtoolkit-semantic-kernel
+- aiqtoolkit-weave
+- aiqtoolkit-mem0ai
+- gns3-mcp
+- tomlhold
+- bluer-algo
+- bluer-sbc
+- aiqtoolkit-test
+- aiqtoolkit-llama-index
+- cython-test-exception-raiser
+- torchx-nightly
+- aiqtoolkit
+- aiqtoolkit-langchain
+- aiqtoolkit-crewai
+- aiqtoolkit-zep-cloud
+- chutes
+- torchft-nightly
+- abstractNN
+- mangoautomation
+- yeref
+- jupyterlab-parquet-viewer-extension
+- aiqtoolkit-agno
+- modelx
+- akoma2md
+- never-primp
+- chaoschain-sdk
+- ratio-calc
+- peakrdl-python
+- docpilot
 - penlab
 - codernetes
 - pygsl
@@ -15,13 +73,10 @@
 - evbunpack
 - inferencesh
 - legit-api-client
-- gohutool-pyboot-dataflow
-- chutes
 - test-pioneer
 - digsim-logic-simulator
 - envwizard
 - p115client
-- pyhttpx-pro
 - tensorwatchext
 - gemini-imagen
 - cmeel-m4
@@ -33,52 +88,8 @@
 - angreal
 - ksbanim
 - deepdir
-- tomlhold
 - biem-helmholtz-sphere
 - asyncio_for_robotics
 - drun
 - openubmc-bingo
 - pydraulics
-- aigroup-quant-mcp
-- dayabay-model-official
-- test-pioneer-dev
-- miso-client
-- segment-any-confocal-images
-- dgm-dayabay-dev
-- videolab
-- uipath-core
-- rodrigo0000-fastapi-core-utils
-- rodrigo0000-fastapi-core-services
-- rodrigo0000-fastapi-core-models
-- rodrigo0000-fastapi-core-middleware
-- rodrigo0000-fastapi-core-database
-- rodrigo0000-fastapi-core-controllers
-- rodrigo0000-fastapi-core-config
-- rodrigo0000-fastapi-core-auth
-- mlserve-sdk
-- konduktor-nightly
-- py-ip2region
-- cribl-control-plane
-- rhoknp
-- trainy-policy-nightly
-- pyturso
-- letta-nightly
-- django-cron-django5
-- fotolab
-- inopyutils
-- adiumentum
-- PILSkinMC
-- extra-platforms
-- feedzgerald
-- hhd
-- utils-devops
-- moocore
-- brainet
-- pyuptimerobot
-- tuix-core
-- acg-frontend-mcp
-- vigorvision
-- mimamori
-- nasap-net
-- vsa
-- tbp-nightly

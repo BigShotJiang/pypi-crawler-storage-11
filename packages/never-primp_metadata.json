@@ -1,11 +1,11 @@
 {
   "name": "never-primp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "基于原primp 重新优化调整的请求库 - The fastest python HTTP client that can impersonate web browsers",
   "author": "Neverland",
   "license": null,
   "home_page": null,
-  "download_filename": "never_primp-1.2.0.tar.gz",
-  "download_time": "2025-11-02T05:20:01.848250",
+  "download_filename": "never_primp-1.2.1.tar.gz",
+  "download_time": "2025-11-02T11:40:07.135475",
   "package_url": "https://pypi.org/project/never-primp/"
 }

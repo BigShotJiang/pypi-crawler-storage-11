@@ -1,11 +1,11 @@
 {
   "name": "abstractNN",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Formal verification of neural networks using abstract interpretation and affine arithmetic",
   "author": "Guillaume Berthelot",
   "license": "MIT",
-  "home_page": "https://github.com/fflyworthiai/abstractNN",
-  "download_filename": "abstractnn-0.1.4.tar.gz",
-  "download_time": "2025-11-02T10:19:23.048910",
+  "home_page": "https://github.com/flyworthyai/abstractNN",
+  "download_filename": "abstractnn-0.1.5.tar.gz",
+  "download_time": "2025-11-02T11:40:03.403133",
   "package_url": "https://pypi.org/project/abstractNN/"
 }

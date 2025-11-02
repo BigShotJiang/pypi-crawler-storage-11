@@ -1,0 +1,11 @@
+{
+  "name": "send-mail-simplified",
+  "version": "0.2.0",
+  "summary": "Small SMTP email sender utility",
+  "author": "Breion, Yuri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "send_mail_simplified-0.2.0.tar.gz",
+  "download_time": "2025-11-02T11:39:42.478914",
+  "package_url": "https://pypi.org/project/send-mail-simplified/"
+}
