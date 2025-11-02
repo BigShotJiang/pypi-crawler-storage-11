@@ -1,11 +1,11 @@
 {
   "name": "customTraceback",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A quick way to customize your Tracebacks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "customtraceback-0.7.0.tar.gz",
-  "download_time": "2025-11-02T18:55:31.503364",
+  "download_filename": "customtraceback-0.8.0.tar.gz",
+  "download_time": "2025-11-02T19:25:50.324295",
   "package_url": "https://pypi.org/project/customTraceback/"
 }

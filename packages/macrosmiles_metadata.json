@@ -1,0 +1,11 @@
+{
+  "name": "macrosmiles",
+  "version": "0.0.1",
+  "summary": "MacroSMILES: A framework for representing the intrinsic stochastic nature of polymers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "macrosmiles-0.0.1.tar.gz",
+  "download_time": "2025-11-02T19:25:49.226955",
+  "package_url": "https://pypi.org/project/macrosmiles/"
+}

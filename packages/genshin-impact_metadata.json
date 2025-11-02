@@ -1,11 +1,11 @@
 {
   "name": "genshin-impact",
-  "version": "0.0.8",
-  "summary": "A static library of Genshin item/char info. (WIP) - Albedo added.",
+  "version": "0.0.9",
+  "summary": "A static library of Genshin item/char info. (WIP)",
   "author": "Imran Bin Gifary (System Delta or Imran Delta Online)",
   "license": null,
   "home_page": "https://github.com/Imran-Delta/GI-Static-Data-Library",
-  "download_filename": "genshin_impact-0.0.8.tar.gz",
-  "download_time": "2025-11-02T13:51:55.545302",
+  "download_filename": "genshin_impact-0.0.9.tar.gz",
+  "download_time": "2025-11-02T19:25:48.107258",
   "package_url": "https://pypi.org/project/genshin-impact/"
 }
