@@ -1,11 +1,11 @@
 {
   "name": "frame-fwl",
-  "version": "0.3.0.1",
+  "version": "0.3.1.1",
   "summary": "The Frame - multitool module for programming with advanced framing capabilities",
   "author": "pt",
   "license": null,
   "home_page": "https://github.com/pt-main/frame",
-  "download_filename": "frame_fwl-0.3.0.1.tar.gz",
-  "download_time": "2025-11-01T23:51:07.637039",
+  "download_filename": "frame_fwl-0.3.1.1.tar.gz",
+  "download_time": "2025-11-02T14:51:44.263626",
   "package_url": "https://pypi.org/project/frame-fwl/"
 }

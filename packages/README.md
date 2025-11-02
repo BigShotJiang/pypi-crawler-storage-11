@@ -1,21 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-02T14:39:45.295430
-- **Total Packages**: 72
-- **Total Size**: 18.79 MB
+- **Download Time**: 2025-11-02T14:52:21.581468
+- **Total Packages**: 74
+- **Total Size**: 13.3 MB
 
 ## Packages List
+- chalkbox
+- sportsball
+- openshift-python-wrapper
+- frame-fwl
+- carconnectivity-plugin-abrp
+- datafast
+- omniopt2
+- carconnectivity-cli
+- pyfaceau
+- hbrowser
+- spacemouse-sdk
+- flarelette-jwt
+- gns3-mcp
+- monopoly-core
+- TkinterExtras
+- claude-worktree
+- coinex-mcp-server
+- nano-dev-utils
+- tfkit-py
+- webresearcher
 - langchain-localai
 - simplefractions
 - p115wsgidav
 - factorialhr
-- TkinterExtras
 - hcom
 - zeta-cli
 - kailash-dataflow
-- kagura-ai
-- spacemouse-sdk
 - kailash
 - terminate
 - chuk-mcp
@@ -23,7 +40,6 @@
 - mytestpkg-bipin
 - samsung-widgets
 - pygenpdf-json
-- coinex-mcp-server
 - uplang
 - tacoreader
 - chutes
@@ -44,6 +60,7 @@
 - dshellInterpreter
 - thesis-py
 - seaart
+- kagura-ai
 - mem-llm
 - django-minio-backend
 - onion-arch
@@ -63,18 +80,3 @@
 - gh-release-install
 - pyexcel-handsontable
 - VideoRAC
-- carconnectivity-connector-seatcupra
-- mini-apigw
-- signal-client
-- oasm
-- diffrays
-- slurm-requests
-- cmpr
-- wraipperz
-- sqlfluff-pyspark
-- mavi-companion
-- workflows-mcp
-- qwak-core
-- code-puppy
-- highway-core
-- fluxloop

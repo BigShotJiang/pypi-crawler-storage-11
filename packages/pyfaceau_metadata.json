@@ -1,11 +1,11 @@
 {
   "name": "pyfaceau",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Pure Python OpenFace 2.2 AU extraction with CLNF landmark refinement",
   "author": "John Wilson",
   "license": "CC BY-NC 4.0",
   "home_page": "https://github.com/johnwilsoniv/face-analysis",
-  "download_filename": "pyfaceau-1.0.3.tar.gz",
-  "download_time": "2025-11-02T05:20:01.329250",
+  "download_filename": "pyfaceau-1.0.6.tar.gz",
+  "download_time": "2025-11-02T14:51:46.852085",
   "package_url": "https://pypi.org/project/pyfaceau/"
 }
