@@ -1,0 +1,11 @@
+{
+  "name": "geekgcc",
+  "version": "1.0.0",
+  "summary": "Köppen-Geiger Climate Classification in Google Earth Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geekgcc-1.0.0.tar.gz",
+  "download_time": "2025-11-03T03:58:32.000883",
+  "package_url": "https://pypi.org/project/geekgcc/"
+}

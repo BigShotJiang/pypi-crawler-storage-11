@@ -1,11 +1,11 @@
 {
   "name": "provide-foundation",
-  "version": "0.0.1100.post1",
+  "version": "0.0.1102",
   "summary": "A comprehensive Python foundation library for building robust applications with structured logging, CLI framework, configuration management, and essential building blocks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "provide_foundation-0.0.1100.post1.tar.gz",
-  "download_time": "2025-11-02T05:19:58.229711",
+  "download_filename": "provide_foundation-0.0.1102.tar.gz",
+  "download_time": "2025-11-03T03:58:11.531264",
   "package_url": "https://pypi.org/project/provide-foundation/"
 }

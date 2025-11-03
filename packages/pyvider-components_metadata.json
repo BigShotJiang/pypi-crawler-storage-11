@@ -1,11 +1,11 @@
 {
   "name": "pyvider-components",
-  "version": "0.0.1100.post1",
+  "version": "0.0.1102",
   "summary": "Standard Components for the Pyvider Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyvider_components-0.0.1100.post1.tar.gz",
-  "download_time": "2025-11-02T05:19:55.243275",
+  "download_filename": "pyvider_components-0.0.1102.tar.gz",
+  "download_time": "2025-11-03T03:58:19.005565",
   "package_url": "https://pypi.org/project/pyvider-components/"
 }

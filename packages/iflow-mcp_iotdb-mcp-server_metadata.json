@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_iotdb-mcp-server",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol (MCP) server that enables secure interaction with IoTDB databases. This server allows AI assistants to list tables, read data, and execute SQL queries through a controlled interface, making database exploration and analysis safer and more structured.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_iotdb_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-11-03T03:58:45.046625",
+  "package_url": "https://pypi.org/project/iflow-mcp_iotdb-mcp-server/"
+}

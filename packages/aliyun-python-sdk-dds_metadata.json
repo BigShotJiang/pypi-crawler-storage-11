@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-dds",
+  "version": "3.7.25",
+  "summary": "The dds module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun_python_sdk_dds-3.7.25-py2.py3-none-any.whl",
+  "download_time": "2025-11-03T03:58:29.392405",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-dds/"
+}

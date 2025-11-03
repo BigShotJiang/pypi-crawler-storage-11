@@ -1,11 +1,11 @@
 {
   "name": "herogentest-lib",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Lib de heroes.",
   "author": "Pedro Renã da Silva Moreira",
   "license": null,
   "home_page": "https://github.com/Pedrordsm/hero.git",
-  "download_filename": "herogentest_lib-0.1.2.tar.gz",
-  "download_time": "2025-11-03T03:09:09.715544",
+  "download_filename": "herogentest_lib-0.1.5.tar.gz",
+  "download_time": "2025-11-03T03:58:19.518081",
   "package_url": "https://pypi.org/project/herogentest-lib/"
 }

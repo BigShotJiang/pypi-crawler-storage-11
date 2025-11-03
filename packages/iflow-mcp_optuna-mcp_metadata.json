@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_optuna-mcp",
+  "version": "0.3.0.dev0",
+  "summary": "Optuna MCP Server operates, manages, and visualizes Optuna studies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_optuna_mcp-0.3.0.dev0.tar.gz",
+  "download_time": "2025-11-03T03:58:35.641119",
+  "package_url": "https://pypi.org/project/iflow-mcp_optuna-mcp/"
+}

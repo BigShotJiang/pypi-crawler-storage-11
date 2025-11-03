@@ -1,0 +1,11 @@
+{
+  "name": "xpw",
+  "version": "0.14.2",
+  "summary": "Password management and authentication",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/xpw/",
+  "download_filename": "xpw-0.14.2.tar.gz",
+  "download_time": "2025-11-03T03:58:38.744767",
+  "package_url": "https://pypi.org/project/xpw/"
+}

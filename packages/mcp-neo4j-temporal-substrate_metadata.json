@@ -1,11 +1,11 @@
 {
   "name": "mcp-neo4j-temporal-substrate",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MCP Neo4j Memory Server for Temporal Substrate Evolution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_neo4j_temporal_substrate-0.1.4.tar.gz",
-  "download_time": "2025-11-03T01:44:45.906070",
+  "download_filename": "mcp_neo4j_temporal_substrate-0.1.5.tar.gz",
+  "download_time": "2025-11-03T03:58:37.187057",
   "package_url": "https://pypi.org/project/mcp-neo4j-temporal-substrate/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-demo-8",
+  "version": "0.8.0",
+  "summary": "一个提供数学计算和问候功能的mcp服务器",
+  "author": "tylnn68",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_demo_8-0.8.0.tar.gz",
+  "download_time": "2025-11-03T03:58:48.196783",
+  "package_url": "https://pypi.org/project/mcp-server-demo-8/"
+}
