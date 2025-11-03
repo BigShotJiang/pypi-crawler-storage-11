@@ -1,0 +1,11 @@
+{
+  "name": "convokit",
+  "version": "4.0.0",
+  "summary": "ConvoKit",
+  "author": "Jonathan P. Chang, Caleb Chiam, Liye Fu, Andrew Wang, Justine Zhang, Cristian Danescu-Niculescu-Mizil",
+  "license": null,
+  "home_page": "https://github.com/CornellNLP/ConvoKit",
+  "download_filename": "convokit-4.0.0.tar.gz",
+  "download_time": "2025-11-03T14:21:41.415819",
+  "package_url": "https://pypi.org/project/convokit/"
+}

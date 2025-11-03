@@ -1,11 +1,11 @@
 {
   "name": "packagetest12345",
-  "version": "1.3.3",
+  "version": "1.3.9",
   "summary": "Test package",
   "author": "Lukas Freter",
   "license": null,
   "home_page": null,
-  "download_filename": "packagetest12345-1.3.3.tar.gz",
-  "download_time": "2025-11-03T13:47:54.639958",
+  "download_filename": "packagetest12345-1.3.9.tar.gz",
+  "download_time": "2025-11-03T14:21:49.248150",
   "package_url": "https://pypi.org/project/packagetest12345/"
 }

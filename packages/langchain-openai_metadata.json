@@ -1,0 +1,11 @@
+{
+  "name": "langchain-openai",
+  "version": "1.0.2",
+  "summary": "An integration package connecting OpenAI and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_openai-1.0.2.tar.gz",
+  "download_time": "2025-11-03T14:21:39.293066",
+  "package_url": "https://pypi.org/project/langchain-openai/"
+}

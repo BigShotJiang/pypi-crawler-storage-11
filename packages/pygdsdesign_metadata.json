@@ -1,0 +1,11 @@
+{
+  "name": "pygdsdesign",
+  "version": "0.17.8",
+  "summary": "pygdsdesign provides some function to more efficiently create gds files.",
+  "author": "Sacha Wos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygdsdesign-0.17.8-cp311-cp311-win_amd64.whl",
+  "download_time": "2025-11-03T14:21:29.824691",
+  "package_url": "https://pypi.org/project/pygdsdesign/"
+}

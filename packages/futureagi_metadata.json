@@ -1,0 +1,11 @@
+{
+  "name": "futureagi",
+  "version": "0.6.9",
+  "summary": "We help GenAI teams maintain high-accuracy for their Models in production.",
+  "author": "Future AGI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "futureagi-0.6.9.tar.gz",
+  "download_time": "2025-11-03T14:21:35.585701",
+  "package_url": "https://pypi.org/project/futureagi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-query-client",
+  "version": "1.0.0",
+  "summary": "Socket client for NL hybrid query engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hybrid_query_client-1.0.0.tar.gz",
+  "download_time": "2025-11-03T14:21:16.896461",
+  "package_url": "https://pypi.org/project/hybrid-query-client/"
+}

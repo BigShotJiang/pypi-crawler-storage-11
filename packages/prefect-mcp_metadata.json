@@ -1,0 +1,11 @@
+{
+  "name": "prefect-mcp",
+  "version": "0.0.1b8",
+  "summary": "MCP server for interacting with Prefect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prefect_mcp-0.0.1b8.tar.gz",
+  "download_time": "2025-11-03T14:21:32.999177",
+  "package_url": "https://pypi.org/project/prefect-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "splitutils",
+  "version": "0.4.3",
+  "summary": "Group disjunct and stratified data splits",
+  "author": "Uwe Reichel",
+  "license": null,
+  "home_page": "https://github.com/reichelu/splitutils",
+  "download_filename": "splitutils-0.4.3.tar.gz",
+  "download_time": "2025-11-03T14:21:58.743166",
+  "package_url": "https://pypi.org/project/splitutils/"
+}
