@@ -1,11 +1,11 @@
 {
   "name": "valid8r",
-  "version": "0.7.6",
+  "version": "0.9.0",
   "summary": "Clean, flexible input validation for Python applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "valid8r-0.7.6.tar.gz",
-  "download_time": "2025-11-02T15:38:05.225680",
+  "download_filename": "valid8r-0.9.0.tar.gz",
+  "download_time": "2025-11-03T04:35:38.319597",
   "package_url": "https://pypi.org/project/valid8r/"
 }

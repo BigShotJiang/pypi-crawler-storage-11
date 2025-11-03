@@ -1,0 +1,11 @@
+{
+  "name": "powerpoint-mcp",
+  "version": "0.0.15",
+  "summary": "Open Source Model Context Protocol server for PowerPoint automation on Windows via pywin32",
+  "author": "Ayushmaniar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "powerpoint_mcp-0.0.15.tar.gz",
+  "download_time": "2025-11-03T04:35:21.192731",
+  "package_url": "https://pypi.org/project/powerpoint-mcp/"
+}

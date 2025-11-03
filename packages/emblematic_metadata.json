@@ -1,11 +1,11 @@
 {
   "name": "emblematic",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "summary": "Generate emblems from an icon and a background",
   "author": "Stefano Pigozzi",
   "license": null,
   "home_page": null,
-  "download_filename": "emblematic-4.0.0.tar.gz",
-  "download_time": "2025-11-02T05:41:10.546616",
+  "download_filename": "emblematic-4.1.0.tar.gz",
+  "download_time": "2025-11-03T04:35:47.797834",
   "package_url": "https://pypi.org/project/emblematic/"
 }

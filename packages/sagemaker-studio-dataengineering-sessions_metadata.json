@@ -1,11 +1,11 @@
 {
   "name": "sagemaker-studio-dataengineering-sessions",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "summary": "A python Package to run Spark code in different AWS Compute",
   "author": "Amazon Web Services",
   "license": null,
   "home_page": null,
-  "download_filename": "sagemaker_studio_dataengineering_sessions-1.3.6.tar.gz",
-  "download_time": "2025-11-02T19:25:54.269191",
+  "download_filename": "sagemaker_studio_dataengineering_sessions-1.3.7.tar.gz",
+  "download_time": "2025-11-03T04:35:31.938175",
   "package_url": "https://pypi.org/project/sagemaker-studio-dataengineering-sessions/"
 }

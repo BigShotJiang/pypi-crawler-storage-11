@@ -1,22 +1,76 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-03T03:58:48.722423
-- **Total Packages**: 75
-- **Total Size**: 24.42 MB
+- **Download Time**: 2025-11-03T04:36:06.885628
+- **Total Packages**: 84
+- **Total Size**: 26.59 MB
 
 ## Packages List
+- pygenpdf-json
+- genvarloader
+- flekspy
+- grain-nightly
+- openinference-instrumentation-agno
+- nancy-brain
+- clig
+- powerpoint-mcp
+- keras-nlp-nightly
+- keras-hub-nightly
+- AI2GIS
+- PyIGV
+- intentkit
+- mm-read
+- mm-chat
+- svg-ultralight
+- pytip
+- lionherd
+- highway-core
+- umbi
+- cdk-factory
+- gAIRR-suite
+- populationsim
+- vijil-dome
+- owlplanner
+- sagemaker-studio-dataengineering-sessions
+- funcy-bear
+- topalias
+- bunduk-mcp
+- transcript-kit
+- kahip
+- wuying-agentbay-sdk
+- devstack-cli
+- pmmv
+- atomic-red-team-mcp
+- valid8r
+- sycommon-python-lib
+- dragon-ml-toolbox
+- jettask
+- kite-converter
+- weakincentives
+- nlannuzel.sgrain
+- lunar-mcp-server
+- splurge-dsv
+- omnata-plugin-runtime
+- caki
+- mcp2py
+- sleipnirgroup-jormungandr
+- easy-cos
+- pyshapdf
+- dodecahedron
+- emblematic
+- nessie-py
+- hex-zmq-servers
+- xl-docx
+- alita-sdk
+- pandalchemy
+- vitallens
 - aioesphomeapi
 - odc-stats
 - athena-intelligence
 - hakoniwa-pdu
-- bunduk-mcp
-- caki
 - provide-foundation
 - korus
-- umbi
 - expenselm-mcp-server
-- owlplanner
 - zhkj-plugins-parent
 - pyvider
 - fastapi-async-storages
@@ -36,48 +90,3 @@
 - digital-life
 - argscape
 - axmp-openapi-helper
-- eol-check
-- image-namer
-- hww
-- keras-rs-nightly
-- magboltz-gui
-- dataparsers
-- cqc-quam-state
-- dorgy
-- aliyun-python-sdk-dds
-- ctyunsdk-ebsbackup20220909
-- samudra-ai
-- confy-addons
-- GANDLF
-- geekgcc
-- starlit-cli
-- arcade-actions
-- cfn-check
-- marvin
-- jettask
-- cursor-notifier
-- iflow-mcp_optuna-mcp
-- qtmodel
-- yta-editor-nodes-cpu
-- mcp-neo4j-temporal-substrate
-- lionherd-core
-- mdtoken
-- xpw
-- iflow-mcp_mcp-server-twelve-data
-- minto
-- pyAgrum-nightly
-- ctyunsdk-ebs20220909
-- iflow-mcp_chronulus-mcp
-- structuralpy
-- arthexis
-- mns-common
-- yuanfen
-- odoo-addon-l10n-ro-stock
-- gllm-core-binary
-- iflow-mcp_iotdb-mcp-server
-- boulder-opal-scale-up-sdk
-- hyperlight-cocoa
-- quantecon-book-theme
-- alibabacloud-edas20170801
-- gui-utilities
-- mcp-server-demo-8
