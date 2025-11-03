@@ -1,0 +1,11 @@
+{
+  "name": "tpds-extension-sha104-105-support",
+  "version": "1.2.5",
+  "summary": "Microchip(SPG) Trust Platform - SHA104, SHA105 and SHA106 Devices Support",
+  "author": "Microchip Technology",
+  "license": null,
+  "home_page": "https://www.microchip.com/TrustPlatform",
+  "download_filename": "tpds_extension_sha104_105_support-1.2.5-py3-none-any.whl",
+  "download_time": "2025-11-03T20:54:43.847846",
+  "package_url": "https://pypi.org/project/tpds-extension-sha104-105-support/"
+}

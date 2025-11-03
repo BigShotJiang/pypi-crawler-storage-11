@@ -1,0 +1,11 @@
+{
+  "name": "ats-coverage",
+  "version": "1.0.4",
+  "summary": "Python code coverage automation",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/ats_coverage",
+  "download_filename": "ats_coverage-1.0.4.tar.gz",
+  "download_time": "2025-11-03T20:54:48.478026",
+  "package_url": "https://pypi.org/project/ats-coverage/"
+}

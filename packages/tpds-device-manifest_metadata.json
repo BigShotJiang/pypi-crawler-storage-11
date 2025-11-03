@@ -1,0 +1,11 @@
+{
+  "name": "tpds-device-manifest",
+  "version": "1.0.1",
+  "summary": "Microchip Secure Devices Manifest Generation and Decoding Support",
+  "author": null,
+  "license": "(c) 2018 to present - Copyright Microchip Technology Inc. and its subsidiaries.\n        \n        Subject to your compliance with these terms, you may use Microchip software\n        and any derivatives exclusively with Microchip products. It is your\n        responsibility to comply with third party license terms applicable to your\n        use of third party software (including open source software) that may\n        accompany Microchip software.\n        \n        THIS SOFTWARE IS SUPPLIED BY MICROCHIP \"AS IS\". NO WARRANTIES, WHETHER\n        EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED\n        WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR\n        PURPOSE. IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL,\n        PUNITIVE, INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY\n        KIND WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP\n        HAS BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE\n        FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN\n        ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,\n        THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.\n        \n        ",
+  "home_page": null,
+  "download_filename": "tpds_device_manifest-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-03T20:54:45.395368",
+  "package_url": "https://pypi.org/project/tpds-device-manifest/"
+}

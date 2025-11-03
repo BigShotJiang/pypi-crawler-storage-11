@@ -1,0 +1,11 @@
+{
+  "name": "gooddata-flexconnect",
+  "version": "1.54.0",
+  "summary": "Build your own data source for GoodData Cloud and GoodData Cloud Native.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gooddata_flexconnect-1.54.0.tar.gz",
+  "download_time": "2025-11-03T20:54:35.500574",
+  "package_url": "https://pypi.org/project/gooddata-flexconnect/"
+}
