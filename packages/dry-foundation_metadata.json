@@ -1,11 +1,11 @@
 {
   "name": "dry-foundation",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Tools and components for building customized and consistent small-scale Flask applications.",
   "author": null,
   "license": "GNU GPLv3",
   "home_page": null,
-  "download_filename": "dry_foundation-1.4.0.tar.gz",
-  "download_time": "2025-11-02T23:18:29.860374",
+  "download_filename": "dry_foundation-1.4.1.tar.gz",
+  "download_time": "2025-11-03T13:22:03.687991",
   "package_url": "https://pypi.org/project/dry-foundation/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-export-contract-data-form-view",
+  "version": "16.0.1.0.0",
+  "summary": "Allows the export data action from a contract form view.",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_export_contract_data_form_view-16.0.1.0.0.tar.gz",
+  "download_time": "2025-11-03T13:21:56.809024",
+  "package_url": "https://pypi.org/project/odoo-addon-export-contract-data-form-view/"
+}

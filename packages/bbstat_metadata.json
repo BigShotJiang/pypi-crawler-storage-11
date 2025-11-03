@@ -1,0 +1,11 @@
+{
+  "name": "bbstat",
+  "version": "0.1.1",
+  "summary": "A lightweight library for Bayesian bootstrapping and statistical evaluation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbstat-0.1.1.tar.gz",
+  "download_time": "2025-11-03T13:22:05.776591",
+  "package_url": "https://pypi.org/project/bbstat/"
+}

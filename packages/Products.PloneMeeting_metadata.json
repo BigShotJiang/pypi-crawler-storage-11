@@ -1,0 +1,11 @@
+{
+  "name": "Products.PloneMeeting",
+  "version": "4.2.27.2",
+  "summary": "Official meetings management",
+  "author": "Gauthier Bastien",
+  "license": "GPL",
+  "home_page": "https://www.imio.be/nos-applications/ia-delib",
+  "download_filename": "products_plonemeeting-4.2.27.2.tar.gz",
+  "download_time": "2025-11-03T13:22:15.200978",
+  "package_url": "https://pypi.org/project/Products.PloneMeeting/"
+}

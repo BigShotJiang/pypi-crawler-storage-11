@@ -1,0 +1,11 @@
+{
+  "name": "bigsudo",
+  "version": "1.1.1",
+  "summary": "Obscene ansible runner",
+  "author": null,
+  "license": null,
+  "home_page": "https://yourlabs.io/oss/bigsudo",
+  "download_filename": "bigsudo-1.1.1.tar.gz",
+  "download_time": "2025-11-03T13:22:22.018962",
+  "package_url": "https://pypi.org/project/bigsudo/"
+}

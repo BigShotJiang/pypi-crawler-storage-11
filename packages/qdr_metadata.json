@@ -1,11 +1,11 @@
 {
   "name": "qdr",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "Manage your tasks directly from the terminal using markdown",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qdr-0.3.0.tar.gz",
-  "download_time": "2025-11-03T12:44:18.438208",
+  "download_filename": "qdr-1.0.0.tar.gz",
+  "download_time": "2025-11-03T13:22:07.338881",
   "package_url": "https://pypi.org/project/qdr/"
 }
