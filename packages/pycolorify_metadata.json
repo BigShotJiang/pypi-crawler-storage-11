@@ -1,0 +1,11 @@
+{
+  "name": "pycolorify",
+  "version": "0.1.0",
+  "summary": "A simple color manipulation and conversion library",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/colorify",
+  "download_filename": "pycolorify-0.1.0.tar.gz",
+  "download_time": "2025-11-03T19:17:25.029534",
+  "package_url": "https://pypi.org/project/pycolorify/"
+}

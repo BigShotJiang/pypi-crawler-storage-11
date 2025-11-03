@@ -1,0 +1,11 @@
+{
+  "name": "bixypay-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the BixyPay Fintech API Platform",
+  "author": "BixyPay",
+  "license": null,
+  "home_page": "https://github.com/bixypay/fintech-sdk-python",
+  "download_filename": "bixypay_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-03T19:17:35.922586",
+  "package_url": "https://pypi.org/project/bixypay-sdk/"
+}

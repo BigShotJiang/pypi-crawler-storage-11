@@ -1,0 +1,11 @@
+{
+  "name": "mcp-zentao",
+  "version": "1.0.0",
+  "summary": "禅道系统 MCP 服务器 - 基于 Semantic Kernel 的 Model Context Protocol 服务器",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_zentao-1.0.0.tar.gz",
+  "download_time": "2025-11-03T19:17:19.822263",
+  "package_url": "https://pypi.org/project/mcp-zentao/"
+}

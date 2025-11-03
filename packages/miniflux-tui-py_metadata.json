@@ -1,11 +1,11 @@
 {
   "name": "miniflux-tui-py",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A Python TUI client for Miniflux RSS reader with feed sorting capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "miniflux_tui_py-0.5.1.tar.gz",
-  "download_time": "2025-11-02T13:52:13.406845",
+  "download_filename": "miniflux_tui_py-0.5.2.tar.gz",
+  "download_time": "2025-11-03T19:17:31.756434",
   "package_url": "https://pypi.org/project/miniflux-tui-py/"
 }

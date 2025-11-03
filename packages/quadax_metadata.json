@@ -1,0 +1,11 @@
+{
+  "name": "quadax",
+  "version": "0.2.11",
+  "summary": "Numerical quadrature with JAX",
+  "author": "Rory Conlin",
+  "license": "MIT",
+  "home_page": "https://github.com/f0uriest/quadax",
+  "download_filename": "quadax-0.2.11.tar.gz",
+  "download_time": "2025-11-03T19:17:26.054125",
+  "package_url": "https://pypi.org/project/quadax/"
+}

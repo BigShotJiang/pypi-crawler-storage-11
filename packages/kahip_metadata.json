@@ -1,11 +1,11 @@
 {
   "name": "kahip",
-  "version": "3.19.0",
+  "version": "3.20",
   "summary": "Karlsruhe High Quality Graph Partitioning Framework",
   "author": "Christian Schulz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kahip-3.19.0.tar.gz",
-  "download_time": "2025-11-03T04:35:34.849900",
+  "download_filename": "kahip-3.20.tar.gz",
+  "download_time": "2025-11-03T19:17:13.490346",
   "package_url": "https://pypi.org/project/kahip/"
 }

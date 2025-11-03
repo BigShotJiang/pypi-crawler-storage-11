@@ -1,0 +1,11 @@
+{
+  "name": "fastlbp",
+  "version": "0.3.1",
+  "summary": "Parallel multiradial LBP features",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastlbp-0.3.1-cp311-cp311-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-11-03T19:17:41.099738",
+  "package_url": "https://pypi.org/project/fastlbp/"
+}

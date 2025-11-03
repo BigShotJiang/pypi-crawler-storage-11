@@ -1,0 +1,11 @@
+{
+  "name": "game-state",
+  "version": "2.1.0",
+  "summary": "A pygame utility package that allows you to handle different screens in an organized manner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "game_state-2.1.0.tar.gz",
+  "download_time": "2025-11-03T19:17:28.118932",
+  "package_url": "https://pypi.org/project/game-state/"
+}

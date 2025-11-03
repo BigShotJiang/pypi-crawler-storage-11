@@ -1,11 +1,11 @@
 {
   "name": "polyglot-ffi",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Automatic FFI bindings generator for polyglot projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polyglot_ffi-0.5.1.tar.gz",
-  "download_time": "2025-11-02T22:40:18.002281",
+  "download_filename": "polyglot_ffi-0.5.2.tar.gz",
+  "download_time": "2025-11-03T19:17:26.564039",
   "package_url": "https://pypi.org/project/polyglot-ffi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "swiftcli",
+  "version": "0.2.0",
+  "summary": "Build testable CLI apps with `click` and `pydantic`",
+  "author": "Or Levi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swiftcli-0.2.0.tar.gz",
+  "download_time": "2025-11-03T19:17:43.179181",
+  "package_url": "https://pypi.org/project/swiftcli/"
+}
