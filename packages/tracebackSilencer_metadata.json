@@ -1,0 +1,11 @@
+{
+  "name": "tracebackSilencer",
+  "version": "0.1.0",
+  "summary": "Silence the anyoing tracebacks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracebacksilencer-0.1.0.tar.gz",
+  "download_time": "2025-11-03T05:22:12.310225",
+  "package_url": "https://pypi.org/project/tracebackSilencer/"
+}

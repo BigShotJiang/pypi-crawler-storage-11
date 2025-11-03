@@ -1,18 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-03T04:56:26.035899
-- **Total Packages**: 84
-- **Total Size**: 16.07 MB
+- **Download Time**: 2025-11-03T05:22:50.509276
+- **Total Packages**: 79
+- **Total Size**: 16.53 MB
 
 ## Packages List
-- VideoRAC
-- mns-common
+- soft-fido2
+- omnibar
+- openrag
+- utils-devops
+- fastmongo
+- tracebackSilencer
+- vlm-sdk
+- bunduk-mcp
+- fluxloop
+- braintrust-langchain
+- sleipnirgroup-jormungandr
+- kinemotion
+- AutoImblearn
+- gwa
+- spt3g
 - lt-tensor
+- topalias
+- strands-mlx
+- intentkit
+- abstract-utilities
+- VideoRAC
+- yokedcache
+- sagemaker-jupyterlab-extension-common
+- kabukit
+- funcy-bear
+- acdc_aws_etl_pipeline
+- telepact-cli
+- telepact
+- powerpoint-mcp
+- oelint-data
+- kagura-ai
+- rail-score
+- batchling
+- zpack
+- scrapegraph-mcp
+- csf-crypto
+- mns-common
 - ministatus
 - adjango
 - iamdata
-- funcy-bear
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-aps
 - pumaguard
@@ -20,21 +53,15 @@
 - robhan-cdk-lib.utils
 - localecmd
 - gitdo
-- kinemotion
 - firecracker-python
-- sleipnirgroup-jormungandr
-- csf-crypto
 - umbi
 - namedivider-python
 - axmp-openapi-mcp-server
 - jettask
 - boostrsa
 - specklia
-- topalias
 - sonolus.py
 - nmaipy
-- powerpoint-mcp
-- strands-mlx
 - tacc
 - odoo-addon-partner-category-description
 - tap-grib
@@ -52,41 +79,9 @@
 - keras-nlp-nightly
 - keras-hub-nightly
 - AI2GIS
-- intentkit
 - mm-read
 - mm-chat
 - svg-ultralight
 - pytip
 - lionherd
 - highway-core
-- gAIRR-suite
-- populationsim
-- vijil-dome
-- owlplanner
-- sagemaker-studio-dataengineering-sessions
-- bunduk-mcp
-- transcript-kit
-- kahip
-- wuying-agentbay-sdk
-- devstack-cli
-- pmmv
-- atomic-red-team-mcp
-- valid8r
-- sycommon-python-lib
-- dragon-ml-toolbox
-- kite-converter
-- weakincentives
-- nlannuzel.sgrain
-- lunar-mcp-server
-- splurge-dsv
-- omnata-plugin-runtime
-- caki
-- mcp2py
-- easy-cos
-- pyshapdf
-- dodecahedron
-- emblematic
-- nessie-py
-- hex-zmq-servers
-- xl-docx
-- alita-sdk

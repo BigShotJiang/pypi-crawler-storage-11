@@ -1,0 +1,11 @@
+{
+  "name": "yokedcache",
+  "version": "0.3.0",
+  "summary": "Python caching library for FastAPI with Redis auto-invalidation, vector search caching, and intelligent cache management",
+  "author": "Project Yoked LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yokedcache-0.3.0.tar.gz",
+  "download_time": "2025-11-03T05:22:20.892764",
+  "package_url": "https://pypi.org/project/yokedcache/"
+}
