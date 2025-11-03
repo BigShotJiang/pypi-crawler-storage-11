@@ -1,0 +1,11 @@
+{
+  "name": "py2code",
+  "version": "0.2.2",
+  "summary": "A Python package for generating source code in C, C++, C#, and Java from python code.",
+  "author": "Jari Ojanen",
+  "license": null,
+  "home_page": "https://github.com/ojari/codegen",
+  "download_filename": "py2code-0.2.2-py3-none-any.whl",
+  "download_time": "2025-11-03T18:49:57.982466",
+  "package_url": "https://pypi.org/project/py2code/"
+}

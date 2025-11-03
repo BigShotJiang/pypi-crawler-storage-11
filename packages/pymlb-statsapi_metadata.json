@@ -1,11 +1,11 @@
 {
   "name": "pymlb-statsapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python wrapper for MLB Stats API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymlb_statsapi-1.0.2.tar.gz",
-  "download_time": "2025-11-03T17:19:21.948893",
+  "download_filename": "pymlb_statsapi-1.0.3.tar.gz",
+  "download_time": "2025-11-03T18:49:51.764016",
   "package_url": "https://pypi.org/project/pymlb-statsapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "colibricf",
+  "version": "1.0.102",
+  "summary": "Code functions to control a Drone using clover",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colibricf-1.0.102.tar.gz",
+  "download_time": "2025-11-03T18:49:40.404787",
+  "package_url": "https://pypi.org/project/colibricf/"
+}

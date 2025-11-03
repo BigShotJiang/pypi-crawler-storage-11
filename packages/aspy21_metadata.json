@@ -1,11 +1,11 @@
 {
   "name": "aspy21",
-  "version": "0.2.0b8",
+  "version": "0.2.0b13",
   "summary": "Modern Python client for Aspen InfoPlus.21 (IP.21) with pandas DataFrame output, tag search, and automatic retry logic",
   "author": "bazdalaz",
   "license": null,
   "home_page": null,
-  "download_filename": "aspy21-0.2.0b8.tar.gz",
-  "download_time": "2025-11-03T17:19:31.340625",
+  "download_filename": "aspy21-0.2.0b13.tar.gz",
+  "download_time": "2025-11-03T18:49:42.994646",
   "package_url": "https://pypi.org/project/aspy21/"
 }
