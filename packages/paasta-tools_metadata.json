@@ -1,0 +1,11 @@
+{
+  "name": "paasta-tools",
+  "version": "1.34.0",
+  "summary": "Tools for Yelps SOA infrastructure",
+  "author": "Compute Infrastructure @ Yelp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paasta_tools-1.34.0.tar.gz",
+  "download_time": "2025-11-03T19:38:53.301399",
+  "package_url": "https://pypi.org/project/paasta-tools/"
+}

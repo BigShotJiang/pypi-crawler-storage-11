@@ -1,0 +1,11 @@
+{
+  "name": "pyrhubarb-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for Rhubarb document and video understanding capabilities",
+  "author": "Rhubarb Developers",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/awslabs/rhubarb",
+  "download_filename": "pyrhubarb_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-03T19:39:21.208998",
+  "package_url": "https://pypi.org/project/pyrhubarb-mcp/"
+}

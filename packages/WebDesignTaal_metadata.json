@@ -1,11 +1,11 @@
 {
   "name": "WebDesignTaal",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Een programmeertaal die compileert naar HTML met een Nederlandse syntax.",
   "author": "TJouleL",
   "license": null,
   "home_page": "https://github.com/TJouleL/WebDesignTaal",
-  "download_filename": "webdesigntaal-1.0.2.tar.gz",
-  "download_time": "2025-11-03T11:51:48.144036",
+  "download_filename": "webdesigntaal-1.1.0.tar.gz",
+  "download_time": "2025-11-03T19:39:21.720890",
   "package_url": "https://pypi.org/project/WebDesignTaal/"
 }

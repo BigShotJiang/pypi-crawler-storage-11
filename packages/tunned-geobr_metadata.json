@@ -1,0 +1,11 @@
+{
+  "name": "tunned-geobr",
+  "version": "1.1",
+  "summary": "Fork personalizado do geobr com funcionalidades extras como download de dados da ANM",
+  "author": "Anderson Stolfi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tunned_geobr-1.1.tar.gz",
+  "download_time": "2025-11-03T19:39:03.174794",
+  "package_url": "https://pypi.org/project/tunned-geobr/"
+}
