@@ -1,0 +1,11 @@
+{
+  "name": "namedivider-python",
+  "version": "0.4.1",
+  "summary": "A tool that divides Japanese full names into family and given names.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "namedivider_python-0.4.1.tar.gz",
+  "download_time": "2025-11-03T04:55:52.063167",
+  "package_url": "https://pypi.org/project/namedivider-python/"
+}

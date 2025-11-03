@@ -1,0 +1,11 @@
+{
+  "name": "tacc",
+  "version": "0.1.0",
+  "summary": "High-performance token compression for LLMs with Rust-backed implementation",
+  "author": "Elijah Kurien",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tacc-0.1.0.tar.gz",
+  "download_time": "2025-11-03T04:55:57.568650",
+  "package_url": "https://pypi.org/project/tacc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "funcy-bear",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Bear's functional programming playground: currying, dispatching, type magic, and chaos - all with bearly any dependencies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "funcy_bear-0.0.3.tar.gz",
-  "download_time": "2025-11-03T04:35:32.520033",
+  "download_filename": "funcy_bear-0.0.4.tar.gz",
+  "download_time": "2025-11-03T04:55:44.995497",
   "package_url": "https://pypi.org/project/funcy-bear/"
 }

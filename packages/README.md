@@ -1,23 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-03T04:36:06.885628
+- **Download Time**: 2025-11-03T04:56:26.035899
 - **Total Packages**: 84
-- **Total Size**: 26.59 MB
+- **Total Size**: 16.07 MB
 
 ## Packages List
+- VideoRAC
+- mns-common
+- lt-tensor
+- ministatus
+- adjango
+- iamdata
+- funcy-bear
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-aps
+- pumaguard
+- funcguard
+- robhan-cdk-lib.utils
+- localecmd
+- gitdo
+- kinemotion
+- firecracker-python
+- sleipnirgroup-jormungandr
+- csf-crypto
+- umbi
+- namedivider-python
+- axmp-openapi-mcp-server
+- jettask
+- boostrsa
+- specklia
+- topalias
+- sonolus.py
+- nmaipy
+- powerpoint-mcp
+- strands-mlx
+- tacc
+- odoo-addon-partner-category-description
+- tap-grib
+- PyIGV
+- nancy-brain
+- tap-spreadsheets
+- talentsavvy-improveteam
+- cdk-factory
 - pygenpdf-json
 - genvarloader
 - flekspy
 - grain-nightly
 - openinference-instrumentation-agno
-- nancy-brain
 - clig
-- powerpoint-mcp
 - keras-nlp-nightly
 - keras-hub-nightly
 - AI2GIS
-- PyIGV
 - intentkit
 - mm-read
 - mm-chat
@@ -25,15 +59,11 @@
 - pytip
 - lionherd
 - highway-core
-- umbi
-- cdk-factory
 - gAIRR-suite
 - populationsim
 - vijil-dome
 - owlplanner
 - sagemaker-studio-dataengineering-sessions
-- funcy-bear
-- topalias
 - bunduk-mcp
 - transcript-kit
 - kahip
@@ -44,7 +74,6 @@
 - valid8r
 - sycommon-python-lib
 - dragon-ml-toolbox
-- jettask
 - kite-converter
 - weakincentives
 - nlannuzel.sgrain
@@ -53,7 +82,6 @@
 - omnata-plugin-runtime
 - caki
 - mcp2py
-- sleipnirgroup-jormungandr
 - easy-cos
 - pyshapdf
 - dodecahedron
@@ -62,31 +90,3 @@
 - hex-zmq-servers
 - xl-docx
 - alita-sdk
-- pandalchemy
-- vitallens
-- aioesphomeapi
-- odc-stats
-- athena-intelligence
-- hakoniwa-pdu
-- provide-foundation
-- korus
-- expenselm-mcp-server
-- zhkj-plugins-parent
-- pyvider
-- fastapi-async-storages
-- bouquin
-- nb-aiopool
-- kagura-ai
-- coinex-mcp-server
-- treesak
-- pyvider-components
-- herogentest-lib
-- boulder-opal-scale-up
-- zengin-code
-- ai-spellchecker
-- faster-geohash
-- borgmatic
-- ttkbootstrap-icons
-- digital-life
-- argscape
-- axmp-openapi-helper

@@ -1,0 +1,11 @@
+{
+  "name": "adjango",
+  "version": "0.8.1",
+  "summary": "A library with many features for interacting with Django",
+  "author": "xlartas",
+  "license": null,
+  "home_page": "https://github.com/Artasov/adjango",
+  "download_filename": "adjango-0.8.1.tar.gz",
+  "download_time": "2025-11-03T04:55:43.874572",
+  "package_url": "https://pypi.org/project/adjango/"
+}

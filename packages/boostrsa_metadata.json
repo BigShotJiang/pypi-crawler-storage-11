@@ -1,0 +1,11 @@
+{
+  "name": "boostrsa",
+  "version": "0.0.1.dev8",
+  "summary": "This is toolbox for boosting calculation speed using GPU",
+  "author": "seojin",
+  "license": null,
+  "home_page": "https://github.com/SeojinYoon/boostrsa.git",
+  "download_filename": "boostrsa-0.0.1.dev8.tar.gz",
+  "download_time": "2025-11-03T04:55:53.611134",
+  "package_url": "https://pypi.org/project/boostrsa/"
+}
