@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-kinesis",
+  "version": "1.40.65",
+  "summary": "Type annotations for boto3 Kinesis 1.40.65 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_kinesis-1.40.65.tar.gz",
+  "download_time": "2025-11-03T22:20:33.449631",
+  "package_url": "https://pypi.org/project/types-boto3-kinesis/"
+}

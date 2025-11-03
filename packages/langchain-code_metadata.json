@@ -1,11 +1,11 @@
 {
   "name": "langchain-code",
-  "version": "0.1.0",
-  "summary": null,
-  "author": null,
-  "license": null,
+  "version": "0.1.3",
+  "summary": "A comprehensive combination of all agentic CLI at one place with 🦜🔗!",
+  "author": "zamal",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_code-0.1.0.tar.gz",
-  "download_time": "2025-11-03T21:52:23.866821",
+  "download_filename": "langchain_code-0.1.3.tar.gz",
+  "download_time": "2025-11-03T22:20:57.888352",
   "package_url": "https://pypi.org/project/langchain-code/"
 }

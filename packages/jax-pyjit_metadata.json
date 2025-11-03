@@ -1,11 +1,11 @@
 {
   "name": "jax-pyjit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "JIT python bindings including the client and data access objects",
   "author": "Matthew Gerring",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jax_pyjit-0.1.2.tar.gz",
-  "download_time": "2025-11-03T15:24:45.885704",
+  "download_filename": "jax_pyjit-0.1.3.tar.gz",
+  "download_time": "2025-11-03T22:20:56.302845",
   "package_url": "https://pypi.org/project/jax-pyjit/"
 }

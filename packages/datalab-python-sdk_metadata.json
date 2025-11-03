@@ -1,0 +1,11 @@
+{
+  "name": "datalab-python-sdk",
+  "version": "0.1.13",
+  "summary": "SDK for the Datalab document intelligence API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datalab_python_sdk-0.1.13.tar.gz",
+  "download_time": "2025-11-03T22:21:04.143373",
+  "package_url": "https://pypi.org/project/datalab-python-sdk/"
+}

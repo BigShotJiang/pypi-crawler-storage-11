@@ -1,0 +1,11 @@
+{
+  "name": "pyFIS",
+  "version": "1.14.2",
+  "summary": "A library for controlling devices in the passenger information realm",
+  "author": "Julian Metzler",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Mezgrman/pyFIS",
+  "download_filename": "pyfis-1.14.2.tar.gz",
+  "download_time": "2025-11-03T22:20:59.439464",
+  "package_url": "https://pypi.org/project/pyFIS/"
+}

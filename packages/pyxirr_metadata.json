@@ -1,0 +1,11 @@
+{
+  "name": "pyxirr",
+  "version": "0.10.8",
+  "summary": "Rust-powered collection of financial functions for Python.",
+  "author": "Anexen",
+  "license": "Unlicense",
+  "home_page": "https://github.com/Anexen/pyxirr",
+  "download_filename": "pyxirr-0.10.8.tar.gz",
+  "download_time": "2025-11-03T22:20:27.201182",
+  "package_url": "https://pypi.org/project/pyxirr/"
+}

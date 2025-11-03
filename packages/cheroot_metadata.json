@@ -1,0 +1,11 @@
+{
+  "name": "cheroot",
+  "version": "11.1.1",
+  "summary": "Highly-optimized, pure-python HTTP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheroot-11.1.1.tar.gz",
+  "download_time": "2025-11-03T22:20:24.568074",
+  "package_url": "https://pypi.org/project/cheroot/"
+}
