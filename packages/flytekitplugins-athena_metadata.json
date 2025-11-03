@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-athena",
+  "version": "1.16.9",
+  "summary": "This package holds the Athena plugins for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_athena-1.16.9.tar.gz",
+  "download_time": "2025-11-03T23:40:14.211377",
+  "package_url": "https://pypi.org/project/flytekitplugins-athena/"
+}

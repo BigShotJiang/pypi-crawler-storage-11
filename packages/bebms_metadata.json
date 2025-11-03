@@ -1,11 +1,11 @@
 {
   "name": "bebms",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Bayesian Event-Based Model for Disease Subtype and Stage Inference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bebms-0.4.0.tar.gz",
-  "download_time": "2025-11-03T23:19:32.019399",
+  "download_filename": "bebms-0.4.1.tar.gz",
+  "download_time": "2025-11-03T23:39:32.961366",
   "package_url": "https://pypi.org/project/bebms/"
 }

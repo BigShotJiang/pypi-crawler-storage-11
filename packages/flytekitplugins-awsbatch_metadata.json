@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-awsbatch",
+  "version": "1.16.9",
+  "summary": "This package holds the AWS Batch plugins for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_awsbatch-1.16.9.tar.gz",
+  "download_time": "2025-11-03T23:40:13.673754",
+  "package_url": "https://pypi.org/project/flytekitplugins-awsbatch/"
+}

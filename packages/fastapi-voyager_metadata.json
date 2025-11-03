@@ -1,11 +1,11 @@
 {
   "name": "fastapi-voyager",
-  "version": "0.11.6",
+  "version": "0.11.8",
   "summary": "Visualize FastAPI application's routing tree and dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_voyager-0.11.6.tar.gz",
-  "download_time": "2025-11-01T22:51:25.434359",
+  "download_filename": "fastapi_voyager-0.11.8.tar.gz",
+  "download_time": "2025-11-03T23:39:43.096847",
   "package_url": "https://pypi.org/project/fastapi-voyager/"
 }

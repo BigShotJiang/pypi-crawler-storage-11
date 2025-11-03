@@ -1,11 +1,11 @@
 {
   "name": "pycmd2",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "Command tools build with python.",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "pycmd2-0.5.8.tar.gz",
-  "download_time": "2025-11-02T13:32:34.495130",
+  "download_filename": "pycmd2-0.5.9.tar.gz",
+  "download_time": "2025-11-03T23:39:39.386891",
   "package_url": "https://pypi.org/project/pycmd2/"
 }

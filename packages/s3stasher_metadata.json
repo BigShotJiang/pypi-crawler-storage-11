@@ -1,0 +1,11 @@
+{
+  "name": "s3stasher",
+  "version": "0.0.5",
+  "summary": "A python package for working with objects in AWS S3 as if they were local files, including cache management and offline usage.",
+  "author": "Ben Siranosian",
+  "license": "MIT",
+  "home_page": "https://github.com/bsiranosian/s3stasher",
+  "download_filename": "s3stasher-0.0.5.tar.gz",
+  "download_time": "2025-11-03T23:39:40.965779",
+  "package_url": "https://pypi.org/project/s3stasher/"
+}

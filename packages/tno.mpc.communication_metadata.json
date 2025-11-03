@@ -1,0 +1,11 @@
+{
+  "name": "tno.mpc.communication",
+  "version": "5.0.4",
+  "summary": "MPC Communication module",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "tno_mpc_communication-5.0.4.tar.gz",
+  "download_time": "2025-11-03T23:39:34.001497",
+  "package_url": "https://pypi.org/project/tno.mpc.communication/"
+}

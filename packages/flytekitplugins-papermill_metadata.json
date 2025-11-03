@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-papermill",
+  "version": "1.16.9",
+  "summary": "This is the flytekit papermill plugin",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_papermill-1.16.9.tar.gz",
+  "download_time": "2025-11-03T23:39:53.759721",
+  "package_url": "https://pypi.org/project/flytekitplugins-papermill/"
+}

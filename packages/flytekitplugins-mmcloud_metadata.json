@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-mmcloud",
+  "version": "1.16.9",
+  "summary": "MemVerge Flyte plugin",
+  "author": "Edwin Yu, Helen Zhang",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_mmcloud-1.16.9.tar.gz",
+  "download_time": "2025-11-03T23:39:59.145033",
+  "package_url": "https://pypi.org/project/flytekitplugins-mmcloud/"
+}

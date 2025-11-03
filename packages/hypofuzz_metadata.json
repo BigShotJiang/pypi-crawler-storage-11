@@ -1,0 +1,11 @@
+{
+  "name": "hypofuzz",
+  "version": "25.11.1",
+  "summary": "Adaptive fuzzing for property-based tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hypofuzz-25.11.1.tar.gz",
+  "download_time": "2025-11-03T23:39:36.076762",
+  "package_url": "https://pypi.org/project/hypofuzz/"
+}

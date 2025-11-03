@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-awssagemaker",
+  "version": "1.16.9",
+  "summary": "Flytekit AWS SageMaker Plugin",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_awssagemaker-1.16.9.tar.gz",
+  "download_time": "2025-11-03T23:40:13.138502",
+  "package_url": "https://pypi.org/project/flytekitplugins-awssagemaker/"
+}

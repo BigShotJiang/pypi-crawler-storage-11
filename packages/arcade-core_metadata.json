@@ -1,11 +1,11 @@
 {
   "name": "arcade-core",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "summary": "Arcade Core - Core library for Arcade platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arcade_core-3.3.2.tar.gz",
-  "download_time": "2025-11-03T22:42:26.254103",
+  "download_filename": "arcade_core-3.3.3.tar.gz",
+  "download_time": "2025-11-03T23:40:21.620567",
   "package_url": "https://pypi.org/project/arcade-core/"
 }
