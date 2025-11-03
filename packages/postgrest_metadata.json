@@ -1,0 +1,11 @@
+{
+  "name": "postgrest",
+  "version": "2.23.2",
+  "summary": "PostgREST client for Python. This library provides an ORM interface to PostgREST.",
+  "author": "Lương Quang Mạnh, Joel Lee, Anand, Oliver Rice, Andrew Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "postgrest-2.23.2.tar.gz",
+  "download_time": "2025-11-03T17:53:22.632044",
+  "package_url": "https://pypi.org/project/postgrest/"
+}

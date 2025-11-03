@@ -1,0 +1,11 @@
+{
+  "name": "tergiversator",
+  "version": "0.8.4",
+  "summary": "Run multiple duplicity backups from a central host",
+  "author": "Gwyn Ciesla",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://codeberg.org/gwync/tergiversator",
+  "download_filename": "tergiversator-0.8.4.tar.gz",
+  "download_time": "2025-11-03T17:53:07.177250",
+  "package_url": "https://pypi.org/project/tergiversator/"
+}

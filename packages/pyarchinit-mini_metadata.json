@@ -1,11 +1,11 @@
 {
   "name": "pyarchinit-mini",
-  "version": "1.9.33",
+  "version": "1.9.34",
   "summary": "Lightweight archaeological data management system with REST API, Web UI, Desktop GUI, CLI, multi-user authentication, real-time collaboration, analytics dashboard, PyArchInit import/export, Heriverse/ATON export integration, and 3D CRUD viewer",
   "author": "PyArchInit Team",
   "license": "GPL-2.0",
   "home_page": "https://github.com/enzococca/pyarchinit-mini",
-  "download_filename": "pyarchinit_mini-1.9.33.tar.gz",
-  "download_time": "2025-11-03T17:42:34.717166",
+  "download_filename": "pyarchinit_mini-1.9.34.tar.gz",
+  "download_time": "2025-11-03T17:53:19.527565",
   "package_url": "https://pypi.org/project/pyarchinit-mini/"
 }
