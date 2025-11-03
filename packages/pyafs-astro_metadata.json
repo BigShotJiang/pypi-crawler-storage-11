@@ -1,0 +1,11 @@
+{
+  "name": "pyafs-astro",
+  "version": "0.2.0",
+  "summary": "A Python implementation of Alpha-shape Fitting to Spectrum (AFS) algorithm",
+  "author": "Yifan Wang",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/fengshun124/pyAFS",
+  "download_filename": "pyafs_astro-0.2.0.tar.gz",
+  "download_time": "2025-11-03T05:43:20.884473",
+  "package_url": "https://pypi.org/project/pyafs-astro/"
+}

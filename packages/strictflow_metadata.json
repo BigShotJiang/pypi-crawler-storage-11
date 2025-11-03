@@ -1,0 +1,11 @@
+{
+  "name": "strictflow",
+  "version": "0.1.0",
+  "summary": "A lightweight, strict flow controller for enforcing thread-safe Read (P2) and Write (P1) priority in concurrent Python applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strictflow-0.1.0.tar.gz",
+  "download_time": "2025-11-03T05:43:27.834062",
+  "package_url": "https://pypi.org/project/strictflow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymultifit",
+  "version": "1.0.9",
+  "summary": "A library to fit data with multiple fitters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymultifit-1.0.9.tar.gz",
+  "download_time": "2025-11-03T05:43:30.402294",
+  "package_url": "https://pypi.org/project/pymultifit/"
+}
