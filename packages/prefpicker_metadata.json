@@ -1,0 +1,11 @@
+{
+  "name": "prefpicker",
+  "version": "2.15.0",
+  "summary": "PrefPicker - Manage & generate prefs.js files",
+  "author": "Tyson Smith",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/MozillaSecurity/prefpicker",
+  "download_filename": "prefpicker-2.15.0.tar.gz",
+  "download_time": "2025-11-03T15:55:07.481565",
+  "package_url": "https://pypi.org/project/prefpicker/"
+}

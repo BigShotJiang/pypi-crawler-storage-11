@@ -1,0 +1,11 @@
+{
+  "name": "qworker",
+  "version": "1.13.2",
+  "summary": "QueueWorker is asynchronous Task Queue implementation built on top of Asyncio.Can you spawn distributed workers to run functions inside workers.",
+  "author": "Jesus Lara",
+  "license": "MIT",
+  "home_page": "https://github.com/phenobarbital/qworker",
+  "download_filename": "qworker-1.13.2-cp310-cp310-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2025-11-03T15:55:23.942071",
+  "package_url": "https://pypi.org/project/qworker/"
+}

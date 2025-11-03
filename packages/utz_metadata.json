@@ -1,11 +1,11 @@
 {
   "name": "utz",
-  "version": "0.21.2",
+  "version": "0.21.3",
   "summary": "*(\"yoots\")*: utilities augmenting the Python standard library; processes, Pytest, Pandas, Plotly, …",
   "author": "Ryan Williams",
   "license": "MIT",
   "home_page": "https://github.com/runsascoded/utz",
-  "download_filename": "utz-0.21.2.tar.gz",
-  "download_time": "2025-11-03T03:09:41.094669",
+  "download_filename": "utz-0.21.3.tar.gz",
+  "download_time": "2025-11-03T15:55:17.014547",
   "package_url": "https://pypi.org/project/utz/"
 }

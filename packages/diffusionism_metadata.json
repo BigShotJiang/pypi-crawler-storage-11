@@ -1,0 +1,11 @@
+{
+  "name": "diffusionism",
+  "version": "0.0.1b9",
+  "summary": "Diffusionism is a Python library for rapid prototyping and deployment of diffusion models. It provides a flexible, inheritance-based architecture, allowing easy integration of new methods, with built-in pipelines for training and inference. It accelerates development and ensures reproducibility by separating general mechanics from model-specific logic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffusionism-0.0.1b9.tar.gz",
+  "download_time": "2025-11-03T15:55:06.959371",
+  "package_url": "https://pypi.org/project/diffusionism/"
+}

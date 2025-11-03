@@ -1,11 +1,11 @@
 {
   "name": "kagura-ai",
-  "version": "4.0.8",
+  "version": "4.0.9",
   "summary": "Universal AI Memory Platform - MCP-native context management for all AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagura_ai-4.0.8.tar.gz",
-  "download_time": "2025-11-03T06:33:52.106496",
+  "download_filename": "kagura_ai-4.0.9.tar.gz",
+  "download_time": "2025-11-03T15:55:10.192962",
   "package_url": "https://pypi.org/project/kagura-ai/"
 }

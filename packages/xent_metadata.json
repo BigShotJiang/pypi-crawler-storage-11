@@ -1,0 +1,11 @@
+{
+  "name": "xent",
+  "version": "0.4.0",
+  "summary": "Xent LLM Benchmarking System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xent-0.4.0.tar.gz",
+  "download_time": "2025-11-03T15:55:26.033122",
+  "package_url": "https://pypi.org/project/xent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-requests-debug-toolbar",
+  "version": "0.0.8",
+  "summary": "A Django Debug Toolbar panel for Requests",
+  "author": "Marcel Tschopp",
+  "license": "MIT",
+  "home_page": "https://github.com/marceltschoppch/django-requests-debug-toolbar",
+  "download_filename": "django_requests_debug_toolbar-0.0.8-py2.py3-none-any.whl",
+  "download_time": "2025-11-03T15:55:14.368031",
+  "package_url": "https://pypi.org/project/django-requests-debug-toolbar/"
+}
