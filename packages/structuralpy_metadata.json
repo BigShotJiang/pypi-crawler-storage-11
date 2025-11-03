@@ -1,11 +1,11 @@
 {
   "name": "structuralpy",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A library for analysis and design of structures based on NSCP 2015.",
   "author": "Jaydee Lucero",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "structuralpy-0.0.3.tar.gz",
-  "download_time": "2025-11-03T03:58:41.931047",
+  "download_filename": "structuralpy-0.0.4.tar.gz",
+  "download_time": "2025-11-03T07:26:40.737746",
   "package_url": "https://pypi.org/project/structuralpy/"
 }

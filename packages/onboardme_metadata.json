@@ -1,0 +1,11 @@
+{
+  "name": "onboardme",
+  "version": "1.12.1",
+  "summary": "Install dot files and packages, including a base mode with sensible defaults to run on most computers running Debian based distros or macOS.",
+  "author": "Jesse Hitch",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "http://git.smallhack.org/jessebot/onboardme",
+  "download_filename": "onboardme-1.12.1.tar.gz",
+  "download_time": "2025-11-03T07:26:02.655557",
+  "package_url": "https://pypi.org/project/onboardme/"
+}

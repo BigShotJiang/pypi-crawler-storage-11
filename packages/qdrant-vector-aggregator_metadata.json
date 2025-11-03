@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-vector-aggregator",
+  "version": "1.0.2",
+  "summary": "Aggregate embeddings in Qdrant collections with smart content concatenation",
+  "author": "Moudather Chelbi",
+  "license": "MIT",
+  "home_page": "https://github.com/vinerya/qdrant_vector_aggregator",
+  "download_filename": "qdrant_vector_aggregator-1.0.2.tar.gz",
+  "download_time": "2025-11-03T07:26:12.339122",
+  "package_url": "https://pypi.org/project/qdrant-vector-aggregator/"
+}

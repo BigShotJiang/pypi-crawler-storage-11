@@ -1,0 +1,11 @@
+{
+  "name": "salted",
+  "version": "1.0.0",
+  "summary": "Smart, Asynchronous Link Tester with Database backend",
+  "author": "Rüdiger Voigt",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "salted-1.0.0.tar.gz",
+  "download_time": "2025-11-03T07:26:19.143122",
+  "package_url": "https://pypi.org/project/salted/"
+}

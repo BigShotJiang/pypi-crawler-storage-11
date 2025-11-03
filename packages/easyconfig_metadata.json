@@ -1,0 +1,11 @@
+{
+  "name": "easyconfig",
+  "version": "0.4.2",
+  "summary": "Easy application configuration with yaml files",
+  "author": "spaceman_spiff",
+  "license": null,
+  "home_page": "https://github.com/spacemanspiff2007/easyconfig",
+  "download_filename": "easyconfig-0.4.2.tar.gz",
+  "download_time": "2025-11-03T07:26:10.069840",
+  "package_url": "https://pypi.org/project/easyconfig/"
+}

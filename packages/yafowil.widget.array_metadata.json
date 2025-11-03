@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.widget.array",
+  "version": "1.8",
+  "summary": "Array Widget for YAFOWIL",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil.widget.array",
+  "download_filename": "yafowil_widget_array-1.8.tar.gz",
+  "download_time": "2025-11-03T07:26:04.395610",
+  "package_url": "https://pypi.org/project/yafowil.widget.array/"
+}

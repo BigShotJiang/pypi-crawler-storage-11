@@ -1,11 +1,11 @@
 {
   "name": "pj-sh",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "project shell > hyperspace velocity",
   "author": "Kit Ledru",
   "license": null,
   "home_page": "https://github.com/kitled/pj",
-  "download_filename": "pj_sh-0.0.4.tar.gz",
-  "download_time": "2025-11-03T06:34:21.289503",
+  "download_filename": "pj_sh-0.0.5.tar.gz",
+  "download_time": "2025-11-03T07:26:16.328590",
   "package_url": "https://pypi.org/project/pj-sh/"
 }
