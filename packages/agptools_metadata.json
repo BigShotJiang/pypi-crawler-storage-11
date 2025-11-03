@@ -1,0 +1,11 @@
+{
+  "name": "agptools",
+  "version": "0.1.354",
+  "summary": "Minimal Tools not found in python library",
+  "author": "Asterio Gonzalez",
+  "license": "MIT license",
+  "home_page": "https://github.com/asterio/agptools",
+  "download_filename": "agptools-0.1.354-py2.py3-none-any.whl",
+  "download_time": "2025-11-03T10:25:28.505004",
+  "package_url": "https://pypi.org/project/agptools/"
+}

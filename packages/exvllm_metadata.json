@@ -1,0 +1,11 @@
+{
+  "name": "exvllm",
+  "version": "0.0.0.3",
+  "summary": "extend for vllm",
+  "author": "huangyuyang",
+  "license": null,
+  "home_page": "https://github.com/ztxz16/exvllm",
+  "download_filename": "exvllm-0.0.0.3.tar.gz",
+  "download_time": "2025-11-03T10:25:10.266332",
+  "package_url": "https://pypi.org/project/exvllm/"
+}

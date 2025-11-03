@@ -1,0 +1,11 @@
+{
+  "name": "perceval-interop",
+  "version": "1.2.0",
+  "summary": "Interoperability packages between Perceval and other quantum computing frameworks",
+  "author": "quandela",
+  "license": null,
+  "home_page": "https://github.com/Quandela/Perceval_Interop",
+  "download_filename": "perceval_interop-1.2.0.tar.gz",
+  "download_time": "2025-11-03T10:25:26.393232",
+  "package_url": "https://pypi.org/project/perceval-interop/"
+}

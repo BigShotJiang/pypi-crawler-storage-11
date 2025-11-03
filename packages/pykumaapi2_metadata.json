@@ -1,0 +1,11 @@
+{
+  "name": "pykumaapi2",
+  "version": "0.1.1",
+  "summary": "Python client for Uptime Kuma REST and Socket.io APIs",
+  "author": "Emad O. Medher",
+  "license": null,
+  "home_page": "https://github.com/emadomedher/pyKumaAPI",
+  "download_filename": "pykumaapi2-0.1.1.tar.gz",
+  "download_time": "2025-11-03T10:25:06.462307",
+  "package_url": "https://pypi.org/project/pykumaapi2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "binaryrain-helper-cloud-azure",
+  "version": "0.0.9",
+  "summary": "Aims to simplify and help with commonly used functions in the azure cloud data areas.",
+  "author": "Binary Rain, Marcel T.O",
+  "license": null,
+  "home_page": null,
+  "download_filename": "binaryrain_helper_cloud_azure-0.0.9.tar.gz",
+  "download_time": "2025-11-03T10:25:08.635354",
+  "package_url": "https://pypi.org/project/binaryrain-helper-cloud-azure/"
+}

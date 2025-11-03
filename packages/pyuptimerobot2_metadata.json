@@ -1,0 +1,11 @@
+{
+  "name": "pyuptimerobot2",
+  "version": "0.1.1",
+  "summary": "Python client for UptimeRobot API v3",
+  "author": "Emad O. Medher",
+  "license": null,
+  "home_page": "https://github.com/emadomedher/pyUptimerobot",
+  "download_filename": "pyuptimerobot2-0.1.1.tar.gz",
+  "download_time": "2025-11-03T10:25:18.024967",
+  "package_url": "https://pypi.org/project/pyuptimerobot2/"
+}
