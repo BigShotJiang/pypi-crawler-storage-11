@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cbi-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP Server for interacting with ChatCBI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_cbi_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-11-03T07:40:50.234951",
+  "package_url": "https://pypi.org/project/iflow-mcp_cbi-mcp-server/"
+}

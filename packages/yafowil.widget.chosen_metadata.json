@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.widget.chosen",
+  "version": "1.4",
+  "summary": "Chosen select/autocomplete widget for YAFOWIL",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil.widget.chosen",
+  "download_filename": "yafowil_widget_chosen-1.4.tar.gz",
+  "download_time": "2025-11-03T07:40:53.617271",
+  "package_url": "https://pypi.org/project/yafowil.widget.chosen/"
+}

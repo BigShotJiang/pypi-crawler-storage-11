@@ -1,0 +1,11 @@
+{
+  "name": "socket-dll-srchoi",
+  "version": "0.1.0",
+  "summary": "고성능 C++ 소켓 라이브러리를 위한 Python 래퍼",
+  "author": "srchoi",
+  "license": null,
+  "home_page": "https://github.com/srchoi/socket-dll",
+  "download_filename": "socket_dll_srchoi-0.1.0.tar.gz",
+  "download_time": "2025-11-03T07:40:49.507513",
+  "package_url": "https://pypi.org/project/socket-dll-srchoi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mindnlp",
+  "version": "0.5.0",
+  "summary": "An open source natural language processing research tool box. Git version: [sha1]:614a86e3, [branch]: (HEAD -> master, ms/master)",
+  "author": "MindSpore Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mindlab-ai/mindnlp/tree/master/",
+  "download_filename": "mindnlp-0.5.0-py3-none-any.whl",
+  "download_time": "2025-11-03T07:40:56.419916",
+  "package_url": "https://pypi.org/project/mindnlp/"
+}
