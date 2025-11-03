@@ -1,0 +1,11 @@
+{
+  "name": "webbed-duck",
+  "version": "0.8.9",
+  "summary": "A parameterized SQL web server for DuckDB routes compiled from Markdown",
+  "author": "Isaac Moore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webbed_duck-0.8.9.tar.gz",
+  "download_time": "2025-11-03T17:19:50.077517",
+  "package_url": "https://pypi.org/project/webbed-duck/"
+}

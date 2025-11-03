@@ -1,0 +1,11 @@
+{
+  "name": "python-pptx-stubs",
+  "version": "1.0.2",
+  "summary": "Type stubs for python-pptx package",
+  "author": "Avishrant Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_pptx_stubs-1.0.2.tar.gz",
+  "download_time": "2025-11-03T17:19:49.045119",
+  "package_url": "https://pypi.org/project/python-pptx-stubs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-file",
+  "version": "0.6.0",
+  "summary": "Source implementation for File",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_file-0.6.0.tar.gz",
+  "download_time": "2025-11-03T17:19:44.843819",
+  "package_url": "https://pypi.org/project/airbyte-source-file/"
+}

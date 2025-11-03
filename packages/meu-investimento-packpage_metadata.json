@@ -1,0 +1,11 @@
+{
+  "name": "meu-investimento-packpage",
+  "version": "0.1",
+  "summary": "Uma biblioteca para cálculos de investimentos.",
+  "author": "dridev",
+  "license": null,
+  "home_page": "https://github.com/tadrianonet/meu_investimento",
+  "download_filename": "meu_investimento_packpage-0.1.tar.gz",
+  "download_time": "2025-11-03T17:20:02.591959",
+  "package_url": "https://pypi.org/project/meu-investimento-packpage/"
+}

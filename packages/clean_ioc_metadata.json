@@ -1,0 +1,11 @@
+{
+  "name": "clean_ioc",
+  "version": "1.20.2",
+  "summary": "An IOC Container for Python 3.10+",
+  "author": "Peter Daly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clean_ioc-1.20.2.tar.gz",
+  "download_time": "2025-11-03T17:19:25.578628",
+  "package_url": "https://pypi.org/project/clean_ioc/"
+}

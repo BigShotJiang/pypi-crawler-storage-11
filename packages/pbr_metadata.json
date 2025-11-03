@@ -1,0 +1,11 @@
+{
+  "name": "pbr",
+  "version": "7.0.3",
+  "summary": "Python Build Reasonableness",
+  "author": "OpenStack",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.openstack.org/pbr/latest/",
+  "download_filename": "pbr-7.0.3.tar.gz",
+  "download_time": "2025-11-03T17:19:36.586670",
+  "package_url": "https://pypi.org/project/pbr/"
+}

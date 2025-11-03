@@ -1,0 +1,11 @@
+{
+  "name": "voxlab",
+  "version": "0.3.7",
+  "summary": "A comprehensive Python toolbox for audio processing using PyTorch with device-aware operations and GPU acceleration.",
+  "author": "Rafaello Virgilli",
+  "license": null,
+  "home_page": "https://github.com/rvirgilli/voxlab",
+  "download_filename": "voxlab-0.3.7.tar.gz",
+  "download_time": "2025-11-03T17:20:00.512216",
+  "package_url": "https://pypi.org/project/voxlab/"
+}

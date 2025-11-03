@@ -1,0 +1,11 @@
+{
+  "name": "geteddytor-django",
+  "version": "0.10.2",
+  "summary": "Buzzerboy Platform Connectors parses integration json into useable django keys",
+  "author": "Buzzerboy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geteddytor_django-0.10.2.tar.gz",
+  "download_time": "2025-11-03T17:19:45.928525",
+  "package_url": "https://pypi.org/project/geteddytor-django/"
+}

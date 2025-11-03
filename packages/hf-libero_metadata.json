@@ -1,0 +1,11 @@
+{
+  "name": "hf-libero",
+  "version": "0.1.2",
+  "summary": "LIBERO: Benchmark and environments for robot learning",
+  "author": "Bo Liu, Yifeng Zhu, Chongkai Gao, Yihao Feng, Qiang Liu, Yuke Zhu, Peter Stone",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hf_libero-0.1.2.tar.gz",
+  "download_time": "2025-11-03T17:20:04.158163",
+  "package_url": "https://pypi.org/project/hf-libero/"
+}

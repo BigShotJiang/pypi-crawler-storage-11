@@ -1,11 +1,11 @@
 {
   "name": "usss-dbcache",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "summary": "Cache Manger: cache parquet compressed database table as longblob in database cache table ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "usss_dbcache-0.0.5.tar.gz",
-  "download_time": "2025-11-02T16:43:12.574983",
+  "download_filename": "usss_dbcache-0.1.0.tar.gz",
+  "download_time": "2025-11-03T17:19:57.928650",
   "package_url": "https://pypi.org/project/usss-dbcache/"
 }
