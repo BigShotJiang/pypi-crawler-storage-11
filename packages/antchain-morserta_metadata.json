@@ -1,0 +1,11 @@
+{
+  "name": "antchain-morserta",
+  "version": "6.1.1",
+  "summary": "Ant Chain MORSERTA SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_morserta-6.1.1.tar.gz",
+  "download_time": "2025-11-03T06:58:06.688409",
+  "package_url": "https://pypi.org/project/antchain-morserta/"
+}

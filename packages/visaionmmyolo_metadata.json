@@ -1,0 +1,11 @@
+{
+  "name": "visaionmmyolo",
+  "version": "0.6.1",
+  "summary": "OpenMMLab Toolbox of YOLO",
+  "author": "MMYOLO Contributors",
+  "license": "GPL License 3.0",
+  "home_page": "https://github.com/open-mmlab/mmyolo",
+  "download_filename": "visaionmmyolo-0.6.1-py3-none-any.whl",
+  "download_time": "2025-11-03T06:57:45.123267",
+  "package_url": "https://pypi.org/project/visaionmmyolo/"
+}
