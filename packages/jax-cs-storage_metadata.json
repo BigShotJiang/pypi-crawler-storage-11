@@ -1,0 +1,11 @@
+{
+  "name": "jax-cs-storage",
+  "version": "0.10.0",
+  "summary": "A python wrapper to make file backends seamless",
+  "author": "Alexander Berger",
+  "license": "Apache-2.0",
+  "home_page": "https://bitbucket.org/jacksonlaboratory/jax-cs-storage/",
+  "download_filename": "jax_cs_storage-0.10.0.tar.gz",
+  "download_time": "2025-11-03T21:52:59.290116",
+  "package_url": "https://pypi.org/project/jax-cs-storage/"
+}

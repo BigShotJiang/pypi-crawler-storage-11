@@ -1,0 +1,11 @@
+{
+  "name": "rail-django-graphql",
+  "version": "1.1.7",
+  "summary": "A powerful Django library for automatic GraphQL API generation with advanced features",
+  "author": "Rail Logistic",
+  "license": "MIT",
+  "home_page": "https://github.com/raillogistic/rail-django-graphql",
+  "download_filename": "rail_django_graphql-1.1.7.tar.gz",
+  "download_time": "2025-11-03T21:52:47.578185",
+  "package_url": "https://pypi.org/project/rail-django-graphql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ferret-scan",
+  "version": "1.2.7",
+  "summary": "Sensitive data detection tool with pre-commit hook support",
+  "author": "AWS",
+  "license": null,
+  "home_page": "https://github.com/awslabs/ferret-scan",
+  "download_filename": "ferret_scan-1.2.7.tar.gz",
+  "download_time": "2025-11-03T21:52:58.644669",
+  "package_url": "https://pypi.org/project/ferret-scan/"
+}

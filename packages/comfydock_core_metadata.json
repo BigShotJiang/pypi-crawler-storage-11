@@ -1,11 +1,11 @@
 {
   "name": "comfydock_core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "ComfyDock Core - ComfyUI Package and Environment Manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comfydock_core-1.0.4.tar.gz",
-  "download_time": "2025-11-03T19:39:07.318989",
+  "download_filename": "comfydock_core-1.0.5.tar.gz",
+  "download_time": "2025-11-03T21:52:44.341231",
   "package_url": "https://pypi.org/project/comfydock_core/"
 }

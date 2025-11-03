@@ -1,11 +1,11 @@
 {
   "name": "finml-utils",
-  "version": "4.0.20",
+  "version": "4.1.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "finml_utils-4.0.20.tar.gz",
-  "download_time": "2025-11-03T20:54:32.865888",
+  "download_filename": "finml_utils-4.1.0.tar.gz",
+  "download_time": "2025-11-03T21:52:52.972893",
   "package_url": "https://pypi.org/project/finml-utils/"
 }

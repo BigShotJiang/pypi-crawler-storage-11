@@ -1,11 +1,11 @@
 {
   "name": "star-toffee",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "Package for finding flares in TESS lightcurves",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "star_toffee-0.0.10.tar.gz",
-  "download_time": "2025-11-03T17:53:03.518709",
+  "download_filename": "star_toffee-0.0.12.tar.gz",
+  "download_time": "2025-11-03T21:52:29.400609",
   "package_url": "https://pypi.org/project/star-toffee/"
 }

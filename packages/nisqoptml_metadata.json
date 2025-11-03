@@ -1,11 +1,11 @@
 {
   "name": "nisqoptml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "NISQ-Optimized Machine Learning: Noise-resilient QML library with Federated and DP Support",
   "author": "Venkata Vikhyat Choppa",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nisqoptml-0.1.0.tar.gz",
-  "download_time": "2025-11-03T20:24:22.171638",
+  "download_filename": "nisqoptml-0.1.1.tar.gz",
+  "download_time": "2025-11-03T21:53:00.496222",
   "package_url": "https://pypi.org/project/nisqoptml/"
 }

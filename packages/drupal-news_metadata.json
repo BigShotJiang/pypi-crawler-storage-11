@@ -1,11 +1,11 @@
 {
   "name": "drupal-news",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Automated Drupal news aggregator with AI-powered summaries",
   "author": "Drupal News Contributors",
   "license": "GPL-2.0",
   "home_page": null,
-  "download_filename": "drupal_news-0.0.7.tar.gz",
-  "download_time": "2025-11-03T21:20:02.088903",
+  "download_filename": "drupal_news-0.0.8.tar.gz",
+  "download_time": "2025-11-03T21:52:25.747795",
   "package_url": "https://pypi.org/project/drupal-news/"
 }
