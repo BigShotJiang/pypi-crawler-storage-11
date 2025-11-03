@@ -1,11 +1,11 @@
 {
   "name": "tgconvertor",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "This module is small util for easy converting Telegram sessions to various formats.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tgconvertor-0.1.2.tar.gz",
-  "download_time": "2025-11-03T13:48:15.709733",
+  "download_filename": "tgconvertor-0.1.4.tar.gz",
+  "download_time": "2025-11-03T16:49:08.599391",
   "package_url": "https://pypi.org/project/tgconvertor/"
 }
