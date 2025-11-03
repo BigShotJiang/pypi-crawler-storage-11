@@ -1,0 +1,11 @@
+{
+  "name": "scholarly-infrastructure",
+  "version": "0.1.2",
+  "summary": "所谓大学者，非谓有大楼之谓也，有大师之谓也。",
+  "author": "叶璨铭 (Ye Canming)",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/THU-CVML/ScholarlyInfrastructure",
+  "download_filename": "scholarly_infrastructure-0.1.2.tar.gz",
+  "download_time": "2025-11-03T06:34:02.139422",
+  "package_url": "https://pypi.org/project/scholarly-infrastructure/"
+}

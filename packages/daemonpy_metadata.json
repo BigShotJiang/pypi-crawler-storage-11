@@ -1,0 +1,11 @@
+{
+  "name": "daemonpy",
+  "version": "2.0.6",
+  "summary": "Creating Daemon process",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/daemonpy/",
+  "download_filename": "daemonpy-2.0.6.tar.gz",
+  "download_time": "2025-11-03T06:34:16.278418",
+  "package_url": "https://pypi.org/project/daemonpy/"
+}

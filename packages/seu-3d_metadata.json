@@ -1,0 +1,11 @@
+{
+  "name": "seu-3d",
+  "version": "1.1.16",
+  "summary": "3d spatial visualization napari plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seu_3d-1.1.16.tar.gz",
+  "download_time": "2025-11-03T06:33:45.411092",
+  "package_url": "https://pypi.org/project/seu-3d/"
+}

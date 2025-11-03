@@ -1,0 +1,11 @@
+{
+  "name": "catvision",
+  "version": "1.0.0",
+  "summary": "Biologically accurate cat vision filter for neuroscience and visual perception research",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "catvision-1.0.0.tar.gz",
+  "download_time": "2025-11-03T06:34:01.080387",
+  "package_url": "https://pypi.org/project/catvision/"
+}

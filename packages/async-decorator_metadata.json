@@ -1,0 +1,11 @@
+{
+  "name": "async-decorator",
+  "version": "0.1.0",
+  "summary": "A flexible async/sync execution library with dedicated thread pools",
+  "author": "FadsII",
+  "license": "MIT",
+  "home_page": "https://github.com/FadsII/async-decorator",
+  "download_filename": "async_decorator-0.1.0.tar.gz",
+  "download_time": "2025-11-03T06:33:49.389288",
+  "package_url": "https://pypi.org/project/async-decorator/"
+}

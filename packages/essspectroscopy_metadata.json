@@ -1,0 +1,11 @@
+{
+  "name": "essspectroscopy",
+  "version": "25.11.0",
+  "summary": "Spectroscopy data reduction for the European Spallation Source ",
+  "author": "Scipp contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "essspectroscopy-25.11.0.tar.gz",
+  "download_time": "2025-11-03T06:34:06.002675",
+  "package_url": "https://pypi.org/project/essspectroscopy/"
+}
