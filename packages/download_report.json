@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-11-03T19:39:37.579625",
+  "download_time": "2025-11-03T19:52:44.791787",
   "total_packages_downloaded": 89,
-  "total_size_mb": 18.29,
+  "total_size_mb": 2.14,
   "packages": [
-    "missalpha",
-    "flaskteroids",
     "newsflash",
     "immrax",
     "reactor-runtime",
@@ -91,6 +89,8 @@
     "knows",
     "infraweave",
     "rail-score",
-    "lynxkite-app"
+    "lynxkite-app",
+    "dynamiq",
+    "kiloa"
   ]
 }

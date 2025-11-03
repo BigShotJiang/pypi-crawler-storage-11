@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-03T19:39:37.579625
+- **Download Time**: 2025-11-03T19:52:44.791787
 - **Total Packages**: 89
-- **Total Size**: 18.29 MB
+- **Total Size**: 2.14 MB
 
 ## Packages List
-- missalpha
-- flaskteroids
 - newsflash
 - immrax
 - reactor-runtime
@@ -95,3 +93,5 @@
 - infraweave
 - rail-score
 - lynxkite-app
+- dynamiq
+- kiloa
