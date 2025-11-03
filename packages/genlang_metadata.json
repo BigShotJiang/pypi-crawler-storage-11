@@ -1,0 +1,11 @@
+{
+  "name": "genlang",
+  "version": "0.0.2",
+  "summary": "Genlang — ultra-strict symbolic/reactive dynamic language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genlang-0.0.2.tar.gz",
+  "download_time": "2025-11-03T15:24:44.339021",
+  "package_url": "https://pypi.org/project/genlang/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eqdsk",
+  "version": "0.7.0",
+  "summary": "A reader, writer and converter for the eqdsk format",
+  "author": "The Bluemira Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eqdsk-0.7.0.tar.gz",
+  "download_time": "2025-11-03T15:24:15.628325",
+  "package_url": "https://pypi.org/project/eqdsk/"
+}

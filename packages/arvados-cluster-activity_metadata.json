@@ -1,0 +1,11 @@
+{
+  "name": "arvados-cluster-activity",
+  "version": "3.2.0",
+  "summary": "Summarize Arvados cluster activity from audit logs and Prometheus metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arvados_cluster_activity-3.2.0.tar.gz",
+  "download_time": "2025-11-03T15:24:47.442979",
+  "package_url": "https://pypi.org/project/arvados-cluster-activity/"
+}

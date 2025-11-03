@@ -1,0 +1,11 @@
+{
+  "name": "crunchstat-summary",
+  "version": "3.2.0",
+  "summary": "Report resource usage from Arvados Crunch logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crunchstat_summary-3.2.0.tar.gz",
+  "download_time": "2025-11-03T15:24:48.469155",
+  "package_url": "https://pypi.org/project/crunchstat-summary/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flagsmith-common",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "Flagsmith's common library",
   "author": "Matthew Elwell",
   "license": null,
   "home_page": null,
-  "download_filename": "flagsmith_common-2.2.3.tar.gz",
-  "download_time": "2025-11-03T11:39:23.860697",
+  "download_filename": "flagsmith_common-2.2.4.tar.gz",
+  "download_time": "2025-11-03T15:24:17.703970",
   "package_url": "https://pypi.org/project/flagsmith-common/"
 }

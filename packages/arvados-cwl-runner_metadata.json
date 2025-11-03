@@ -1,0 +1,11 @@
+{
+  "name": "arvados-cwl-runner",
+  "version": "3.2.0",
+  "summary": "Arvados Common Workflow Language runner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arvados_cwl_runner-3.2.0.tar.gz",
+  "download_time": "2025-11-03T15:24:50.534496",
+  "package_url": "https://pypi.org/project/arvados-cwl-runner/"
+}

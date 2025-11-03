@@ -1,11 +1,11 @@
 {
   "name": "mutt-language-server",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "mutt language server",
   "author": null,
   "license": "GPL v3",
   "home_page": null,
-  "download_filename": "mutt_language_server-0.0.14.tar.gz",
-  "download_time": "2025-11-03T07:41:08.337000",
+  "download_filename": "mutt_language_server-0.0.15.tar.gz",
+  "download_time": "2025-11-03T15:24:59.922631",
   "package_url": "https://pypi.org/project/mutt-language-server/"
 }

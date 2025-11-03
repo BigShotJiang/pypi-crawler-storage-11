@@ -1,0 +1,11 @@
+{
+  "name": "arvados-user-activity",
+  "version": "3.2.0",
+  "summary": "Summarize user activity on an Arvados cluster from audit logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arvados_user_activity-3.2.0.tar.gz",
+  "download_time": "2025-11-03T15:24:47.956551",
+  "package_url": "https://pypi.org/project/arvados-user-activity/"
+}

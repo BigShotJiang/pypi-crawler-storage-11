@@ -1,0 +1,11 @@
+{
+  "name": "fundamentals",
+  "version": "2.7.8",
+  "summary": "Some fundamental tools required by most self-respecting python-packages bundled in one place. Very opinionated project setup tools including logging, plain-text settings files and database connections.",
+  "author": "David Young",
+  "license": "MIT",
+  "home_page": "https://github.com/thespacedoctor/fundamentals",
+  "download_filename": "fundamentals-2.7.8.tar.gz",
+  "download_time": "2025-11-03T15:24:52.103211",
+  "package_url": "https://pypi.org/project/fundamentals/"
+}

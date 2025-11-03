@@ -1,0 +1,11 @@
+{
+  "name": "mite",
+  "version": "2.5.4",
+  "summary": "A Python Performance Testing Framework",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/sky-uk/mite/",
+  "download_filename": "mite-2.5.4.tar.gz",
+  "download_time": "2025-11-03T15:24:55.262356",
+  "package_url": "https://pypi.org/project/mite/"
+}
