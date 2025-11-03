@@ -1,11 +1,11 @@
 {
   "name": "finder-of-mechalinos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Tool to discover Mechalino robots on a local network",
   "author": "Khalil Youssefi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finder_of_mechalinos-1.0.1.tar.gz",
-  "download_time": "2025-11-03T11:39:49.293789",
+  "download_filename": "finder_of_mechalinos-1.0.2.tar.gz",
+  "download_time": "2025-11-03T11:51:53.355625",
   "package_url": "https://pypi.org/project/finder-of-mechalinos/"
 }
