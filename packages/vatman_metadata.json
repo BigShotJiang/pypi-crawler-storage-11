@@ -1,0 +1,11 @@
+{
+  "name": "vatman",
+  "version": "0.0.4",
+  "summary": "A small utility for drawing image boards",
+  "author": "Vadim Fedorov",
+  "license": "MIT",
+  "home_page": "https://github.com/Coderik/vatman",
+  "download_filename": "vatman-0.0.4.tar.gz",
+  "download_time": "2025-11-03T11:39:13.522857",
+  "package_url": "https://pypi.org/project/vatman/"
+}

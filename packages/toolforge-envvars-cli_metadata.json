@@ -1,0 +1,11 @@
+{
+  "name": "toolforge-envvars-cli",
+  "version": "0.0.15",
+  "summary": "Toolforge envvars client",
+  "author": "David Caro",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "toolforge_envvars_cli-0.0.15.tar.gz",
+  "download_time": "2025-11-03T11:39:56.588831",
+  "package_url": "https://pypi.org/project/toolforge-envvars-cli/"
+}

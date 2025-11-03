@@ -1,0 +1,11 @@
+{
+  "name": "python-extension-toolkit",
+  "version": "1.0.0",
+  "summary": "A Python CLI tool for extension development (Python equivalent of Zoho Extension Toolkit)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_extension_toolkit-1.0.0.tar.gz",
+  "download_time": "2025-11-03T11:39:54.447693",
+  "package_url": "https://pypi.org/project/python-extension-toolkit/"
+}
