@@ -1,0 +1,11 @@
+{
+  "name": "redvypr",
+  "version": "0.9.14",
+  "summary": "redvypr: REaltime Data Viewer and PRocessor (in PYthon)",
+  "author": null,
+  "license": "GPLv03",
+  "home_page": null,
+  "download_filename": "redvypr-0.9.14.tar.gz",
+  "download_time": "2025-11-03T13:48:08.854296",
+  "package_url": "https://pypi.org/project/redvypr/"
+}

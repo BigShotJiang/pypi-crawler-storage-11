@@ -1,0 +1,11 @@
+{
+  "name": "xarray-grass",
+  "version": "0.4.0",
+  "summary": "An Xarray backend for GRASS raster data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarray_grass-0.4.0.tar.gz",
+  "download_time": "2025-11-03T13:47:59.876716",
+  "package_url": "https://pypi.org/project/xarray-grass/"
+}

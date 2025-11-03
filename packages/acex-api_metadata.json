@@ -1,0 +1,11 @@
+{
+  "name": "acex-api",
+  "version": "0.1.4",
+  "summary": "API components for acex framework",
+  "author": "Johan Lahti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acex_api-0.1.4.tar.gz",
+  "download_time": "2025-11-03T13:48:11.470212",
+  "package_url": "https://pypi.org/project/acex-api/"
+}

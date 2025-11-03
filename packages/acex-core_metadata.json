@@ -1,0 +1,11 @@
+{
+  "name": "acex-core",
+  "version": "0.2.4",
+  "summary": "Core components for acex framework",
+  "author": "Johan Lahti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acex_core-0.2.4.tar.gz",
+  "download_time": "2025-11-03T13:48:05.709069",
+  "package_url": "https://pypi.org/project/acex-core/"
+}

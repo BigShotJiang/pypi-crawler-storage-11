@@ -1,0 +1,11 @@
+{
+  "name": "tsimpl",
+  "version": "0.1.0",
+  "summary": "E-graph T-count optimizer for Clifford+T (Python bindings)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsimpl-0.1.0-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-03T13:48:30.913891",
+  "package_url": "https://pypi.org/project/tsimpl/"
+}

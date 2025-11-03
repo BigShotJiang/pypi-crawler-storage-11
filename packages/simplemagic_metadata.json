@@ -1,0 +1,11 @@
+{
+  "name": "simplemagic",
+  "version": "0.1.12",
+  "summary": "Simple file magic. We try to get file's mimetype using 'file-magic', 'command file' and 'puremagic'. On linux we need system package 'file-libs' which mostly already installed. On MacOS we need system package 'libimage' which can be installed by 'brew install libmagic'. On windows we need file command which can be install by 'pacman -S file' within msys2. If system package missing, we try to get the file's mimetype using 'puremagic' which is write in pure python without any extra depends.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simplemagic-0.1.12.tar.gz",
+  "download_time": "2025-11-03T13:48:20.423427",
+  "package_url": "https://pypi.org/project/simplemagic/"
+}

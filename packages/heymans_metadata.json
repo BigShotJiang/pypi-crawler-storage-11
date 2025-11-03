@@ -1,11 +1,11 @@
 {
   "name": "heymans",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "AI tutor for education",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "heymans-0.2.1.tar.gz",
-  "download_time": "2025-11-03T10:47:47.719875",
+  "download_filename": "heymans-0.2.2.tar.gz",
+  "download_time": "2025-11-03T13:48:00.398867",
   "package_url": "https://pypi.org/project/heymans/"
 }
