@@ -1,0 +1,11 @@
+{
+  "name": "fh2-drc-mcp-server",
+  "version": "0.1.8",
+  "summary": "FH2 DRC MCP Server - 无人机远程控制MCP服务器",
+  "author": "leslie.zhang@dji.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fh2_drc_mcp_server-0.1.8.tar.gz",
+  "download_time": "2025-11-03T12:44:15.216603",
+  "package_url": "https://pypi.org/project/fh2-drc-mcp-server/"
+}

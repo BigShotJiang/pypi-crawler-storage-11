@@ -1,0 +1,11 @@
+{
+  "name": "gologin",
+  "version": "2025.10.24",
+  "summary": "Official GoLogin python package",
+  "author": "GoLogin",
+  "license": null,
+  "home_page": "https://github.com/gologinapp/pygologin",
+  "download_filename": "gologin-2025.10.24.tar.gz",
+  "download_time": "2025-11-03T12:44:33.748637",
+  "package_url": "https://pypi.org/project/gologin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "uipath-runtime",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "UiPath Runtime abstractions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_runtime-0.0.2.tar.gz",
-  "download_time": "2025-11-02T15:18:16.440214",
+  "download_filename": "uipath_runtime-0.0.3.tar.gz",
+  "download_time": "2025-11-03T12:44:32.695074",
   "package_url": "https://pypi.org/project/uipath-runtime/"
 }

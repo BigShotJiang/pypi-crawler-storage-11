@@ -1,0 +1,11 @@
+{
+  "name": "django-readers",
+  "version": "2.5.1",
+  "summary": "A lightweight function-oriented toolkit for better organisation of business logic and efficient selection and projection of data in Django projects.",
+  "author": "DabApps",
+  "license": "BSD",
+  "home_page": "https://www.django-readers.org",
+  "download_filename": "django_readers-2.5.1-py3-none-any.whl",
+  "download_time": "2025-11-03T12:44:13.666421",
+  "package_url": "https://pypi.org/project/django-readers/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "feedback-mcp",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Interactive Feedback MCP Server with UI - 支持工作空间管理、任务追踪、检查点恢复的反馈系统",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "feedback_mcp-1.0.1.tar.gz",
-  "download_time": "2025-11-03T09:46:46.991990",
+  "download_filename": "feedback_mcp-1.0.4.tar.gz",
+  "download_time": "2025-11-03T12:44:17.336066",
   "package_url": "https://pypi.org/project/feedback-mcp/"
 }

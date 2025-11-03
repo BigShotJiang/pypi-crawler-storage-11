@@ -1,0 +1,11 @@
+{
+  "name": "changelist-foci",
+  "version": "0.4.8",
+  "summary": "Changelist FOCI",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/changelist-foci",
+  "download_filename": "changelist_foci-0.4.8.tar.gz",
+  "download_time": "2025-11-03T12:44:25.918466",
+  "package_url": "https://pypi.org/project/changelist-foci/"
+}

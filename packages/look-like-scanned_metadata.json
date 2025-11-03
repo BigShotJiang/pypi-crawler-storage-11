@@ -1,0 +1,11 @@
+{
+  "name": "look-like-scanned",
+  "version": "1.0.8",
+  "summary": "Python script to make documents look like they were scanned.",
+  "author": "navchandar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "look_like_scanned-1.0.8.tar.gz",
+  "download_time": "2025-11-03T12:44:11.064260",
+  "package_url": "https://pypi.org/project/look-like-scanned/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "asammdf",
+  "version": "8.7.0",
+  "summary": "ASAM MDF measurement data file parser",
+  "author": null,
+  "license": "LGPLv3+",
+  "home_page": null,
+  "download_filename": "asammdf-8.7.0.tar.gz",
+  "download_time": "2025-11-03T12:44:23.828457",
+  "package_url": "https://pypi.org/project/asammdf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "changelist-sort",
+  "version": "0.4.7",
+  "summary": "CLI Tool for Sorting Android Studio Changelists",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/changelist-sort/",
+  "download_filename": "changelist_sort-0.4.7.tar.gz",
+  "download_time": "2025-11-03T12:44:31.659314",
+  "package_url": "https://pypi.org/project/changelist-sort/"
+}

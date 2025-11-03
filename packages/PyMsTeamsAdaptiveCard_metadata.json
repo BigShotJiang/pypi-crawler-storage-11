@@ -1,11 +1,11 @@
 {
   "name": "PyMsTeamsAdaptiveCard",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Generate Microsoft Teams Adaptive Cards for new Connectors",
   "author": "Florian Salaun",
   "license": "LICENSE.txt",
   "home_page": "http://pypi.python.org/pypi/PyMsTeamsAdaptiveCard/",
-  "download_filename": "pymsteamsadaptivecard-0.4.0.tar.gz",
-  "download_time": "2025-11-03T11:39:51.341751",
+  "download_filename": "pymsteamsadaptivecard-0.5.0.tar.gz",
+  "download_time": "2025-11-03T12:44:21.052523",
   "package_url": "https://pypi.org/project/PyMsTeamsAdaptiveCard/"
 }

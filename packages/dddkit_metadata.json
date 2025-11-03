@@ -1,11 +1,11 @@
 {
   "name": "dddkit",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Kit for using DDD tactical patterns",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dddkit-0.2.1.tar.gz",
-  "download_time": "2025-11-03T01:45:06.305536",
+  "download_filename": "dddkit-0.2.3.tar.gz",
+  "download_time": "2025-11-03T12:44:29.578554",
   "package_url": "https://pypi.org/project/dddkit/"
 }
