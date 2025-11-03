@@ -1,25 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-03T20:24:59.411104
-- **Total Packages**: 89
-- **Total Size**: 31.43 MB
+- **Download Time**: 2025-11-03T20:44:17.488269
+- **Total Packages**: 90
+- **Total Size**: 11.25 MB
 
 ## Packages List
+- packaging-demo-cjknobla
+- gns3-mcp
+- moesifasgi
+- chemgraphbuilder
+- velocity-python
+- nado-protocol
+- cdp-sdk
+- letta-client
+- o2sclpy
+- ammonkey
+- bblocks-projects
+- pttechnologies
+- mioXpektron
+- coiled
+- biomechzoo
+- edison-client
+- cfn-lint
+- pyspark-data-toolkit
+- basket-viz
+- jsonid
+- jira-select
+- bermuda-ledger
+- argscape
+- boring-semantic-layer
+- holidays
+- iatoolkit
+- osbot-utils
+- byu_pytest_utils
+- django-appointment
+- qiskit-braket-provider
+- academia-mcp
+- seguin-loom-server
+- pixeltable
+- dtrx
+- fleet-python
+- minobot
+- pytest-green-light
+- orq-ai-sdk
+- ctoon
+- griptape-nodes
+- handcalcs
+- outlify
+- findingmodel
 - rdworks
 - hls4ml
 - upsonic
-- vitosa
 - pyThermoDB
 - infn-ophyd-hal
 - nova-trame
 - multiconn_archicad
 - moai-adk
 - honeybee-idaice
-- mioXpektron
 - dbx-test
 - WebDesignTaal
-- pyspark-data-toolkit
 - reflspeckit
 - pypomes-iam
 - webquiz
@@ -53,45 +93,6 @@
 - salt-docs
 - texthooker_proxy
 - agent-client-protocol
-- chemgraphbuilder
 - mcp-web-tools
 - hatch-openzim
 - visualizr
-- autoCLI-config
-- siga-mcp
-- ragmint
-- fmot
-- dominodatalab-data
-- daytona_sdk
-- daytona
-- base-api-utils
-- biothings-mcp
-- kamiwaza-mlx
-- daytona_api_client
-- daytona_api_client_async
-- pycarlo
-- tko
-- smart-code-analyzer
-- graphlit-client
-- equitas
-- faststream
-- erioon
-- py2store
-- orca-sdk
-- velocity-python
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.attrs-utils
-- thds.core
-- thds.adls
-- kahip
-- sparse3d
-- langchain-huggingface
-- dxpy
-- mcp-info
-- agenthelm
-- esa-apex-algorithms
-- liron-utils
-- flask-paseto-extended
-- plain.models

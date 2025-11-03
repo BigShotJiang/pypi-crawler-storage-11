@@ -1,0 +1,11 @@
+{
+  "name": "dtrx",
+  "version": "8.7.0",
+  "summary": "Script to intelligently extract multiple archive types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtrx-8.7.0.tar.gz",
+  "download_time": "2025-11-03T20:43:47.107898",
+  "package_url": "https://pypi.org/project/dtrx/"
+}

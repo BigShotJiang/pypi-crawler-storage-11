@@ -1,0 +1,11 @@
+{
+  "name": "byu_pytest_utils",
+  "version": "0.7.26",
+  "summary": "A few utilities for pytest to help with integration into gradescope",
+  "author": "Gordon Bean",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byu_pytest_utils-0.7.26.tar.gz",
+  "download_time": "2025-11-03T20:43:43.870568",
+  "package_url": "https://pypi.org/project/byu_pytest_utils/"
+}

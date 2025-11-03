@@ -1,0 +1,11 @@
+{
+  "name": "django-appointment",
+  "version": "3.9.2",
+  "summary": "Managing appointment scheduling with customizable slots, staff features, and conflict handling.",
+  "author": "Adams Pierre David",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/adamspd/django-appointment",
+  "download_filename": "django_appointment-3.9.2.tar.gz",
+  "download_time": "2025-11-03T20:43:44.457606",
+  "package_url": "https://pypi.org/project/django-appointment/"
+}

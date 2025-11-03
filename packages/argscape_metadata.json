@@ -1,11 +1,11 @@
 {
   "name": "argscape",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": "ARGscape: interactive ARG visualization and analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "argscape-0.4.8.tar.gz",
-  "download_time": "2025-11-03T18:49:48.153494",
+  "download_filename": "argscape-0.4.9.tar.gz",
+  "download_time": "2025-11-03T20:43:41.084407",
   "package_url": "https://pypi.org/project/argscape/"
 }

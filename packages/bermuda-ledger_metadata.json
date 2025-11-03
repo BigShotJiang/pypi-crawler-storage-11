@@ -1,0 +1,11 @@
+{
+  "name": "bermuda-ledger",
+  "version": "2.1.26",
+  "summary": "A module for manipulating insurance loss triangles",
+  "author": "Ledger Investing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bermuda_ledger-2.1.26.tar.gz",
+  "download_time": "2025-11-03T20:43:40.500153",
+  "package_url": "https://pypi.org/project/bermuda-ledger/"
+}
