@@ -1,0 +1,11 @@
+{
+  "name": "flask-paseto-extended",
+  "version": "0.6.1",
+  "summary": "PASETO (Platform-Agnostic Security Tokens) for Flask applications.",
+  "author": "Ajitomi Daisuke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_paseto_extended-0.6.1.tar.gz",
+  "download_time": "2025-11-03T20:24:58.391472",
+  "package_url": "https://pypi.org/project/flask-paseto-extended/"
+}

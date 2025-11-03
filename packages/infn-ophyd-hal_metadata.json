@@ -1,11 +1,11 @@
 {
   "name": "infn-ophyd-hal",
-  "version": "2.11.3",
+  "version": "2.12.1",
   "summary": "Ophyd HAL for controlling motors, cameras, magnets... specifically INFN facilities",
   "author": "Andrea Michelotti",
   "license": null,
   "home_page": null,
-  "download_filename": "infn_ophyd_hal-2.11.3.tar.gz",
-  "download_time": "2025-11-03T17:19:48.012144",
+  "download_filename": "infn_ophyd_hal-2.12.1.tar.gz",
+  "download_time": "2025-11-03T20:24:13.894486",
   "package_url": "https://pypi.org/project/infn-ophyd-hal/"
 }

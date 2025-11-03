@@ -1,0 +1,11 @@
+{
+  "name": "ragmint",
+  "version": "0.1.0",
+  "summary": "A modular framework for evaluating and optimizing RAG pipelines.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "ragmint-0.1.0.tar.gz",
+  "download_time": "2025-11-03T20:24:39.791861",
+  "package_url": "https://pypi.org/project/ragmint/"
+}

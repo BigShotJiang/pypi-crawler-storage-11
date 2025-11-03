@@ -1,0 +1,11 @@
+{
+  "name": "py2store",
+  "version": "0.1.22",
+  "summary": "Tools to create simple and consistent interfaces to complicated and varied data sources.",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/py2store",
+  "download_filename": "py2store-0.1.22.tar.gz",
+  "download_time": "2025-11-03T20:24:49.619042",
+  "package_url": "https://pypi.org/project/py2store/"
+}
