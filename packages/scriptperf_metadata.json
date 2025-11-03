@@ -1,0 +1,11 @@
+{
+  "name": "scriptperf",
+  "version": "0.0.1",
+  "summary": "Run Python scripts with performance monitoring (CPU and memory usage tracking)",
+  "author": "all-for-freedom",
+  "license": "MIT",
+  "home_page": "https://github.com/all-for-freedom/scriptperf",
+  "download_filename": "scriptperf-0.0.1.tar.gz",
+  "download_time": "2025-11-03T08:30:12.512160",
+  "package_url": "https://pypi.org/project/scriptperf/"
+}

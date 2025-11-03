@@ -1,0 +1,11 @@
+{
+  "name": "hatchling-pyo3-plugin",
+  "version": "0.1.0",
+  "summary": "A Hatchling build hook plugin for building PyO3 Rust extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatchling_pyo3_plugin-0.1.0.tar.gz",
+  "download_time": "2025-11-03T08:30:39.508019",
+  "package_url": "https://pypi.org/project/hatchling-pyo3-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "channel-attention",
+  "version": "0.0.1",
+  "summary": "A plug-and-play channel attention mechanism module implemented in PyTorch.",
+  "author": "whenxuan",
+  "license": null,
+  "home_page": "https://github.com/wwhenxuan/Channel-Attention",
+  "download_filename": "channel_attention-0.0.1.tar.gz",
+  "download_time": "2025-11-03T08:30:04.950376",
+  "package_url": "https://pypi.org/project/channel-attention/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "heycyan-glasses-sdk",
+  "version": "1.0.0",
+  "summary": "SDK for controlling HeyCyan smart glasses via Bluetooth",
+  "author": "HeyCyan",
+  "license": null,
+  "home_page": "https://github.com/ebowwa/HeyCyanGlassesSDK",
+  "download_filename": "heycyan_glasses_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-03T08:30:50.901038",
+  "package_url": "https://pypi.org/project/heycyan-glasses-sdk/"
+}

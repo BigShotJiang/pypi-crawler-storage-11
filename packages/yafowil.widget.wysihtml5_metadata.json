@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.widget.wysihtml5",
+  "version": "1.5",
+  "summary": "wysihtml5 richtext widget for YAFOWIL with bootstrap integration",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil.widget.wysihtml5",
+  "download_filename": "yafowil_widget_wysihtml5-1.5.tar.gz",
+  "download_time": "2025-11-03T08:30:01.974656",
+  "package_url": "https://pypi.org/project/yafowil.widget.wysihtml5/"
+}

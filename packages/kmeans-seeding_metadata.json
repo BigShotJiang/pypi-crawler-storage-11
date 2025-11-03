@@ -1,0 +1,11 @@
+{
+  "name": "kmeans-seeding",
+  "version": "0.1.0",
+  "summary": "Fast k-means++ seeding algorithms with C++ implementation and Python bindings",
+  "author": "Shashwat Agrawal, Ragesh Jaiswal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kmeans_seeding-0.1.0.tar.gz",
+  "download_time": "2025-11-03T08:30:34.395302",
+  "package_url": "https://pypi.org/project/kmeans-seeding/"
+}
