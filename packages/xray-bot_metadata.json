@@ -1,0 +1,11 @@
+{
+  "name": "xray-bot",
+  "version": "0.1.9",
+  "summary": "Synchronize atlassian xray test case tickets with your test code and upload the test results",
+  "author": "Johnny Huang",
+  "license": null,
+  "home_page": "https://github.com/jnhyperion/XrayBot",
+  "download_filename": "xray_bot-0.1.9-py3-none-any.whl",
+  "download_time": "2025-11-03T08:53:40.499761",
+  "package_url": "https://pypi.org/project/xray-bot/"
+}

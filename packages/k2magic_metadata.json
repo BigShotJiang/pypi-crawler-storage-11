@@ -1,0 +1,11 @@
+{
+  "name": "k2magic",
+  "version": "0.3.41",
+  "summary": "K2data内部的数据分析工具包",
+  "author": "K2data",
+  "license": null,
+  "home_page": "https://www.k2data.com.cn",
+  "download_filename": "k2magic-0.3.41-py3-none-any.whl",
+  "download_time": "2025-11-03T08:53:11.499690",
+  "package_url": "https://pypi.org/project/k2magic/"
+}

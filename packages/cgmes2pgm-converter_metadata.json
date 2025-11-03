@@ -1,0 +1,11 @@
+{
+  "name": "cgmes2pgm-converter",
+  "version": "0.4.3",
+  "summary": "Library to convert Common Grid Model Exchange Standard (CGMES) datasets to PowerGridModel (PGM) format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cgmes2pgm_converter-0.4.3.tar.gz",
+  "download_time": "2025-11-03T08:53:32.122503",
+  "package_url": "https://pypi.org/project/cgmes2pgm-converter/"
+}

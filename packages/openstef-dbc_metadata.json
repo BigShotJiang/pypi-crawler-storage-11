@@ -1,0 +1,11 @@
+{
+  "name": "openstef-dbc",
+  "version": "3.8.5",
+  "summary": "Database Connection for OpenSTEF",
+  "author": "Alliander N.V",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/openstef/openstef-dbc",
+  "download_filename": "openstef_dbc-3.8.5.tar.gz",
+  "download_time": "2025-11-03T08:53:37.275723",
+  "package_url": "https://pypi.org/project/openstef-dbc/"
+}

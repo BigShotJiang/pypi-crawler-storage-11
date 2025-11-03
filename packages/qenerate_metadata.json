@@ -1,0 +1,11 @@
+{
+  "name": "qenerate",
+  "version": "0.9.1",
+  "summary": "Code Generator for GraphQL Query and Fragment Data Classes",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "qenerate-0.9.1.tar.gz",
+  "download_time": "2025-11-03T08:53:35.317119",
+  "package_url": "https://pypi.org/project/qenerate/"
+}
