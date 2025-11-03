@@ -1,0 +1,11 @@
+{
+  "name": "lasso.releasers",
+  "version": "2.0.0",
+  "summary": "Release artifact publication automation for the Planetary Data System",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/lasso-releasers",
+  "download_filename": "lasso_releasers-2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-03T23:52:22.485769",
+  "package_url": "https://pypi.org/project/lasso.releasers/"
+}

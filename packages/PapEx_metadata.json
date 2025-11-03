@@ -1,11 +1,11 @@
 {
   "name": "PapEx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A library for fetching and normalizing academic papers from various providers (Elsevier, arXiv, PRISM, etc.)",
   "author": "maryamSayagh",
   "license": null,
   "home_page": "https://github.com/maryamSayagh/PapEx",
-  "download_filename": "papex-0.0.1-py3-none-any.whl",
-  "download_time": "2025-11-03T23:40:23.182450",
+  "download_filename": "papex-0.0.2.tar.gz",
+  "download_time": "2025-11-03T23:52:21.245274",
   "package_url": "https://pypi.org/project/PapEx/"
 }
