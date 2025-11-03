@@ -1,0 +1,11 @@
+{
+  "name": "peewee",
+  "version": "3.18.3",
+  "summary": "a little orm",
+  "author": "Charles Leifer",
+  "license": "MIT License",
+  "home_page": "https://github.com/coleifer/peewee/",
+  "download_filename": "peewee-3.18.3.tar.gz",
+  "download_time": "2025-11-03T18:30:41.932070",
+  "package_url": "https://pypi.org/project/peewee/"
+}

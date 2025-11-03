@@ -1,0 +1,11 @@
+{
+  "name": "sphinxnotes-isso",
+  "version": "2.0",
+  "summary": "Sphinx extension for embeding Isso comments in documents",
+  "author": "Shengyu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxnotes_isso-2.0.tar.gz",
+  "download_time": "2025-11-03T18:30:49.064367",
+  "package_url": "https://pypi.org/project/sphinxnotes-isso/"
+}

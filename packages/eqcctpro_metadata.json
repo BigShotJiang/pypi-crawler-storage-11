@@ -1,0 +1,11 @@
+{
+  "name": "eqcctpro",
+  "version": "0.6.7",
+  "summary": "EQCCTPro: A powerful seismic event detection toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eqcctpro-0.6.7.tar.gz",
+  "download_time": "2025-11-03T18:30:49.704674",
+  "package_url": "https://pypi.org/project/eqcctpro/"
+}

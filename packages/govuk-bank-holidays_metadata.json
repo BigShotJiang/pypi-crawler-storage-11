@@ -1,0 +1,11 @@
+{
+  "name": "govuk-bank-holidays",
+  "version": "0.18",
+  "summary": "Tool to load UK bank holidays from GOV.UK",
+  "author": "Ministry of Justice Digital & Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/ministryofjustice/govuk-bank-holidays",
+  "download_filename": "govuk_bank_holidays-0.18.tar.gz",
+  "download_time": "2025-11-03T18:30:40.044174",
+  "package_url": "https://pypi.org/project/govuk-bank-holidays/"
+}
