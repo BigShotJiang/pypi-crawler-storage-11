@@ -1,0 +1,11 @@
+{
+  "name": "ml-inspector",
+  "version": "0.3.2",
+  "summary": "User friendly tools to understand machine learning models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml_inspector-0.3.2.tar.gz",
+  "download_time": "2025-11-03T22:42:09.510200",
+  "package_url": "https://pypi.org/project/ml-inspector/"
+}
