@@ -1,11 +1,11 @@
 {
   "name": "debrepomanager",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Debian Repository Manager for multi-distribution package management",
   "author": "JetHome Team",
   "license": "MIT",
   "home_page": "https://github.com/jethome/repomanager",
-  "download_filename": "debrepomanager-0.1.1.tar.gz",
-  "download_time": "2025-11-03T15:55:23.417185",
+  "download_filename": "debrepomanager-0.1.3.tar.gz",
+  "download_time": "2025-11-03T16:25:18.852508",
   "package_url": "https://pypi.org/project/debrepomanager/"
 }

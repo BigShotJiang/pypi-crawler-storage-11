@@ -1,0 +1,11 @@
+{
+  "name": "optimum-executorch",
+  "version": "0.0.0.dev0",
+  "summary": "Optimum Executorch is an interface between the Hugging Face libraries and ExecuTorch",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "optimum_executorch-0.0.0.dev0.tar.gz",
+  "download_time": "2025-11-03T16:25:34.776865",
+  "package_url": "https://pypi.org/project/optimum-executorch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastdaisy-admin",
+  "version": "0.0.81",
+  "summary": "Admin for FastAPI and Starlette",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastdaisy_admin-0.0.81.tar.gz",
+  "download_time": "2025-11-03T16:25:38.967788",
+  "package_url": "https://pypi.org/project/fastdaisy-admin/"
+}

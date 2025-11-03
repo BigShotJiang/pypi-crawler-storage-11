@@ -1,0 +1,11 @@
+{
+  "name": "lark-parser-language-server",
+  "version": "0.4.0",
+  "summary": "Lark Parser Language Server.",
+  "author": "Dynova Development Team",
+  "license": null,
+  "home_page": "https://github.com/dynovaio/lark-parser-language-server",
+  "download_filename": "lark_parser_language_server-0.4.0.tar.gz",
+  "download_time": "2025-11-03T16:25:09.406612",
+  "package_url": "https://pypi.org/project/lark-parser-language-server/"
+}

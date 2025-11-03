@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-stock",
+  "version": "18.0.2.0.0",
+  "summary": "Integrate the logistics operations with Field Service",
+  "author": "Open Source Integrators, Brian McMaster, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_stock-18.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-03T16:25:07.305835",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-stock/"
+}

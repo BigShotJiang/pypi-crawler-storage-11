@@ -1,0 +1,11 @@
+{
+  "name": "nsa-flow",
+  "version": "0.9.0",
+  "summary": "Non-negative Stiefel Approximating Flow for interpretable representation learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nsa_flow-0.9.0.tar.gz",
+  "download_time": "2025-11-03T16:25:37.393797",
+  "package_url": "https://pypi.org/project/nsa-flow/"
+}

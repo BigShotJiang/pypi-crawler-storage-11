@@ -1,0 +1,11 @@
+{
+  "name": "conftool",
+  "version": "6.0.1",
+  "summary": "Tools to interoperate with distributed k/v stores",
+  "author": "Joe",
+  "license": null,
+  "home_page": "https://github.com/wikimedia/operations-software-conftool",
+  "download_filename": "conftool-6.0.1.tar.gz",
+  "download_time": "2025-11-03T16:25:02.929271",
+  "package_url": "https://pypi.org/project/conftool/"
+}

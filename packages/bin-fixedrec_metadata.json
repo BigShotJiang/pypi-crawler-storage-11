@@ -1,0 +1,11 @@
+{
+  "name": "bin-fixedrec",
+  "version": "1.0.1",
+  "summary": "固定長バイナリレコードをフィールドごとに分割して区切りテキスト形式で出力するツール。フィールドのバイト列はそのまま保持します。",
+  "author": "tsuutar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bin_fixedrec-1.0.1.tar.gz",
+  "download_time": "2025-11-03T16:25:19.906161",
+  "package_url": "https://pypi.org/project/bin-fixedrec/"
+}

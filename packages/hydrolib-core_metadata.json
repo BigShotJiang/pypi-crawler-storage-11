@@ -1,0 +1,11 @@
+{
+  "name": "hydrolib-core",
+  "version": "0.9.9",
+  "summary": "Python wrappers around D-HYDRO Suite.",
+  "author": "Deltares",
+  "license": "MIT",
+  "home_page": "https://deltares.github.io/HYDROLIB-core",
+  "download_filename": "hydrolib_core-0.9.9.tar.gz",
+  "download_time": "2025-11-03T16:25:12.068937",
+  "package_url": "https://pypi.org/project/hydrolib-core/"
+}

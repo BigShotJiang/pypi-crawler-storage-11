@@ -1,11 +1,11 @@
 {
   "name": "errr",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Elegant detailed Python exceptions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "errr-1.2.1.tar.gz",
-  "download_time": "2025-11-03T13:48:18.851496",
+  "download_filename": "errr-1.2.2.tar.gz",
+  "download_time": "2025-11-03T16:25:46.797225",
   "package_url": "https://pypi.org/project/errr/"
 }

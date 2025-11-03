@@ -1,11 +1,11 @@
 {
   "name": "vibetuner",
-  "version": "2.6.1",
+  "version": "2.7.0",
   "summary": "Blessed Python dependencies for Vibetuner projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibetuner-2.6.1.tar.gz",
-  "download_time": "2025-11-03T14:56:25.253986",
+  "download_filename": "vibetuner-2.7.0.tar.gz",
+  "download_time": "2025-11-03T16:25:03.451204",
   "package_url": "https://pypi.org/project/vibetuner/"
 }

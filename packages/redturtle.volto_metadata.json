@@ -1,0 +1,11 @@
+{
+  "name": "redturtle.volto",
+  "version": "5.9.1",
+  "summary": "Helper package to setup a RedTurtle's Plone site ready to work with Volto.",
+  "author": "RedTurtle Technology",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/redturtle.volto",
+  "download_filename": "redturtle_volto-5.9.1.tar.gz",
+  "download_time": "2025-11-03T16:25:08.358936",
+  "package_url": "https://pypi.org/project/redturtle.volto/"
+}

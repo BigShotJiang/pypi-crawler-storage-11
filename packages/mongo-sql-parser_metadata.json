@@ -1,0 +1,11 @@
+{
+  "name": "mongo-sql-parser",
+  "version": "0.1.0",
+  "summary": "A library for converting SQL queries to MongoDB aggregation pipelines",
+  "author": "Sachin H M",
+  "license": null,
+  "home_page": "https://pypi.org/project/mongo-sql-parser/",
+  "download_filename": "mongo_sql_parser-0.1.0.tar.gz",
+  "download_time": "2025-11-03T16:25:04.554847",
+  "package_url": "https://pypi.org/project/mongo-sql-parser/"
+}
