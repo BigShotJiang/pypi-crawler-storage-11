@@ -1,0 +1,11 @@
+{
+  "name": "CG2AT-lite",
+  "version": "0.2",
+  "summary": "A lite version of CG2AT for functionality with CCD2MD.",
+  "author": "Owen N. Vickery",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cg2at_lite-0.2.tar.gz",
+  "download_time": "2025-11-03T14:54:24.067307",
+  "package_url": "https://pypi.org/project/CG2AT-lite/"
+}

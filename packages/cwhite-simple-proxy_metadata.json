@@ -1,0 +1,11 @@
+{
+  "name": "cwhite-simple-proxy",
+  "version": "0.1.0",
+  "summary": "Deploy proxy servers to cloud providers with ease",
+  "author": "Simple Proxy Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cwhite_simple_proxy-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-03T14:54:37.139720",
+  "package_url": "https://pypi.org/project/cwhite-simple-proxy/"
+}

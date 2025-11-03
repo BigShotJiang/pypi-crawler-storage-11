@@ -1,0 +1,11 @@
+{
+  "name": "fubon-api-mcp-server",
+  "version": "1.6.0",
+  "summary": "富邦證券 MCP 服務器 - Model Context Protocol 服務器用於富邦證券 API",
+  "author": "Fubon MCP Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-repo/fubon-api-mcp-server",
+  "download_filename": "fubon_api_mcp_server-1.6.0.tar.gz",
+  "download_time": "2025-11-03T14:54:14.145422",
+  "package_url": "https://pypi.org/project/fubon-api-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "maGeneLearn",
+  "version": "0.2.1",
+  "summary": "A CLI wrapper for the maGeneLean ML pipeline",
+  "author": "Julian A. Paganini",
+  "license": null,
+  "home_page": "https://github.com/jpaganini/magenelearn",
+  "download_filename": "magenelearn-0.2.1.tar.gz",
+  "download_time": "2025-11-03T14:54:12.606380",
+  "package_url": "https://pypi.org/project/maGeneLearn/"
+}

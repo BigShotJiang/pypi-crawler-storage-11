@@ -1,0 +1,11 @@
+{
+  "name": "autoregistry",
+  "version": "1.2.0",
+  "summary": "Automatic registry design-pattern for mapping names to functionality.",
+  "author": "Brian Pugh",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/BrianPugh/autoregistry",
+  "download_filename": "autoregistry-1.2.0.tar.gz",
+  "download_time": "2025-11-03T14:54:15.168289",
+  "package_url": "https://pypi.org/project/autoregistry/"
+}

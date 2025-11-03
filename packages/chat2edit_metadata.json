@@ -1,11 +1,11 @@
 {
   "name": "chat2edit",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "summary": "A small example package",
   "author": "Le Tin Nghia",
   "license": "CC BY-NC 4.0",
   "home_page": null,
-  "download_filename": "chat2edit-3.0.3.tar.gz",
-  "download_time": "2025-11-03T13:47:57.245559",
+  "download_filename": "chat2edit-3.0.4.tar.gz",
+  "download_time": "2025-11-03T14:54:02.154677",
   "package_url": "https://pypi.org/project/chat2edit/"
 }

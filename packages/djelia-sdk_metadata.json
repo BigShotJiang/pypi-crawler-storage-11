@@ -1,0 +1,11 @@
+{
+  "name": "djelia-sdk",
+  "version": "2.0.1",
+  "summary": "The official Python library for the djelia-sdk API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "djelia_sdk-2.0.1.tar.gz",
+  "download_time": "2025-11-03T14:54:27.150016",
+  "package_url": "https://pypi.org/project/djelia-sdk/"
+}
