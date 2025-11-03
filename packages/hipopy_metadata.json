@@ -1,11 +1,11 @@
 {
   "name": "hipopy",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "UpROOT-Like I/O Interface for CLAS12 HIPO Files",
   "author": "Matthew McEneaney",
   "license": "MIT",
   "home_page": "https://github.com/mfmceneaney/hipopy.git",
-  "download_filename": "hipopy-2.0.0-py3-none-any.whl",
-  "download_time": "2025-11-03T22:20:55.788240",
+  "download_filename": "hipopy-2.0.1-py3-none-any.whl",
+  "download_time": "2025-11-03T23:20:01.144427",
   "package_url": "https://pypi.org/project/hipopy/"
 }

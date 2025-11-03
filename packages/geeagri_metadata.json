@@ -1,0 +1,11 @@
+{
+  "name": "geeagri",
+  "version": "1.0.0",
+  "summary": "Python tools for agricultural analysis powered by Google Earth Engine.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "geeagri-1.0.0.tar.gz",
+  "download_time": "2025-11-03T23:20:04.950790",
+  "package_url": "https://pypi.org/project/geeagri/"
+}

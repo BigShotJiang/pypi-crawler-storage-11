@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-product-contract",
+  "version": "16.0.2.0.0",
+  "summary": "=?utf-8?q?Cria=C3=A7=C3=A3o_de_contratos_atrav=C3=A9s_dos_Pedidos_de_Vendas?=",
+  "author": "KMEE, Escodoo, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_product_contract-16.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-03T23:19:40.181381",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-product-contract/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flowmark",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "Better auto-formatting for Markdown and plaintext",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowmark-0.5.6.tar.gz",
-  "download_time": "2025-11-03T06:58:09.262100",
+  "download_filename": "flowmark-0.5.7.tar.gz",
+  "download_time": "2025-11-03T23:19:58.199163",
   "package_url": "https://pypi.org/project/flowmark/"
 }

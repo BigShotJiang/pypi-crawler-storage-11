@@ -1,0 +1,11 @@
+{
+  "name": "sigmap-pytools",
+  "version": "0.0.1",
+  "summary": "Python package for spatial data processing and geometric manipulation tools.",
+  "author": "Hubaux William",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "sigmap_pytools-0.0.1.tar.gz",
+  "download_time": "2025-11-03T23:19:52.276668",
+  "package_url": "https://pypi.org/project/sigmap-pytools/"
+}

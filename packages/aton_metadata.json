@@ -1,11 +1,11 @@
 {
   "name": "aton",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "summary": "The Advanced Text Operations for scieNtific python (ATON) provides powerful and comprehensive text-edition tools to edit and analyse simuation data.",
   "author": "Pablo Gila-Herranz",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "aton-0.14.1.tar.gz",
-  "download_time": "2025-11-03T12:44:07.433149",
+  "download_filename": "aton-0.14.2.tar.gz",
+  "download_time": "2025-11-03T23:19:31.428344",
   "package_url": "https://pypi.org/project/aton/"
 }

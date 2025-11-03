@@ -1,0 +1,11 @@
+{
+  "name": "cerebras-sdk",
+  "version": "2.7.0",
+  "summary": "Cerebras Wafer Scale Cluster SDK",
+  "author": "Cerebras Systems",
+  "license": null,
+  "home_page": "https://cerebras.net/",
+  "download_filename": "cerebras_sdk-2.7.0-cp311-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-11-03T23:20:11.005325",
+  "package_url": "https://pypi.org/project/cerebras-sdk/"
+}

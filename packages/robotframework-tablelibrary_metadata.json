@@ -1,11 +1,11 @@
 {
   "name": "robotframework-tablelibrary",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "summary": "A Robot Framework library providing generic table keywords for several table file type like csv or excel.",
   "author": "imbus AG",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robotframework_tablelibrary-0.0.8.tar.gz",
-  "download_time": "2025-11-03T22:56:02.368104",
+  "download_filename": "robotframework_tablelibrary-0.1.0.tar.gz",
+  "download_time": "2025-11-03T23:20:02.753190",
   "package_url": "https://pypi.org/project/robotframework-tablelibrary/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "calculator-lib-terts",
+  "version": "0.1.0",
+  "summary": "Biblioteca de operações matemáticas básicas em Python.",
+  "author": "Tertuliano dos Santos Júnior",
+  "license": null,
+  "home_page": "https://github.com/TertSJ/calculadora-lib-terts.git",
+  "download_filename": "calculator_lib_terts-0.1.0.tar.gz",
+  "download_time": "2025-11-03T23:19:41.799257",
+  "package_url": "https://pypi.org/project/calculator-lib-terts/"
+}
