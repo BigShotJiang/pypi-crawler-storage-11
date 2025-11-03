@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-hcp4",
+  "version": "1.0.1",
+  "summary": "Excel MCP Server for manipulating Excel files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_hcp4-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-03T11:18:09.596296",
+  "package_url": "https://pypi.org/project/mcp-server-hcp4/"
+}

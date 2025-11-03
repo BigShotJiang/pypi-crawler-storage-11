@@ -1,0 +1,11 @@
+{
+  "name": "ai-monitor",
+  "version": "2.0.0",
+  "summary": "Enterprise-grade AI monitoring and observability toolkit for LLM applications",
+  "author": "AI Monitor Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Maersk-Global/ai-llm",
+  "download_filename": "ai_monitor-2.0.0.tar.gz",
+  "download_time": "2025-11-03T11:18:12.761197",
+  "package_url": "https://pypi.org/project/ai-monitor/"
+}

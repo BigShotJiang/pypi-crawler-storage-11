@@ -1,0 +1,11 @@
+{
+  "name": "apolo-kube-client",
+  "version": "25.11.0",
+  "summary": "Apolo internal client for kubernetes API",
+  "author": "apolo.us",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "apolo_kube_client-25.11.0.tar.gz",
+  "download_time": "2025-11-03T11:18:03.004165",
+  "package_url": "https://pypi.org/project/apolo-kube-client/"
+}

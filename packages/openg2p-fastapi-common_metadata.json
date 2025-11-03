@@ -1,0 +1,11 @@
+{
+  "name": "openg2p-fastapi-common",
+  "version": "1.1.4",
+  "summary": "OpenG2P Library for initializing common API Backend components",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openg2p_fastapi_common-1.1.4.tar.gz",
+  "download_time": "2025-11-03T11:18:45.741646",
+  "package_url": "https://pypi.org/project/openg2p-fastapi-common/"
+}

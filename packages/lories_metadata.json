@@ -1,0 +1,11 @@
+{
+  "name": "lories",
+  "version": "0.15.3",
+  "summary": "This project provides a set of core functions and framework for Local Resource Integration and Execution Systems by ISC Konstanz e.V.",
+  "author": "ISC Konstanz e.V.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lories-0.15.3.tar.gz",
+  "download_time": "2025-11-03T11:18:36.298124",
+  "package_url": "https://pypi.org/project/lories/"
+}
