@@ -1,0 +1,11 @@
+{
+  "name": "bunduk-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Chinese history study: BiogRef/TextRef CSVs, CBDB/TGAZ enrichments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bunduk_mcp-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-03T03:09:17.488729",
+  "package_url": "https://pypi.org/project/bunduk-mcp/"
+}

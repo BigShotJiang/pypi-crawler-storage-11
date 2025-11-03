@@ -1,0 +1,11 @@
+{
+  "name": "p4runtime-shell",
+  "version": "0.0.6",
+  "summary": "The P4Runtime shell",
+  "author": "P4 API Working Group",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/p4lang/p4runtime-shell",
+  "download_filename": "p4runtime_shell-0.0.6.tar.gz",
+  "download_time": "2025-11-03T03:09:47.131478",
+  "package_url": "https://pypi.org/project/p4runtime-shell/"
+}

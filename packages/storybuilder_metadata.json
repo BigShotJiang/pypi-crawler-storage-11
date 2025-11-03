@@ -1,0 +1,11 @@
+{
+  "name": "storybuilder",
+  "version": "0.1.8",
+  "summary": "A Python toolkit to build story meta.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "storybuilder-0.1.8.tar.gz",
+  "download_time": "2025-11-03T03:09:31.670695",
+  "package_url": "https://pypi.org/project/storybuilder/"
+}

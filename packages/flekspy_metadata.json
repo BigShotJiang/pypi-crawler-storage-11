@@ -1,11 +1,11 @@
 {
   "name": "flekspy",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "Python utilities for processing FLEKS data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flekspy-0.6.4.tar.gz",
-  "download_time": "2025-11-02T04:55:13.210668",
+  "download_filename": "flekspy-0.6.5.tar.gz",
+  "download_time": "2025-11-03T03:09:25.180015",
   "package_url": "https://pypi.org/project/flekspy/"
 }

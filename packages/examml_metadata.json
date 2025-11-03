@@ -1,0 +1,11 @@
+{
+  "name": "examml",
+  "version": "1.1.1",
+  "summary": "A library containing machine learning exam experiments such as SVM and Random Forest on the Iris dataset.",
+  "author": "eglib",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/examml",
+  "download_filename": "examml-1.1.1.tar.gz",
+  "download_time": "2025-11-03T03:09:22.967826",
+  "package_url": "https://pypi.org/project/examml/"
+}

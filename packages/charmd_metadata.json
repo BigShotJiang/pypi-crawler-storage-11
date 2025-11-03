@@ -1,11 +1,11 @@
 {
   "name": "charmd",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "CLI to start a PyCharm debug session and then run a Python target in-process",
   "author": "python-charmd contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "charmd-0.1.6.tar.gz",
-  "download_time": "2025-11-02T23:52:05.413612",
+  "download_filename": "charmd-0.1.7.tar.gz",
+  "download_time": "2025-11-03T03:09:43.876642",
   "package_url": "https://pypi.org/project/charmd/"
 }

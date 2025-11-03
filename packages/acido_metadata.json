@@ -1,11 +1,11 @@
 {
   "name": "acido",
-  "version": "0.40",
+  "version": "0.41.1",
   "summary": "Azure Container Instance Distributed Operations",
   "author": "Xavier Álvarez",
   "license": "MIT",
   "home_page": "https://github.com/merabytes/acido",
-  "download_filename": "acido-0.40.tar.gz",
-  "download_time": "2025-11-02T21:17:12.100647",
+  "download_filename": "acido-0.41.1.tar.gz",
+  "download_time": "2025-11-03T03:09:15.287382",
   "package_url": "https://pypi.org/project/acido/"
 }

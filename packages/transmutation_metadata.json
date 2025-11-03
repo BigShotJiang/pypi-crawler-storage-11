@@ -1,11 +1,11 @@
 {
   "name": "transmutation",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Comprehensive database migration and schema alteration tool using SQLAlchemy and Alembic",
   "author": "Odos Matthews",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "transmutation-1.1.0.tar.gz",
-  "download_time": "2025-11-03T01:44:31.292908",
+  "download_filename": "transmutation-1.2.0.tar.gz",
+  "download_time": "2025-11-03T03:09:49.333221",
   "package_url": "https://pypi.org/project/transmutation/"
 }
