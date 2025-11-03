@@ -1,11 +1,11 @@
 {
   "name": "aia-utilities",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Small utilities for Redis",
   "author": "surgelove",
   "license": "MIT",
   "home_page": "https://github.com/surgelove/aia_utilities",
-  "download_filename": "aia_utilities-0.1.14.tar.gz",
-  "download_time": "2025-11-03T13:48:12.509831",
+  "download_filename": "aia_utilities-0.1.15.tar.gz",
+  "download_time": "2025-11-03T17:42:37.675490",
   "package_url": "https://pypi.org/project/aia-utilities/"
 }

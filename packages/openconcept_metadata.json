@@ -1,0 +1,11 @@
+{
+  "name": "openconcept",
+  "version": "1.2.6",
+  "summary": "Open aircraft conceptual design tools",
+  "author": "Benjamin J. Brelje and Eytan J. Adler",
+  "license": "MIT License",
+  "home_page": "https://github.com/mdolab/openconcept",
+  "download_filename": "openconcept-1.2.6-py3-none-any.whl",
+  "download_time": "2025-11-03T17:42:06.153218",
+  "package_url": "https://pypi.org/project/openconcept/"
+}

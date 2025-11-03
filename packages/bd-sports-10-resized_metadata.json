@@ -1,0 +1,11 @@
+{
+  "name": "bd-sports-10-resized",
+  "version": "0.6.0",
+  "summary": "Resized version of BD Sports 10 dataset with downloader and progress bar",
+  "author": "Wazih Ullah Tanzim <wazihullahtanzim@gmail.com>, Khondaker A. Mamun <mamun@cse.uiu.ac.bd>",
+  "license": "CC BY 4.0",
+  "home_page": "https://data.mendeley.com/datasets/rnh3x48nfb/2",
+  "download_filename": "bd_sports_10_resized-0.6.0.tar.gz",
+  "download_time": "2025-11-03T17:42:33.617937",
+  "package_url": "https://pypi.org/project/bd-sports-10-resized/"
+}

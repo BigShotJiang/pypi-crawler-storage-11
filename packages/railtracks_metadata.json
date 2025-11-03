@@ -1,0 +1,11 @@
+{
+  "name": "railtracks",
+  "version": "1.115",
+  "summary": "The Railtracks Framework for building resilient agentic systems in simple python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "railtracks-1.115.tar.gz",
+  "download_time": "2025-11-03T17:42:23.338282",
+  "package_url": "https://pypi.org/project/railtracks/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "textual-reflect",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Textual widget for code reflection and introspection.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textual_reflect-0.1.1.tar.gz",
-  "download_time": "2025-11-03T17:19:17.219961",
+  "download_filename": "textual_reflect-0.1.2.tar.gz",
+  "download_time": "2025-11-03T17:42:06.720384",
   "package_url": "https://pypi.org/project/textual-reflect/"
 }
