@@ -1,0 +1,11 @@
+{
+  "name": "healthz",
+  "version": "0.1.1",
+  "summary": "Interactive HTTP health monitoring tool with real-time metrics",
+  "author": "Delos Intelligence",
+  "license": "MIT",
+  "home_page": "https://github.com/Delos-Intelligence/healthz",
+  "download_filename": "healthz-0.1.1.tar.gz",
+  "download_time": "2025-11-03T15:44:29.220086",
+  "package_url": "https://pypi.org/project/healthz/"
+}

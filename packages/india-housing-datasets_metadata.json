@@ -1,0 +1,11 @@
+{
+  "name": "india-housing-datasets",
+  "version": "0.1.0",
+  "summary": "A collection of clean Indian city housing datasets (Ahmedabad, Gurugram, Mumbai).",
+  "author": "Vishal Baghel",
+  "license": "MIT",
+  "home_page": "https://github.com/Rvbaghel/india_housing_datasets",
+  "download_filename": "india_housing_datasets-0.1.0.tar.gz",
+  "download_time": "2025-11-03T15:44:37.163475",
+  "package_url": "https://pypi.org/project/india-housing-datasets/"
+}

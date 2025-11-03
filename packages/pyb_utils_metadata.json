@@ -1,0 +1,11 @@
+{
+  "name": "pyb_utils",
+  "version": "2.4.1",
+  "summary": "Basic utilities for PyBullet, including collision detection, ghost (i.e. visual-only) objects, and cameras.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyb_utils-2.4.1.tar.gz",
+  "download_time": "2025-11-03T15:44:07.902108",
+  "package_url": "https://pypi.org/project/pyb_utils/"
+}

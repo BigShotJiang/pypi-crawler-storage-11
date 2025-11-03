@@ -1,0 +1,11 @@
+{
+  "name": "rickcommons",
+  "version": "0.1.0",
+  "summary": "一个Python工具库，提供Redis队列功能",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rickcommons-0.1.0.tar.gz",
+  "download_time": "2025-11-03T15:43:53.858558",
+  "package_url": "https://pypi.org/project/rickcommons/"
+}

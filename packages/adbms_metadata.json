@@ -1,11 +1,11 @@
 {
   "name": "adbms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Simple Oracle Trigger & MongoDB practice snippets for students",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adbms-0.1.0.tar.gz",
-  "download_time": "2025-11-03T13:21:40.837380",
+  "download_filename": "adbms-0.1.1.tar.gz",
+  "download_time": "2025-11-03T15:44:08.469699",
   "package_url": "https://pypi.org/project/adbms/"
 }
