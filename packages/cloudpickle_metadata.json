@@ -1,0 +1,11 @@
+{
+  "name": "cloudpickle",
+  "version": "3.1.2",
+  "summary": "Pickler class to extend the standard pickle.Pickler functionality",
+  "author": "The cloudpickle developer team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/cloudpipe/cloudpickle",
+  "download_filename": "cloudpickle-3.1.2.tar.gz",
+  "download_time": "2025-11-03T09:26:11.965442",
+  "package_url": "https://pypi.org/project/cloudpickle/"
+}

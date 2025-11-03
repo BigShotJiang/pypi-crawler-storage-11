@@ -1,0 +1,11 @@
+{
+  "name": "tendril-auth",
+  "version": "0.5.1",
+  "summary": "Authentication and User Management Core for Tendril",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/tendril-framework/tendril-auth",
+  "download_filename": "tendril_auth-0.5.1.tar.gz",
+  "download_time": "2025-11-03T09:26:23.284576",
+  "package_url": "https://pypi.org/project/tendril-auth/"
+}

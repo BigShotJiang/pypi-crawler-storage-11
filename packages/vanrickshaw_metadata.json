@@ -1,0 +1,11 @@
+{
+  "name": "vanrickshaw",
+  "version": "0.2",
+  "summary": "Rickshaw ASCII art animation in terminal",
+  "author": "Souparno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vanrickshaw-0.2.tar.gz",
+  "download_time": "2025-11-03T09:26:19.677768",
+  "package_url": "https://pypi.org/project/vanrickshaw/"
+}

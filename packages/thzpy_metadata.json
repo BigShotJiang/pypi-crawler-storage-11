@@ -1,0 +1,11 @@
+{
+  "name": "thzpy",
+  "version": "0.2.0",
+  "summary": "Data proccessing for THz-TDS. A scientific computing package for the processing of terahertz time-domain spectroscopy data. Includes modules for time-domain, transfer functions, frequency-domain, and data formatting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thzpy-0.2.0.tar.gz",
+  "download_time": "2025-11-03T09:26:15.028953",
+  "package_url": "https://pypi.org/project/thzpy/"
+}

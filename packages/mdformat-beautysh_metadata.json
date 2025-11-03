@@ -1,0 +1,11 @@
+{
+  "name": "mdformat-beautysh",
+  "version": "1.0.0",
+  "summary": "Mdformat plugin to beautify Bash scripts",
+  "author": "Taneli Hukkinen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdformat_beautysh-1.0.0.tar.gz",
+  "download_time": "2025-11-03T09:26:22.775447",
+  "package_url": "https://pypi.org/project/mdformat-beautysh/"
+}

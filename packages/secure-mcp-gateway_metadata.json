@@ -1,0 +1,11 @@
+{
+  "name": "secure-mcp-gateway",
+  "version": "2.1.3",
+  "summary": "Enkrypt Secure MCP Gateway",
+  "author": "Enkrypt AI Team",
+  "license": null,
+  "home_page": "https://github.com/enkryptai/secure-mcp-gateway",
+  "download_filename": "secure_mcp_gateway-2.1.3.tar.gz",
+  "download_time": "2025-11-03T09:26:15.539381",
+  "package_url": "https://pypi.org/project/secure-mcp-gateway/"
+}

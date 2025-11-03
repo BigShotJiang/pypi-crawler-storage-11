@@ -1,11 +1,11 @@
 {
   "name": "d-back",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "WebSocket server project.",
   "author": "Tin Nguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "d_back-0.0.17.tar.gz",
-  "download_time": "2025-11-02T07:37:41.926965",
+  "download_filename": "d_back-0.0.18.tar.gz",
+  "download_time": "2025-11-03T09:26:17.603501",
   "package_url": "https://pypi.org/project/d-back/"
 }
