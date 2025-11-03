@@ -1,0 +1,11 @@
+{
+  "name": "crawlo",
+  "version": "1.4.9",
+  "summary": "Crawlo: A high-performance asynchronous Python web crawling framework with distributed support.。",
+  "author": "crawl-coder",
+  "license": "MIT",
+  "home_page": "https://github.com/crawl-coder/Crawlo.git",
+  "download_filename": "crawlo-1.4.9.tar.gz",
+  "download_time": "2025-11-03T01:44:56.972881",
+  "package_url": "https://pypi.org/project/crawlo/"
+}

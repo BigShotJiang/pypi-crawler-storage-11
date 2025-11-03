@@ -1,0 +1,11 @@
+{
+  "name": "pycalypso",
+  "version": "0.1.9",
+  "summary": "Custom Python library for web scraping, flexible and tailored to your projects",
+  "author": "Game_K",
+  "license": null,
+  "home_page": "https://github.com/Game-K-Hack/calypso",
+  "download_filename": "pycalypso-0.1.9.tar.gz",
+  "download_time": "2025-11-03T01:45:08.355433",
+  "package_url": "https://pypi.org/project/pycalypso/"
+}

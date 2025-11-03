@@ -1,11 +1,11 @@
 {
   "name": "maktaba",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Production-ready RAG infrastructure for multilingual applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maktaba-0.1.14.tar.gz",
-  "download_time": "2025-11-02T22:51:50.935395",
+  "download_filename": "maktaba-0.1.15.tar.gz",
+  "download_time": "2025-11-03T01:44:43.706282",
   "package_url": "https://pypi.org/project/maktaba/"
 }

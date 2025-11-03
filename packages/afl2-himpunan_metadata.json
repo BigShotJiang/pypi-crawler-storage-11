@@ -1,11 +1,11 @@
 {
   "name": "afl2-himpunan",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Library operasi himpunan untuk tugas pemrograman Python",
   "author": "mifey05",
   "license": "MIT",
   "home_page": "https://github.com/mifey05/himpunan",
-  "download_filename": "afl2_himpunan-0.1.2.tar.gz",
-  "download_time": "2025-11-02T15:51:56.650505",
+  "download_filename": "afl2_himpunan-0.1.4.tar.gz",
+  "download_time": "2025-11-03T01:44:32.339696",
   "package_url": "https://pypi.org/project/afl2-himpunan/"
 }
