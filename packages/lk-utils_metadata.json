@@ -1,0 +1,11 @@
+{
+  "name": "lk-utils",
+  "version": "3.4.2",
+  "summary": "LK Utils is a set of utility wrappers made for data processing.",
+  "author": "Likianta",
+  "license": null,
+  "home_page": "https://github.com/likianta/lk-utils",
+  "download_filename": "lk_utils-3.4.2-py3-none-any.whl",
+  "download_time": "2025-11-03T07:51:45.971912",
+  "package_url": "https://pypi.org/project/lk-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yafowil.widget.dict",
+  "version": "1.9",
+  "summary": "Dict/Mapping Widget for YAFOWIL",
+  "author": "Yafowil Contributors",
+  "license": "Simplified BSD",
+  "home_page": "http://github.com/conestack/yafowil.widget.dict",
+  "download_filename": "yafowil_widget_dict-1.9.tar.gz",
+  "download_time": "2025-11-03T07:51:55.189110",
+  "package_url": "https://pypi.org/project/yafowil.widget.dict/"
+}

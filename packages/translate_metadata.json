@@ -1,0 +1,11 @@
+{
+  "name": "translate",
+  "version": "3.8.0",
+  "summary": "This is a simple, yet powerful command line translator with google translate behind it. You can also use it as a Python module in your code.",
+  "author": "Terry Yin",
+  "license": "MIT",
+  "home_page": "https://github.com/terryyin/google-translate-python",
+  "download_filename": "translate-3.8.0.tar.gz",
+  "download_time": "2025-11-03T07:51:42.837726",
+  "package_url": "https://pypi.org/project/translate/"
+}

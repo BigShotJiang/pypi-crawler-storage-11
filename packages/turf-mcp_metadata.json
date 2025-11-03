@@ -1,0 +1,11 @@
+{
+  "name": "turf-mcp",
+  "version": "0.2.2",
+  "summary": "基于 Turf.js 构建的地理空间分析 MCP 服务。提供空间几何图形的测量、空间关系判断、坐标转换与偏移等核心功能。",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turf_mcp-0.2.2.tar.gz",
+  "download_time": "2025-11-03T07:51:44.441340",
+  "package_url": "https://pypi.org/project/turf-mcp/"
+}

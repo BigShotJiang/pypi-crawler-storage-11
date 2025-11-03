@@ -1,22 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-03T07:41:44.803831
-- **Total Packages**: 90
-- **Total Size**: 5.74 MB
+- **Download Time**: 2025-11-03T07:52:26.893401
+- **Total Packages**: 96
+- **Total Size**: 24.9 MB
 
 ## Packages List
+- kuva-reader
+- maleo-middlewares
+- bap-elk-backends
+- exasol-extension-license-protocol
+- aorta-sirius
+- rtichoke
+- yafowil.widget.image
+- maleo-google
+- pymobiledevice3
+- maleo-client
+- translate
+- utils-devops
+- aorta-sirius-dev
+- turf-mcp
+- sortinghat-openinfra
+- sortinghat-eclipse-foundation
+- lk-utils
+- speclike
+- digital-life
+- pwq
+- shm-ipc-lock
+- perceval-pontoon
+- gwa
+- perceval-topicbox
+- metamk
+- maleo-infra
+- perceval-public-inbox
+- another-sd-client
+- dorgy
+- yafowil.widget.dynatree
+- maleo-database
+- helical
+- datacontract-cli
+- neo3-boa
+- yafowil.widget.dict
+- autotau
+- scaledp
+- waldur-api-client
+- omniopt2
+- minitap-mcp
+- earthshaker
+- ez-skelgen
+- aigroup-econ-mcp
+- up-enhsp
+- yafowil.widget.datetime
+- cdk-vscode-server
+- sourcepp
+- iflow-mcp_stata-mcp
+- pmmv
 - yafowil.widget.cron
 - hgraph
 - sqlitabase
 - socket-dll-srchoi
+- jupyter-book
 - iflow-mcp_cbi-mcp-server
 - odoo-addon-account-loan
 - product-catalog-mcp
 - iflow-mcp_bluesky-mcp-server
 - fastlifeweb
 - yafowil.widget.chosen
-- aigroup-econ-mcp
 - gibr
 - pcloud
 - mindnlp
@@ -29,14 +78,12 @@
 - ai-edge-litert-sdk-qualcomm-nightly
 - mcp-knowledge-server
 - pushikoo-adapter-testgetter
-- maleo-middlewares
 - feedback-mcp
 - bizyairsdk
 - mercuto-client
 - devstack-cli
 - yuanfen
 - fastapi-scaff
-- autotau
 - mutt-language-server
 - odoo-addon-fs-attachment
 - mns-scheduler
@@ -50,49 +97,8 @@
 - landingai-ade
 - radicalpy
 - cwb-utils
-- maleo-google
 - onboardme
 - open-dataflow-adp
 - hypothesis
 - yafowil.widget.array
 - pywebtask
-- fastgenerateapi
-- hishel
-- brainframe-sys-tools
-- avtdl
-- utils-devops
-- naf_chatgpt_cli
-- xcltk
-- easyconfig
-- process-redis-events
-- iflow-mcp_unichat-mcp-server
-- iflow-mcp_revit-mcp
-- qdrant-vector-aggregator
-- maleo-client
-- ai-edge-litert-nightly
-- wayspiritmcp-tpa
-- zheliku-tool
-- superagentx
-- pj-sh
-- tritonparse
-- maleo-infra
-- yafowil.widget.ace
-- umbi
-- salted
-- visaionyoloe
-- dorgy
-- antchain-morserta
-- streamlit-nightly
-- instaui
-- opensquirrel
-- wnm
-- data-df-summarizer
-- charmd
-- arthur-client
-- aiecs
-- pytest-pl-grader
-- pmmv
-- mangoautomation
-- visaionclip
-- trcli
-- maleo-database

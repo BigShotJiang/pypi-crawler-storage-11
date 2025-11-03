@@ -1,11 +1,11 @@
 {
   "name": "gwa",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A command-line scaffolder for General Web App (GWA) projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gwa-0.0.6.tar.gz",
-  "download_time": "2025-11-03T05:22:16.485439",
+  "download_filename": "gwa-0.0.7.tar.gz",
+  "download_time": "2025-11-03T07:51:49.032234",
   "package_url": "https://pypi.org/project/gwa/"
 }
