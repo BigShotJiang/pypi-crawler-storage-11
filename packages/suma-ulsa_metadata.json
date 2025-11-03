@@ -1,0 +1,11 @@
+{
+  "name": "suma-ulsa",
+  "version": "0.2.6",
+  "summary": "Sistema Universitario de Métodos Académicos (SUMA) - librería Python con backend en Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "suma_ulsa-0.2.6.tar.gz",
+  "download_time": "2025-11-03T21:19:57.389751",
+  "package_url": "https://pypi.org/project/suma-ulsa/"
+}

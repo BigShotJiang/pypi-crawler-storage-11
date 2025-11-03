@@ -1,11 +1,11 @@
 {
   "name": "deltachat-rpc-client",
-  "version": "2.23.0",
+  "version": "2.24.0",
   "summary": "Python client for Delta Chat core JSON-RPC interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deltachat_rpc_client-2.23.0.tar.gz",
-  "download_time": "2025-11-01T16:22:00.665877",
+  "download_filename": "deltachat_rpc_client-2.24.0.tar.gz",
+  "download_time": "2025-11-03T21:19:38.234330",
   "package_url": "https://pypi.org/project/deltachat-rpc-client/"
 }

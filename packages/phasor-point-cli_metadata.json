@@ -1,0 +1,11 @@
+{
+  "name": "phasor-point-cli",
+  "version": "0.4.0",
+  "summary": "A comprehensive CLI for extracting, processing, and analyzing PMU data from PhasorPoint databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phasor_point_cli-0.4.0.tar.gz",
+  "download_time": "2025-11-03T21:19:41.934472",
+  "package_url": "https://pypi.org/project/phasor-point-cli/"
+}

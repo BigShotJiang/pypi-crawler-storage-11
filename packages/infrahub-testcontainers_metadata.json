@@ -1,0 +1,11 @@
+{
+  "name": "infrahub-testcontainers",
+  "version": "1.4.12",
+  "summary": "Testcontainers instance for Infrahub to easily build integration tests",
+  "author": "OpsMill",
+  "license": "Apache-2.0",
+  "home_page": "https://opsmill.com",
+  "download_filename": "infrahub_testcontainers-1.4.12.tar.gz",
+  "download_time": "2025-11-03T21:19:44.188982",
+  "package_url": "https://pypi.org/project/infrahub-testcontainers/"
+}

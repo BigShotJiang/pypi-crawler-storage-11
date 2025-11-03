@@ -1,0 +1,11 @@
+{
+  "name": "livestack",
+  "version": "0.5.0",
+  "summary": "Live minimal inline stack display for Python scripts",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/viljan1/LiveStack-py",
+  "download_filename": "livestack-0.5.0.tar.gz",
+  "download_time": "2025-11-03T21:19:42.972555",
+  "package_url": "https://pypi.org/project/livestack/"
+}

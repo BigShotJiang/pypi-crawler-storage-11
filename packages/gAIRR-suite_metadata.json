@@ -1,11 +1,11 @@
 {
   "name": "gAIRR-suite",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Profiling genes encoding the adaptive immune receptor repertoire with gAIRR Suite.",
   "author": "Mao-Jan Lin",
   "license": "MIT",
   "home_page": "https://github.com/maojanlin/gAIRRsuite",
-  "download_filename": "gairr_suite-0.3.0.tar.gz",
-  "download_time": "2025-11-03T04:35:29.463023",
+  "download_filename": "gairr_suite-0.3.2.tar.gz",
+  "download_time": "2025-11-03T21:19:46.290403",
   "package_url": "https://pypi.org/project/gAIRR-suite/"
 }

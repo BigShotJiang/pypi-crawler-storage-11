@@ -1,0 +1,11 @@
+{
+  "name": "stop-words",
+  "version": "2025.11.4",
+  "summary": "Get list of common stop words in various languages in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stop_words-2025.11.4.tar.gz",
+  "download_time": "2025-11-03T21:19:55.817805",
+  "package_url": "https://pypi.org/project/stop-words/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "invenio-theme-tugraz",
+  "version": "4.13.5",
+  "summary": "\"Invenio module for TUGRAZ theme.\"",
+  "author": "\"Graz University of Technology\"",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-theme-tugraz",
+  "download_filename": "invenio_theme_tugraz-4.13.5.tar.gz",
+  "download_time": "2025-11-03T21:20:05.714306",
+  "package_url": "https://pypi.org/project/invenio-theme-tugraz/"
+}
