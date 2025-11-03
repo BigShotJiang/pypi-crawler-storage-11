@@ -1,0 +1,11 @@
+{
+  "name": "token-service",
+  "version": "0.1.7",
+  "summary": "A lightweight Azure AD Token Service with no .env or logger dependencies",
+  "author": "Vamsi Gudapati",
+  "license": "MIT",
+  "home_page": "https://github.com/vamsichowdaryg/token-service.git",
+  "download_filename": "token_service-0.1.7.tar.gz",
+  "download_time": "2025-11-03T09:46:42.253000",
+  "package_url": "https://pypi.org/project/token-service/"
+}

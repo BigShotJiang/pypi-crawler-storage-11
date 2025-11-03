@@ -1,0 +1,11 @@
+{
+  "name": "pynter2",
+  "version": "2.0.0",
+  "summary": "Tools for atomistic calculations, provides features for point-defect calculations",
+  "author": "Lorenzo Villa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynter2-2.0.0.tar.gz",
+  "download_time": "2025-11-03T09:46:35.883209",
+  "package_url": "https://pypi.org/project/pynter2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-search-aj",
+  "version": "1.0.4",
+  "summary": "Fast, lightweight Google search scraper with stealth mode",
+  "author": "Aditya Jangam",
+  "license": null,
+  "home_page": "https://github.com/Aaditya17032002/google-search",
+  "download_filename": "google_search_aj-1.0.4.tar.gz",
+  "download_time": "2025-11-03T09:46:39.032603",
+  "package_url": "https://pypi.org/project/google-search-aj/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AymenePy",
+  "version": "1.0.0",
+  "summary": "An awesome package that does something",
+  "author": "Aymene Laidani",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/AymenePy/",
+  "download_filename": "aymenepy-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-03T09:46:36.400408",
+  "package_url": "https://pypi.org/project/AymenePy/"
+}
