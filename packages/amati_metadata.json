@@ -1,11 +1,11 @@
 {
   "name": "amati",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Validates that a .yaml or .json file conforms to the OpenAPI Specifications 3.x.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amati-0.3.7.tar.gz",
-  "download_time": "2025-11-02T08:23:21.536134",
+  "download_filename": "amati-0.3.8.tar.gz",
+  "download_time": "2025-11-04T11:20:11.863494",
   "package_url": "https://pypi.org/project/amati/"
 }

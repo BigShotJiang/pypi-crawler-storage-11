@@ -1,0 +1,11 @@
+{
+  "name": "mollie-api-python",
+  "version": "3.9.1",
+  "summary": "Mollie API client for Python",
+  "author": "Mollie B.V.",
+  "license": "BSD",
+  "home_page": "https://github.com/mollie/mollie-api-python",
+  "download_filename": "mollie_api_python-3.9.1.tar.gz",
+  "download_time": "2025-11-04T11:20:32.346694",
+  "package_url": "https://pypi.org/project/mollie-api-python/"
+}

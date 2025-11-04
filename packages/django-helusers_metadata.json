@@ -1,0 +1,11 @@
+{
+  "name": "django-helusers",
+  "version": "0.14.2",
+  "summary": "Django app for the user infrastructure of the City of Helsinki",
+  "author": "City of Helsinki",
+  "license": "BSD License",
+  "home_page": "https://github.com/City-of-Helsinki/django-helusers",
+  "download_filename": "django_helusers-0.14.2.tar.gz",
+  "download_time": "2025-11-04T11:20:27.502304",
+  "package_url": "https://pypi.org/project/django-helusers/"
+}

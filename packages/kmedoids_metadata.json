@@ -1,0 +1,11 @@
+{
+  "name": "kmedoids",
+  "version": "0.5.4",
+  "summary": "k-Medoids Clustering in Python with FasterPAM",
+  "author": "Erich Schubert <erich.schubert@tu-dortmund.de>, Lars Lenssen <lars.lenssen@tu-dortmund.de>",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/kno10/python-kmedoids",
+  "download_filename": "kmedoids-0.5.4-cp310-cp310-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-11-04T11:20:35.500599",
+  "package_url": "https://pypi.org/project/kmedoids/"
+}

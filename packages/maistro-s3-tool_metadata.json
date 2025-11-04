@@ -1,0 +1,11 @@
+{
+  "name": "maistro-s3-tool",
+  "version": "0.1.0",
+  "summary": "AWS S3 üzerinde upload/download/list/presign işlemleri yapan Maistro uyumlu tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maistro_s3_tool-0.1.0.tar.gz",
+  "download_time": "2025-11-04T11:20:43.596329",
+  "package_url": "https://pypi.org/project/maistro-s3-tool/"
+}

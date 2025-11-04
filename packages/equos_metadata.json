@@ -1,0 +1,11 @@
+{
+  "name": "equos",
+  "version": "1.2.1",
+  "summary": "Equos.ai official Python SDK.",
+  "author": "Loïc Combis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "equos-1.2.1.tar.gz",
+  "download_time": "2025-11-04T11:19:59.978725",
+  "package_url": "https://pypi.org/project/equos/"
+}
