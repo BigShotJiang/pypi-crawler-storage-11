@@ -1,0 +1,11 @@
+{
+  "name": "snacktime",
+  "version": "0.2.0",
+  "summary": "CLI that gives a random snack, a simple salad recipe, a random vegetable, or a sweet treat.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snacktime-0.2.0.tar.gz",
+  "download_time": "2025-11-04T07:53:03.191589",
+  "package_url": "https://pypi.org/project/snacktime/"
+}

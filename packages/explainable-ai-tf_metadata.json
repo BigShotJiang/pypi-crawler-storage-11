@@ -1,11 +1,11 @@
 {
   "name": "explainable-ai-tf",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight TensorFlow explainability API (per-method thin wrappers).",
   "author": "Nechami Noyfeld",
   "license": null,
   "home_page": null,
-  "download_filename": "explainable_ai_tf-0.1.1.tar.gz",
-  "download_time": "2025-11-03T09:46:41.224782",
+  "download_filename": "explainable_ai_tf-0.1.2.tar.gz",
+  "download_time": "2025-11-04T07:53:02.671442",
   "package_url": "https://pypi.org/project/explainable-ai-tf/"
 }

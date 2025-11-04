@@ -1,11 +1,11 @@
 {
   "name": "wkdaily",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wkdaily-1.1.0.tar.gz",
-  "download_time": "2025-11-04T07:41:45.869616",
+  "download_filename": "wkdaily-1.1.1.tar.gz",
+  "download_time": "2025-11-04T07:53:00.066366",
   "package_url": "https://pypi.org/project/wkdaily/"
 }

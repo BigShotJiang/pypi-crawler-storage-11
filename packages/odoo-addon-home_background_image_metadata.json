@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-home_background_image",
+  "version": "16.0.1.0.0",
+  "summary": "Set a background image for the Odoo company.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_home_background_image-16.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-04T07:52:47.921208",
+  "package_url": "https://pypi.org/project/odoo-addon-home_background_image/"
+}

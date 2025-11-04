@@ -1,11 +1,11 @@
 {
   "name": "matfree",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Matrix-free numerical linear algebra.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matfree-0.5.3.tar.gz",
-  "download_time": "2025-11-03T08:53:23.946590",
+  "download_filename": "matfree-0.5.4.tar.gz",
+  "download_time": "2025-11-04T07:52:57.957500",
   "package_url": "https://pypi.org/project/matfree/"
 }

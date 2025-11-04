@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T07:42:19.756465
-- **Total Packages**: 87
-- **Total Size**: 43.17 MB
+- **Download Time**: 2025-11-04T07:53:31.605841
+- **Total Packages**: 84
+- **Total Size**: 9.81 MB
 
 ## Packages List
+- odoo-addon-mail_disable_translation
+- akoma2md
+- odoo-addon-home_background_image
+- avyas-aurica-base-apps-node-connection
+- odoo-addon-float_align_at_decimal
+- odoo-addon-base_vat_required_vies
+- vigorvision
+- odoo-addon-base_user_acl
+- odoo-addon-base_module_user_acl
+- odoo-addon-base_db_anonymization
+- odoo-addon-base_action_manager_access
+- odoo-addon-auth_totp_ip_check
+- odoo-addon-auth_impersonate_user
+- wrap-openai
+- locust-grasshopper
+- prompty-dumpty
+- mseq2latex
+- async-decorator
+- fmu-settings-cli
+- fmu-settings-gui
+- lm-saes
+- matfree
+- aiohomematic-test-support
+- aiohomematic
+- py-extension-toolkit
+- wkdaily
+- fastsae
+- Nirman-cli
+- driada
+- CliRemote
+- explainable-ai-tf
+- snacktime
+- odoo-addon-l10n-ro-city
+- machineconfig
+- odoo-addon-account-financial-report
+- tost
+- mns-scheduler
+- sema4ai-actions
+- fmu-settings-api
+- kolabpy-lite
+- cmk-dev-site
+- rediskit
+- dbcp
+- regolo
+- psvr2toolkit-installer
+- most-client
+- pybluecurrent
+- flarelette-jwt
+- ado-asana-sync
+- aidev-wxbot
+- dynafield
+- openstef-dbc
+- fastgenerateapi
+- charm-refresh
+- vutime
+- bouquin
+- eodc-faas-openeo
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - jettask
@@ -14,7 +71,6 @@
 - oqtopus
 - smoltrace
 - levistone
-- CliRemote
 - pulumiverse-exoscale
 - jsonbot
 - sia-script
@@ -31,65 +87,6 @@
 - hybmkg-pycast
 - office-assistant-mcp
 - antchain-bccr
-- kolabpy-lite
 - frontmatter-utils
 - mas-cli
 - modusa
-- wkdaily
-- stix2extensions
-- tenzir-test
-- interro
-- odoo-addon-account-financial-report
-- odoo-addon-partner-bank-code
-- tbcp
-- Fount-Core
-- tritonparse
-- pum
-- akoma2md
-- samudra-ai
-- fastgenerateapi
-- qf-data
-- arthur-client
-- sage-gw
-- powertrain-build
-- mcp-server-mm1
-- sbgm
-- xt-asset
-- kubiya-control-plane-api
-- agentlin-client
-- auth
-- gdbrpc
-- wagtail-tw-blocks
-- pywbem
-- changelog-version-bump
-- pulumi-aws-native
-- stdkit-cli
-- eldar-text-art
-- nb-aiopool
-- vease-back
-- ektools
-- pelican-graphviz
-- libs5-python
-- testrepoflow
-- slack-mcp
-- instaui
-- Vease-Viewer
-- hyperscan
-- pycupra
-- smartpush
-- iflow-mcp_gis-mcp
-- stac-fastapi-opensearch
-- stac-fastapi-elasticsearch
-- sfeos-helpers
-- stac-fastapi-core
-- alibabacloud-das20200116
-- OpenGeodeWeb-Back
-- OpenGeodeWeb-Viewer
-- iflow-mcp_databricks-mcp-server
-- fastapi-mail
-- beast-dream-snow-loader
-- txt2detection
-- wexa-sdk
-- oc-dms-mirror
-- fastled
-- iflow-mcp_mcp-server-perplexity

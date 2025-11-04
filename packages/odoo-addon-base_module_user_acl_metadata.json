@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base_module_user_acl",
+  "version": "18.0.1.0.0",
+  "summary": "Restricted access to apps app.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_base_module_user_acl-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-04T07:52:51.155057",
+  "package_url": "https://pypi.org/project/odoo-addon-base_module_user_acl/"
+}
