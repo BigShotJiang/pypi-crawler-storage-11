@@ -1,0 +1,11 @@
+{
+  "name": "docstub",
+  "version": "0.6.0",
+  "summary": "Generate Python stub files from docstrings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docstub-0.6.0.tar.gz",
+  "download_time": "2025-11-04T17:42:39.532909",
+  "package_url": "https://pypi.org/project/docstub/"
+}

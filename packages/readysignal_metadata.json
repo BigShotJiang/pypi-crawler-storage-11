@@ -1,0 +1,11 @@
+{
+  "name": "readysignal",
+  "version": "1.5.1",
+  "summary": "The API for readysignal.com",
+  "author": "Jess Brown",
+  "license": null,
+  "home_page": "https://github.com/rxa-io/readysignal",
+  "download_filename": "readysignal-1.5.1.tar.gz",
+  "download_time": "2025-11-04T17:42:43.786272",
+  "package_url": "https://pypi.org/project/readysignal/"
+}

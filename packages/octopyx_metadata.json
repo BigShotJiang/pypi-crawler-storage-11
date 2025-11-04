@@ -1,0 +1,11 @@
+{
+  "name": "octopyx",
+  "version": "1.0.0",
+  "summary": "A modular Python library for automated data preprocessing, feature selection, model evaluation, and report generation.",
+  "author": "Sahil Kewat",
+  "license": "MIT",
+  "home_page": "https://github.com/sahilkewat80085/Octopy",
+  "download_filename": "octopyx-1.0.0.tar.gz",
+  "download_time": "2025-11-04T17:42:40.576791",
+  "package_url": "https://pypi.org/project/octopyx/"
+}

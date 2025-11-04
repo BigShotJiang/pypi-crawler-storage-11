@@ -1,0 +1,11 @@
+{
+  "name": "rdl2ot",
+  "version": "0.3.0",
+  "summary": "An extension of PeakRDL to generate OpenTitan RTL.",
+  "author": "lowRISC contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdl2ot-0.3.0.tar.gz",
+  "download_time": "2025-11-04T17:42:36.420618",
+  "package_url": "https://pypi.org/project/rdl2ot/"
+}

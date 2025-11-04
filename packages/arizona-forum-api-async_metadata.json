@@ -1,11 +1,11 @@
 {
   "name": "arizona-forum-api-async",
-  "version": "1.4",
+  "version": "1.4.1",
   "summary": "Асинхронная Python библиотека для взаимодействия с форумом Arizona RP (forum.arizona-rp.com) без необходимости получения API ключа.",
   "author": "fakelag28",
   "license": null,
   "home_page": "https://github.com/fakelag28/Arizona-Forum-API-Async",
-  "download_filename": "arizona_forum_api_async-1.4.tar.gz",
-  "download_time": "2025-11-01T19:37:57.362373",
+  "download_filename": "arizona_forum_api_async-1.4.1.tar.gz",
+  "download_time": "2025-11-04T17:42:29.151770",
   "package_url": "https://pypi.org/project/arizona-forum-api-async/"
 }

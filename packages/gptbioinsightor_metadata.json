@@ -1,11 +1,11 @@
 {
   "name": "gptbioinsightor",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "GPTBioInsightor utilizes the powerful capabilities of large language models to help people quickly gain knowledge and insight, enhancing their work efficiency.",
   "author": null,
   "license": "BSD 3-Clause",
   "home_page": null,
-  "download_filename": "gptbioinsightor-0.7.5.tar.gz",
-  "download_time": "2025-11-01T18:26:19.401525",
+  "download_filename": "gptbioinsightor-0.7.6.tar.gz",
+  "download_time": "2025-11-04T17:42:24.974089",
   "package_url": "https://pypi.org/project/gptbioinsightor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kilosort",
+  "version": "4.1.2",
+  "summary": "spike sorting pipeline",
+  "author": "Marius Pachitariu",
+  "license": "BSD",
+  "home_page": "https://github.com/MouseLand/kilosort",
+  "download_filename": "kilosort-4.1.2.tar.gz",
+  "download_time": "2025-11-04T17:42:13.520048",
+  "package_url": "https://pypi.org/project/kilosort/"
+}
