@@ -1,0 +1,11 @@
+{
+  "name": "collagraph-lsp",
+  "version": "0.1.2",
+  "summary": "LSP server for Collagraph (.cgx) files with ruff integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "collagraph_lsp-0.1.2.tar.gz",
+  "download_time": "2025-11-04T09:24:34.165177",
+  "package_url": "https://pypi.org/project/collagraph-lsp/"
+}

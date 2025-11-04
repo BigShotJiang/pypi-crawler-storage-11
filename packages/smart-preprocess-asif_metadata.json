@@ -1,0 +1,11 @@
+{
+  "name": "smart-preprocess-asif",
+  "version": "0.1.2",
+  "summary": "One-line smart preprocessing for ML: impute, encode, scale, and (optionally) clip outliers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smart_preprocess_asif-0.1.2.tar.gz",
+  "download_time": "2025-11-04T09:24:38.823990",
+  "package_url": "https://pypi.org/project/smart-preprocess-asif/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-dc-view",
+  "version": "1.0.2",
+  "summary": "Preview DC data on DCOR",
+  "author": "Paul Müller",
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+  "home_page": null,
+  "download_filename": "ckanext_dc_view-1.0.2.tar.gz",
+  "download_time": "2025-11-04T09:24:29.478921",
+  "package_url": "https://pypi.org/project/ckanext-dc-view/"
+}

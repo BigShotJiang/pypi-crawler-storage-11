@@ -1,0 +1,11 @@
+{
+  "name": "wgdi",
+  "version": "0.75",
+  "summary": "A user-friendly toolkit for evolutionary analyses of whole-genome duplications and ancestral karyotypes",
+  "author": "Pengchuan Sun",
+  "license": "BSD License",
+  "home_page": "https://github.com/SunPengChuan/wgdi",
+  "download_filename": "wgdi-0.75.tar.gz",
+  "download_time": "2025-11-04T09:24:32.082662",
+  "package_url": "https://pypi.org/project/wgdi/"
+}
