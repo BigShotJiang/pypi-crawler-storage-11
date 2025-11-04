@@ -1,0 +1,11 @@
+{
+  "name": "ros-ament-cmake-cpplint",
+  "version": "0.19.2",
+  "summary": "Wheel for the ament_cmake_cpplint (ros-ament-cmake-cpplint) ROS 2 package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_ament_cmake_cpplint-0.19.2-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T18:56:22.446650",
+  "package_url": "https://pypi.org/project/ros-ament-cmake-cpplint/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pacupdate",
+  "version": "0.4",
+  "summary": "A pacman update script",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pacupdate-0.4.tar.gz",
+  "download_time": "2025-11-04T18:55:58.816725",
+  "package_url": "https://pypi.org/project/pacupdate/"
+}

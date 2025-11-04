@@ -1,0 +1,11 @@
+{
+  "name": "dhanhq-utils",
+  "version": "0.1.0",
+  "summary": "A lightweight utility library for encrypting and decrypting DhanHQ Web-API payloads with minimal setup.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Indian-Algorithmic-Trading-Community/dhanhq_utils",
+  "download_filename": "dhanhq_utils-0.1.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-11-04T18:55:46.763208",
+  "package_url": "https://pypi.org/project/dhanhq-utils/"
+}

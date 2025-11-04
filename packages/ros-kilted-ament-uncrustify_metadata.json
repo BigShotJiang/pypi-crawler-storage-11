@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-ament-uncrustify",
+  "version": "0.19.2",
+  "summary": "Meta-package for ament_uncrustify (ros-ament-uncrustify) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_ament_uncrustify-0.19.2-py3-none-any.whl",
+  "download_time": "2025-11-04T18:56:18.271776",
+  "package_url": "https://pypi.org/project/ros-kilted-ament-uncrustify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rmw-test-fixture",
+  "version": "0.14.5",
+  "summary": "Meta-package for rmw_test_fixture (ros-rmw-test-fixture) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rmw_test_fixture-0.14.5-py3-none-any.whl",
+  "download_time": "2025-11-04T18:56:20.878431",
+  "package_url": "https://pypi.org/project/ros-kilted-rmw-test-fixture/"
+}

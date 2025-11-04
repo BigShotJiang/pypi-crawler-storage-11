@@ -1,0 +1,11 @@
+{
+  "name": "garak-sdk",
+  "version": "1.0.4",
+  "summary": "Python client library for the Garak AI Security Platform",
+  "author": "Garak Security",
+  "license": "MIT",
+  "home_page": "https://github.com/Garak-inc/garak-python-sdk",
+  "download_filename": "garak_sdk-1.0.4.tar.gz",
+  "download_time": "2025-11-04T18:56:03.601399",
+  "package_url": "https://pypi.org/project/garak-sdk/"
+}

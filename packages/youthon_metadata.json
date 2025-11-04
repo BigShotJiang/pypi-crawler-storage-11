@@ -1,0 +1,11 @@
+{
+  "name": "youthon",
+  "version": "0.5.0",
+  "summary": "A lightweight YouTube data scraper.",
+  "author": "anekobtw",
+  "license": "MIT",
+  "home_page": "https://github.com/anekobtw/youthon",
+  "download_filename": "youthon-0.5.0.tar.gz",
+  "download_time": "2025-11-04T18:55:57.772730",
+  "package_url": "https://pypi.org/project/youthon/"
+}

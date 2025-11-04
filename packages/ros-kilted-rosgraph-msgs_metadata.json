@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rosgraph-msgs",
+  "version": "2.3.0",
+  "summary": "Meta-package for rosgraph_msgs (ros-rosgraph-msgs) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rosgraph_msgs-2.3.0-py3-none-any.whl",
+  "download_time": "2025-11-04T18:56:26.644895",
+  "package_url": "https://pypi.org/project/ros-kilted-rosgraph-msgs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ros-ament-pep257",
+  "version": "0.19.2",
+  "summary": "Check Python code style using pep257.",
+  "author": "Dirk Thomas",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ament/ament_lint",
+  "download_filename": "ros_ament_pep257-0.19.2-py3-none-any.whl",
+  "download_time": "2025-11-04T18:56:26.120999",
+  "package_url": "https://pypi.org/project/ros-ament-pep257/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ros-rmw-test-fixture",
+  "version": "0.14.5",
+  "summary": "Wheel for the rmw_test_fixture (ros-rmw-test-fixture) ROS 2 package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rmw_test_fixture-0.14.5-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T18:56:21.400073",
+  "package_url": "https://pypi.org/project/ros-rmw-test-fixture/"
+}

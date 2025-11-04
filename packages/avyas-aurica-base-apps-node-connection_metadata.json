@@ -1,11 +1,11 @@
 {
   "name": "avyas-aurica-base-apps-node-connection",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "summary": "Aurica app: node-connection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avyas_aurica_base_apps_node_connection-3.0.3.tar.gz",
-  "download_time": "2025-11-04T18:31:35.089667",
+  "download_filename": "avyas_aurica_base_apps_node_connection-3.0.4.tar.gz",
+  "download_time": "2025-11-04T18:55:59.861686",
   "package_url": "https://pypi.org/project/avyas-aurica-base-apps-node-connection/"
 }
