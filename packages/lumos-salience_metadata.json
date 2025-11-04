@@ -1,0 +1,11 @@
+{
+  "name": "lumos-salience",
+  "version": "1.0.0",
+  "summary": "LLM-based Universal Measure Of Salience - Testing LLMs' ability to capture image salience",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumos_salience-1.0.0.tar.gz",
+  "download_time": "2025-11-04T21:51:59.396791",
+  "package_url": "https://pypi.org/project/lumos-salience/"
+}

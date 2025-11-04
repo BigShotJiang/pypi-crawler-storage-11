@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T21:42:31.345148
-- **Total Packages**: 93
-- **Total Size**: 18.85 MB
+- **Download Time**: 2025-11-04T21:52:46.183025
+- **Total Packages**: 88
+- **Total Size**: 19.81 MB
 
 ## Packages List
+- mlrun
+- git-contrib-tree
+- persian-date
+- devion-test
+- icsneopy
+- lumos-salience
+- email-manager
+- ukraine
+- typing-protocol-intersection
+- slide-lye
+- slide-space-monkey
+- slide-narrator
+- slide-tyler
+- tm-tc-code-generator
+- international-urns-es
+- dooers
+- geemap
+- rapidata
+- odinai-sdk
+- shomei
+- airweave-sdk
+- mamoguard
+- tdt
+- lib-detect-testenv
+- langchain-code
+- sarif-pydantic
+- letschatty
+- singhlab
+- opensees-copilot
+- segmentation-skeleton-metrics
+- chemotools
+- scurrypy
+- ai-lls-lib
+- webtoolkit
 - lusid-sdk
 - prelude-cli-beta
 - prelude-sdk-beta
@@ -27,7 +61,6 @@
 - primfunctions
 - pyhtk
 - mcp-ephemeral-k8s
-- singhlab
 - aware-file-system
 - ayechat
 - singlem
@@ -43,7 +76,6 @@
 - dcisionai-mcp-server
 - flaskteroids
 - pywrapid
-- email-manager
 - ipyslides
 - bsonstream
 - pierre-storage
@@ -62,40 +94,3 @@
 - ros-rmw-test-fixture-implementation
 - pyedahelper
 - ros-ament-package
-- gac
-- ros-rosidl-core-runtime
-- ros-kilted-rosidl-typesupport-introspection-c
-- ros-rosidl-default-runtime
-- OpenGeode-Inspector
-- ros-kilted-ament-cmake-ros
-- ros-rosidl-generator-c
-- ros-rosidl-generator-type-description
-- ros-std-srvs
-- ros-ament-cmake-version
-- ros-ament-cmake-core
-- ros-kilted-rmw-implementation
-- ros-kilted-ament-cmake-gmock
-- ros-kilted-unique-identifier-msgs
-- ros-kilted-ament-cmake-export-definitions
-- ros-kilted-trajectory-msgs
-- ros-kilted-rclpy
-- ros-ament-index-python
-- ros-kilted-foonathan-memory-vendor
-- ros-rosidl-core-generators
-- ros-kilted-ament-cmake-core
-- ros-kilted-gmock-vendor
-- ros-stereo-msgs
-- ros-rmw-security-common
-- ros-kilted-rcl-logging-interface
-- ros-kilted-rcl-lifecycle
-- kaleido
-- tensorrt-lean-cu12-bindings
-- detectk
-- dynamic-learning-model
-- glean-database
-- keeper-pam-webrtc-rs
-- catcall
-- botocore-stubs
-- sembicho-cli
-- tsugite
-- webtoolkit

@@ -1,11 +1,11 @@
 {
   "name": "tm-tc-code-generator",
-  "version": "0.9.0",
+  "version": "0.10.1",
   "summary": null,
   "author": "Lautaro Mendieta",
   "license": null,
   "home_page": null,
-  "download_filename": "tm_tc_code_generator-0.9.0.tar.gz",
-  "download_time": "2025-11-02T01:45:37.458040",
+  "download_filename": "tm_tc_code_generator-0.10.1.tar.gz",
+  "download_time": "2025-11-04T21:52:03.503388",
   "package_url": "https://pypi.org/project/tm-tc-code-generator/"
 }

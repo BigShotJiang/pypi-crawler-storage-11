@@ -1,0 +1,11 @@
+{
+  "name": "rapidata",
+  "version": "2.42.8",
+  "summary": "Rapidata package containing the Rapidata Python Client to interact with the Rapidata Web API in an easy way.",
+  "author": "Rapidata AG",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rapidata-2.42.8.tar.gz",
+  "download_time": "2025-11-04T21:52:06.169000",
+  "package_url": "https://pypi.org/project/rapidata/"
+}

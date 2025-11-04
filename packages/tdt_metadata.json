@@ -1,11 +1,11 @@
 {
   "name": "tdt",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Tucker-Davis Technologies (TDT) Python APIs for reading data and interacting with Synapse software",
   "author": "Mark Hanus",
   "license": null,
   "home_page": null,
-  "download_filename": "tdt-0.7.0.tar.gz",
-  "download_time": "2025-11-04T15:44:57.365738",
+  "download_filename": "tdt-0.7.1.tar.gz",
+  "download_time": "2025-11-04T21:52:08.733408",
   "package_url": "https://pypi.org/project/tdt/"
 }
