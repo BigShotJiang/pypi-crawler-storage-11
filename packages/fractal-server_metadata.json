@@ -1,0 +1,11 @@
+{
+  "name": "fractal-server",
+  "version": "2.16.6",
+  "summary": "Backend component of the Fractal analytics platform",
+  "author": "Tommaso Comparin",
+  "license": null,
+  "home_page": "https://github.com/fractal-analytics-platform/fractal-server",
+  "download_filename": "fractal_server-2.16.6.tar.gz",
+  "download_time": "2025-11-04T10:49:59.286767",
+  "package_url": "https://pypi.org/project/fractal-server/"
+}
