@@ -1,21 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T17:42:58.668696
-- **Total Packages**: 85
-- **Total Size**: 53.78 MB
+- **Download Time**: 2025-11-04T17:54:07.009653
+- **Total Packages**: 88
+- **Total Size**: 32.88 MB
 
 ## Packages List
+- sromaster
+- observa-framework
+- unaiverse
+- pyUSPTO
+- kaggle-environments
+- auto-live-reload
+- zombie-squirrel
+- fw-storage
+- async-customerio
+- oci-openai
+- nacwrap
+- globus-compute-endpoint
+- globus-compute-sdk
+- pyeuropepmc
+- staywise-discountlib
+- webbed-duck
+- collective.catalogtrace
+- pkg-15903
+- htmldate
+- langmiddle
+- fetkutils
+- ccp-performance
+- pulumi-databricks
+- krrood
+- wmill-pg
+- alibabacloud-ess20220222
+- wmill
+- windmill-api
+- alibabacloud-ens20171110
+- panelbeater
 - alibabacloud-ice20201109
 - alibabacloud-sae20190506
 - kilosort
-- sromaster
 - backupchan-cli
 - x-transformers
 - csf-crypto
 - pybwa-lite
 - alibabacloud-polardb20170801
-- observa-framework
 - sbdl
 - guiguts
 - jusflaudio
@@ -31,11 +59,9 @@
 - dygo
 - backupchan-client-lib
 - gptbioinsightor
-- auto-live-reload
 - trustwise
 - django-cfg
 - terra-scientific-pipelines-service-api-client
-- pulumi-databricks
 - suitcase-nomad-camels-hdf5
 - arizona-forum-api-async
 - matrice-analytics
@@ -68,26 +94,3 @@
 - readysignal
 - piScope
 - freeplay-langgraph
-- PVNet_summation
-- lumiera
-- shadow4
-- weaviate-client
-- PVNet
-- M3Drop
-- schr
-- llm-optimized-inference
-- relplot
-- bedrock-agentcore-starter-toolkit
-- dabax
-- odoo-addon-fieldservice-activity
-- automation-file-dev
-- udspy
-- lts-mpsjobtracker-mongo
-- grasp_agents
-- pyramid-formencode-classic
-- pyTigerGraph
-- megatron-core
-- megatron-fsdp
-- pgmpy-rcr
-- tianmoucv2
-- fubon-api-mcp-server

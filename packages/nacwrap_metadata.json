@@ -1,11 +1,11 @@
 {
   "name": "nacwrap",
-  "version": "0.3.3.5",
+  "version": "0.3.4",
   "summary": "Python package that acts as a wrapper for the Nintex Automation Cloud system.",
   "author": "Jordan Maynor",
   "license": null,
   "home_page": "https://github.com/pepsimidamerica/nacwrap",
-  "download_filename": "nacwrap-0.3.3.5.tar.gz",
-  "download_time": "2025-11-03T17:42:08.439356",
+  "download_filename": "nacwrap-0.3.4.tar.gz",
+  "download_time": "2025-11-04T17:53:24.557996",
   "package_url": "https://pypi.org/project/nacwrap/"
 }

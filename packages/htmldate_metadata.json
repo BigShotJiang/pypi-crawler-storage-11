@@ -1,0 +1,11 @@
+{
+  "name": "htmldate",
+  "version": "1.9.4",
+  "summary": "Fast and robust extraction of original and updated publication dates from URLs and web pages.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "htmldate-1.9.4.tar.gz",
+  "download_time": "2025-11-04T17:53:29.264193",
+  "package_url": "https://pypi.org/project/htmldate/"
+}
