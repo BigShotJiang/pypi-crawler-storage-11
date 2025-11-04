@@ -1,11 +1,11 @@
 {
   "name": "antchain-bccr",
-  "version": "1.19.75",
+  "version": "1.19.76",
   "summary": "Ant Chain BCCR SDK Library for Python",
   "author": "Ant Chain SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
-  "download_filename": "antchain_bccr-1.19.75.tar.gz",
-  "download_time": "2025-11-04T06:33:44.787635",
+  "download_filename": "antchain_bccr-1.19.76.tar.gz",
+  "download_time": "2025-11-04T07:41:42.547581",
   "package_url": "https://pypi.org/project/antchain-bccr/"
 }

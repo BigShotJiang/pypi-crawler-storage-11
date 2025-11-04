@@ -1,0 +1,11 @@
+{
+  "name": "oc-dms-mirror",
+  "version": "2.5.3",
+  "summary": "Tool for mirroring DMS artifacts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oc_dms_mirror-2.5.3-py3-none-any.whl",
+  "download_time": "2025-11-04T07:42:18.099819",
+  "package_url": "https://pypi.org/project/oc-dms-mirror/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pelican-graphviz",
+  "version": "2.0.0",
+  "summary": "Pelican plugin supporting Graphviz images in articles",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "pelican_graphviz-2.0.0.tar.gz",
+  "download_time": "2025-11-04T07:42:05.380831",
+  "package_url": "https://pypi.org/project/pelican-graphviz/"
+}

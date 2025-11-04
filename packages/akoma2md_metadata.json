@@ -1,11 +1,11 @@
 {
   "name": "akoma2md",
-  "version": "1.7.3",
-  "summary": "Convertitore da XML Akoma Ntoso a formato Markdown con supporto URL articolo-specifici e ricerca AI",
+  "version": "1.8.0",
+  "summary": "Convertitore da XML Akoma Ntoso a formato Markdown con download automatico delle leggi citate",
   "author": "Andrea Borruso",
   "license": "MIT",
   "home_page": "https://github.com/aborruso/normattiva_2_md",
-  "download_filename": "akoma2md-1.7.3.tar.gz",
-  "download_time": "2025-11-03T23:40:20.574336",
+  "download_filename": "akoma2md-1.8.0.tar.gz",
+  "download_time": "2025-11-04T07:41:51.589747",
   "package_url": "https://pypi.org/project/akoma2md/"
 }

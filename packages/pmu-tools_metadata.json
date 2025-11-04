@@ -1,0 +1,11 @@
+{
+  "name": "pmu-tools",
+  "version": "2025.11.4.0",
+  "summary": "pmu tools is a collection of tools and libraries for profile collection and performance analysis on Intel CPUs on top of Linux perf. This uses performance counters in the CPU.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmu_tools-2025.11.4.0.tar.gz",
+  "download_time": "2025-11-04T07:41:40.248646",
+  "package_url": "https://pypi.org/project/pmu-tools/"
+}

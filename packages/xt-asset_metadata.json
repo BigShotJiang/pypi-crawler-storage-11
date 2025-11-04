@@ -1,0 +1,11 @@
+{
+  "name": "xt-asset",
+  "version": "0.1.0",
+  "summary": "Neutral asset precision/notional/fees registry for trading.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xt_asset-0.1.0.tar.gz",
+  "download_time": "2025-11-04T07:41:57.284449",
+  "package_url": "https://pypi.org/project/xt-asset/"
+}
