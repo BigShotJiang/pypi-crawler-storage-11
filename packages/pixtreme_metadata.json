@@ -1,0 +1,11 @@
+{
+  "name": "pixtreme",
+  "version": "0.8.6",
+  "summary": "pixtreme: A High-Performance Graphics Library with CUDA Support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixtreme-0.8.6.tar.gz",
+  "download_time": "2025-11-04T04:25:04.742426",
+  "package_url": "https://pypi.org/project/pixtreme/"
+}

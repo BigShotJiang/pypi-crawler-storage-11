@@ -1,0 +1,11 @@
+{
+  "name": "pixtreme-aces",
+  "version": "0.8.6",
+  "summary": "ACES color management for pixtreme (OCIO ACES 1.2 compliant)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixtreme_aces-0.8.6.tar.gz",
+  "download_time": "2025-11-04T04:25:07.871815",
+  "package_url": "https://pypi.org/project/pixtreme-aces/"
+}

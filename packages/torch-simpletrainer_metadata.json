@@ -1,0 +1,11 @@
+{
+  "name": "torch-simpletrainer",
+  "version": "0.1.1",
+  "summary": "A simple, flexible training framework for PyTorch models.",
+  "author": "Raha Ahmadi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torch_simpletrainer-0.1.1.tar.gz",
+  "download_time": "2025-11-04T04:24:47.950392",
+  "package_url": "https://pypi.org/project/torch-simpletrainer/"
+}

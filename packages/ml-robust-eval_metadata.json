@@ -1,0 +1,11 @@
+{
+  "name": "ml-robust-eval",
+  "version": "0.1.7",
+  "summary": "ML evaluation, validation, and test case generation toolkit with production monitoring.",
+  "author": "vikhyat-ch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ml_robust_eval-0.1.7.tar.gz",
+  "download_time": "2025-11-04T04:24:42.695508",
+  "package_url": "https://pypi.org/project/ml-robust-eval/"
+}

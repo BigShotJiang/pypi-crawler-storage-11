@@ -1,11 +1,11 @@
 {
   "name": "arthexis",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "Power & Energy Infrastructure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arthexis-0.1.26.tar.gz",
-  "download_time": "2025-11-03T03:58:42.448149",
+  "download_filename": "arthexis-0.1.27.tar.gz",
+  "download_time": "2025-11-04T04:24:54.777294",
   "package_url": "https://pypi.org/project/arthexis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tsst",
+  "version": "0.8.7",
+  "summary": "TSST is an integration platform for Taiwan brokerage Python APIs, enabling quick switching between different brokerage APIs using a unified trading logic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsst-0.8.7-py3-none-any.whl",
+  "download_time": "2025-11-04T04:24:51.631865",
+  "package_url": "https://pypi.org/project/tsst/"
+}
