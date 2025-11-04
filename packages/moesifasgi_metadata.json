@@ -1,11 +1,11 @@
 {
   "name": "moesifasgi",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": "Moesif Middleware for Python ASGI based platforms (FastAPI & Others)",
   "author": "Moesif, Inc",
   "license": "Apache Software License",
   "home_page": "https://www.moesif.com/docs/server-integration/python-asgi/",
-  "download_filename": "moesifasgi-1.1.7.tar.gz",
-  "download_time": "2025-11-03T20:43:30.372492",
+  "download_filename": "moesifasgi-1.1.8.tar.gz",
+  "download_time": "2025-11-04T20:55:32.496914",
   "package_url": "https://pypi.org/project/moesifasgi/"
 }

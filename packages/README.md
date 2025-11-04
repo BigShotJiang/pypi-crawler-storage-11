@@ -1,16 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T20:45:33.009940
-- **Total Packages**: 80
-- **Total Size**: 30.47 MB
+- **Download Time**: 2025-11-04T20:56:11.029874
+- **Total Packages**: 81
+- **Total Size**: 21.03 MB
 
 ## Packages List
+- struct-frame
+- zzignal
+- buddybet-idpsecure
+- foxcli
+- continue-speech
+- hcs-cli
+- webtoolkit
+- hcs-core
+- Draken
+- ukraine
+- lasso.reports
+- tzafon
+- plex-generate-previews
+- moesifasgi
+- tensorrt-cu13
+- ghoster-py
+- tensorrt
+- claudette
+- openrag
+- fedwrap
+- lightcon
+- batplot
+- tccli-intl-en
+- eth-portfolio-temp
+- ocr-llm
+- architext
+- specsanalyzer
+- filesinfo
+- clifpy
+- tensorrt-lean-cu13
+- joytide
+- aioshelly
+- tensorrt-lean
 - fluidattacks-core
 - onnx2pytorch
 - LbExec
 - noqa-runner
-- tzafon
 - avaframe
 - seraa
 - bnum
@@ -36,7 +68,6 @@
 - types-boto3-pinpoint-sms-voice-v2
 - vellum-workflow-server
 - hedayat-media
-- ghoster-py
 - bdkpython
 - pulumi-awsx
 - kessel-sdk
@@ -56,33 +87,3 @@
 - awscli
 - Karofipdf
 - scc-firewall-manager-sdk
-- gen3
-- yolov9-trunk
-- django-clerk-sdk
-- c8y-api
-- gptdiff
-- smartsheet-python-sdk
-- figpack
-- sembicho-cli
-- appian-locust
-- evo-files
-- evo-sdk
-- rheedium
-- bitwarden-workflow-linter
-- ats-utilities
-- doctra
-- phantom-make
-- webbed-duck
-- aiida-workgraph
-- rbfly
-- library
-- coderius-play
-- pyd2d
-- pynaviz
-- leaf-framework
-- openc
-- fastcore
-- weni-rp-apps
-- tacoreader
-- pypbee
-- sota-recommender

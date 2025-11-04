@@ -1,0 +1,11 @@
+{
+  "name": "claudette",
+  "version": "0.3.8",
+  "summary": "Claudette is Claude's friend",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/claudette",
+  "download_filename": "claudette-0.3.8-py3-none-any.whl",
+  "download_time": "2025-11-04T20:55:34.554767",
+  "package_url": "https://pypi.org/project/claudette/"
+}

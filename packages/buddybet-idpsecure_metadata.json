@@ -1,11 +1,11 @@
 {
   "name": "buddybet-idpsecure",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Secure in validate JWT Token",
   "author": "ricardomarzochi07",
   "license": null,
   "home_page": null,
-  "download_filename": "buddybet_idpsecure-1.0.7.tar.gz",
-  "download_time": "2025-11-03T21:20:07.791652",
+  "download_filename": "buddybet_idpsecure-1.0.8.tar.gz",
+  "download_time": "2025-11-04T20:55:26.264089",
   "package_url": "https://pypi.org/project/buddybet-idpsecure/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Draken",
+  "version": "0.0.2",
+  "summary": "Cython/Arrow Interop",
+  "author": "@joocer",
+  "license": null,
+  "home_page": "https://github.com/mabel-dev/draken/",
+  "download_filename": "draken-0.0.2.tar.gz",
+  "download_time": "2025-11-04T20:55:29.415777",
+  "package_url": "https://pypi.org/project/Draken/"
+}

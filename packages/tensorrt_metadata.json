@@ -1,0 +1,11 @@
+{
+  "name": "tensorrt",
+  "version": "10.14.1.48",
+  "summary": "TensorRT Metapackage",
+  "author": "NVIDIA Corporation",
+  "license": "Proprietary",
+  "home_page": "https://github.com/nvidia/tensorrt",
+  "download_filename": "tensorrt-10.14.1.48.tar.gz",
+  "download_time": "2025-11-04T20:55:34.040587",
+  "package_url": "https://pypi.org/project/tensorrt/"
+}

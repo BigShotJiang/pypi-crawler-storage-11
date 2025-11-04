@@ -1,0 +1,11 @@
+{
+  "name": "filesinfo",
+  "version": "0.1.2",
+  "summary": "File extension metadata and platform selection utilities",
+  "author": "Cagri Tas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "filesinfo-0.1.2.tar.gz",
+  "download_time": "2025-11-04T20:55:40.338714",
+  "package_url": "https://pypi.org/project/filesinfo/"
+}

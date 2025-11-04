@@ -1,11 +1,11 @@
 {
   "name": "avaframe",
-  "version": "1.13",
+  "version": "1.13.2",
   "summary": "The Open Avalanche Framework",
   "author": null,
-  "license": "EUPL",
+  "license": null,
   "home_page": null,
-  "download_filename": "avaframe-1.13.tar.gz",
-  "download_time": "2025-11-04T20:44:43.329667",
+  "download_filename": "avaframe-1.13.2.tar.gz",
+  "download_time": "2025-11-04T20:55:46.001185",
   "package_url": "https://pypi.org/project/avaframe/"
 }
