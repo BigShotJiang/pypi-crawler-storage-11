@@ -1,11 +1,11 @@
 {
   "name": "pydoll-python",
-  "version": "2.11.0",
+  "version": "2.12.0",
   "summary": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.",
   "author": "Thalison Fernandes",
   "license": null,
   "home_page": null,
-  "download_filename": "pydoll_python-2.11.0.tar.gz",
-  "download_time": "2025-11-02T23:18:19.403915",
+  "download_filename": "pydoll_python-2.12.0.tar.gz",
+  "download_time": "2025-11-04T03:50:15.894573",
   "package_url": "https://pypi.org/project/pydoll-python/"
 }

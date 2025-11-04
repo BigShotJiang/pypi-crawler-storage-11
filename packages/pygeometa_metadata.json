@@ -1,0 +1,11 @@
+{
+  "name": "pygeometa",
+  "version": "0.19.0",
+  "summary": "pygeometa is a Python package to manage metadata for geospatial datasets",
+  "author": "Tom Kralidis",
+  "license": "MIT",
+  "home_page": "https://geopython.github.io/pygeometa",
+  "download_filename": "pygeometa-0.19.0.tar.gz",
+  "download_time": "2025-11-04T03:49:57.536324",
+  "package_url": "https://pypi.org/project/pygeometa/"
+}

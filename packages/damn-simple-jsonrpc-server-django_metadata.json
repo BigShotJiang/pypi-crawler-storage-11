@@ -1,0 +1,11 @@
+{
+  "name": "damn-simple-jsonrpc-server-django",
+  "version": "0.5",
+  "summary": "Django adapter for damn simple JSON-RPC Server",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "damn_simple_jsonrpc_server_django-0.5.tar.gz",
+  "download_time": "2025-11-04T03:50:29.927740",
+  "package_url": "https://pypi.org/project/damn-simple-jsonrpc-server-django/"
+}

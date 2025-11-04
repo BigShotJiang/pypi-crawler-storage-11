@@ -1,0 +1,11 @@
+{
+  "name": "opencv-stubs",
+  "version": "0.1.1",
+  "summary": "Unofficial stubs for the opencv-python package.",
+  "author": "Bagard Hoel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencv_stubs-0.1.1.tar.gz",
+  "download_time": "2025-11-04T03:50:23.346674",
+  "package_url": "https://pypi.org/project/opencv-stubs/"
+}

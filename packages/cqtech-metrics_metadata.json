@@ -1,0 +1,11 @@
+{
+  "name": "cqtech-metrics",
+  "version": "0.1.0",
+  "summary": "A Python SDK for interacting with the CQTech Metrics OpenAPI",
+  "author": "CQTech",
+  "license": "MIT",
+  "home_page": "http://github.com/liudonghua123/cqtech-metrics",
+  "download_filename": "cqtech_metrics-0.1.0.tar.gz",
+  "download_time": "2025-11-04T03:49:43.415753",
+  "package_url": "https://pypi.org/project/cqtech-metrics/"
+}

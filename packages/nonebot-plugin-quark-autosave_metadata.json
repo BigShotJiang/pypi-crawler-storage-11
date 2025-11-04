@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-quark-autosave",
+  "version": "0.1.9",
+  "summary": "配合 quark-auto-save(https://github.com/Cp0204/quark-auto-save) 使用, 支持添加，删除，列出，运行任务",
+  "author": "fllesser",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_quark_autosave-0.1.9.tar.gz",
+  "download_time": "2025-11-04T03:49:51.720860",
+  "package_url": "https://pypi.org/project/nonebot-plugin-quark-autosave/"
+}

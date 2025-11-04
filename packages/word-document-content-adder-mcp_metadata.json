@@ -1,11 +1,11 @@
 {
   "name": "word-document-content-adder-mcp",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Word文档内容添加MCP服务 - 提供文档内容添加相关功能",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "word_document_content_adder_mcp-1.0.8.tar.gz",
-  "download_time": "2025-11-03T08:30:36.088490",
+  "download_filename": "word_document_content_adder_mcp-1.0.9.tar.gz",
+  "download_time": "2025-11-04T03:50:17.473787",
   "package_url": "https://pypi.org/project/word-document-content-adder-mcp/"
 }

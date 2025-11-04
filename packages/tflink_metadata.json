@@ -1,11 +1,11 @@
 {
   "name": "tflink",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Python client for tmpfile.link file upload service",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tflink-0.2.0.tar.gz",
-  "download_time": "2025-11-04T03:03:14.925458",
+  "download_filename": "tflink-0.2.1.tar.gz",
+  "download_time": "2025-11-04T03:50:12.731994",
   "package_url": "https://pypi.org/project/tflink/"
 }
