@@ -1,0 +1,11 @@
+{
+  "name": "ros-ament-package",
+  "version": "0.17.2",
+  "summary": "Ament is a build system for federated packages.",
+  "author": "Dirk Thomas",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ament/ament_package/wiki",
+  "download_filename": "ros_ament_package-0.17.2-py3-none-any.whl",
+  "download_time": "2025-11-04T21:42:09.944944",
+  "package_url": "https://pypi.org/project/ros-ament-package/"
+}

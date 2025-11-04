@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rcutils",
+  "version": "6.9.8",
+  "summary": "Meta-package for rcutils (ros-rcutils) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rcutils-6.9.8-py3-none-any.whl",
+  "download_time": "2025-11-04T21:42:04.540686",
+  "package_url": "https://pypi.org/project/ros-kilted-rcutils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "email-manager",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Email manager",
   "author": "Carlos Pacheco",
   "license": "MIT",
   "home_page": "https://github.com/Kemok-Repos/email-manager",
-  "download_filename": "email_manager-0.0.5.tar.gz",
-  "download_time": "2025-11-04T21:21:03.841133",
+  "download_filename": "email_manager-0.0.6.tar.gz",
+  "download_time": "2025-11-04T21:41:59.864336",
   "package_url": "https://pypi.org/project/email-manager/"
 }

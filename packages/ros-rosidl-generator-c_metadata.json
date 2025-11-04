@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-generator-c",
+  "version": "4.9.5",
+  "summary": "Wheel for the rosidl_generator_c (ros-rosidl-generator-c) ROS 2 package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rosidl_generator_c-4.9.5-cp313-cp313-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T21:42:14.079615",
+  "package_url": "https://pypi.org/project/ros-rosidl-generator-c/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-core-runtime",
+  "version": "0.3.1",
+  "summary": "A core ROS package that provides runtime dependencies for packages defining ROS messages, simplifying interface development boilerplate.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rosidl_core_runtime-0.3.1-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T21:42:11.100639",
+  "package_url": "https://pypi.org/project/ros-rosidl-core-runtime/"
+}

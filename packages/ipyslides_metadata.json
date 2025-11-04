@@ -1,11 +1,11 @@
 {
   "name": "ipyslides",
-  "version": "6.1.7",
+  "version": "6.1.8",
   "summary": "Live rich content slides in jupyter notebook",
   "author": "Abdul Saboor",
   "license": "MIT",
   "home_page": "https://github.com/asaboor-gh/ipyslides",
-  "download_filename": "ipyslides-6.1.7.tar.gz",
-  "download_time": "2025-11-04T16:27:30.521624",
+  "download_filename": "ipyslides-6.1.8.tar.gz",
+  "download_time": "2025-11-04T21:42:00.453250",
   "package_url": "https://pypi.org/project/ipyslides/"
 }

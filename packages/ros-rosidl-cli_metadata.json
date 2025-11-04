@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-cli",
+  "version": "4.9.5",
+  "summary": "Command line tools for ROS interface generation.",
+  "author": "Michel Hidalgo",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ros2/rosidl/tree/master/rosidl_cli",
+  "download_filename": "ros_rosidl_cli-4.9.5-py3-none-any.whl",
+  "download_time": "2025-11-04T21:42:06.095304",
+  "package_url": "https://pypi.org/project/ros-rosidl-cli/"
+}

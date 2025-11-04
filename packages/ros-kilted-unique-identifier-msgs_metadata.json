@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-unique-identifier-msgs",
+  "version": "2.7.0",
+  "summary": "Meta-package for unique_identifier_msgs (ros-unique-identifier-msgs) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_unique_identifier_msgs-2.7.0-py3-none-any.whl",
+  "download_time": "2025-11-04T21:42:18.058552",
+  "package_url": "https://pypi.org/project/ros-kilted-unique-identifier-msgs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dcisionai-mcp-server",
-  "version": "3.1.0",
-  "summary": "DcisionAI MCP Server v3.1 - AI-Powered Optimization with DAME, HiGHS Solver, Wren Engine Integration for Customer Data, 90%+ Trust Scores & Business Interpretation",
+  "version": "3.1.1",
+  "summary": "DcisionAI MCP Server - AI-Powered Optimization with Intent Classification & Session Persistence",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcisionai_mcp_server-3.1.0.tar.gz",
-  "download_time": "2025-11-04T18:56:08.857040",
+  "download_filename": "dcisionai_mcp_server-3.1.1.tar.gz",
+  "download_time": "2025-11-04T21:41:58.197120",
   "package_url": "https://pypi.org/project/dcisionai-mcp-server/"
 }

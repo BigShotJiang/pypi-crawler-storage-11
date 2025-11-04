@@ -1,0 +1,11 @@
+{
+  "name": "ros-unique-identifier-msgs",
+  "version": "2.7.0",
+  "summary": "ROS 2 package providing standard messages for Universally Unique Identifiers (UUIDs).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_unique_identifier_msgs-2.7.0-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T21:42:07.760454",
+  "package_url": "https://pypi.org/project/ros-unique-identifier-msgs/"
+}
