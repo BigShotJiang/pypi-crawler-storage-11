@@ -1,0 +1,11 @@
+{
+  "name": "lunascope",
+  "version": "0.2.0",
+  "summary": "Sleep-EEG viewer and interface to Luna",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lunascope-0.2.0-py3-none-any.whl",
+  "download_time": "2025-11-04T16:27:38.276073",
+  "package_url": "https://pypi.org/project/lunascope/"
+}

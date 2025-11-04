@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-textcraft",
+  "version": "0.0.3",
+  "summary": "A Python package that converts text into blocky Minecraft-style ASCII art...",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minecraft_textcraft-0.0.3.tar.gz",
+  "download_time": "2025-11-04T16:27:26.908078",
+  "package_url": "https://pypi.org/project/minecraft-textcraft/"
+}

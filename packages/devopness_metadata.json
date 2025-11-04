@@ -1,0 +1,11 @@
+{
+  "name": "devopness",
+  "version": "2.1.4",
+  "summary": "Devopness API Python SDK - Painless essential DevOps to everyone",
+  "author": "Devopness (https://www.devopness.com)",
+  "license": null,
+  "home_page": "https://www.devopness.com",
+  "download_filename": "devopness-2.1.4.tar.gz",
+  "download_time": "2025-11-04T16:27:31.556549",
+  "package_url": "https://pypi.org/project/devopness/"
+}

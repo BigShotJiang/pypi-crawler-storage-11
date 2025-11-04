@@ -1,0 +1,11 @@
+{
+  "name": "celus-pycounter",
+  "version": "5.0.0",
+  "summary": "Project COUNTER/NISO SUSHI statistics",
+  "author": "Geoffrey Spear",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celus_pycounter-5.0.0.tar.gz",
+  "download_time": "2025-11-04T16:27:32.582377",
+  "package_url": "https://pypi.org/project/celus-pycounter/"
+}

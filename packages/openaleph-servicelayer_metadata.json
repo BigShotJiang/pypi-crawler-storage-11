@@ -1,0 +1,11 @@
+{
+  "name": "openaleph-servicelayer",
+  "version": "1.23.4",
+  "summary": "Basic remote service functions for openaleph components",
+  "author": "Data and Research Center, forked from OCCRP.org",
+  "license": "MIT",
+  "home_page": "http://github.com/alephdata/servicelayer",
+  "download_filename": "openaleph_servicelayer-1.23.4.tar.gz",
+  "download_time": "2025-11-04T16:27:57.600691",
+  "package_url": "https://pypi.org/project/openaleph-servicelayer/"
+}

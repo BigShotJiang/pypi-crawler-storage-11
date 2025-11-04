@@ -1,0 +1,11 @@
+{
+  "name": "xlms-tools",
+  "version": "1.0.9",
+  "summary": "xlms-tools is a set of command line tools to apply crosslinking mass spectrometry (XL-MS) data to protein structure models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlms_tools-1.0.9.tar.gz",
+  "download_time": "2025-11-04T16:27:49.784457",
+  "package_url": "https://pypi.org/project/xlms-tools/"
+}
