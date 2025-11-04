@@ -1,11 +1,11 @@
 {
   "name": "recce-nightly",
-  "version": "1.23.0.20251102",
+  "version": "1.23.0.20251104",
   "summary": "Environment diff tool for dbt",
   "author": "InfuseAI Dev Team",
   "license": null,
   "home_page": "https://github.com/InfuseAI/recce",
-  "download_filename": "recce_nightly-1.23.0.20251102.tar.gz",
-  "download_time": "2025-11-02T18:44:45.252605",
+  "download_filename": "recce_nightly-1.23.0.20251104.tar.gz",
+  "download_time": "2025-11-04T18:32:01.152690",
   "package_url": "https://pypi.org/project/recce-nightly/"
 }

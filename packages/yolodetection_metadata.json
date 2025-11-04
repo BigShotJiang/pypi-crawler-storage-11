@@ -1,0 +1,11 @@
+{
+  "name": "yolodetection",
+  "version": "1.0.12",
+  "summary": "Yolo + sahi toolkit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yolodetection-1.0.12.tar.gz",
+  "download_time": "2025-11-04T18:31:23.008175",
+  "package_url": "https://pypi.org/project/yolodetection/"
+}

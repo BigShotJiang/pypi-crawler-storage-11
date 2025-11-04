@@ -1,11 +1,11 @@
 {
   "name": "skyshelve",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Backend-agnostic persistent dictionary for Python with BadgerDB and SlateDB support",
   "author": "Skyshelve Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "skyshelve-0.2.0.tar.gz",
-  "download_time": "2025-11-03T23:39:38.302807",
+  "download_filename": "skyshelve-0.2.1.tar.gz",
+  "download_time": "2025-11-04T18:31:30.366184",
   "package_url": "https://pypi.org/project/skyshelve/"
 }

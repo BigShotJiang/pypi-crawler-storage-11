@@ -1,0 +1,11 @@
+{
+  "name": "realitydefender",
+  "version": "0.1.10",
+  "summary": "SDK for the Reality Defender deepfake detection API",
+  "author": "Reality Defender",
+  "license": null,
+  "home_page": null,
+  "download_filename": "realitydefender-0.1.10.tar.gz",
+  "download_time": "2025-11-04T18:31:57.006225",
+  "package_url": "https://pypi.org/project/realitydefender/"
+}

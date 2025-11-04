@@ -1,11 +1,11 @@
 {
   "name": "ethereal-sdk",
-  "version": "0.1.0b21.dev1",
+  "version": "0.1.0b21",
   "summary": "Python SDK for interacting with the Ethereal API",
   "author": "Meridian Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ethereal_sdk-0.1.0b21.dev1.tar.gz",
-  "download_time": "2025-11-03T23:20:01.691791",
+  "download_filename": "ethereal_sdk-0.1.0b21.tar.gz",
+  "download_time": "2025-11-04T18:32:00.082849",
   "package_url": "https://pypi.org/project/ethereal-sdk/"
 }

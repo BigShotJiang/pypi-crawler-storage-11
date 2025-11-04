@@ -1,11 +1,11 @@
 {
   "name": "nextmcp",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Production-grade MCP server toolkit with minimal boilerplate",
   "author": "NextMCP Contributors",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/KeshavVarad/NextMCP",
-  "download_filename": "nextmcp-0.1.0.tar.gz",
-  "download_time": "2025-11-03T21:53:09.297839",
+  "download_filename": "nextmcp-0.2.1.tar.gz",
+  "download_time": "2025-11-04T18:31:55.413692",
   "package_url": "https://pypi.org/project/nextmcp/"
 }

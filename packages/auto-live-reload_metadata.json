@@ -1,11 +1,11 @@
 {
   "name": "auto-live-reload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A Python library for live reloading scripts on file changes.",
   "author": "CrypterENC",
   "license": null,
   "home_page": "https://github.com/CrypterENC/auto-live-reload.git",
-  "download_filename": "auto_live_reload-1.0.1.tar.gz",
-  "download_time": "2025-11-04T17:53:21.946152",
+  "download_filename": "auto_live_reload-1.0.2.tar.gz",
+  "download_time": "2025-11-04T18:32:04.275405",
   "package_url": "https://pypi.org/project/auto-live-reload/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "how2-shell-assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "`how2` is a command-line tool Powered by Large Language Models (LLMs), it translates your natural language questions into executable shell commands.",
   "author": "Dan Higgins",
   "license": "MIT",
   "home_page": "https://github.com/DanHUMassMed/how2.git",
-  "download_filename": "how2_shell_assistant-0.1.0.tar.gz",
-  "download_time": "2025-11-04T14:22:32.289592",
+  "download_filename": "how2_shell_assistant-0.1.1.tar.gz",
+  "download_time": "2025-11-04T18:31:33.555689",
   "package_url": "https://pypi.org/project/how2-shell-assistant/"
 }

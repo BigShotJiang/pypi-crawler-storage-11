@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib.asciinema",
+  "version": "0.4.3",
+  "summary": "Embed asciinema casts in your Sphinx docs",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/divi255/sphinxcontrib.asciinema",
+  "download_filename": "sphinxcontrib_asciinema-0.4.3.tar.gz",
+  "download_time": "2025-11-04T18:31:23.521784",
+  "package_url": "https://pypi.org/project/sphinxcontrib.asciinema/"
+}
