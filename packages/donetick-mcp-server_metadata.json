@@ -1,0 +1,11 @@
+{
+  "name": "donetick-mcp-server",
+  "version": "0.2.4",
+  "summary": "MCP server for Donetick chores management API with JWT authentication and Full API support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "donetick_mcp_server-0.2.4.tar.gz",
+  "download_time": "2025-11-04T01:44:23.373141",
+  "package_url": "https://pypi.org/project/donetick-mcp-server/"
+}

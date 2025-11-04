@@ -1,0 +1,11 @@
+{
+  "name": "asf-tools",
+  "version": "0.8.4",
+  "summary": "Tools developed by ASF for working with SAR data",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "asf_tools-0.8.4.tar.gz",
+  "download_time": "2025-11-04T01:44:29.896483",
+  "package_url": "https://pypi.org/project/asf-tools/"
+}

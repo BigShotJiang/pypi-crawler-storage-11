@@ -1,11 +1,11 @@
 {
   "name": "pophealth-observatory",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Open-source population health & nutrition analytics toolkit (NHANES focus)",
   "author": "PopHealth Observatory Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pophealth_observatory-0.4.0.tar.gz",
-  "download_time": "2025-11-03T11:52:02.851095",
+  "download_filename": "pophealth_observatory-0.4.1.tar.gz",
+  "download_time": "2025-11-04T01:44:21.828332",
   "package_url": "https://pypi.org/project/pophealth-observatory/"
 }

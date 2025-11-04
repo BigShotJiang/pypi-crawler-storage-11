@@ -1,11 +1,11 @@
 {
   "name": "strkit-rust-ext",
-  "version": "0.24.1",
+  "version": "0.24.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strkit_rust_ext-0.24.1.tar.gz",
-  "download_time": "2025-11-01T14:17:05.147458",
+  "download_filename": "strkit_rust_ext-0.24.2.tar.gz",
+  "download_time": "2025-11-04T01:44:07.237013",
   "package_url": "https://pypi.org/project/strkit-rust-ext/"
 }

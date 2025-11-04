@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-vwidref",
-  "version": "1.0.20",
+  "version": "1.0.22",
   "summary": "MkDocs plugin to link by front-matter ID with status/progress/title flags ([[id:s|p|t:...]]).",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mkdocs_vwidref-1.0.20.tar.gz",
-  "download_time": "2025-11-03T08:30:00.762223",
+  "download_filename": "mkdocs_vwidref-1.0.22.tar.gz",
+  "download_time": "2025-11-04T01:44:18.187357",
   "package_url": "https://pypi.org/project/mkdocs-vwidref/"
 }
