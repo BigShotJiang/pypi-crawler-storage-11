@@ -1,11 +1,11 @@
 {
   "name": "appian-locust",
-  "version": "2.27.2",
+  "version": "2.27.3",
   "summary": "Tools and functions to make testing Appian with Locust easier",
   "author": "Appian Performance & Reliability Engineering Squad",
   "license": "Apache 2.0",
   "home_page": "https://gitlab.com/appian-oss/appian-locust",
-  "download_filename": "appian_locust-2.27.2.tar.gz",
-  "download_time": "2025-11-04T16:27:28.973038",
+  "download_filename": "appian_locust-2.27.3.tar.gz",
+  "download_time": "2025-11-04T20:45:20.459110",
   "package_url": "https://pypi.org/project/appian-locust/"
 }

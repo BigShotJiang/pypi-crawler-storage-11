@@ -1,0 +1,11 @@
+{
+  "name": "punkweb-insight",
+  "version": "0.1.0",
+  "summary": "Django application that provides visitor and page view tracking and an analytics dashboard for your Django website.",
+  "author": "Punkweb",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Punkweb/punkweb-insight",
+  "download_filename": "punkweb_insight-0.1.0.tar.gz",
+  "download_time": "2025-11-04T20:45:05.710940",
+  "package_url": "https://pypi.org/project/punkweb-insight/"
+}

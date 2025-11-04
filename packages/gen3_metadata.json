@@ -1,0 +1,11 @@
+{
+  "name": "gen3",
+  "version": "4.27.5",
+  "summary": "Gen3 CLI and Python SDK",
+  "author": "Center for Translational Data Science at the University of Chicago",
+  "license": "Apache-2.0",
+  "home_page": "https://gen3.org/",
+  "download_filename": "gen3-4.27.5.tar.gz",
+  "download_time": "2025-11-04T20:45:15.391134",
+  "package_url": "https://pypi.org/project/gen3/"
+}

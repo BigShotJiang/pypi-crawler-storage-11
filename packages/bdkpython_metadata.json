@@ -1,0 +1,11 @@
+{
+  "name": "bdkpython",
+  "version": "2.2.0",
+  "summary": "The Python language bindings for the Bitcoin Development Kit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bdkpython-2.2.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-04T20:45:01.943049",
+  "package_url": "https://pypi.org/project/bdkpython/"
+}
