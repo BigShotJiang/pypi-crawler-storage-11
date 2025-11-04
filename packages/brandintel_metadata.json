@@ -1,11 +1,11 @@
 {
   "name": "brandintel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Identify brand competitors and summaries using Gemini AI.",
   "author": "Vivek Gupta",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brandintel-0.1.1.tar.gz",
-  "download_time": "2025-11-04T11:41:16.455052",
+  "download_filename": "brandintel-0.1.2.tar.gz",
+  "download_time": "2025-11-04T11:52:22.941200",
   "package_url": "https://pypi.org/project/brandintel/"
 }

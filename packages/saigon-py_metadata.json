@@ -1,0 +1,11 @@
+{
+  "name": "saigon-py",
+  "version": "0.13.1",
+  "summary": "Common components to build cloud backends",
+  "author": "abastidian@gmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "saigon_py-0.13.1.tar.gz",
+  "download_time": "2025-11-04T11:52:13.190830",
+  "package_url": "https://pypi.org/project/saigon-py/"
+}

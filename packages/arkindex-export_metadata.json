@@ -1,0 +1,11 @@
+{
+  "name": "arkindex-export",
+  "version": "0.2.1",
+  "summary": "Easily build queries for Arkindex sqlite exports",
+  "author": "Teklia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arkindex_export-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-04T11:52:13.701034",
+  "package_url": "https://pypi.org/project/arkindex-export/"
+}
