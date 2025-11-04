@@ -1,0 +1,11 @@
+{
+  "name": "langchain-weaviate",
+  "version": "0.0.6",
+  "summary": "An integration package connecting Weaviate and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_weaviate-0.0.6.tar.gz",
+  "download_time": "2025-11-04T17:17:59.631926",
+  "package_url": "https://pypi.org/project/langchain-weaviate/"
+}

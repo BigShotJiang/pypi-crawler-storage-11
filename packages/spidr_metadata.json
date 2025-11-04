@@ -1,0 +1,11 @@
+{
+  "name": "spidr",
+  "version": "0.1.0",
+  "summary": "Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision",
+  "author": "Fundamental AI Research (FAIR) at Meta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spidr-0.1.0.tar.gz",
+  "download_time": "2025-11-04T17:17:54.470070",
+  "package_url": "https://pypi.org/project/spidr/"
+}

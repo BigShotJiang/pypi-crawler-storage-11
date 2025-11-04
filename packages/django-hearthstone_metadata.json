@@ -1,0 +1,11 @@
+{
+  "name": "django-hearthstone",
+  "version": "1.6.0",
+  "summary": "Hearthstone file models for Django",
+  "author": "Jerome Leclanche",
+  "license": null,
+  "home_page": "https://github.com/HearthSim/django-hearthstone/",
+  "download_filename": "django_hearthstone-1.6.0.tar.gz",
+  "download_time": "2025-11-04T17:18:20.091178",
+  "package_url": "https://pypi.org/project/django-hearthstone/"
+}

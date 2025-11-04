@@ -1,0 +1,11 @@
+{
+  "name": "lnmarkets-sdk",
+  "version": "0.0.2",
+  "summary": "LN Markets API Python SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lnmarkets_sdk-0.0.2.tar.gz",
+  "download_time": "2025-11-04T17:18:24.211094",
+  "package_url": "https://pypi.org/project/lnmarkets-sdk/"
+}

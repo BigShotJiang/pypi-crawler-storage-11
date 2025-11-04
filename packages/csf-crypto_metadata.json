@@ -1,11 +1,11 @@
 {
   "name": "csf-crypto",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "Post-quantum cryptographic framework with fractal encoding and semantic keys - resistant to quantum attacks",
   "author": "Jeremy Noverraz (based on an idea by Ivàn Àvalos AND JCZD (engrenage.ch))",
   "license": "MIT",
   "home_page": "https://github.com/iyotee/csf",
-  "download_filename": "csf_crypto-1.0.14.tar.gz",
-  "download_time": "2025-11-04T16:50:49.835844",
+  "download_filename": "csf_crypto-1.0.15.tar.gz",
+  "download_time": "2025-11-04T17:18:14.814834",
   "package_url": "https://pypi.org/project/csf-crypto/"
 }
