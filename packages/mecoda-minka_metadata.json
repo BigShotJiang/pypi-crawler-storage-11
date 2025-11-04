@@ -1,0 +1,11 @@
+{
+  "name": "mecoda-minka",
+  "version": "1.9.5",
+  "summary": "High-performance library to download information using Minka API with optimized DataFrame processing.",
+  "author": "Ana Alvarez",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/pynomaly/mecoda-minka",
+  "download_filename": "mecoda_minka-1.9.5.tar.gz",
+  "download_time": "2025-11-04T11:41:04.377265",
+  "package_url": "https://pypi.org/project/mecoda-minka/"
+}
