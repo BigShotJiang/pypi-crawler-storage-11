@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ads1x15",
+  "version": "3.0.2",
+  "summary": "CircuitPython library for controlling an ADS1x15 ADC.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ads1x15-3.0.2.tar.gz",
+  "download_time": "2025-11-04T20:25:11.443729",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ads1x15/"
+}

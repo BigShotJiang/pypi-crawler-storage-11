@@ -1,0 +1,11 @@
+{
+  "name": "rai-mldev",
+  "version": "1.0.0",
+  "summary": "A Streamlit-based ML model development guide promoting responsible AI",
+  "author": "Richard Wheeler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rai_mldev-1.0.0.tar.gz",
+  "download_time": "2025-11-04T20:25:20.830749",
+  "package_url": "https://pypi.org/project/rai-mldev/"
+}

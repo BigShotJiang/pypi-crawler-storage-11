@@ -1,0 +1,11 @@
+{
+  "name": "heritage",
+  "version": "0.1.2",
+  "summary": "Python Interface to The Sanskrit Heritage Site",
+  "author": "Hrishikesh Terdalkar",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/hrishikeshrt/heritage",
+  "download_filename": "heritage-0.1.2.tar.gz",
+  "download_time": "2025-11-04T20:25:02.103204",
+  "package_url": "https://pypi.org/project/heritage/"
+}

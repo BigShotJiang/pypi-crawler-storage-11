@@ -1,11 +1,11 @@
 {
   "name": "leaf-framework",
-  "version": "0.1.8.0",
+  "version": "0.1.8.11",
   "summary": "LabEquipment Adapter Framework (LEAF)",
   "author": "Matthew Crowther",
   "license": "Apache-2.0",
   "home_page": "https://gitlab.com/LabEquipmentAdapterFramework/leaf",
-  "download_filename": "leaf_framework-0.1.8.0.tar.gz",
-  "download_time": "2025-11-03T14:53:58.366510",
+  "download_filename": "leaf_framework-0.1.8.11.tar.gz",
+  "download_time": "2025-11-04T20:24:49.679252",
   "package_url": "https://pypi.org/project/leaf-framework/"
 }

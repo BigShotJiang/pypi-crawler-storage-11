@@ -1,0 +1,11 @@
+{
+  "name": "python-the-west",
+  "version": "0.1.0",
+  "summary": "Interact with the browser game 'The west' programatically using http requests.",
+  "author": "MariusSilviuHriscu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_the_west-0.1.0.tar.gz",
+  "download_time": "2025-11-04T20:25:07.800168",
+  "package_url": "https://pypi.org/project/python-the-west/"
+}

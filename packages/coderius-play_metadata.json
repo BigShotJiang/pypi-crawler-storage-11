@@ -1,0 +1,11 @@
+{
+  "name": "coderius-play",
+  "version": "3.0.0",
+  "summary": "The easiest way to make games and media projects in Python.",
+  "author": "koen1711",
+  "license": "MIT",
+  "home_page": "https://github.com/Coderius-Education/play",
+  "download_filename": "coderius_play-3.0.0.tar.gz",
+  "download_time": "2025-11-04T20:24:48.135347",
+  "package_url": "https://pypi.org/project/coderius-play/"
+}
