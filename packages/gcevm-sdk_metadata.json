@@ -1,0 +1,11 @@
+{
+  "name": "gcevm-sdk",
+  "version": "0.0.5",
+  "summary": "Soda SDK - Cryptographic functions for Soda Labs blockchain",
+  "author": "Soda Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/soda-mpc/soda-sdk",
+  "download_filename": "gcevm_sdk-0.0.5.tar.gz",
+  "download_time": "2025-11-04T15:24:26.593977",
+  "package_url": "https://pypi.org/project/gcevm-sdk/"
+}

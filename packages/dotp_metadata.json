@@ -1,11 +1,11 @@
 {
   "name": "dotp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Dank One Time Password - CLI and TUI TOTP/Authenticator storage",
   "author": "Bruno Rocha",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "dotp-0.1.3.tar.gz",
-  "download_time": "2025-11-04T10:26:50.014680",
+  "download_filename": "dotp-0.1.4.tar.gz",
+  "download_time": "2025-11-04T15:24:56.730386",
   "package_url": "https://pypi.org/project/dotp/"
 }

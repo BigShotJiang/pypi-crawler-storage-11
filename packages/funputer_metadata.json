@@ -1,11 +1,11 @@
 {
   "name": "funputer",
-  "version": "1.6.0",
-  "summary": "Intelligent imputation analysis with automatic data validation, metadata inference, and percentile-based outlier-resistant ranges",
+  "version": "1.7.0",
+  "summary": "Intelligent imputation analysis with automatic data validation, metadata inference, percentile-based ranges, and frequency-based categorical filtering",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "funputer-1.6.0.tar.gz",
-  "download_time": "2025-11-03T08:30:32.668963",
+  "download_filename": "funputer-1.7.0.tar.gz",
+  "download_time": "2025-11-04T15:24:34.118042",
   "package_url": "https://pypi.org/project/funputer/"
 }

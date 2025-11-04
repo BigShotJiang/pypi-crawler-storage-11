@@ -1,0 +1,11 @@
+{
+  "name": "gha-workflow-linter",
+  "version": "0.1.9",
+  "summary": "GitHub Actions workflow linter for validating action and workflow calls",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gha_workflow_linter-0.1.9.tar.gz",
+  "download_time": "2025-11-04T15:24:19.655657",
+  "package_url": "https://pypi.org/project/gha-workflow-linter/"
+}

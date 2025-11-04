@@ -1,0 +1,11 @@
+{
+  "name": "py-qvalue",
+  "version": "0.1.1",
+  "summary": "A Python package providing ports of statistical methods originally implemented in R.",
+  "author": "Kynon J.M. Benjamin",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/heart-gen/py-qvalue",
+  "download_filename": "py_qvalue-0.1.1.tar.gz",
+  "download_time": "2025-11-04T15:25:01.437170",
+  "package_url": "https://pypi.org/project/py-qvalue/"
+}

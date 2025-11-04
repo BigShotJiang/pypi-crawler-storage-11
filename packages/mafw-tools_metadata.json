@@ -1,11 +1,11 @@
 {
   "name": "mafw-tools",
-  "version": "1.0.0rc4",
+  "version": "1.0.0rc5",
   "summary": "A set of commonly used tools to be used with MAFw and others",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mafw_tools-1.0.0rc4.tar.gz",
-  "download_time": "2025-11-04T14:47:28.347317",
+  "download_filename": "mafw_tools-1.0.0rc5.tar.gz",
+  "download_time": "2025-11-04T15:24:54.122315",
   "package_url": "https://pypi.org/project/mafw-tools/"
 }

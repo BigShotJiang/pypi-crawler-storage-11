@@ -1,0 +1,11 @@
+{
+  "name": "repl-toolkit",
+  "version": "1.2.0",
+  "summary": "A Python toolkit for building interactive REPL and headless interfaces with action support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repl_toolkit-1.2.0.tar.gz",
+  "download_time": "2025-11-04T15:24:37.266200",
+  "package_url": "https://pypi.org/project/repl-toolkit/"
+}

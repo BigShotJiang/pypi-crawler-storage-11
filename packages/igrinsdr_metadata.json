@@ -1,0 +1,11 @@
+{
+  "name": "igrinsdr",
+  "version": "0.1.1",
+  "summary": "IGRINS pipeline for DRAGONS",
+  "author": "Jae-Joon Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "igrinsdr-0.1.1-py2.py3-none-any.whl",
+  "download_time": "2025-11-04T15:24:47.349814",
+  "package_url": "https://pypi.org/project/igrinsdr/"
+}

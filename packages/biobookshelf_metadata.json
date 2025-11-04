@@ -1,0 +1,11 @@
+{
+  "name": "biobookshelf",
+  "version": "0.3.2",
+  "summary": "A collection of python scripts and functions for exploratory analysis of bioinformatic data in Python",
+  "author": "Hyunsu An",
+  "license": "GPLv3",
+  "home_page": "https://github.com/ahs2202/biobookshelf",
+  "download_filename": "biobookshelf-0.3.2.tar.gz",
+  "download_time": "2025-11-04T15:24:23.861469",
+  "package_url": "https://pypi.org/project/biobookshelf/"
+}
