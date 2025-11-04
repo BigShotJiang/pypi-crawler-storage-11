@@ -1,0 +1,11 @@
+{
+  "name": "navani",
+  "version": "0.1.13",
+  "summary": "Package for processing and plotting echem data from cyclers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "navani-0.1.13.tar.gz",
+  "download_time": "2025-11-04T09:56:37.116060",
+  "package_url": "https://pypi.org/project/navani/"
+}

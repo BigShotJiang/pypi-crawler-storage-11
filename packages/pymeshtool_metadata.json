@@ -1,0 +1,11 @@
+{
+  "name": "pymeshtool",
+  "version": "1.0.0",
+  "summary": "Python3 bindings for MeshTool.",
+  "author": "Matthias A.F. Gsell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymeshtool-1.0.0-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2025-11-04T09:56:35.540575",
+  "package_url": "https://pypi.org/project/pymeshtool/"
+}

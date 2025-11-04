@@ -1,11 +1,11 @@
 {
   "name": "django-ixp-tracker",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Library to retrieve and manipulate data about IXPs",
   "author": "Internet Society",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "django_ixp_tracker-1.3.1.tar.gz",
-  "download_time": "2025-11-03T10:25:34.863189",
+  "download_filename": "django_ixp_tracker-1.3.2.tar.gz",
+  "download_time": "2025-11-04T09:56:35.014423",
   "package_url": "https://pypi.org/project/django-ixp-tracker/"
 }

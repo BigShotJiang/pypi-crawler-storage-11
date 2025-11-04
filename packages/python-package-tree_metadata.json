@@ -1,0 +1,11 @@
+{
+  "name": "python-package-tree",
+  "version": "0.0.2",
+  "summary": "Tree-like display directories, files, functions and classes of a python project",
+  "author": null,
+  "license": "GPLv3+",
+  "home_page": null,
+  "download_filename": "python_package_tree-0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-04T09:56:33.964868",
+  "package_url": "https://pypi.org/project/python-package-tree/"
+}

@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T09:45:58.906188
-- **Total Packages**: 93
-- **Total Size**: 46.74 MB
+- **Download Time**: 2025-11-04T09:57:20.464996
+- **Total Packages**: 92
+- **Total Size**: 16.8 MB
 
 ## Packages List
+- lynxkite-app
+- kelp-coverage
+- py-hpl-logger
+- csf-crypto
+- osism
+- python-package-tree
+- bc-stark-sdk
+- django-ixp-tracker
+- pymeshtool
+- pybenjarvis
+- astroconst
+- navani
+- lynxkite-core
+- vibego
+- scriptman
+- aa-fleetfinder
+- apify
+- inference-python-sdk
+- pygpsclient
+- fastmongo
+- mseq2latex
+- imgctl
+- mpt-api-client
+- imgalz
+- auth
+- CheckmarxPythonSDK
+- tacoreader
+- rara-meta-extractor
+- meshcore-cli
+- IBB-Helper
+- djpress
+- euroncap-rating-2026
+- pm4pyminimal
+- pm4py
+- lzdb2
+- pywebtask
+- qubitserving
+- invenio-queues
 - reportomatic
 - sinq
 - dsis-client
@@ -27,8 +65,6 @@
 - close-mongo-ops-manager
 - codegrade
 - AI2GIS
-- fastmongo
-- py-hpl-logger
 - simstring-rust
 - code-ninja
 - metabolights-utils
@@ -62,40 +98,3 @@
 - namecheap-python
 - scrapster
 - myliu-ragflow-mcp-server-continue
-- sentinel-mas
-- chainbench
-- zapf
-- dcor-control
-- cota
-- spotpython
-- yemot-flow
-- yayawallet-python-sdk
-- adif-parser
-- kumo-api
-- pycvt
-- cardiac-geometries
-- entsoe-apy
-- ixbrlparse
-- ckanext-dcor-theme
-- rockpool
-- matplobbot-shared
-- meter-lib
-- cdd-claude
-- better-nested-serializer
-- npyproj
-- gohutool-pyboot-dataflow
-- vibego
-- ckanext-dc-view
-- pyDINEOF
-- vigorvision
-- mingli-mcp
-- tornadopy
-- wgdi
-- scalebox-sdk
-- lazyregistry
-- collagraph-lsp
-- nvidia-nat-llama-index
-- nlannuzel.sgrain
-- nvidia-nat-s3
-- stichotrope
-- pyvista4dolfinx

@@ -1,0 +1,11 @@
+{
+  "name": "pybenjarvis",
+  "version": "3.0.1",
+  "summary": "PyBEN jarvis is a getter for Akamai auto_etp local repo. Also adds the 'jarvis' module to site-packages",
+  "author": "Ben Moskovitch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybenjarvis-3.0.1.tar.gz",
+  "download_time": "2025-11-04T09:56:36.057999",
+  "package_url": "https://pypi.org/project/pybenjarvis/"
+}
