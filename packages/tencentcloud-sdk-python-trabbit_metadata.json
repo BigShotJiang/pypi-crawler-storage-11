@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-trabbit",
+  "version": "3.0.1482",
+  "summary": "Tencent Cloud Trabbit SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_trabbit-3.0.1482.tar.gz",
+  "download_time": "2025-11-04T21:21:08.259636",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-trabbit/"
+}

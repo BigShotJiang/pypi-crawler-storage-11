@@ -1,0 +1,11 @@
+{
+  "name": "praisonai-svc",
+  "version": "1.0.0",
+  "summary": "A unified framework that turns any PraisonAI Python package into a web service on Azure",
+  "author": "MervinPraison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "praisonai_svc-1.0.0.tar.gz",
+  "download_time": "2025-11-04T21:21:35.355155",
+  "package_url": "https://pypi.org/project/praisonai-svc/"
+}

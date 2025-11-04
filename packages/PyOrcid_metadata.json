@@ -1,0 +1,11 @@
+{
+  "name": "PyOrcid",
+  "version": "1.2.1",
+  "summary": "API client for ORCID API",
+  "author": "Sriram Seelamneni",
+  "license": "MIT",
+  "home_page": "https://github.com/sri0606/PyOrcid",
+  "download_filename": "pyorcid-1.2.1.tar.gz",
+  "download_time": "2025-11-04T21:20:58.761395",
+  "package_url": "https://pypi.org/project/PyOrcid/"
+}

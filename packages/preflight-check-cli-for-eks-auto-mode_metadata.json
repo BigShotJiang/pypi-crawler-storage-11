@@ -1,11 +1,11 @@
 {
   "name": "preflight-check-cli-for-eks-auto-mode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Preflight Check CLI for EKS Auto Mode - assess cluster readiness for migration",
   "author": "EKS Auto Mode Preflight Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "preflight_check_cli_for_eks_auto_mode-0.1.0.tar.gz",
-  "download_time": "2025-11-04T20:45:06.353187",
+  "download_filename": "preflight_check_cli_for_eks_auto_mode-0.1.1.tar.gz",
+  "download_time": "2025-11-04T21:21:13.817161",
   "package_url": "https://pypi.org/project/preflight-check-cli-for-eks-auto-mode/"
 }

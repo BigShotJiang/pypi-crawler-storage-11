@@ -1,0 +1,11 @@
+{
+  "name": "mystiks",
+  "version": "1.0.6",
+  "summary": "A Python-based, Rust-core secret searching tool ",
+  "author": "Dennis Carlson",
+  "license": "MIT",
+  "home_page": "https://github.com/Abacus-Group-RTO/Mystiks",
+  "download_filename": "mystiks-1.0.6.tar.gz",
+  "download_time": "2025-11-04T21:20:51.094531",
+  "package_url": "https://pypi.org/project/mystiks/"
+}

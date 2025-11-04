@@ -1,0 +1,11 @@
+{
+  "name": "fairseq2",
+  "version": "0.7.0",
+  "summary": "FAIR Sequence Modeling Toolkit",
+  "author": "Fundamental AI Research (FAIR) at Meta",
+  "license": "MIT",
+  "home_page": "https://github.com/facebookresearch/fairseq2",
+  "download_filename": "fairseq2-0.7.0-py3-none-any.whl",
+  "download_time": "2025-11-04T21:21:10.104418",
+  "package_url": "https://pypi.org/project/fairseq2/"
+}

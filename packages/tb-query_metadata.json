@@ -1,0 +1,11 @@
+{
+  "name": "tb-query",
+  "version": "2025.11.5",
+  "summary": "A CLI tool and MCP (Model Context Protocol) server for querying and analyzing TensorBoard event files without requiring a running TensorBoard server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tb_query-2025.11.5.tar.gz",
+  "download_time": "2025-11-04T21:20:42.574258",
+  "package_url": "https://pypi.org/project/tb-query/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FlowUtils",
+  "version": "1.2.2",
+  "summary": "Flow Cytometry Standard Utilities",
+  "author": "Scott White",
+  "license": "BSD",
+  "home_page": "https://github.com/whitews/flowutils",
+  "download_filename": "flowutils-1.2.2.tar.gz",
+  "download_time": "2025-11-04T21:21:21.727791",
+  "package_url": "https://pypi.org/project/FlowUtils/"
+}

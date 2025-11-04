@@ -1,0 +1,11 @@
+{
+  "name": "epic-sql",
+  "version": "1.1.6",
+  "summary": "Conveniences for working with SQL",
+  "author": "Yonatan Perry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epic_sql-1.1.6.tar.gz",
+  "download_time": "2025-11-04T21:21:05.000353",
+  "package_url": "https://pypi.org/project/epic-sql/"
+}
