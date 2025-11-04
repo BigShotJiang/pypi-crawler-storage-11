@@ -1,0 +1,11 @@
+{
+  "name": "minchin.pelican.plugins.summary",
+  "version": "1.3.1",
+  "summary": "Support Wikilinks when generating Pelican sites",
+  "author": null,
+  "license": "GNU Affero v3",
+  "home_page": null,
+  "download_filename": "minchin_pelican_plugins_summary-1.3.1.tar.gz",
+  "download_time": "2025-11-04T05:23:20.632536",
+  "package_url": "https://pypi.org/project/minchin.pelican.plugins.summary/"
+}

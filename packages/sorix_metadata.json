@@ -1,0 +1,11 @@
+{
+  "name": "sorix",
+  "version": "1.0.0",
+  "summary": "A minimalistic framework for building neural networks in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sorix-1.0.0.tar.gz",
+  "download_time": "2025-11-04T05:23:09.067751",
+  "package_url": "https://pypi.org/project/sorix/"
+}

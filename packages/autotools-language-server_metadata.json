@@ -1,0 +1,11 @@
+{
+  "name": "autotools-language-server",
+  "version": "0.0.23",
+  "summary": "Language server for makefile and configure.ac",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "autotools_language_server-0.0.23.tar.gz",
+  "download_time": "2025-11-04T05:22:49.940876",
+  "package_url": "https://pypi.org/project/autotools-language-server/"
+}

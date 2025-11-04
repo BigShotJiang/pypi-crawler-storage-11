@@ -1,0 +1,11 @@
+{
+  "name": "django-codemod",
+  "version": "2.4.3",
+  "summary": "A command line tool to automatically fix Django deprecations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_codemod-2.4.3.tar.gz",
+  "download_time": "2025-11-04T05:23:20.075938",
+  "package_url": "https://pypi.org/project/django-codemod/"
+}

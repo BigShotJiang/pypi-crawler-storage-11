@@ -1,11 +1,11 @@
 {
   "name": "repsim",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Measures of representational similarity across models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "repsim-0.1.1.tar.gz",
-  "download_time": "2025-11-02T23:19:01.341772",
+  "download_filename": "repsim-0.1.4.tar.gz",
+  "download_time": "2025-11-04T05:22:59.796249",
   "package_url": "https://pypi.org/project/repsim/"
 }

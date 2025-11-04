@@ -1,0 +1,11 @@
+{
+  "name": "blazemetrics",
+  "version": "0.1.6",
+  "summary": "A high-performance NLP evaluation metrics library with a Rust core.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/2796gaur/blazemetrics",
+  "download_filename": "blazemetrics-0.1.6.tar.gz",
+  "download_time": "2025-11-04T05:22:58.138786",
+  "package_url": "https://pypi.org/project/blazemetrics/"
+}

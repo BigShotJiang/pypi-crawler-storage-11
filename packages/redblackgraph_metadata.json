@@ -1,0 +1,11 @@
+{
+  "name": "redblackgraph",
+  "version": "0.6.0",
+  "summary": "Red Black Graph - AVOS algebra for graph computation",
+  "author": null,
+  "license": "AGPLv3+",
+  "home_page": null,
+  "download_filename": "redblackgraph-0.6.0.tar.gz",
+  "download_time": "2025-11-04T05:23:00.359991",
+  "package_url": "https://pypi.org/project/redblackgraph/"
+}

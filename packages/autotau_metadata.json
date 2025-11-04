@@ -1,11 +1,11 @@
 {
   "name": "autotau",
-  "version": "0.3.0",
-  "summary": "Automated tau fitting with flexible parallelization and global optimization (200-1500x speedup)",
+  "version": "0.3.1",
+  "summary": "Automated time constant (tau) fitting tool with parallel processing support",
   "author": "Donghao Li",
   "license": null,
   "home_page": "https://github.com/Durian-Leader/autotau",
-  "download_filename": "autotau-0.3.0.tar.gz",
-  "download_time": "2025-11-03T15:55:19.636123",
+  "download_filename": "autotau-0.3.1.tar.gz",
+  "download_time": "2025-11-04T05:23:11.774543",
   "package_url": "https://pypi.org/project/autotau/"
 }

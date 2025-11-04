@@ -1,11 +1,11 @@
 {
   "name": "glide-mcp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "mcp server that tries to save you from git troubles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glide_mcp-0.1.6.tar.gz",
-  "download_time": "2025-11-04T04:57:06.188876",
+  "download_filename": "glide_mcp-0.1.7.tar.gz",
+  "download_time": "2025-11-04T05:23:01.453380",
   "package_url": "https://pypi.org/project/glide-mcp/"
 }
