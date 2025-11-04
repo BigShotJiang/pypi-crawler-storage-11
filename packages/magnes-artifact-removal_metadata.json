@@ -1,0 +1,11 @@
+{
+  "name": "magnes-artifact-removal",
+  "version": "0.1.0",
+  "summary": "Magnes utility for the removal of artifacts from timeseries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magnes_artifact_removal-0.1.0.tar.gz",
+  "download_time": "2025-11-04T13:35:45.843535",
+  "package_url": "https://pypi.org/project/magnes-artifact-removal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apicurioregistrysdk",
+  "version": "3.1.2",
+  "summary": null,
+  "author": "Andrea Peruffo",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/apicurio/apicurio-registry",
+  "download_filename": "apicurioregistrysdk-3.1.2.tar.gz",
+  "download_time": "2025-11-04T13:35:27.734115",
+  "package_url": "https://pypi.org/project/apicurioregistrysdk/"
+}

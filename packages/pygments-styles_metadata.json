@@ -1,0 +1,11 @@
+{
+  "name": "pygments-styles",
+  "version": "0.3.0",
+  "summary": "A curated collection of Pygments styles based on VS Code themes.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pygments_styles-0.3.0.tar.gz",
+  "download_time": "2025-11-04T13:36:02.281161",
+  "package_url": "https://pypi.org/project/pygments-styles/"
+}

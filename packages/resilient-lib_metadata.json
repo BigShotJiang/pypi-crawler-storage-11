@@ -1,0 +1,11 @@
+{
+  "name": "resilient-lib",
+  "version": "51.0.7.1.15755",
+  "summary": "Python module with library calls which facilitate the development of Apps for IBM SOAR",
+  "author": "IBM SOAR",
+  "license": "MIT",
+  "home_page": "https://github.com/ibmresilient/resilient-python-api/tree/main/resilient-lib",
+  "download_filename": "resilient_lib-51.0.7.1.15755.tar.gz",
+  "download_time": "2025-11-04T13:35:56.504432",
+  "package_url": "https://pypi.org/project/resilient-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "intezer-sdk",
+  "version": "1.24.1",
+  "summary": "Intezer Analyze SDK",
+  "author": "Intezer Labs ltd.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/intezer/analyze-python-sdk",
+  "download_filename": "intezer_sdk-1.24.1.tar.gz",
+  "download_time": "2025-11-04T13:35:26.203225",
+  "package_url": "https://pypi.org/project/intezer-sdk/"
+}

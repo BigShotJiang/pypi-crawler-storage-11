@@ -1,0 +1,11 @@
+{
+  "name": "pytest-resilient-circuits",
+  "version": "51.0.7.1.15755",
+  "summary": "Resilient Circuits fixtures for PyTest",
+  "author": "IBM SOAR",
+  "license": "MIT",
+  "home_page": "https://github.com/ibmresilient/resilient-python-api/tree/main/resilient-resilient-circuits",
+  "download_filename": "pytest_resilient_circuits-51.0.7.1.15755.tar.gz",
+  "download_time": "2025-11-04T13:35:53.936220",
+  "package_url": "https://pypi.org/project/pytest-resilient-circuits/"
+}

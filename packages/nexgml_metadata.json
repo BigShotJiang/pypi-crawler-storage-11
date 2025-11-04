@@ -1,11 +1,11 @@
 {
   "name": "nexgml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "NexGML — Next Generation Machine Learning (educational ML utilities)",
   "author": "Nexo-kun",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexgml-0.1.1.tar.gz",
-  "download_time": "2025-11-04T07:41:39.665528",
+  "download_filename": "nexgml-0.1.2.tar.gz",
+  "download_time": "2025-11-04T13:35:42.155163",
   "package_url": "https://pypi.org/project/nexgml/"
 }

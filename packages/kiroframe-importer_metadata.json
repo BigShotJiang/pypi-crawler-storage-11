@@ -1,0 +1,11 @@
+{
+  "name": "kiroframe-importer",
+  "version": "0.0.10",
+  "summary": "ML profiling importing tool for Kiroframe",
+  "author": "Hystax",
+  "license": "\"Apache License 2.0\"",
+  "home_page": "https://my.kiroframe.com/",
+  "download_filename": "kiroframe_importer-0.0.10.tar.gz",
+  "download_time": "2025-11-04T13:35:44.810080",
+  "package_url": "https://pypi.org/project/kiroframe-importer/"
+}

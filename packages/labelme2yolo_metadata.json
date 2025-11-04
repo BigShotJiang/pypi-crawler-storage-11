@@ -1,0 +1,11 @@
+{
+  "name": "labelme2yolo",
+  "version": "0.3.1",
+  "summary": "This script converts the JSON format output by LabelMe to the text format required by YOLO serirs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "labelme2yolo-0.3.1.tar.gz",
+  "download_time": "2025-11-04T13:35:41.643536",
+  "package_url": "https://pypi.org/project/labelme2yolo/"
+}
