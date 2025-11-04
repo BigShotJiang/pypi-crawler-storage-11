@@ -1,0 +1,11 @@
+{
+  "name": "dipdup",
+  "version": "8.5.1",
+  "summary": "Modular framework for creating selective indexers and featureful backends for dapps",
+  "author": "Lev Gorodetskii, Vladimir Bobrikov, Michael Zaikin, Igor Sereda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dipdup-8.5.1.tar.gz",
+  "download_time": "2025-11-04T06:58:23.808409",
+  "package_url": "https://pypi.org/project/dipdup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rtmdet",
+  "version": "0.3.0",
+  "summary": "RTMDet Pytorch Implementation",
+  "author": "Alessio Arcara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtmdet-0.3.0.tar.gz",
+  "download_time": "2025-11-04T06:58:29.055101",
+  "package_url": "https://pypi.org/project/rtmdet/"
+}

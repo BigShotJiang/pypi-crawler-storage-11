@@ -1,0 +1,11 @@
+{
+  "name": "etherscan-api-v2",
+  "version": "0.1",
+  "summary": "Etherscan v2 api client",
+  "author": "Han Zhichao",
+  "license": "MIT license",
+  "home_page": "https://github.com/hanzhichao/etherscan-api",
+  "download_filename": "etherscan_api_v2-0.1.tar.gz",
+  "download_time": "2025-11-04T06:58:15.583096",
+  "package_url": "https://pypi.org/project/etherscan-api-v2/"
+}

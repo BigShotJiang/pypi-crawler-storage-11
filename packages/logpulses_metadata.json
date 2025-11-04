@@ -1,0 +1,11 @@
+{
+  "name": "logpulses",
+  "version": "0.2.0",
+  "summary": "Comprehensive request/response logging middleware for FastAPI with storage options and zero configuration",
+  "author": "Hariharan S",
+  "license": "MIT",
+  "home_page": "https://github.com/Hari-vasan/logpulses",
+  "download_filename": "logpulses-0.2.0.tar.gz",
+  "download_time": "2025-11-04T06:58:40.635602",
+  "package_url": "https://pypi.org/project/logpulses/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jankins",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Token-optimized Jenkins MCP server with smart log handling and advanced triage",
   "author": "jankins contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jankins-1.2.0.tar.gz",
-  "download_time": "2025-11-04T03:50:13.253645",
+  "download_filename": "jankins-1.2.2.tar.gz",
+  "download_time": "2025-11-04T06:58:32.812804",
   "package_url": "https://pypi.org/project/jankins/"
 }

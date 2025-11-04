@@ -1,0 +1,11 @@
+{
+  "name": "mini-sisso",
+  "version": "1.0.0",
+  "summary": "A lightweight and user-friendly Python implementation of the SISSO algorithm for symbolic regression, compatible with scikit-learn.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mini_sisso-1.0.0.tar.gz",
+  "download_time": "2025-11-04T06:58:25.878408",
+  "package_url": "https://pypi.org/project/mini-sisso/"
+}

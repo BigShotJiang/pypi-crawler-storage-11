@@ -1,0 +1,11 @@
+{
+  "name": "mcp-m365-mgmt",
+  "version": "1.0.0",
+  "summary": "MCP server for Microsoft 365 and Intune management with 32 tools for Entra ID, devices, Autopilot, and more",
+  "author": "Thiago Beier",
+  "license": "MIT",
+  "home_page": "https://github.com/thiagogbeier/mcp-m365-mgmt",
+  "download_filename": "mcp_m365_mgmt-1.0.0.tar.gz",
+  "download_time": "2025-11-04T06:58:33.323035",
+  "package_url": "https://pypi.org/project/mcp-m365-mgmt/"
+}

@@ -1,29 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T06:34:01.370484
-- **Total Packages**: 78
-- **Total Size**: 62.88 MB
+- **Download Time**: 2025-11-04T06:58:57.347789
+- **Total Packages**: 79
+- **Total Size**: 13.48 MB
 
 ## Packages List
+- captchabreaker
+- abe-redis
+- scrapai
+- gima
+- etherscan-api-v2
+- naf_chatgpt_cli
+- codeguard-lgedv
+- docuchango
+- scalarlm
+- pyproject3
+- agentlin-client
+- diffhouse
+- fast-maxsim
+- mcp-knowledge-server
+- why-tools
+- fastapi-auto-router
+- taiwan-holidays
+- kolabpy-lite
+- FlowerPower
+- dipdup
+- molcraft
+- tai-chat
+- odoo-addon-fieldservice-current-location
+- mini-sisso
+- automation-toolkit
+- daaskit
+- mcp-slicer
+- duckrun
+- plover
+- rtmdet
+- fast-ngp
+- NaxToPy
+- fastgenerateapi
+- iflow-mcp_crypto-projects-mcp
+- htmlgen-mcp
+- jankins
+- mcp-m365-mgmt
+- hodorlive
+- first-llms
+- winipedia-django
+- alibabacloud-das20200116
+- infinity-sdk
+- ndict-tools
+- scientific-writer
+- async-kernel
+- mseq2latex
+- inopyutils
+- mas-devops
+- logpulses
+- pulumi-aws-native
 - winipedia-pyside
 - singtown_ai
 - click-extra
 - fraiseql
-- mcp-knowledge-server
 - nu-lpw-v
 - tree-shaking
-- hodorlive
 - orcheo-sdk
 - winipedia-utils
 - orcheo-backend
 - orcheo
-- amzn-bbam-dev
 - py-extension-toolkit
 - gepa
-- first-llms
 - maxsim-fast
-- automation-toolkit
 - shibuya
 - framekit
 - ai-smart-contract-auditor
@@ -40,47 +85,3 @@
 - orq-ai-sdk
 - carconnectivity-connector-skoda
 - dataset-merge
-- alpaca-py
-- abetworks-agentwork
-- alibabacloud-paistudio20220112
-- pkboost
-- airbyte-source-s3
-- airbyte-source-github
-- schema-dictionary-matcher
-- airbyte-source-gcs
-- airbyte-source-google-drive
-- fcs-order
-- hockey-blast-common-lib
-- chatterer
-- arthur-client
-- crewplus
-- doordeck-headless-sdk
-- aws-cost-calculator-cli
-- pyg-nightly
-- antchain-bccr
-- why-tools
-- openai
-- python3-ssh
-- real-ladybug
-- feldera
-- mns-common
-- kubiya-control-plane-api
-- custom-ui-pyqt6
-- aiecs
-- xgae
-- zpack
-- pyartnet
-- sindre
-- zathura-language-server
-- flashinfer-python
-- tools-test
-- BrainConnect
-- sonolus.py
-- mycelya-torch
-- pyln-testing
-- pyln-proto
-- pyln-client
-- xursparks
-- fastgenerateapi
-- dogcrud
-- wm-weaviate-client

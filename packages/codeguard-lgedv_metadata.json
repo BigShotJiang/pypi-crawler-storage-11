@@ -1,0 +1,11 @@
+{
+  "name": "codeguard-lgedv",
+  "version": "1.16.0",
+  "summary": "MCP server for detecting C++ vulnerability",
+  "author": "Tran Anh Tai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codeguard_lgedv-1.16.0.tar.gz",
+  "download_time": "2025-11-04T06:58:16.608055",
+  "package_url": "https://pypi.org/project/codeguard-lgedv/"
+}

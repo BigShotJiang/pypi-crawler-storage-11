@@ -1,11 +1,11 @@
 {
   "name": "docuchango",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "Docusaurus validation and repair framework for opinionated micro-CMS documentation, designed for human-agent collaboration workflows",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "docuchango-1.3.2.tar.gz",
-  "download_time": "2025-11-03T17:42:29.842521",
+  "download_filename": "docuchango-1.3.3.tar.gz",
+  "download_time": "2025-11-04T06:58:17.121262",
   "package_url": "https://pypi.org/project/docuchango/"
 }

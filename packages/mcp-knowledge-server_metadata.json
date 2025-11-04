@@ -1,11 +1,11 @@
 {
   "name": "mcp-knowledge-server",
-  "version": "0.1.7",
-  "summary": "MCP server exposing internal knowledge retrieval tools.",
+  "version": "1.0.1",
+  "summary": "MCP Server (STDIO) to fetch and parse Chengdu Youth Center activities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_knowledge_server-0.1.7.tar.gz",
-  "download_time": "2025-11-04T06:33:19.368879",
+  "download_filename": "mcp_knowledge_server-1.0.1.tar.gz",
+  "download_time": "2025-11-04T06:58:20.208819",
   "package_url": "https://pypi.org/project/mcp-knowledge-server/"
 }
