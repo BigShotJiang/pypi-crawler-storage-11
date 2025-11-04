@@ -1,0 +1,11 @@
+{
+  "name": "django-cascading-dropdown-widget",
+  "version": "0.2.8",
+  "summary": "Provide a cascading-dropdown widget for django.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_cascading_dropdown_widget-0.2.8.tar.gz",
+  "download_time": "2025-11-04T12:47:50.757632",
+  "package_url": "https://pypi.org/project/django-cascading-dropdown-widget/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exfinance",
+  "version": "0.1.1",
+  "summary": "A Python package for downloading financial data from ex2archive",
+  "author": "Ali H. Askar",
+  "license": null,
+  "home_page": "https://github.com/alihaskar/efinance",
+  "download_filename": "exfinance-0.1.1.tar.gz",
+  "download_time": "2025-11-04T12:48:03.711000",
+  "package_url": "https://pypi.org/project/exfinance/"
+}

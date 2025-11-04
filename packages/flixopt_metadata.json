@@ -1,11 +1,11 @@
 {
   "name": "flixopt",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "summary": "Vector based energy and material flow optimization framework in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flixopt-3.4.0.tar.gz",
-  "download_time": "2025-11-01T23:51:13.649428",
+  "download_filename": "flixopt-3.4.1.tar.gz",
+  "download_time": "2025-11-04T12:47:49.726522",
   "package_url": "https://pypi.org/project/flixopt/"
 }

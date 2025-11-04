@@ -1,11 +1,11 @@
 {
   "name": "pulumiverse-exoscale",
-  "version": "0.66.0",
+  "version": "0.66.1",
   "summary": "A Pulumi package for creating and managing exoscale cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://www.pulumi.com",
-  "download_filename": "pulumiverse_exoscale-0.66.0.tar.gz",
-  "download_time": "2025-11-04T07:41:33.850194",
+  "download_filename": "pulumiverse_exoscale-0.66.1.tar.gz",
+  "download_time": "2025-11-04T12:47:19.886744",
   "package_url": "https://pypi.org/project/pulumiverse-exoscale/"
 }

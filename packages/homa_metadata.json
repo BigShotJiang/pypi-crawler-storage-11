@@ -1,11 +1,11 @@
 {
   "name": "homa",
-  "version": "0.1.94",
+  "version": "0.1.99",
   "summary": "A curated list of machine learning and deep learning helpers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "homa-0.1.94.tar.gz",
-  "download_time": "2025-11-04T11:20:38.735212",
+  "download_filename": "homa-0.1.99.tar.gz",
+  "download_time": "2025-11-04T12:47:43.517558",
   "package_url": "https://pypi.org/project/homa/"
 }

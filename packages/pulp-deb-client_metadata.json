@@ -1,0 +1,11 @@
+{
+  "name": "pulp-deb-client",
+  "version": "3.8.0",
+  "summary": "Pulp 3 API",
+  "author": "Pulp Team",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "pulp_deb_client-3.8.0.tar.gz",
+  "download_time": "2025-11-04T12:47:17.325495",
+  "package_url": "https://pypi.org/project/pulp-deb-client/"
+}

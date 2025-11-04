@@ -1,0 +1,11 @@
+{
+  "name": "toomanyfiles",
+  "version": "1.1.0",
+  "summary": "Remove files and directories with date and time patterns",
+  "author": "y",
+  "license": "GPL-3",
+  "home_page": "https://github.com/turulomio/toomanyfiles/",
+  "download_filename": "toomanyfiles-1.1.0.tar.gz",
+  "download_time": "2025-11-04T12:47:52.809339",
+  "package_url": "https://pypi.org/project/toomanyfiles/"
+}

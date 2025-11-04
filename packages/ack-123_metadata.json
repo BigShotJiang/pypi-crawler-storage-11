@@ -1,0 +1,11 @@
+{
+  "name": "ack-123",
+  "version": "1.0",
+  "summary": "register check",
+  "author": "John Doe",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/mypackage",
+  "download_filename": "ack_123-1.0.tar.gz",
+  "download_time": "2025-11-04T12:47:48.188165",
+  "package_url": "https://pypi.org/project/ack-123/"
+}
