@@ -1,0 +1,11 @@
+{
+  "name": "ClearLogs",
+  "version": "1.0.1",
+  "summary": "Utility library for writing to ClearLogs database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clearlogs-1.0.1.tar.gz",
+  "download_time": "2025-11-04T19:39:35.538427",
+  "package_url": "https://pypi.org/project/ClearLogs/"
+}

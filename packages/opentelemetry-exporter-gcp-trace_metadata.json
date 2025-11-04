@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-exporter-gcp-trace",
+  "version": "1.11.0",
+  "summary": "Google Cloud Trace exporter for OpenTelemetry",
+  "author": "Google",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GoogleCloudPlatform/opentelemetry-operations-python/tree/main/opentelemetry-exporter-gcp-trace",
+  "download_filename": "opentelemetry_exporter_gcp_trace-1.11.0.tar.gz",
+  "download_time": "2025-11-04T19:39:06.970019",
+  "package_url": "https://pypi.org/project/opentelemetry-exporter-gcp-trace/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chatmap-py",
+  "version": "0.0.8",
+  "summary": "Analyzes chat logs and pair locations with messages, generating a GeoJSON.",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "chatmap_py-0.0.8.tar.gz",
+  "download_time": "2025-11-04T19:38:54.396262",
+  "package_url": "https://pypi.org/project/chatmap-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-resourcedetector-gcp",
+  "version": "1.11.0a0",
+  "summary": "Google Cloud resource detector for OpenTelemetry",
+  "author": "Google",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GoogleCloudPlatform/opentelemetry-operations-python/tree/main/opentelemetry-resourcedetector-gcp",
+  "download_filename": "opentelemetry_resourcedetector_gcp-1.11.0a0.tar.gz",
+  "download_time": "2025-11-04T19:39:05.388390",
+  "package_url": "https://pypi.org/project/opentelemetry-resourcedetector-gcp/"
+}
