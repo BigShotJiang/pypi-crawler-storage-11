@@ -1,0 +1,11 @@
+{
+  "name": "storm-lists",
+  "version": "1.0.2",
+  "summary": "Implementations of geomagnetic storm list algorithms, including Walach & Grocott (2019).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "storm_lists-1.0.2.tar.gz",
+  "download_time": "2025-11-04T15:56:58.313591",
+  "package_url": "https://pypi.org/project/storm-lists/"
+}

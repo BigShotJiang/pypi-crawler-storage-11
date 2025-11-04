@@ -1,11 +1,11 @@
 {
   "name": "bidsprep",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Toolkit for making MRI data BIDS compatible.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bidsprep-0.0.1.tar.gz",
-  "download_time": "2025-11-03T17:42:30.378604",
+  "download_filename": "bidsprep-0.0.2.tar.gz",
+  "download_time": "2025-11-04T15:56:56.676723",
   "package_url": "https://pypi.org/project/bidsprep/"
 }

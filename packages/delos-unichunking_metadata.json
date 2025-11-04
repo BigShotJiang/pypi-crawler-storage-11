@@ -1,0 +1,11 @@
+{
+  "name": "delos-unichunking",
+  "version": "1.2.0",
+  "summary": "Universal chunking functions to extract LLM-friendly chunks from any file type.",
+  "author": "AlexandreBertinDelos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "delos_unichunking-1.2.0.tar.gz",
+  "download_time": "2025-11-04T15:56:50.146208",
+  "package_url": "https://pypi.org/project/delos-unichunking/"
+}

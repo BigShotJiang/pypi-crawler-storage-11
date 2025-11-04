@@ -1,0 +1,11 @@
+{
+  "name": "deeploy",
+  "version": "1.54.0",
+  "summary": "The official Deeploy client for Python",
+  "author": "Tim Kleinloog",
+  "license": null,
+  "home_page": "https://gitlab.com/deeploy-ml/deeploy-python-client",
+  "download_filename": "deeploy-1.54.0.tar.gz",
+  "download_time": "2025-11-04T15:56:47.405651",
+  "package_url": "https://pypi.org/project/deeploy/"
+}

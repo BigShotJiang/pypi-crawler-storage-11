@@ -1,0 +1,11 @@
+{
+  "name": "lks-idprovider-api",
+  "version": "0.1.6",
+  "summary": "Pure API specification for LKS Identity Provider library with protocols, models, and contracts",
+  "author": "Raul Medeiros",
+  "license": "LKSISL",
+  "home_page": "https://github.com/lksnext/lks-idprovider-python",
+  "download_filename": "lks_idprovider_api-0.1.6.tar.gz",
+  "download_time": "2025-11-04T15:56:51.235989",
+  "package_url": "https://pypi.org/project/lks-idprovider-api/"
+}

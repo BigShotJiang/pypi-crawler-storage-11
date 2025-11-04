@@ -1,0 +1,11 @@
+{
+  "name": "lks-idprovider-keycloak",
+  "version": "0.1.1",
+  "summary": "Keycloak provider implementation for LKS Identity Provider library with FastAPI integration",
+  "author": "Raul Medeiros",
+  "license": null,
+  "home_page": "https://github.com/lks-team/lks-idprovider-python",
+  "download_filename": "lks_idprovider_keycloak-0.1.1.tar.gz",
+  "download_time": "2025-11-04T15:56:46.266432",
+  "package_url": "https://pypi.org/project/lks-idprovider-keycloak/"
+}
