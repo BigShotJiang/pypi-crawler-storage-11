@@ -1,11 +1,11 @@
 {
   "name": "wexa-sdk",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Official Wexa Python SDK",
   "author": "Wexa",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "wexa_sdk-0.1.3.tar.gz",
-  "download_time": "2025-11-04T05:23:27.656477",
+  "download_filename": "wexa_sdk-0.1.4.tar.gz",
+  "download_time": "2025-11-04T05:43:30.946224",
   "package_url": "https://pypi.org/project/wexa-sdk/"
 }

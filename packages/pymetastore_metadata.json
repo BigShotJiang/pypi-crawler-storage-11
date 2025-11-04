@@ -1,0 +1,11 @@
+{
+  "name": "pymetastore",
+  "version": "0.4.2",
+  "summary": "A Python client for the Thrift interface to Hive Metastore",
+  "author": "Kostas Pardalis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymetastore-0.4.2.tar.gz",
+  "download_time": "2025-11-04T05:43:29.249222",
+  "package_url": "https://pypi.org/project/pymetastore/"
+}
