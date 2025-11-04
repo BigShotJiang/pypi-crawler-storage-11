@@ -1,0 +1,11 @@
+{
+  "name": "ncm-converter-mcp",
+  "version": "1.0.1",
+  "summary": "Netease Cloud Music .ncm audio converter MCP server based on ncmdump-py",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ncm_converter_mcp-1.0.1.tar.gz",
+  "download_time": "2025-11-04T08:54:39.632271",
+  "package_url": "https://pypi.org/project/ncm-converter-mcp/"
+}

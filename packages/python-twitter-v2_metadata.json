@@ -1,0 +1,11 @@
+{
+  "name": "python-twitter-v2",
+  "version": "0.9.3",
+  "summary": "A simple Python wrapper for Twitter API v2 ✨ 🍰 ✨",
+  "author": "ikaroskun",
+  "license": "MIT",
+  "home_page": "https://github.com/sns-sdks/python-twitter",
+  "download_filename": "python_twitter_v2-0.9.3.tar.gz",
+  "download_time": "2025-11-04T08:54:41.720427",
+  "package_url": "https://pypi.org/project/python-twitter-v2/"
+}

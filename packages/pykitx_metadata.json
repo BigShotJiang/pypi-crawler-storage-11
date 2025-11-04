@@ -1,0 +1,11 @@
+{
+  "name": "pykitx",
+  "version": "1.0.0",
+  "summary": "PyKit is a modern Python project initializer — scaffold clean, ready-to-publish packages, tests, CI, in one command.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykitx-1.0.0.tar.gz",
+  "download_time": "2025-11-04T08:54:12.425140",
+  "package_url": "https://pypi.org/project/pykitx/"
+}
