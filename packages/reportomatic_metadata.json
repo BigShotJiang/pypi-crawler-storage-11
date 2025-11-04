@@ -1,11 +1,11 @@
 {
   "name": "reportomatic",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Reportomatic automates Markdown report generation from GitLab and GitHub repositories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reportomatic-0.2.5.tar.gz",
-  "download_time": "2025-11-01T16:52:46.973171",
+  "download_filename": "reportomatic-0.2.6.tar.gz",
+  "download_time": "2025-11-04T09:45:09.955953",
   "package_url": "https://pypi.org/project/reportomatic/"
 }

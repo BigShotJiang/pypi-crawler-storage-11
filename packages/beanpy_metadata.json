@@ -1,0 +1,11 @@
+{
+  "name": "beanpy",
+  "version": "0.0.1",
+  "summary": "BeanPy 是一个轻量级的 Python 依赖注入框架，通过控制反转（IoC）模式管理对象的创建与依赖关系，支持单例/非单例模式、懒加载、生命周期管理及循环依赖处理，能有效降低代码耦合度，提升可维护性。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beanpy-0.0.1.tar.gz",
+  "download_time": "2025-11-04T09:45:35.619713",
+  "package_url": "https://pypi.org/project/beanpy/"
+}

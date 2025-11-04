@@ -1,11 +1,11 @@
 {
   "name": "npyproj",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A lightweight Python project scaffolding CLI",
   "author": "778777266",
   "license": null,
   "home_page": null,
-  "download_filename": "npyproj-0.2.4.tar.gz",
-  "download_time": "2025-11-04T09:24:47.184750",
+  "download_filename": "npyproj-0.2.5.tar.gz",
+  "download_time": "2025-11-04T09:45:50.242170",
   "package_url": "https://pypi.org/project/npyproj/"
 }

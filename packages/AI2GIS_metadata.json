@@ -1,11 +1,11 @@
 {
   "name": "AI2GIS",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Thư viện Python để chuyển đổi kết quả AI sang định dạng GIS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai2gis-0.1.0.tar.gz",
-  "download_time": "2025-11-03T04:35:23.019286",
+  "download_filename": "ai2gis-0.1.1.tar.gz",
+  "download_time": "2025-11-04T09:45:20.478432",
   "package_url": "https://pypi.org/project/AI2GIS/"
 }

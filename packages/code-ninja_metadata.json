@@ -1,0 +1,11 @@
+{
+  "name": "code-ninja",
+  "version": "0.1.19",
+  "summary": "Code-ninja is the error handler library and help to detect the error and after detect the error give the solution of error.",
+  "author": "Asad Maqbool",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_ninja-0.1.19.tar.gz",
+  "download_time": "2025-11-04T09:45:23.074347",
+  "package_url": "https://pypi.org/project/code-ninja/"
+}

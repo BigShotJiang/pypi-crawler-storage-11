@@ -1,0 +1,11 @@
+{
+  "name": "htmlight",
+  "version": "0.1.2",
+  "summary": "Light html generator",
+  "author": "Kostiantyn Shmyhelskyi",
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "htmlight-0.1.2.tar.gz",
+  "download_time": "2025-11-04T09:45:11.519246",
+  "package_url": "https://pypi.org/project/htmlight/"
+}

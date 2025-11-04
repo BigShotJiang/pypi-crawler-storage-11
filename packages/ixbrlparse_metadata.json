@@ -1,0 +1,11 @@
+{
+  "name": "ixbrlparse",
+  "version": "0.11.1",
+  "summary": "A python module for getting useful data out of ixbrl files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ixbrlparse-0.11.1.tar.gz",
+  "download_time": "2025-11-04T09:45:46.563250",
+  "package_url": "https://pypi.org/project/ixbrlparse/"
+}

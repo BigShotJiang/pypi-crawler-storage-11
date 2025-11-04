@@ -1,0 +1,11 @@
+{
+  "name": "cardiac-geometries",
+  "version": "1.1.8",
+  "summary": "A python library for cardiac geometries",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cardiac_geometries-1.1.8.tar.gz",
+  "download_time": "2025-11-04T09:45:45.525062",
+  "package_url": "https://pypi.org/project/cardiac-geometries/"
+}
