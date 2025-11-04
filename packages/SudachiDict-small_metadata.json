@@ -1,0 +1,11 @@
+{
+  "name": "SudachiDict-small",
+  "version": "20251022",
+  "summary": "Sudachi Dictionary for SudachiPy - Small Edition",
+  "author": "Works Applications",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/WorksApplications/SudachiDict",
+  "download_filename": "sudachidict_small-20251022.tar.gz",
+  "download_time": "2025-11-04T03:03:15.966151",
+  "package_url": "https://pypi.org/project/SudachiDict-small/"
+}

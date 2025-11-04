@@ -1,11 +1,11 @@
 {
   "name": "dodecahedron",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Collection of classes and functions to support domain driven design and hexagonal architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dodecahedron-0.0.1.tar.gz",
-  "download_time": "2025-11-03T04:35:47.224230",
+  "download_filename": "dodecahedron-0.0.2.tar.gz",
+  "download_time": "2025-11-04T03:03:31.168957",
   "package_url": "https://pypi.org/project/dodecahedron/"
 }

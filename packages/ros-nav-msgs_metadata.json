@@ -1,0 +1,11 @@
+{
+  "name": "ros-nav-msgs",
+  "version": "5.3.6",
+  "summary": "ROS nav_msgs package provides essential messages and services for robotic navigation, including maps, odometry, and paths.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_nav_msgs-5.3.6-cp313-cp313-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T03:03:30.142125",
+  "package_url": "https://pypi.org/project/ros-nav-msgs/"
+}

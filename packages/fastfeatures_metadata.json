@@ -1,0 +1,11 @@
+{
+  "name": "fastfeatures",
+  "version": "0.1.1",
+  "summary": "Modular features discovery system for FastAPI projects.",
+  "author": "Yuri Seki",
+  "license": null,
+  "home_page": "https://github.com/yuriseki/fastfeatures",
+  "download_filename": "fastfeatures-0.1.1.tar.gz",
+  "download_time": "2025-11-04T03:03:21.245392",
+  "package_url": "https://pypi.org/project/fastfeatures/"
+}

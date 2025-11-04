@@ -1,11 +1,11 @@
 {
   "name": "bini-terminal-ascii-player",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "summary": "Play videos and images as full screen ASCII art in your terminal",
   "author": "scarlieee02",
   "license": null,
-  "home_page": "https://github.com/yourusername/terminal-media-player",
-  "download_filename": "bini_terminal_ascii_player-1.0.5.tar.gz",
-  "download_time": "2025-11-03T17:42:19.475509",
+  "home_page": "https://github.com/scarlieee02/bini-terminal-media-player",
+  "download_filename": "bini_terminal_ascii_player-1.0.8.tar.gz",
+  "download_time": "2025-11-04T03:03:18.656272",
   "package_url": "https://pypi.org/project/bini-terminal-ascii-player/"
 }

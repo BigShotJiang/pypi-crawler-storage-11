@@ -1,0 +1,11 @@
+{
+  "name": "ros-geometry-msgs",
+  "version": "5.3.6",
+  "summary": "ROS `geometry_msgs` provides standard messages for common geometric primitives like points, vectors, poses, acceleration, and inertia.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_geometry_msgs-5.3.6-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T03:03:29.627521",
+  "package_url": "https://pypi.org/project/ros-geometry-msgs/"
+}

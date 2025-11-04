@@ -1,0 +1,11 @@
+{
+  "name": "ros-jazzy-visualization-msgs",
+  "version": "5.3.6",
+  "summary": "Meta-package for visualization_msgs for ROS 2 jazzy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_jazzy_visualization_msgs-5.3.6-py3-none-any.whl",
+  "download_time": "2025-11-04T03:03:31.699631",
+  "package_url": "https://pypi.org/project/ros-jazzy-visualization-msgs/"
+}

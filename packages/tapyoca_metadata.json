@@ -1,0 +1,11 @@
+{
+  "name": "tapyoca",
+  "version": "0.0.7",
+  "summary": "A medley of things that got coded because there was an itch to do so",
+  "author": "thorwhalen",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/thorwhalen/tapyoca",
+  "download_filename": "tapyoca-0.0.7.tar.gz",
+  "download_time": "2025-11-04T03:03:43.404842",
+  "package_url": "https://pypi.org/project/tapyoca/"
+}

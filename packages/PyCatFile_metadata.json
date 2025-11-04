@@ -1,0 +1,11 @@
+{
+  "name": "PyCatFile",
+  "version": "0.24.6",
+  "summary": "A tar like file format name archivefile.",
+  "author": "Kazuhana Neko-chan",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/GameMaker2k/PyCatFile",
+  "download_filename": "pycatfile-0.24.6.tar.gz",
+  "download_time": "2025-11-04T03:03:52.977536",
+  "package_url": "https://pypi.org/project/PyCatFile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mooncake-transfer-engine-musa",
+  "version": "0.0.0.1",
+  "summary": "A simple demo Python package for PyPI",
+  "author": "zhouyu",
+  "license": "MIT",
+  "home_page": "https://github.com/yourname/hellopkg",
+  "download_filename": "mooncake_transfer_engine_musa-0.0.0.1.tar.gz",
+  "download_time": "2025-11-04T03:03:55.546602",
+  "package_url": "https://pypi.org/project/mooncake-transfer-engine-musa/"
+}

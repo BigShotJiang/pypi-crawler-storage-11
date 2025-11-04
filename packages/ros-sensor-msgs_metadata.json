@@ -1,0 +1,11 @@
+{
+  "name": "ros-sensor-msgs",
+  "version": "5.3.6",
+  "summary": "ROS sensor_msgs package defines standard message types for common sensor data, such as images, IMU readings, and battery states.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_sensor_msgs-5.3.6-cp313-cp313-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T03:03:25.977187",
+  "package_url": "https://pypi.org/project/ros-sensor-msgs/"
+}

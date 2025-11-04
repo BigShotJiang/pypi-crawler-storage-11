@@ -1,0 +1,11 @@
+{
+  "name": "ros-jazzy-nav-msgs",
+  "version": "5.3.6",
+  "summary": "Meta-package for nav_msgs for ROS 2 jazzy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_jazzy_nav_msgs-5.3.6-py3-none-any.whl",
+  "download_time": "2025-11-04T03:03:28.078830",
+  "package_url": "https://pypi.org/project/ros-jazzy-nav-msgs/"
+}

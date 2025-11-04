@@ -1,0 +1,11 @@
+{
+  "name": "jh-scrapyd",
+  "version": "0.3.7",
+  "summary": "Preemptive scraping cluster",
+  "author": "Mr Ye",
+  "license": "MIT",
+  "home_page": "https://github.com/mrye5869/jh_scrapyd",
+  "download_filename": "jh_scrapyd-0.3.7.tar.gz",
+  "download_time": "2025-11-04T03:03:41.303289",
+  "package_url": "https://pypi.org/project/jh-scrapyd/"
+}

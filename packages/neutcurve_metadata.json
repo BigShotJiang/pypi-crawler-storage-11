@@ -1,0 +1,11 @@
+{
+  "name": "neutcurve",
+  "version": "2.3.0",
+  "summary": "Plot and fit neutralization curves.",
+  "author": "Jesse Bloom",
+  "license": "GPLv3",
+  "home_page": "https://github.com/jbloomlab/neutcurve",
+  "download_filename": "neutcurve-2.3.0.tar.gz",
+  "download_time": "2025-11-04T03:03:48.689840",
+  "package_url": "https://pypi.org/project/neutcurve/"
+}
