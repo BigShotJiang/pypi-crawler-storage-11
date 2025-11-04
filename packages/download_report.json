@@ -1,17 +1,8 @@
 {
-  "download_time": "2025-11-04T05:44:15.620718",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 16.63,
+  "download_time": "2025-11-04T06:04:28.222731",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 0.3,
   "packages": [
-    "pymetastore",
-    "fastgenerateapi",
-    "CheckmarxPythonSDK",
-    "wexa-sdk",
-    "automa_ai",
-    "axmp-ai-agent-core",
-    "CliRemote",
-    "auto-editor",
-    "wkdaily",
     "ipyslides",
     "xpytools",
     "spitch",
@@ -28,6 +19,7 @@
     "pytbox",
     "herbie-data",
     "fonadalabs",
+    "axmp-ai-agent-core",
     "fiftyone-devicedetection-onpremise",
     "fiftyone-devicedetection",
     "fiftyone-devicedetection-shared",
@@ -39,6 +31,7 @@
     "autotools-language-server",
     "restiny",
     "spec-driver",
+    "CheckmarxPythonSDK",
     "gh-mcp",
     "blazefl",
     "PaCS-Q",
@@ -82,6 +75,14 @@
     "num2persian",
     "q3dviewer",
     "luminanet",
-    "akscmd"
+    "akscmd",
+    "django-codemod",
+    "minchin.pelican.plugins.summary",
+    "ailangpy",
+    "iamdata",
+    "kmup",
+    "mutt-language-server",
+    "liveConsole",
+    "clippy-code"
   ]
 }
