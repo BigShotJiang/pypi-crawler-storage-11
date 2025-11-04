@@ -1,0 +1,11 @@
+{
+  "name": "basex-python",
+  "version": "0.1.0",
+  "summary": "Fast library for encoding/decoding data in custom base-N alphabets of any size",
+  "author": "yokotoka",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "basex_python-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-04T23:20:05.934868",
+  "package_url": "https://pypi.org/project/basex-python/"
+}

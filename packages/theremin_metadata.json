@@ -1,0 +1,11 @@
+{
+  "name": "theremin",
+  "version": "0.0.6",
+  "summary": "A video-to-sound theremin",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/theremin",
+  "download_filename": "theremin-0.0.6.tar.gz",
+  "download_time": "2025-11-04T23:20:20.823778",
+  "package_url": "https://pypi.org/project/theremin/"
+}

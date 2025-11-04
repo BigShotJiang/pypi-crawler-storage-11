@@ -1,0 +1,11 @@
+{
+  "name": "py-flow-rules",
+  "version": "0.1.0",
+  "summary": "A simple rules engine package for python",
+  "author": "Pete Robinson",
+  "license": null,
+  "home_page": "https://github.com/p1971/pyFlowRules",
+  "download_filename": "py_flow_rules-0.1.0.tar.gz",
+  "download_time": "2025-11-04T23:20:16.027278",
+  "package_url": "https://pypi.org/project/py-flow-rules/"
+}

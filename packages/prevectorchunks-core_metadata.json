@@ -1,11 +1,11 @@
 {
   "name": "prevectorchunks-core",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "A Python module that allows conversion of a document into chunks to be inserted into Pinecone vector database",
   "author": null,
-  "license": null,
+  "license": "MIT License\r\n        Copyright (c) 2025 Your Name\r\n        ",
   "home_page": null,
-  "download_filename": "prevectorchunks_core-0.1.26.tar.gz",
-  "download_time": "2025-11-03T21:19:45.768452",
+  "download_filename": "prevectorchunks_core-0.1.27.tar.gz",
+  "download_time": "2025-11-04T23:20:13.921169",
   "package_url": "https://pypi.org/project/prevectorchunks-core/"
 }
