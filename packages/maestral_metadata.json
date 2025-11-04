@@ -1,0 +1,11 @@
+{
+  "name": "maestral",
+  "version": "1.9.6",
+  "summary": "Open-source Dropbox client for macOS and Linux.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maestral-1.9.6.tar.gz",
+  "download_time": "2025-11-04T22:43:19.805838",
+  "package_url": "https://pypi.org/project/maestral/"
+}

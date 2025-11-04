@@ -1,0 +1,11 @@
+{
+  "name": "srai",
+  "version": "0.10.2",
+  "summary": "A set of python modules for geospatial machine learning and data mining",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "srai-0.10.2.tar.gz",
+  "download_time": "2025-11-04T22:43:24.518027",
+  "package_url": "https://pypi.org/project/srai/"
+}

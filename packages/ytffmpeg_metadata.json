@@ -1,0 +1,11 @@
+{
+  "name": "ytffmpeg",
+  "version": "1.4.0",
+  "summary": "Scripts and tools to ease the processing of videos for Social Media platforms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ytffmpeg-1.4.0.tar.gz",
+  "download_time": "2025-11-04T22:43:17.748217",
+  "package_url": "https://pypi.org/project/ytffmpeg/"
+}
