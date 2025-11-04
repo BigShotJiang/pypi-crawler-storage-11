@@ -1,0 +1,11 @@
+{
+  "name": "metoffice-afterburner",
+  "version": "1.3.4",
+  "summary": "Tools and apps for processing numerical climate model data",
+  "author": "UK Met Office",
+  "license": null,
+  "home_page": "https://code.metoffice.gov.uk/trac/afterburner",
+  "download_filename": "metoffice_afterburner-1.3.4.tar.gz",
+  "download_time": "2025-11-04T15:45:06.806325",
+  "package_url": "https://pypi.org/project/metoffice-afterburner/"
+}

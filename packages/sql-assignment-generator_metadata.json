@@ -1,11 +1,11 @@
 {
   "name": "sql-assignment-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "This project generates SQL assignments based on common mistakes made by learners.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sql_assignment_generator-0.0.1.tar.gz",
-  "download_time": "2025-11-04T15:24:52.042917",
+  "download_filename": "sql_assignment_generator-0.0.2.tar.gz",
+  "download_time": "2025-11-04T15:45:19.489974",
   "package_url": "https://pypi.org/project/sql-assignment-generator/"
 }

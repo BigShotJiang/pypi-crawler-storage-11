@@ -1,0 +1,11 @@
+{
+  "name": "openTSNEslim",
+  "version": "1.0.4",
+  "summary": "openTSNEslim is a slimmed down version of openTSNE that doesn't require use of scikit-learn or scipy for inference. This is useful for creating a smaller bundle for deployment.",
+  "author": "Sam Pink",
+  "license": null,
+  "home_page": "https://github.com/engagesmarter/openTSNEslim",
+  "download_filename": "opentsneslim-1.0.4.tar.gz",
+  "download_time": "2025-11-04T15:44:41.949726",
+  "package_url": "https://pypi.org/project/openTSNEslim/"
+}

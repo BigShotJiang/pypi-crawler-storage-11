@@ -1,0 +1,11 @@
+{
+  "name": "napari-ome-zarr-navigator",
+  "version": "0.2.4",
+  "summary": "A plugin to browse OME-Zarr plates by conditions and load images, labels and features from ROIs",
+  "author": "Fabio Steffen and Joel Luethi",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/fractal-analytics-platform/napari-ome-zarr-navigator",
+  "download_filename": "napari_ome_zarr_navigator-0.2.4.tar.gz",
+  "download_time": "2025-11-04T15:45:03.671407",
+  "package_url": "https://pypi.org/project/napari-ome-zarr-navigator/"
+}

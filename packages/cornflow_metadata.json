@@ -1,0 +1,11 @@
+{
+  "name": "cornflow",
+  "version": "1.2.6",
+  "summary": "cornflow is an open source multi-solver optimization server with a REST API built using flask.",
+  "author": "baobab soluciones",
+  "license": null,
+  "home_page": "https://github.com/baobabsoluciones/cornflow",
+  "download_filename": "cornflow-1.2.6.tar.gz",
+  "download_time": "2025-11-04T15:44:55.293640",
+  "package_url": "https://pypi.org/project/cornflow/"
+}

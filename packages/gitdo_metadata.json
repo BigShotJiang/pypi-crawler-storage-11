@@ -1,11 +1,11 @@
 {
   "name": "gitdo",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Simple CLI tool to plan your work",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitdo-0.2.3.tar.gz",
-  "download_time": "2025-11-04T14:22:52.534713",
+  "download_filename": "gitdo-0.2.4.tar.gz",
+  "download_time": "2025-11-04T15:45:16.829897",
   "package_url": "https://pypi.org/project/gitdo/"
 }
