@@ -1,0 +1,11 @@
+{
+  "name": "mcp-trace",
+  "version": "0.1.7",
+  "summary": "Open-source tracing middleware for MCP servers. Export logs, requests, and tool calls to files, PostgreSQL, Supabase, Contexa, or custom backends with full control over what gets logged.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_trace-0.1.7.tar.gz",
+  "download_time": "2025-11-04T14:47:16.233816",
+  "package_url": "https://pypi.org/project/mcp-trace/"
+}

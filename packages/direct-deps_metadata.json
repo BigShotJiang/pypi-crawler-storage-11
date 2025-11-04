@@ -1,0 +1,11 @@
+{
+  "name": "direct-deps",
+  "version": "0.0.4",
+  "summary": "A utility to analyze a Python project and its virtual environment to identify unused direct dependencies. Helps you keep your dependency list lean and accurate.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "direct_deps-0.0.4.tar.gz",
+  "download_time": "2025-11-04T14:47:06.744048",
+  "package_url": "https://pypi.org/project/direct-deps/"
+}

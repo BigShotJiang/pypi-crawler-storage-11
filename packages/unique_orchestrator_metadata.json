@@ -1,11 +1,11 @@
 {
   "name": "unique_orchestrator",
-  "version": "1.7.2",
+  "version": "1.7.4",
   "summary": null,
   "author": "Andreas Hauri",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_orchestrator-1.7.2.tar.gz",
-  "download_time": "2025-11-03T15:24:52.615130",
+  "download_filename": "unique_orchestrator-1.7.4.tar.gz",
+  "download_time": "2025-11-04T14:47:05.176692",
   "package_url": "https://pypi.org/project/unique_orchestrator/"
 }

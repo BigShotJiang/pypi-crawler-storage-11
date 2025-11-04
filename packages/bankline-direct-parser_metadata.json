@@ -1,0 +1,11 @@
+{
+  "name": "bankline-direct-parser",
+  "version": "0.9",
+  "summary": "Parser for Bankline Direct banking information services",
+  "author": "Ministry of Justice Digital & Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/ministryofjustice/bankline-direct-parser",
+  "download_filename": "bankline_direct_parser-0.9.tar.gz",
+  "download_time": "2025-11-04T14:47:21.551822",
+  "package_url": "https://pypi.org/project/bankline-direct-parser/"
+}

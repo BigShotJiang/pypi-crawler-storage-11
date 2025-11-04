@@ -1,0 +1,11 @@
+{
+  "name": "django-moj-irat",
+  "version": "0.12",
+  "summary": "Tools to support adding a Django-based service to Ministry of Justice’s Incidence Response and Tuning",
+  "author": "Ministry of Justice Digital & Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/ministryofjustice/django-moj-irat",
+  "download_filename": "django_moj_irat-0.12.tar.gz",
+  "download_time": "2025-11-04T14:47:18.321408",
+  "package_url": "https://pypi.org/project/django-moj-irat/"
+}

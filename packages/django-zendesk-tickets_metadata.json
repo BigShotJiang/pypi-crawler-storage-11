@@ -1,0 +1,11 @@
+{
+  "name": "django-zendesk-tickets",
+  "version": "0.20",
+  "summary": "Django views and forms that submit tickets to Zendesk",
+  "author": "Ministry of Justice Digital & Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/ministryofjustice/django-zendesk-tickets",
+  "download_filename": "django_zendesk_tickets-0.20.tar.gz",
+  "download_time": "2025-11-04T14:46:58.877718",
+  "package_url": "https://pypi.org/project/django-zendesk-tickets/"
+}
