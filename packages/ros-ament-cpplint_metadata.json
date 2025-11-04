@@ -1,0 +1,11 @@
+{
+  "name": "ros-ament-cpplint",
+  "version": "0.19.2",
+  "summary": "Check C++ code style using cpplint.",
+  "author": "Dirk Thomas",
+  "license": "Apache License, Version 2.0, BSD",
+  "home_page": "https://github.com/ament/ament_lint",
+  "download_filename": "ros_ament_cpplint-0.19.2-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:26.158586",
+  "package_url": "https://pypi.org/project/ros-ament-cpplint/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dict-toolset",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "a toolset to work with python dictonaries and arrays",
   "author": "George Haddad",
   "license": "Apache Software License (Apache 2.0)",
   "home_page": null,
-  "download_filename": "dict_toolset-0.0.7.tar.gz",
-  "download_time": "2025-11-04T15:45:05.752984",
+  "download_filename": "dict_toolset-0.0.8.tar.gz",
+  "download_time": "2025-11-04T23:40:45.488740",
   "package_url": "https://pypi.org/project/dict-toolset/"
 }

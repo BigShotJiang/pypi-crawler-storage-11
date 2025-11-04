@@ -1,0 +1,11 @@
+{
+  "name": "project-management-search-utils",
+  "version": "1.0.7",
+  "summary": "Django search utilities for Elasticsearch integration with permission-aware filtering",
+  "author": "Paul Kokos",
+  "license": null,
+  "home_page": "https://github.com/paulkokos/project-management-dashboard",
+  "download_filename": "project_management_search_utils-1.0.7.tar.gz",
+  "download_time": "2025-11-04T23:40:16.172779",
+  "package_url": "https://pypi.org/project/project-management-search-utils/"
+}

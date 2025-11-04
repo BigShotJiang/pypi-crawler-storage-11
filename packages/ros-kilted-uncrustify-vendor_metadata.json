@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-uncrustify-vendor",
+  "version": "3.1.0",
+  "summary": "Meta-package for uncrustify_vendor (ros-uncrustify-vendor) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_uncrustify_vendor-3.1.0-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:24.481719",
+  "package_url": "https://pypi.org/project/ros-kilted-uncrustify-vendor/"
+}

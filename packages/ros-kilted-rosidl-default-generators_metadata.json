@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rosidl-default-generators",
+  "version": "1.7.1",
+  "summary": "Meta-package for rosidl_default_generators (ros-rosidl-default-generators) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rosidl_default_generators-1.7.1-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:25.049173",
+  "package_url": "https://pypi.org/project/ros-kilted-rosidl-default-generators/"
+}

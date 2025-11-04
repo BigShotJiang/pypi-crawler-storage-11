@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rmw-fastrtps-cpp",
+  "version": "9.3.3",
+  "summary": "Meta-package for rmw_fastrtps_cpp (ros-rmw-fastrtps-cpp) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rmw_fastrtps_cpp-9.3.3-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:36.198953",
+  "package_url": "https://pypi.org/project/ros-kilted-rmw-fastrtps-cpp/"
+}

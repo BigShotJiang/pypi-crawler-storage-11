@@ -1,11 +1,11 @@
 {
   "name": "colapy",
-  "version": "0.0.1.9",
+  "version": "0.0.1.10",
   "summary": "Python binding for COLA framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colapy-0.0.1.9.tar.gz",
-  "download_time": "2025-11-03T22:42:23.036135",
+  "download_filename": "colapy-0.0.1.10.tar.gz",
+  "download_time": "2025-11-04T23:40:44.959076",
   "package_url": "https://pypi.org/project/colapy/"
 }

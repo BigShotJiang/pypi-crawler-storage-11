@@ -1,11 +1,11 @@
 {
   "name": "biocontext_kb",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A knowledgebase MCP server for biomedical research, part of the BioContextAI project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "biocontext_kb-0.1.5.tar.gz",
-  "download_time": "2025-11-04T22:43:04.164519",
+  "download_filename": "biocontext_kb-0.1.6.tar.gz",
+  "download_time": "2025-11-04T23:40:57.642615",
   "package_url": "https://pypi.org/project/biocontext_kb/"
 }

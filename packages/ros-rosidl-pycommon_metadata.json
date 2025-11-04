@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-pycommon",
+  "version": "4.9.5",
+  "summary": "Common Python functions used by rosidl packages.",
+  "author": "Jacob Perron",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "ros_rosidl_pycommon-4.9.5-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:33.435092",
+  "package_url": "https://pypi.org/project/ros-rosidl-pycommon/"
+}

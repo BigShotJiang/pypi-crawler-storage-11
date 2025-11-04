@@ -1,0 +1,11 @@
+{
+  "name": "pylitterbot",
+  "version": "2025.0.0",
+  "summary": "Python package for controlling Whisker automatic robots.",
+  "author": "Nathan Spencer",
+  "license": null,
+  "home_page": "https://github.com/natekspencer/pylitterbot",
+  "download_filename": "pylitterbot-2025.0.0.tar.gz",
+  "download_time": "2025-11-04T23:40:52.174745",
+  "package_url": "https://pypi.org/project/pylitterbot/"
+}

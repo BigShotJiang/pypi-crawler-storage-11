@@ -1,0 +1,11 @@
+{
+  "name": "codehackspackage",
+  "version": "0.2.0",
+  "summary": "Add your description here",
+  "author": "Bogoljub Stankovic",
+  "license": null,
+  "home_page": "https://bogoljubstankovic.com",
+  "download_filename": "codehackspackage-0.2.0.tar.gz",
+  "download_time": "2025-11-04T23:40:54.888154",
+  "package_url": "https://pypi.org/project/codehackspackage/"
+}

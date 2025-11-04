@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rmw-security-common",
+  "version": "7.8.2",
+  "summary": "Meta-package for rmw_security_common (ros-rmw-security-common) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rmw_security_common-7.8.2-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:28.921672",
+  "package_url": "https://pypi.org/project/ros-kilted-rmw-security-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ros-rmw",
+  "version": "7.8.2",
+  "summary": "A ROS 2 package providing the RMW interface, an abstraction layer for DDS implementations to communicate with the ROS 2 Client Library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rmw-7.8.2-cp313-cp313-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T23:40:23.346287",
+  "package_url": "https://pypi.org/project/ros-rmw/"
+}

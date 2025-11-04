@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-std-msgs",
+  "version": "5.5.1",
+  "summary": "Meta-package for std_msgs (ros-std-msgs) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_std_msgs-5.5.1-py3-none-any.whl",
+  "download_time": "2025-11-04T23:40:32.893363",
+  "package_url": "https://pypi.org/project/ros-kilted-std-msgs/"
+}

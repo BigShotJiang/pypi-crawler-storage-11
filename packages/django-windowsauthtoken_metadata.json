@@ -1,0 +1,11 @@
+{
+  "name": "django-windowsauthtoken",
+  "version": "0.1.2",
+  "summary": "IIS Windows Authentication Token handling for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_windowsauthtoken-0.1.2.tar.gz",
+  "download_time": "2025-11-04T23:40:39.562066",
+  "package_url": "https://pypi.org/project/django-windowsauthtoken/"
+}
