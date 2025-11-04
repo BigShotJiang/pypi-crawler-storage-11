@@ -1,13 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T22:43:46.569982
-- **Total Packages**: 87
-- **Total Size**: 36.35 MB
+- **Download Time**: 2025-11-04T22:54:56.806959
+- **Total Packages**: 86
+- **Total Size**: 8.41 MB
 
 ## Packages List
-- odinai-sdk
+- konduktor-nightly
+- sleipnirgroup-jormungandr
+- pleonasty
+- innerloop
+- jl95terceira-pytools-maven
+- windmill-lib
+- dataknobs-llm
+- dataknobs-fsm
+- dataknobs-data
+- dataknobs-xization
+- analyze-drafter-site
+- deadline-cloud-for-cinema-4d
+- azure-cosmos
+- windfetch
+- fin-infra
+- dctag
+- datamorph-airflow
 - nexusai
+- python-idzip
+- cvtkit
+- daplug-ddb
+- joytide
+- suga-client
+- adafruit-circuitpython-atecc
+- moose-lib
+- sphinx-notionbuilder
+- module-qc-analysis-tools
+- conductorquantum
+- vislearnlabpy
+- sinapsis-langchain-readers
+- sinapsis-langchain
+- scientific-writer
+- jl95terceira-pytools-java
+- odinai-sdk
 - TopDownHockey-Scraper
 - skypilot
 - pillar-gguf-scanner
@@ -15,7 +47,6 @@
 - dyff-schema
 - modal
 - biocontext_kb
-- dctag
 - infn-ophyd-hal
 - python-backoff
 - mnspy
@@ -37,7 +68,6 @@
 - PROCS-Promotion-Tool
 - omnata-plugin-runtime
 - maestral-cocoa
-- sleipnirgroup-jormungandr
 - maestral-qt
 - ytffmpeg
 - adv-optm
@@ -62,34 +92,3 @@
 - git-contrib-tree
 - orthant
 - LAgencia-orion
-- pybiographical
-- cross-inertia
-- scc-firewall-manager-sdk
-- babypandas
-- celeste-ai
-- orbiter-parsers
-- datacommons-mcp
-- mcp-ephemeral-k8s
-- rda-python-metrics
-- galileo
-- modelaudit
-- neutral-tools-pipecat
-- arthur-client
-- matplobbot-shared
-- CrudPersonAddressLIB2test
-- gribberish-spire
-- pulser-scaleway
-- mixpanel
-- coiled
-- regula-documentreader-webclient
-- investing-algorithm-framework
-- nautobot-device-lifecycle-mgmt
-- pygenpdf
-- pyjamas-rfglab
-- email-manager
-- idyntree
-- realms-cli
-- agent-mcp-gateway
-- stocktrim-openapi-client
-- toisto
-- exai-wallet

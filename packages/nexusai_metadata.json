@@ -1,11 +1,11 @@
 {
   "name": "nexusai",
-  "version": "0.5.10",
+  "version": "0.5.14",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexusai-0.5.10.tar.gz",
-  "download_time": "2025-11-04T17:18:29.884214",
+  "download_filename": "nexusai-0.5.14.tar.gz",
+  "download_time": "2025-11-04T22:54:19.587141",
   "package_url": "https://pypi.org/project/nexusai/"
 }

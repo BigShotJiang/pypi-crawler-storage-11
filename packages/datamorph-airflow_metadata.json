@@ -1,11 +1,11 @@
 {
   "name": "datamorph-airflow",
-  "version": "0.0.88",
+  "version": "0.0.89",
   "summary": "DataMorph's application to dynamically build Airflow DAGs from JSON files ",
   "author": "Annapurna Annadatha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datamorph_airflow-0.0.88.tar.gz",
-  "download_time": "2025-11-03T17:53:14.833521",
+  "download_filename": "datamorph_airflow-0.0.89.tar.gz",
+  "download_time": "2025-11-04T22:54:19.066129",
   "package_url": "https://pypi.org/project/datamorph-airflow/"
 }
