@@ -1,17 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T04:25:28.073429
-- **Total Packages**: 87
-- **Total Size**: 26.11 MB
+- **Download Time**: 2025-11-04T04:46:21.570548
+- **Total Packages**: 84
+- **Total Size**: 22.15 MB
 
 ## Packages List
+- aibread
+- allison
+- wexa-sdk
+- relplot
+- bluer-sbc
+- mkite-db
+- oect-infra
+- dataflow-core
+- ai-smart-contract-auditor
+- mkwind
+- phaseforgeplus
+- pywebtransport
+- aicodetools
+- rowsncolumns-spreadsheet
+- mkite-vasp
+- docs2db
+- kaq-quant-common
+- loop-cgal
+- phanterpwa
+- hyperliquid-python-sdk
+- dclassql
+- pyarchiveit
+- chat2edit
+- agentor
+- schools-sdk
+- book-strands
+- acert-nlsl
+- uni2ts
+- mkite-engines
+- svc-infra
+- pynuttx
+- caffeinism-utils
+- agnt5
+- mkite-core
+- liveConsole
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- framekit
+- jsonrpcproxy
+- bagel
+- keras-nlp-nightly
+- keras-hub-nightly
+- rbx.cp
 - mkite-conformer
 - ml-robust-eval
 - odoo-addon-hr-timesheet-predefined-description-rules
 - log-colors
 - spec-driver
-- chat2edit
 - TopDownHockey-Scraper
 - odoo-addon-stock-partner-delivery-window
 - odoo-addons-oca-stock-logistics-workflow
@@ -33,63 +79,14 @@
 - glide-mcp
 - pulumi-sdwan
 - tirex-mirror
-- ai-smart-contract-auditor
 - python-smarttub
 - plain.oauth
-- rowsncolumns-spreadsheet
 - cdktf-cdktf-provider-vault
 - compair-core
 - chromedriver-binary
 - odoo-addon-auth-oidc
 - odoo-addon-sale-stock-delivery-address
-- dclassql
 - odoo-addon-sale-order-carrier-auto-assign
 - fusion-bench
 - lifx-async
 - mat3ra-standata
-- eclips-blossom-ai
-- pixtreme
-- pixtreme-upscale
-- pixtreme-legacy
-- pixtreme-filter
-- pixtreme-draw
-- pixtreme-core
-- pixtreme-aces
-- lionherd-core
-- htmlgen-mcp
-- modusa
-- visagene
-- dvsense-driver
-- odoo-addons-oca-rma
-- scikit-topt
-- automation-toolkit
-- odoo-addon-report-pdf-zip-download
-- odoo-addon-base-comment-template
-- django-countries
-- slashed
-- zombie-squirrel
-- odoo-addon-purchase-lot
-- quant-gmsdk
-- LogVictoriaLogs
-- pulumi-newrelic
-- cqtech-metrics
-- adam-community
-- medicafe
-- tabular2mcap
-- plain.support
-- fastfeatures
-- azure-cli-core
-- azure-cli
-- DNAFMIndex
-- skalds
-- ai-lls-lib
-- iflow-mcp_tribal
-- cdktf-cdktf-provider-newrelic
-- odoo-addons-oca-partner-contact
-- nonebot-plugin-quark-autosave
-- lodis
-- orb-billing
-- zengin-code
-- atype
-- donetick-mcp-server
-- pandalchemy

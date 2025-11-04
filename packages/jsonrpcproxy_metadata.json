@@ -1,0 +1,11 @@
+{
+  "name": "jsonrpcproxy",
+  "version": "0.5",
+  "summary": "Damn simple JSON-RPC client",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "jsonrpcproxy-0.5.tar.gz",
+  "download_time": "2025-11-04T04:45:59.329242",
+  "package_url": "https://pypi.org/project/jsonrpcproxy/"
+}

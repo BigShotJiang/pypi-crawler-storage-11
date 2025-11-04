@@ -1,0 +1,11 @@
+{
+  "name": "mkite-vasp",
+  "version": "25.11.3",
+  "summary": "mkite_vasp is a plugin to execute VASP calculations using mkite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkite_vasp-25.11.3.tar.gz",
+  "download_time": "2025-11-04T04:45:42.505108",
+  "package_url": "https://pypi.org/project/mkite-vasp/"
+}

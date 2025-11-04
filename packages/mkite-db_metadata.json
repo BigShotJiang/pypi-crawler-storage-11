@@ -1,0 +1,11 @@
+{
+  "name": "mkite-db",
+  "version": "25.11.3",
+  "summary": "mkite: distributed computing platform for high-throughput materials simulations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkite_db-25.11.3.tar.gz",
+  "download_time": "2025-11-04T04:45:37.202899",
+  "package_url": "https://pypi.org/project/mkite-db/"
+}

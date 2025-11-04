@@ -1,11 +1,11 @@
 {
   "name": "caffeinism-utils",
-  "version": "0.0.180",
+  "version": "0.0.182",
   "summary": null,
   "author": "Kim Minjong",
   "license": null,
   "home_page": null,
-  "download_filename": "caffeinism_utils-0.0.180.tar.gz",
-  "download_time": "2025-11-04T03:03:43.919713",
+  "download_filename": "caffeinism_utils-0.0.182.tar.gz",
+  "download_time": "2025-11-04T04:45:52.780471",
   "package_url": "https://pypi.org/project/caffeinism-utils/"
 }
