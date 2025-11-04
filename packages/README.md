@@ -1,28 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-04T04:46:21.570548
-- **Total Packages**: 84
-- **Total Size**: 22.15 MB
+- **Download Time**: 2025-11-04T04:57:23.059203
+- **Total Packages**: 86
+- **Total Size**: 9.25 MB
 
 ## Packages List
-- aibread
-- allison
-- wexa-sdk
-- relplot
-- bluer-sbc
-- mkite-db
-- oect-infra
-- dataflow-core
-- ai-smart-contract-auditor
-- mkwind
-- phaseforgeplus
-- pywebtransport
-- aicodetools
-- rowsncolumns-spreadsheet
-- mkite-vasp
-- docs2db
-- kaq-quant-common
 - loop-cgal
 - phanterpwa
 - hyperliquid-python-sdk
@@ -39,8 +22,10 @@
 - pynuttx
 - caffeinism-utils
 - agnt5
+- aibread
 - mkite-core
 - liveConsole
+- oect-infra
 - pydantic-graph
 - pydantic-evals
 - pydantic-ai-slim
@@ -79,8 +64,10 @@
 - glide-mcp
 - pulumi-sdwan
 - tirex-mirror
+- ai-smart-contract-auditor
 - python-smarttub
 - plain.oauth
+- rowsncolumns-spreadsheet
 - cdktf-cdktf-provider-vault
 - compair-core
 - chromedriver-binary
@@ -90,3 +77,18 @@
 - fusion-bench
 - lifx-async
 - mat3ra-standata
+- eclips-blossom-ai
+- pixtreme
+- pixtreme-upscale
+- pixtreme-legacy
+- pixtreme-filter
+- pixtreme-draw
+- pixtreme-core
+- pixtreme-aces
+- lionherd-core
+- htmlgen-mcp
+- modusa
+- visagene
+- dvsense-driver
+- odoo-addons-oca-rma
+- scikit-topt
