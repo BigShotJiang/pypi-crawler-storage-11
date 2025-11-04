@@ -1,0 +1,11 @@
+{
+  "name": "mcpd-plugins",
+  "version": "0.0.1",
+  "summary": "mcpd plugins Python SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcpd_plugins-0.0.1.tar.gz",
+  "download_time": "2025-11-04T10:27:11.220008",
+  "package_url": "https://pypi.org/project/mcpd-plugins/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-spreadsheet_dashboard_disable_share",
+  "version": "18.0.1.0.0",
+  "summary": "Disable the share feature of dashboards.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/Mint-system/",
+  "download_filename": "odoo_addon_spreadsheet_dashboard_disable_share-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-04T10:27:29.360777",
+  "package_url": "https://pypi.org/project/odoo-addon-spreadsheet_dashboard_disable_share/"
+}

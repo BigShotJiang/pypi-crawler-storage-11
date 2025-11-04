@@ -1,0 +1,11 @@
+{
+  "name": "chinesecalendar",
+  "version": "1.11.0",
+  "summary": "check if some day is holiday in China",
+  "author": "Lirian Su",
+  "license": "MIT License",
+  "home_page": "https://github.com/LKI/chinese-calendar",
+  "download_filename": "chinesecalendar-1.11.0.tar.gz",
+  "download_time": "2025-11-04T10:26:54.149418",
+  "package_url": "https://pypi.org/project/chinesecalendar/"
+}

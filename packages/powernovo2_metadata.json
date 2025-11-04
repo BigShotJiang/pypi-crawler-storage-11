@@ -1,0 +1,11 @@
+{
+  "name": "powernovo2",
+  "version": "1.0.12",
+  "summary": "PowerNovo2: A generative flow-based approach to non-autoregressive de novo peptide sequencing",
+  "author": "Denis Petrovskiy",
+  "license": "MIT",
+  "home_page": "https://github.com/protdb/PowerNovo2.git",
+  "download_filename": "powernovo2-1.0.12.tar.gz",
+  "download_time": "2025-11-04T10:27:27.313970",
+  "package_url": "https://pypi.org/project/powernovo2/"
+}

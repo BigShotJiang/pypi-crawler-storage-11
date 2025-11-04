@@ -1,0 +1,11 @@
+{
+  "name": "geonodectl",
+  "version": "0.3.2",
+  "summary": "a commandline interface tool for Geonode Rest API v2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geonodectl-0.3.2.tar.gz",
+  "download_time": "2025-11-04T10:27:23.655356",
+  "package_url": "https://pypi.org/project/geonodectl/"
+}
