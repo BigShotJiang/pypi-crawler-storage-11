@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-lifecycle-msgs",
+  "version": "2.3.0",
+  "summary": "Meta-package for lifecycle_msgs (ros-lifecycle-msgs) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_lifecycle_msgs-2.3.0-py3-none-any.whl",
+  "download_time": "2025-11-04T19:52:29.977031",
+  "package_url": "https://pypi.org/project/ros-kilted-lifecycle-msgs/"
+}

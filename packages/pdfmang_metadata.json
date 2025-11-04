@@ -1,0 +1,11 @@
+{
+  "name": "pdfmang",
+  "version": "1.0.0",
+  "summary": "A free and open-source PDF Utility Suite built with Tkinter",
+  "author": "Yatin Annam",
+  "license": "MIT",
+  "home_page": "https://github.com/yatinannam/pdfmang",
+  "download_filename": "pdfmang-1.0.0.tar.gz",
+  "download_time": "2025-11-04T19:52:02.919069",
+  "package_url": "https://pypi.org/project/pdfmang/"
+}

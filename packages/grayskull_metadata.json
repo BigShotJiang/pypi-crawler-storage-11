@@ -1,0 +1,11 @@
+{
+  "name": "grayskull",
+  "version": "2.9.2",
+  "summary": "Project to generate recipes for conda packages",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "grayskull-2.9.2.tar.gz",
+  "download_time": "2025-11-04T19:52:01.339876",
+  "package_url": "https://pypi.org/project/grayskull/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-dynamic-typesupport-fastrtps",
+  "version": "0.4.1",
+  "summary": "A ROS package providing FastRTPS-specific dynamic typesupport serialization for manipulating DynamicType and DynamicData objects at runtime.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rosidl_dynamic_typesupport_fastrtps-0.4.1-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T19:52:16.921591",
+  "package_url": "https://pypi.org/project/ros-rosidl-dynamic-typesupport-fastrtps/"
+}

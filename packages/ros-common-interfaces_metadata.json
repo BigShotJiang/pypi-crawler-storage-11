@@ -1,11 +1,11 @@
 {
   "name": "ros-common-interfaces",
-  "version": "5.3.6",
-  "summary": "Wheel for the common_interfaces ROS 2 package.",
+  "version": "5.5.1",
+  "summary": "Wheel for the common_interfaces (ros-common-interfaces) ROS 2 package.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ros_common_interfaces-5.3.6-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-11-04T03:03:29.104927",
+  "download_filename": "ros_common_interfaces-5.5.1-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T19:52:20.591530",
   "package_url": "https://pypi.org/project/ros-common-interfaces/"
 }

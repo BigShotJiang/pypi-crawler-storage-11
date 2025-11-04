@@ -1,0 +1,11 @@
+{
+  "name": "ml4gw-hermes",
+  "version": "0.2.2",
+  "summary": "Inference-as-a-Service deployment made simple",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml4gw_hermes-0.2.2.tar.gz",
+  "download_time": "2025-11-04T19:52:40.561252",
+  "package_url": "https://pypi.org/project/ml4gw-hermes/"
+}

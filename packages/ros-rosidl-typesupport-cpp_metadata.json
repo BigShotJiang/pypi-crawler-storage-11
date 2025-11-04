@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-typesupport-cpp",
+  "version": "3.3.3",
+  "summary": "A ROS package for accessing C++ typesupport handler functions for ROS messages and services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rosidl_typesupport_cpp-3.3.3-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-04T19:52:18.485743",
+  "package_url": "https://pypi.org/project/ros-rosidl-typesupport-cpp/"
+}

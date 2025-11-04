@@ -1,11 +1,11 @@
 {
   "name": "krkn-lib",
-  "version": "5.1.10",
+  "version": "5.1.11",
   "summary": "Foundation library for Kraken",
   "author": "Red Hat Chaos Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "krkn_lib-5.1.10.tar.gz",
-  "download_time": "2025-11-04T17:17:59.121065",
+  "download_filename": "krkn_lib-5.1.11.tar.gz",
+  "download_time": "2025-11-04T19:52:41.085265",
   "package_url": "https://pypi.org/project/krkn-lib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rosidl-cmake",
+  "version": "4.9.5",
+  "summary": "Meta-package for rosidl_cmake (ros-rosidl-cmake) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rosidl_cmake-4.9.5-py3-none-any.whl",
+  "download_time": "2025-11-04T19:52:15.858285",
+  "package_url": "https://pypi.org/project/ros-kilted-rosidl-cmake/"
+}
