@@ -1,0 +1,11 @@
+{
+  "name": "garminconnect",
+  "version": "0.2.31",
+  "summary": "Python 3 API wrapper for Garmin Connect",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "garminconnect-0.2.31.tar.gz",
+  "download_time": "2025-11-04T14:22:55.688549",
+  "package_url": "https://pypi.org/project/garminconnect/"
+}

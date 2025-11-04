@@ -1,0 +1,11 @@
+{
+  "name": "funcy-pipe",
+  "version": "0.14.0",
+  "summary": "If Funcy and Pipe had a baby. Decorates all Funcy methods with Pipe superpowers.",
+  "author": "Michael Bianco",
+  "license": "MIT",
+  "home_page": "https://github.com/iloveitaly/funcy-pipe",
+  "download_filename": "funcy_pipe-0.14.0.tar.gz",
+  "download_time": "2025-11-04T14:22:47.183686",
+  "package_url": "https://pypi.org/project/funcy-pipe/"
+}

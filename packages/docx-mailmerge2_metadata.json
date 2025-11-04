@@ -1,0 +1,11 @@
+{
+  "name": "docx-mailmerge2",
+  "version": "0.9.1",
+  "summary": "Performs a Mail Merge on docx (Microsoft Office Word) files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx_mailmerge2-0.9.1.tar.gz",
+  "download_time": "2025-11-04T14:23:13.171515",
+  "package_url": "https://pypi.org/project/docx-mailmerge2/"
+}
