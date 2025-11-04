@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-vertical-lift",
+  "version": "18.0.1.2.4",
+  "summary": "Provides the core for integration with Vertical Lifts",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_vertical_lift-18.0.1.2.4-py3-none-any.whl",
+  "download_time": "2025-11-04T08:30:37.775670",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-vertical-lift/"
+}

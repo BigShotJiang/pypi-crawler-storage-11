@@ -1,11 +1,11 @@
 {
   "name": "etiket-client",
-  "version": "0.2.52",
+  "version": "0.2.53",
   "summary": "A client to interact with the etiket web framework.",
   "author": "QDrive team",
   "license": null,
   "home_page": null,
-  "download_filename": "etiket_client-0.2.52-py3-none-any.whl",
-  "download_time": "2025-11-03T16:25:10.451879",
+  "download_filename": "etiket_client-0.2.53-py3-none-any.whl",
+  "download_time": "2025-11-04T08:30:57.927132",
   "package_url": "https://pypi.org/project/etiket-client/"
 }

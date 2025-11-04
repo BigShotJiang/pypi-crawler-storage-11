@@ -1,11 +1,11 @@
 {
   "name": "qdrive",
-  "version": "0.2.52",
+  "version": "0.2.53",
   "summary": "Qdrive dataset library",
   "author": "QDrive team",
   "license": null,
   "home_page": null,
-  "download_filename": "qdrive-0.2.52-py3-none-any.whl",
-  "download_time": "2025-11-03T16:25:09.929193",
+  "download_filename": "qdrive-0.2.53-py3-none-any.whl",
+  "download_time": "2025-11-04T08:30:56.273886",
   "package_url": "https://pypi.org/project/qdrive/"
 }

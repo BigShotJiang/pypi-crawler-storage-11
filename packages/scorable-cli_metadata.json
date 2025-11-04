@@ -1,0 +1,11 @@
+{
+  "name": "scorable-cli",
+  "version": "0.1.4",
+  "summary": "CLI for the Scorable API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scorable_cli-0.1.4.tar.gz",
+  "download_time": "2025-11-04T08:30:23.549397",
+  "package_url": "https://pypi.org/project/scorable-cli/"
+}

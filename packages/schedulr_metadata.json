@@ -1,0 +1,11 @@
+{
+  "name": "schedulr",
+  "version": "0.0.4",
+  "summary": "A smart terminal scheduler with natural language input and ASCII calendar visualization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "schedulr-0.0.4.tar.gz",
+  "download_time": "2025-11-04T08:30:19.241773",
+  "package_url": "https://pypi.org/project/schedulr/"
+}

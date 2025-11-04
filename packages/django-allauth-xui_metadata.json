@@ -1,0 +1,11 @@
+{
+  "name": "django-allauth-xui",
+  "version": "0.1.1",
+  "summary": "Modern, responsive UI layer for django-allauth, styled with TailwindCSS and daisyUI.",
+  "author": "Yousef Abu Shanab",
+  "license": "MIT",
+  "home_page": "https://github.com/youzarsiph/django-allauth-xui",
+  "download_filename": "django_allauth_xui-0.1.1.tar.gz",
+  "download_time": "2025-11-04T08:30:45.554482",
+  "package_url": "https://pypi.org/project/django-allauth-xui/"
+}
