@@ -1,0 +1,11 @@
+{
+  "name": "spec-utils",
+  "version": "0.35.16",
+  "summary": "Python package to consume SPEC SA and third-party apps",
+  "author": "Lucas Lucyk",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://gitlab.com/spec-sa-ar/spec-utils",
+  "download_filename": "spec_utils-0.35.16.tar.gz",
+  "download_time": "2025-11-04T13:55:53.027506",
+  "package_url": "https://pypi.org/project/spec-utils/"
+}

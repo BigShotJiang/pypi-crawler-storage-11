@@ -1,0 +1,11 @@
+{
+  "name": "pre-commit-update",
+  "version": "0.9.0",
+  "summary": "Simple CLI tool and a pre-commit hook to check and update pre-commit hooks.",
+  "author": "Vojko Pribudić",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pre_commit_update-0.9.0.tar.gz",
+  "download_time": "2025-11-04T13:56:06.008073",
+  "package_url": "https://pypi.org/project/pre-commit-update/"
+}

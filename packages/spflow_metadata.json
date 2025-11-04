@@ -1,0 +1,11 @@
+{
+  "name": "spflow",
+  "version": "0.0.43",
+  "summary": "Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks",
+  "author": "Alejandro Molina et al.",
+  "license": null,
+  "home_page": "https://github.com/SPFlow/SPFlow",
+  "download_filename": "spflow-0.0.43.tar.gz",
+  "download_time": "2025-11-04T13:55:41.638742",
+  "package_url": "https://pypi.org/project/spflow/"
+}

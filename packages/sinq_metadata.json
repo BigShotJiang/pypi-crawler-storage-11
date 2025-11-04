@@ -1,11 +1,11 @@
 {
   "name": "sinq",
-  "version": "0.1.1.post1",
+  "version": "0.1.2.post1",
   "summary": "SINQ quantization I/O for Hugging Face Transformers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sinq-0.1.1.post1.tar.gz",
-  "download_time": "2025-11-04T09:45:10.483149",
+  "download_filename": "sinq-0.1.2.post1.tar.gz",
+  "download_time": "2025-11-04T13:56:20.290249",
   "package_url": "https://pypi.org/project/sinq/"
 }

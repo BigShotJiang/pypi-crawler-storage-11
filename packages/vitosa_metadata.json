@@ -1,11 +1,11 @@
 {
   "name": "vitosa",
-  "version": "1.0.0.post3",
+  "version": "1.0.0.post39",
   "summary": "Vietnamese Audio-based Toxic Spans Detection Pipeline",
   "author": "Luan Thanh Nguyen",
   "license": "MIT",
-  "home_page": "https://github.com/tarudesu/ViToSA-1.0",
-  "download_filename": "vitosa-1.0.0.post3.tar.gz",
-  "download_time": "2025-11-03T21:52:35.210037",
+  "home_page": "https://github.com/vitosa-research/ViToSA-Dataset",
+  "download_filename": "vitosa-1.0.0.post39.tar.gz",
+  "download_time": "2025-11-04T13:55:51.151962",
   "package_url": "https://pypi.org/project/vitosa/"
 }
