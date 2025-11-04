@@ -1,0 +1,11 @@
+{
+  "name": "beast-dream-snow-loader",
+  "version": "0.2.1",
+  "summary": "UniFi Dream Machine → ServiceNow CMDB Data Loader with Operational Resilience",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beast_dream_snow_loader-0.2.1.tar.gz",
+  "download_time": "2025-11-04T06:33:29.114770",
+  "package_url": "https://pypi.org/project/beast-dream-snow-loader/"
+}

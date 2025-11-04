@@ -1,0 +1,11 @@
+{
+  "name": "zathura-language-server",
+  "version": "0.0.14",
+  "summary": "language server for zathurarc",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "zathura_language_server-0.0.14.tar.gz",
+  "download_time": "2025-11-04T06:33:54.165383",
+  "package_url": "https://pypi.org/project/zathura-language-server/"
+}

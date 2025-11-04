@@ -1,0 +1,11 @@
+{
+  "name": "dataset-merge",
+  "version": "0.2.0",
+  "summary": "Custom dataset merge, union and CSV utility",
+  "author": "Ananya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataset_merge-0.2.0.tar.gz",
+  "download_time": "2025-11-04T06:33:35.358211",
+  "package_url": "https://pypi.org/project/dataset-merge/"
+}

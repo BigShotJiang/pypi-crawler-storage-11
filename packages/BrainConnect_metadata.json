@@ -1,0 +1,11 @@
+{
+  "name": "BrainConnect",
+  "version": "1.0.0",
+  "summary": "A flexible pipeline to integrate brain connectivity and spatial transcriptomics for downstream analysis",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "brainconnect-1.0.0.tar.gz",
+  "download_time": "2025-11-04T06:33:56.230064",
+  "package_url": "https://pypi.org/project/BrainConnect/"
+}

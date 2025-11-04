@@ -1,0 +1,11 @@
+{
+  "name": "maxsim-fast",
+  "version": "0.1.1",
+  "summary": "Fast CPU implementation of MaxSim scoring",
+  "author": "Benjamin Clavié, Mixedbread Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "maxsim_fast-0.1.1-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-04T06:33:25.532942",
+  "package_url": "https://pypi.org/project/maxsim-fast/"
+}

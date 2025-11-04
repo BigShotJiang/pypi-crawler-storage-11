@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-wikidata",
+  "version": "0.1.1",
+  "summary": "MCP Wikidata Server",
+  "author": "Jaebok Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_wikidata-0.1.1.tar.gz",
+  "download_time": "2025-11-04T06:33:33.819709",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-wikidata/"
+}

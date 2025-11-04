@@ -1,0 +1,11 @@
+{
+  "name": "pyartnet",
+  "version": "2.0",
+  "summary": "Python wrappers for the Art-Net protocol to send DMX over Ethernet",
+  "author": "spaceman_spiff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyartnet-2.0.tar.gz",
+  "download_time": "2025-11-04T06:33:53.093106",
+  "package_url": "https://pypi.org/project/pyartnet/"
+}

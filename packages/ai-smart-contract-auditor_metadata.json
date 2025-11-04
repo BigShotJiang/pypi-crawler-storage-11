@@ -1,11 +1,11 @@
 {
   "name": "ai-smart-contract-auditor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "AI-powered smart contract security auditor with parallel processing",
   "author": "AI Smart Contract Auditor Team",
   "license": null,
   "home_page": "https://github.com/jw3b-dev/AI-Smart-Contract-Auditor",
-  "download_filename": "ai_smart_contract_auditor-1.0.3.tar.gz",
-  "download_time": "2025-11-04T04:57:07.868979",
+  "download_filename": "ai_smart_contract_auditor-1.0.4.tar.gz",
+  "download_time": "2025-11-04T06:33:28.600235",
   "package_url": "https://pypi.org/project/ai-smart-contract-auditor/"
 }

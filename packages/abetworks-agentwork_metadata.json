@@ -1,0 +1,11 @@
+{
+  "name": "abetworks-agentwork",
+  "version": "1.0.0",
+  "summary": "SDK for building AI agents that integrate with Abetworks platform",
+  "author": "Abetworks",
+  "license": null,
+  "home_page": "https://github.com/abetworks/abetworks-agentwork",
+  "download_filename": "abetworks_agentwork-1.0.0.tar.gz",
+  "download_time": "2025-11-04T06:33:36.384001",
+  "package_url": "https://pypi.org/project/abetworks-agentwork/"
+}

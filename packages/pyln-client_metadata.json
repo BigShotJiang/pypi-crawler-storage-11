@@ -1,0 +1,11 @@
+{
+  "name": "pyln-client",
+  "version": "25.9.2",
+  "summary": "Client library and plugin library for Core Lightning",
+  "author": null,
+  "license": "BSD-MIT",
+  "home_page": null,
+  "download_filename": "pyln_client-25.9.2.tar.gz",
+  "download_time": "2025-11-04T06:33:58.819196",
+  "package_url": "https://pypi.org/project/pyln-client/"
+}
