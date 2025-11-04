@@ -1,11 +1,11 @@
 {
   "name": "feu",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "A light library to help to manage packages",
   "author": "Thibaut Durand",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/durandtibo/feu",
-  "download_filename": "feu-0.4.1.tar.gz",
-  "download_time": "2025-11-03T22:42:36.498226",
+  "download_filename": "feu-0.4.2.tar.gz",
+  "download_time": "2025-11-04T22:20:30.752722",
   "package_url": "https://pypi.org/project/feu/"
 }

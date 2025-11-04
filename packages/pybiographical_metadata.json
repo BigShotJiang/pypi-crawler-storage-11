@@ -1,0 +1,11 @@
+{
+  "name": "pybiographical",
+  "version": "0.2.0",
+  "summary": "Python library for working with biographical data points for persons and locations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybiographical-0.2.0.tar.gz",
+  "download_time": "2025-11-04T22:19:57.434241",
+  "package_url": "https://pypi.org/project/pybiographical/"
+}
