@@ -1,0 +1,11 @@
+{
+  "name": "aind-zarr-utils",
+  "version": "0.11.3",
+  "summary": "Utilities for working with ZARR data and AIND metadata",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_zarr_utils-0.11.3.tar.gz",
+  "download_time": "2025-11-04T16:51:00.898640",
+  "package_url": "https://pypi.org/project/aind-zarr-utils/"
+}

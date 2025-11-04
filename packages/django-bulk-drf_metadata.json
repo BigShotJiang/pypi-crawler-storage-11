@@ -1,11 +1,11 @@
 {
   "name": "django-bulk-drf",
-  "version": "0.2.46",
+  "version": "0.2.47",
   "summary": "Django REST Framework for synchronous bulk operations with N+1 prevention",
   "author": "Konrad Beck",
   "license": "MIT",
   "home_page": "https://github.com/AugendLimited/django-bulk-drf",
-  "download_filename": "django_bulk_drf-0.2.46.tar.gz",
-  "download_time": "2025-11-02T22:40:07.009817",
+  "download_filename": "django_bulk_drf-0.2.47.tar.gz",
+  "download_time": "2025-11-04T16:50:28.846767",
   "package_url": "https://pypi.org/project/django-bulk-drf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "moat-db",
+  "version": "0.2.3",
+  "summary": "MoaT database support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_db-0.2.3.tar.gz",
+  "download_time": "2025-11-04T16:50:38.242866",
+  "package_url": "https://pypi.org/project/moat-db/"
+}

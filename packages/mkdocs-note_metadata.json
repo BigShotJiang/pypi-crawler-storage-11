@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-note",
+  "version": "3.0.0",
+  "summary": "A MkDocs plugin to add note boxes to your documentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_note-3.0.0.tar.gz",
+  "download_time": "2025-11-04T16:50:41.587713",
+  "package_url": "https://pypi.org/project/mkdocs-note/"
+}

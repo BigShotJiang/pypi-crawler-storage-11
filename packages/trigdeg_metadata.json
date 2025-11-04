@@ -1,0 +1,11 @@
+{
+  "name": "trigdeg",
+  "version": "0.1.0",
+  "summary": "Trigonometry functions using degrees (sin, cos, tan, cot, sec, cosec)",
+  "author": "Saurabh Pal",
+  "license": null,
+  "home_page": "https://github.com/saurabh18102001/TrigDeg/",
+  "download_filename": "trigdeg-0.1.0.tar.gz",
+  "download_time": "2025-11-04T16:51:20.748484",
+  "package_url": "https://pypi.org/project/trigdeg/"
+}

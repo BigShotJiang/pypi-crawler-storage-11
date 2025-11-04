@@ -1,11 +1,11 @@
 {
   "name": "investimentpy-dridev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Uma biblioteca para análise de investimentos",
   "author": "Adriel Roque",
   "license": "MIT",
   "home_page": "https://github.com/drielDev/InvestPy",
-  "download_filename": "investimentpy_dridev-1.0.1-py3-none-any.whl",
-  "download_time": "2025-11-04T16:27:22.255120",
+  "download_filename": "investimentpy_dridev-1.0.2.tar.gz",
+  "download_time": "2025-11-04T16:51:17.240718",
   "package_url": "https://pypi.org/project/investimentpy-dridev/"
 }

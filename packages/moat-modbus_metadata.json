@@ -1,0 +1,11 @@
+{
+  "name": "moat-modbus",
+  "version": "0.8.8",
+  "summary": "Modular async modbus client and server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_modbus-0.8.8.tar.gz",
+  "download_time": "2025-11-04T16:50:45.431474",
+  "package_url": "https://pypi.org/project/moat-modbus/"
+}
