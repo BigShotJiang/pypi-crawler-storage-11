@@ -1,11 +1,11 @@
 {
   "name": "avyas-aurica-base-apps-chat-app",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "summary": "Aurica app: chat-app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avyas_aurica_base_apps_chat_app-2.2.1.tar.gz",
-  "download_time": "2025-11-04T12:47:54.345788",
+  "download_filename": "avyas_aurica_base_apps_chat_app-2.3.0.tar.gz",
+  "download_time": "2025-11-04T19:18:21.152065",
   "package_url": "https://pypi.org/project/avyas-aurica-base-apps-chat-app/"
 }

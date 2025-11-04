@@ -1,0 +1,11 @@
+{
+  "name": "ffpuppet",
+  "version": "0.18.5",
+  "summary": "A Python module that aids in the automation of Firefox at the process level",
+  "author": "Tyson Smith",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/MozillaSecurity/ffpuppet",
+  "download_filename": "ffpuppet-0.18.5.tar.gz",
+  "download_time": "2025-11-04T19:18:37.771596",
+  "package_url": "https://pypi.org/project/ffpuppet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-dataclass",
+  "version": "1.0.0.post2",
+  "summary": "A dataclass interface for llms",
+  "author": "Janna Hopp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_dataclass-1.0.0.post2.tar.gz",
+  "download_time": "2025-11-04T19:18:06.531105",
+  "package_url": "https://pypi.org/project/llm-dataclass/"
+}

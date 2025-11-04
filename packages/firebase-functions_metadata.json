@@ -1,0 +1,11 @@
+{
+  "name": "firebase-functions",
+  "version": "0.5.0",
+  "summary": "Firebase Functions Python SDK",
+  "author": "Firebase Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "firebase_functions-0.5.0.tar.gz",
+  "download_time": "2025-11-04T19:18:17.650435",
+  "package_url": "https://pypi.org/project/firebase-functions/"
+}

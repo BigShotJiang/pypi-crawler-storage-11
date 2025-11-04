@@ -1,0 +1,11 @@
+{
+  "name": "bsonsearch",
+  "version": "2.1.2",
+  "summary": "compare BSON/JSON documents locally",
+  "author": "Dan Bauman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsonsearch-2.1.2-cp311-cp311-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-04T19:18:31.738442",
+  "package_url": "https://pypi.org/project/bsonsearch/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quick-ini",
-  "version": "3.1.1",
+  "version": "3.2",
   "summary": "A library for reading from and writing to .ini formatted files",
   "author": "OllieZ-Mods",
   "license": null,
   "home_page": "https://github.com/olliez-mods/Quick-Ini",
-  "download_filename": "quick_ini-3.1.1.tar.gz",
-  "download_time": "2025-11-04T18:31:48.592853",
+  "download_filename": "quick_ini-3.2.tar.gz",
+  "download_time": "2025-11-04T19:18:34.971943",
   "package_url": "https://pypi.org/project/quick-ini/"
 }
