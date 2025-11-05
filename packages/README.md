@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T05:44:37.019332
-- **Total Packages**: 81
-- **Total Size**: 24.87 MB
+- **Download Time**: 2025-11-05T05:55:36.438816
+- **Total Packages**: 78
+- **Total Size**: 4.07 MB
 
 ## Packages List
+- dragonfly-core
+- honeybee-energy
+- wayspiritmcp-base
+- lbt-ladybug
+- honeybee-radiance
+- hk-cdp
+- deepseek-ocr
+- humalab
+- donkit-ragops-ce
+- datasketch
+- awx-zipline-ai
+- vibego
+- mas-framework
+- wayspiritmcp-ppa
+- fit-webview-bridge
+- pyeasyphd
+- peakrdl-regblock
 - pybibtexer
 - aibread
 - abi-core-ai
@@ -25,7 +42,6 @@
 - wiselib
 - nucleation
 - fin-infra
-- hk-cdp
 - aware-environment
 - helix.fhir.client.sdk
 - krx300-hj3415
@@ -41,7 +57,6 @@
 - SurvivalEVAL
 - qlty
 - ladybug-core
-- awx-zipline-ai
 - pysiphon
 - crawler.dev
 - sensorvision-sdk
@@ -49,7 +64,6 @@
 - switchport
 - pulumi-oci
 - fastcaddy
-- pyeasyphd
 - beancode
 - agno
 - meta-spec
@@ -70,20 +84,3 @@
 - tapm-distro
 - effspm
 - dc43-contracts-app
-- dc43-integrations
-- dc43-service-backends
-- tapm-instrumentation
-- dist-py-module
-- dc43-service-clients
-- dc43
-- aider-ce
-- ospac
-- ocp-gordon
-- pytest-homeassistant-custom-component
-- mofa-core
-- typer-invoke
-- cc-py-commons
-- acdc_aws_etl_pipeline
-- google-colab-selenium
-- tensorblob
-- easy-model-deployer

@@ -1,0 +1,11 @@
+{
+  "name": "datasketch",
+  "version": "1.7.0",
+  "summary": "Probabilistic data structures for processing and searching very large datasets",
+  "author": "ekzhu",
+  "license": "MIT",
+  "home_page": "https://ekzhu.github.io/datasketch",
+  "download_filename": "datasketch-1.7.0.tar.gz",
+  "download_time": "2025-11-05T05:54:57.999886",
+  "package_url": "https://pypi.org/project/datasketch/"
+}
