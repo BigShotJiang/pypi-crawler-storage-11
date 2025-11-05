@@ -1,0 +1,11 @@
+{
+  "name": "swaystatus",
+  "version": "0.11.0",
+  "summary": "Generate a status line for swaybar",
+  "author": "Jeremy Cantrell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swaystatus-0.11.0.tar.gz",
+  "download_time": "2025-11-05T04:46:32.254776",
+  "package_url": "https://pypi.org/project/swaystatus/"
+}

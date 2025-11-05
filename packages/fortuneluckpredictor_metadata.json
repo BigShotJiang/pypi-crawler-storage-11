@@ -1,11 +1,11 @@
 {
   "name": "fortuneluckpredictor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Fortune & luck predictor. Returns lucky numbers, fortunes, and horoscope-like results.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fortuneluckpredictor-1.0.1.tar.gz",
-  "download_time": "2025-11-05T04:25:44.738688",
+  "download_filename": "fortuneluckpredictor-1.0.2.tar.gz",
+  "download_time": "2025-11-05T04:46:19.229622",
   "package_url": "https://pypi.org/project/fortuneluckpredictor/"
 }

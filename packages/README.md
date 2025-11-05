@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T04:26:24.312393
-- **Total Packages**: 88
-- **Total Size**: 29.28 MB
+- **Download Time**: 2025-11-05T04:47:07.774937
+- **Total Packages**: 87
+- **Total Size**: 15.33 MB
 
 ## Packages List
+- judgeval
+- simpletextwriter
+- acdc_aws_etl_pipeline
+- more-compute
+- fortuneluckpredictor
+- eatnyc
+- zhkj-plugins-parent
+- cb-events
+- analysis3054
+- starrail_damage_cal
+- smu-ontwins-demo
+- chaos-utils
+- abi-core-ai
+- fastapi-initializr
+- textwrite
+- toastapi
+- easy-jar-reader
+- az-perfwatch
+- monocle-test-tools
+- monocle-mcp
+- monocle-apptrace
+- perforatedbp
+- arabic-conjugator
+- armpicom
+- howto-cli-ai
+- swaystatus
+- perforatedai
+- kondoo
+- WrenchCL
+- dwave-cloud-client
+- effspm
+- agentex-sdk
+- hidden-regime
+- fiddler-langgraph
+- odoo-addons-oca-website
+- minitap-mcp
+- lazyregistry
+- odoo-addons-oca-web
+- PROCS-Promotion-Tool
+- keras-nlp-nightly
+- keras-hub-nightly
+- vector-matrix-overloading
 - bgp-data-interface
 - fastgenerateapi
 - i2ptunnel
@@ -18,10 +60,7 @@
 - orthax
 - zendriver
 - odoo-addons-oca-stock-logistics-workflow
-- hidden-regime
-- fastapi-initializr
 - daemonpy
-- fortuneluckpredictor
 - physics-1
 - modal
 - agent-mcp-gateway
@@ -38,7 +77,6 @@
 - pydantic-ai
 - clai
 - django-easyjwt
-- kondoo
 - chatterer
 - TopDownHockey-Scraper
 - pyspecan
@@ -53,44 +91,5 @@
 - chromedriver-binary
 - pypomes-core
 - rapyuta-io-cli
-- effspm
 - openssh-synchronization
 - AutoImblearn
-- codecipher
-- odoo-addon-sale-stock-delivery-address
-- odoo-addon-sale-order-carrier-auto-assign
-- tune-jax
-- invcrypt
-- xmind-mcp
-- syft-flwr
-- odoo-addons-oca-rma
-- robosystems-client
-- mnemo-lib
-- phys2cvr
-- raystack-proton
-- security-verifiers-utils
-- singlem
-- code-puppy
-- odoo-addon-queue-job
-- mcp-ssh-session
-- douyin-mcp-server1
-- anyenv
-- glitter-cli
-- antchain-realperson
-- mock-spark
-- qmeasure
-- pulumi-pagerduty
-- sourcescribe
-- aiauto-client
-- ocr-stream
-- starbash
-- db-handy
-- priorityx
-- alibabacloud-cdn20180510
-- safeshield
-- pulumi-ise
-- jetbase
-- hybmkg-pycast
-- sembicho-cli
-- nucleation
-- switchport

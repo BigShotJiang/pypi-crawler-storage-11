@@ -1,11 +1,11 @@
 {
   "name": "fastapi-initializr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A modern CLI tool that instantly scaffolds production-ready FastAPI project structures with best practices, interactive prompts, and optional configurations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_initializr-1.0.0.tar.gz",
-  "download_time": "2025-11-05T04:25:43.664834",
+  "download_filename": "fastapi_initializr-1.0.2.tar.gz",
+  "download_time": "2025-11-05T04:46:24.723354",
   "package_url": "https://pypi.org/project/fastapi-initializr/"
 }

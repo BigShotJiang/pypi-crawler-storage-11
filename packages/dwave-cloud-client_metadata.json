@@ -1,11 +1,11 @@
 {
   "name": "dwave-cloud-client",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "summary": "A minimal client for interacting with D-Wave cloud resources.",
   "author": "D-Wave Systems Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/dwavesystems/dwave-cloud-client",
-  "download_filename": "dwave_cloud_client-0.14.2.tar.gz",
-  "download_time": "2025-11-05T01:43:17.506788",
+  "download_filename": "dwave_cloud_client-0.14.3.tar.gz",
+  "download_time": "2025-11-05T04:46:34.775336",
   "package_url": "https://pypi.org/project/dwave-cloud-client/"
 }

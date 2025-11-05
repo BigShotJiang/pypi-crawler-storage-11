@@ -1,11 +1,11 @@
 {
   "name": "eatnyc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tiny NYC restaurant recommender near NYU.",
   "author": "Team Avalon",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eatnyc-0.1.1.tar.gz",
-  "download_time": "2025-11-05T03:52:42.811120",
+  "download_filename": "eatnyc-0.1.2.tar.gz",
+  "download_time": "2025-11-05T04:46:19.809489",
   "package_url": "https://pypi.org/project/eatnyc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vector-matrix-overloading",
+  "version": "0.1.0",
+  "summary": "벡터와 행렬 연산을 위한 연산자 오버로딩 패키지",
+  "author": "Dongbin Shin",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/vector-matrix-overloading",
+  "download_filename": "vector_matrix_overloading-0.1.0.tar.gz",
+  "download_time": "2025-11-05T04:46:42.351487",
+  "package_url": "https://pypi.org/project/vector-matrix-overloading/"
+}
