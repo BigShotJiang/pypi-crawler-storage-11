@@ -1,11 +1,11 @@
 {
   "name": "aigroup-econ-mcp",
-  "version": "1.4.1",
-  "summary": "专业计量经济学MCP工具 - 100%覆盖Stata核心功能，50项专业分析工具，支持CSV/JSON/TXT格式，让大模型更智能地进行数据分析",
+  "version": "1.4.3",
+  "summary": "专业计量经济学MCP工具 - 100%覆盖Stata核心功能，30+项专业分析工具，支持CSV/JSON/TXT/Excel格式，让大模型更智能地进行数据分析",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aigroup_econ_mcp-1.4.1.tar.gz",
-  "download_time": "2025-11-03T14:21:26.211092",
+  "download_filename": "aigroup_econ_mcp-1.4.3.tar.gz",
+  "download_time": "2025-11-05T12:45:02.217210",
   "package_url": "https://pypi.org/project/aigroup-econ-mcp/"
 }

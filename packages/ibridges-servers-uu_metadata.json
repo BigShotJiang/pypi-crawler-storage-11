@@ -1,0 +1,11 @@
+{
+  "name": "ibridges-servers-uu",
+  "version": "0.3.0",
+  "summary": "iRODS environments for connecting to Utrecht University YoDa servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ibridges_servers_uu-0.3.0.tar.gz",
+  "download_time": "2025-11-05T12:45:04.337578",
+  "package_url": "https://pypi.org/project/ibridges-servers-uu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-kpi-card",
+  "version": "0.1.2",
+  "summary": "A beautiful, interactive KPI card component for Streamlit with time series visualization",
+  "author": "pjoachims",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamlit_kpi_card-0.1.2.tar.gz",
+  "download_time": "2025-11-05T12:45:17.334975",
+  "package_url": "https://pypi.org/project/streamlit-kpi-card/"
+}

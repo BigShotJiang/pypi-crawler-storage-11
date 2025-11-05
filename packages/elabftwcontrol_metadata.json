@@ -1,0 +1,11 @@
+{
+  "name": "elabftwcontrol",
+  "version": "0.2.4",
+  "summary": "Package for easily interacting with eLabFTW data from the cli and in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elabftwcontrol-0.2.4.tar.gz",
+  "download_time": "2025-11-05T12:45:02.804739",
+  "package_url": "https://pypi.org/project/elabftwcontrol/"
+}

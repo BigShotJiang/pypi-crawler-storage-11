@@ -1,0 +1,11 @@
+{
+  "name": "substrait",
+  "version": "0.25.0",
+  "summary": "A python package for Substrait.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "substrait-0.25.0.tar.gz",
+  "download_time": "2025-11-05T12:45:17.938082",
+  "package_url": "https://pypi.org/project/substrait/"
+}

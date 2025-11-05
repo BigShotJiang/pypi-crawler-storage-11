@@ -1,0 +1,11 @@
+{
+  "name": "fxdc",
+  "version": "5.0.0",
+  "summary": "This Package Parses FxDC file and returns the object",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fxdc-5.0.0.tar.gz",
+  "download_time": "2025-11-05T12:45:15.289125",
+  "package_url": "https://pypi.org/project/fxdc/"
+}

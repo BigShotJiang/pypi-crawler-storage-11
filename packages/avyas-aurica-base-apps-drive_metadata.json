@@ -1,11 +1,11 @@
 {
   "name": "avyas-aurica-base-apps-drive",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "summary": "Aurica app: drive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avyas_aurica_base_apps_drive-3.0.0.tar.gz",
-  "download_time": "2025-11-05T11:53:01.453368",
+  "download_filename": "avyas_aurica_base_apps_drive-3.0.2.tar.gz",
+  "download_time": "2025-11-05T12:44:48.932700",
   "package_url": "https://pypi.org/project/avyas-aurica-base-apps-drive/"
 }

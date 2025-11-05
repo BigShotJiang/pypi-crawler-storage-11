@@ -1,11 +1,11 @@
 {
   "name": "mcp-mineru",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for MinerU - Parse PDFs and images (OCR) with MLX acceleration on Apple Silicon",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_mineru-0.1.1.tar.gz",
-  "download_time": "2025-11-05T11:40:55.580705",
+  "download_filename": "mcp_mineru-0.1.2.tar.gz",
+  "download_time": "2025-11-05T12:45:07.982457",
   "package_url": "https://pypi.org/project/mcp-mineru/"
 }
