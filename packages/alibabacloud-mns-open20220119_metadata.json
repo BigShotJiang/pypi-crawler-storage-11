@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-mns-open20220119",
+  "version": "1.3.3",
+  "summary": "Alibaba Cloud Mns-open (20220119) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_mns_open20220119-1.3.3.tar.gz",
+  "download_time": "2025-11-05T17:21:37.933926",
+  "package_url": "https://pypi.org/project/alibabacloud-mns-open20220119/"
+}

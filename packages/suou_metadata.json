@@ -1,11 +1,11 @@
 {
   "name": "suou",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "casual utility library for coding QoL",
   "author": "Sakuragasaki46",
   "license": null,
   "home_page": null,
-  "download_filename": "suou-0.8.0-py3-none-any.whl",
-  "download_time": "2025-11-05T09:56:57.262876",
+  "download_filename": "suou-0.8.1-py3-none-any.whl",
+  "download_time": "2025-11-05T17:21:39.476042",
   "package_url": "https://pypi.org/project/suou/"
 }

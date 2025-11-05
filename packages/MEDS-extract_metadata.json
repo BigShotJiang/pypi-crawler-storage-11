@@ -1,0 +1,11 @@
+{
+  "name": "MEDS-extract",
+  "version": "0.5.0",
+  "summary": "MEDS ETL building support leveraging MEDS-Transforms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meds_extract-0.5.0.tar.gz",
+  "download_time": "2025-11-05T17:21:47.902252",
+  "package_url": "https://pypi.org/project/MEDS-extract/"
+}

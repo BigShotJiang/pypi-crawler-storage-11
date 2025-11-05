@@ -1,0 +1,11 @@
+{
+  "name": "crispo",
+  "version": "1.0.0",
+  "summary": "Automated co-design of ML predictors and learning-augmented algorithms",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/crispo",
+  "download_filename": "crispo-1.0.0.tar.gz",
+  "download_time": "2025-11-05T17:21:36.365085",
+  "package_url": "https://pypi.org/project/crispo/"
+}

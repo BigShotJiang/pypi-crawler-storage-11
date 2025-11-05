@@ -1,0 +1,11 @@
+{
+  "name": "flexible-schema",
+  "version": "0.1.1",
+  "summary": "A simple class to aid in defining flexible schemas for PyArrow datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flexible_schema-0.1.1.tar.gz",
+  "download_time": "2025-11-05T17:21:45.777060",
+  "package_url": "https://pypi.org/project/flexible-schema/"
+}

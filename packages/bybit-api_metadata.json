@@ -1,11 +1,11 @@
 {
   "name": "bybit-api",
-  "version": "0.0.100",
+  "version": "0.0.101",
   "summary": "bybit crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bybit_api-0.0.100.tar.gz",
-  "download_time": "2025-11-03T18:50:14.614959",
+  "download_filename": "bybit_api-0.0.101.tar.gz",
+  "download_time": "2025-11-05T17:22:07.179712",
   "package_url": "https://pypi.org/project/bybit-api/"
 }
