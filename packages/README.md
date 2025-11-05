@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T18:28:44.868876
-- **Total Packages**: 84
-- **Total Size**: 66.4 MB
+- **Download Time**: 2025-11-05T18:32:23.607724
+- **Total Packages**: 83
+- **Total Size**: 11.23 MB
 
 ## Packages List
+- orange3-example
+- tornadopy
+- machinelearnnning
+- gs-quant
+- homeharvest
+- ulta
+- pulumi-azuread
+- retell-sdk
+- chuk-artifacts
+- orgo
+- esentity
+- odoo-addon-web-responsive
+- mitogen
+- agentkernel-mongo
+- agenta
+- rediacc
+- recurly
+- pycarlo
 - weakincentives
 - pyALF
 - ds9samp
@@ -21,7 +39,6 @@
 - aidge-learning
 - SquirroClient
 - availsim4
-- tornadopy
 - sysnet-pyutils
 - datasette
 - kmport
@@ -54,39 +71,21 @@
 - pibs
 - ospac
 - tendril-apiserver-core
-- machinelearnnning
 - matplobbot-shared
 - modal
 - kubiya-control-plane-api
 - figpack
-- orgo
 - mpld3
 - aiohomematic-test-support
-- pycarlo
 - emojiguessr
 - aiohomematic
 - arthur-client
 - extrakit
 - ovos-dinkum-listener
 - gsheet-tools
-- agentkernel-mongo
 - libcrypto
 - tendril-auth
 - recce-nightly
 - mirmod
 - siga-mcp
 - webbed-duck
-- snorbyte
-- Equimo
-- galapagos-evo
-- cid-cmd
-- x-transformers
-- railtracks-cli
-- hockey-blast-common-lib
-- railtracks
-- notdiamond
-- icsneopy
-- pixelemon
-- datacosmos
-- ailoos-sdk
-- dmaikjsit
