@@ -1,0 +1,11 @@
+{
+  "name": "caerp-payment",
+  "version": "2024.0.11",
+  "summary": "caerp_payment",
+  "author": "Majerti",
+  "license": "GPLv3",
+  "home_page": "https://framagit.org/caerp/caerp_payment",
+  "download_filename": "caerp_payment-2024.0.11.tar.gz",
+  "download_time": "2025-11-05T21:53:24.604317",
+  "package_url": "https://pypi.org/project/caerp-payment/"
+}
