@@ -1,11 +1,11 @@
 {
   "name": "dcex",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "A Lightweight Python Package for Low-Latency and Cross-Exchange Trading.",
   "author": "pg56714",
   "license": null,
   "home_page": null,
-  "download_filename": "dcex-0.9.1.tar.gz",
-  "download_time": "2025-11-05T08:30:47.372289",
+  "download_filename": "dcex-0.9.2.tar.gz",
+  "download_time": "2025-11-05T09:57:01.040933",
   "package_url": "https://pypi.org/project/dcex/"
 }

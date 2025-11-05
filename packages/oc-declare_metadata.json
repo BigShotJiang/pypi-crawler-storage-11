@@ -1,0 +1,11 @@
+{
+  "name": "oc-declare",
+  "version": "0.1.1",
+  "summary": "Python Bindings for OC-DECLARE: Discovering Object-Centric Declarative Patterns with Synchronization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oc_declare-0.1.1.tar.gz",
+  "download_time": "2025-11-05T09:56:55.133458",
+  "package_url": "https://pypi.org/project/oc-declare/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Qubx",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "summary": "Qubx - Quantitative Trading Framework",
   "author": "Dmitry Marienko",
   "license": null,
   "home_page": null,
-  "download_filename": "qubx-0.7.9.tar.gz",
-  "download_time": "2025-11-04T13:35:33.022835",
+  "download_filename": "qubx-0.7.10.tar.gz",
+  "download_time": "2025-11-05T09:56:49.157237",
   "package_url": "https://pypi.org/project/Qubx/"
 }

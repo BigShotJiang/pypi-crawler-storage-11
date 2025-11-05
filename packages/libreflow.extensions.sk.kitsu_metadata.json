@@ -1,0 +1,11 @@
+{
+  "name": "libreflow.extensions.sk.kitsu",
+  "version": "1.0.2",
+  "summary": null,
+  "author": "LFS",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/lfs.coop/libreflow/libreflow_launcher",
+  "download_filename": "libreflow_extensions_sk_kitsu-1.0.2.tar.gz",
+  "download_time": "2025-11-05T09:56:49.694553",
+  "package_url": "https://pypi.org/project/libreflow.extensions.sk.kitsu/"
+}
