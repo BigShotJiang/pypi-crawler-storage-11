@@ -1,0 +1,11 @@
+{
+  "name": "pymurmur",
+  "version": "0.0.1",
+  "summary": "Python port of go-murmur for simple password storage",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pymurmur-0.0.1.tar.gz",
+  "download_time": "2025-11-05T18:28:11.031086",
+  "package_url": "https://pypi.org/project/pymurmur/"
+}

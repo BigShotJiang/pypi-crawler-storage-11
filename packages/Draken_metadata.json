@@ -1,11 +1,11 @@
 {
   "name": "Draken",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "Cython/Arrow Interop",
   "author": "@joocer",
   "license": null,
   "home_page": "https://github.com/mabel-dev/draken/",
-  "download_filename": "draken-0.3.0-cp310-cp310-macosx_10_15_universal2.whl",
-  "download_time": "2025-11-05T08:53:33.833486",
+  "download_filename": "draken-0.4.2.tar.gz",
+  "download_time": "2025-11-05T18:28:00.165529",
   "package_url": "https://pypi.org/project/Draken/"
 }

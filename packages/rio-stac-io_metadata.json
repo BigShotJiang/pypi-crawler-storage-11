@@ -1,0 +1,11 @@
+{
+  "name": "rio-stac-io",
+  "version": "0.3.5",
+  "summary": "A rasterio extension to open STAC Items and ItemCollections using native GDAL drivers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rio_stac_io-0.3.5.tar.gz",
+  "download_time": "2025-11-05T18:28:13.622664",
+  "package_url": "https://pypi.org/project/rio-stac-io/"
+}

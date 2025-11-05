@@ -1,0 +1,11 @@
+{
+  "name": "pibs",
+  "version": "0.1.0",
+  "summary": "PIBS: Permutational Invariance Block Solver implements a numerically exact method for solving the dissipative Tavis-Cummings model with local losses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pibs-0.1.0.tar.gz",
+  "download_time": "2025-11-05T18:28:23.642059",
+  "package_url": "https://pypi.org/project/pibs/"
+}

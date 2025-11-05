@@ -1,0 +1,11 @@
+{
+  "name": "xai-evals",
+  "version": "0.0.12",
+  "summary": "A package for model explainability and explainability comparision for tabular data",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/AryaXAI/xai_evals",
+  "download_filename": "xai_evals-0.0.12.tar.gz",
+  "download_time": "2025-11-05T18:28:00.738174",
+  "package_url": "https://pypi.org/project/xai-evals/"
+}
