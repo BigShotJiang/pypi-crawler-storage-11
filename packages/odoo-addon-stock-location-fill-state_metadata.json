@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-location-fill-state",
+  "version": "18.0.1.1.0",
+  "summary": "This module allows to identify the fill state of stock locations",
+  "author": "ACSONE SA/NV, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_location_fill_state-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-11-05T08:54:11.795182",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-location-fill-state/"
+}

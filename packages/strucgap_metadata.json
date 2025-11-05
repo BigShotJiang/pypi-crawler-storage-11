@@ -1,0 +1,11 @@
+{
+  "name": "strucgap",
+  "version": "1.1.4",
+  "summary": "Structural and site-specific Glycoproteomics Analysis Platform",
+  "author": "Muyao Yang",
+  "license": null,
+  "home_page": "https://github.com/your-username/StrucGAP",
+  "download_filename": "strucgap-1.1.4.tar.gz",
+  "download_time": "2025-11-05T08:53:35.480470",
+  "package_url": "https://pypi.org/project/strucgap/"
+}

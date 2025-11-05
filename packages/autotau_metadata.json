@@ -1,11 +1,11 @@
 {
   "name": "autotau",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Automated time constant (tau) fitting tool with decoupled window search and manual fitting support",
   "author": "Donghao Li",
   "license": null,
   "home_page": "https://github.com/Durian-Leader/autotau",
-  "download_filename": "autotau-0.4.3.tar.gz",
-  "download_time": "2025-11-05T07:42:11.424303",
+  "download_filename": "autotau-0.4.4.tar.gz",
+  "download_time": "2025-11-05T08:53:47.305509",
   "package_url": "https://pypi.org/project/autotau/"
 }

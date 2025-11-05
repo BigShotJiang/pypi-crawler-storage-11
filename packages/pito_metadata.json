@@ -1,0 +1,11 @@
+{
+  "name": "pito",
+  "version": "0.1.1",
+  "summary": "Pito: A lightweight dynamic programatically static pdf document generator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pito-0.1.1.tar.gz",
+  "download_time": "2025-11-05T08:53:41.999280",
+  "package_url": "https://pypi.org/project/pito/"
+}

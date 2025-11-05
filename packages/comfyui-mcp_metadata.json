@@ -1,11 +1,11 @@
 {
   "name": "comfyui-mcp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comfyui_mcp-0.0.3.tar.gz",
-  "download_time": "2025-11-04T03:49:55.446324",
+  "download_filename": "comfyui_mcp-0.0.4.tar.gz",
+  "download_time": "2025-11-05T08:54:10.210342",
   "package_url": "https://pypi.org/project/comfyui-mcp/"
 }

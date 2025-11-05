@@ -1,11 +1,11 @@
 {
   "name": "agent-tools-drnt",
-  "version": "0.1.5",
+  "version": "0.2.1",
   "summary": "Worktree-based agent workflow management toolkit",
   "author": "Agent Tools Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_tools_drnt-0.1.5.tar.gz",
-  "download_time": "2025-11-05T08:30:10.823473",
+  "download_filename": "agent_tools_drnt-0.2.1.tar.gz",
+  "download_time": "2025-11-05T08:53:37.634503",
   "package_url": "https://pypi.org/project/agent-tools-drnt/"
 }

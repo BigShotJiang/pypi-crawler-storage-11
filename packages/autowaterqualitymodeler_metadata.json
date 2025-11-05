@@ -1,11 +1,11 @@
 {
   "name": "autowaterqualitymodeler",
-  "version": "4.5.2",
+  "version": "4.6.1",
   "summary": "Automatic water quality spectral modeling tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autowaterqualitymodeler-4.5.2.tar.gz",
-  "download_time": "2025-11-04T10:50:03.346906",
+  "download_filename": "autowaterqualitymodeler-4.6.1.tar.gz",
+  "download_time": "2025-11-05T08:53:46.261491",
   "package_url": "https://pypi.org/project/autowaterqualitymodeler/"
 }

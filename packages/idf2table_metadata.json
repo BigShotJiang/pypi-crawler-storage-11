@@ -1,0 +1,11 @@
+{
+  "name": "idf2table",
+  "version": "0.1.9",
+  "summary": "Convertir des fichiers EnergyPlus IDF en DataFrames pandas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "idf2table-0.1.9.tar.gz",
+  "download_time": "2025-11-05T08:53:44.655733",
+  "package_url": "https://pypi.org/project/idf2table/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "maskerlogger",
+  "version": "0.4.0",
+  "summary": "mask your secrets from your logs",
+  "author": "Tamar Galer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maskerlogger-0.4.0.tar.gz",
+  "download_time": "2025-11-05T08:53:49.997608",
+  "package_url": "https://pypi.org/project/maskerlogger/"
+}
