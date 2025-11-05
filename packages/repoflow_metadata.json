@@ -1,0 +1,11 @@
+{
+  "name": "repoflow",
+  "version": "1.0.0",
+  "summary": "自动化项目发布工具 - 简化从本地到GitHub的完整流程",
+  "author": "BACH-AI-Tools",
+  "license": "MIT",
+  "home_page": "https://github.com/BACH-AI-Tools/RepoFlow",
+  "download_filename": "repoflow-1.0.0.tar.gz",
+  "download_time": "2025-11-05T08:30:02.132926",
+  "package_url": "https://pypi.org/project/repoflow/"
+}

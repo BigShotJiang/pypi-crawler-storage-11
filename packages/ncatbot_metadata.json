@@ -1,11 +1,11 @@
 {
   "name": "ncatbot",
-  "version": "4.2.10",
+  "version": "4.2.10.post1",
   "summary": "NcatBot，基于协议的QQ机器人Python SDK",
   "author": "木子",
   "license": "MIT",
   "home_page": "https://github.com/liyihao1110/ncatbot",
-  "download_filename": "ncatbot-4.2.10.tar.gz",
-  "download_time": "2025-11-05T03:52:51.385606",
+  "download_filename": "ncatbot-4.2.10.post1.tar.gz",
+  "download_time": "2025-11-05T08:30:13.706758",
   "package_url": "https://pypi.org/project/ncatbot/"
 }
