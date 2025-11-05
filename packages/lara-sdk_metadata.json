@@ -1,0 +1,11 @@
+{
+  "name": "lara-sdk",
+  "version": "1.4.7",
+  "summary": "A Python library for Lara's API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lara_sdk-1.4.7.tar.gz",
+  "download_time": "2025-11-05T10:47:54.433617",
+  "package_url": "https://pypi.org/project/lara-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sbcli-dev",
+  "version": "19.2.23",
+  "summary": "CLI for managing SimplyBlock cluster",
+  "author": "Hamdy",
+  "license": null,
+  "home_page": "https://www.simplyblock.io/",
+  "download_filename": "sbcli_dev-19.2.23.tar.gz",
+  "download_time": "2025-11-05T10:47:49.716475",
+  "package_url": "https://pypi.org/project/sbcli-dev/"
+}

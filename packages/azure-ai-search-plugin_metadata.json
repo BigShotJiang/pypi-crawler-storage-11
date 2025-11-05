@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-search-plugin",
+  "version": "0.2.1",
+  "summary": "Reusable Azure Cognitive Search plugin for Semantic Kernel",
+  "author": "Sivaranjani",
+  "license": "MIT",
+  "home_page": "https://github.com/Ranjanisiva36/Azure_ai_search",
+  "download_filename": "azure_ai_search_plugin-0.2.1.tar.gz",
+  "download_time": "2025-11-05T10:48:01.756764",
+  "package_url": "https://pypi.org/project/azure-ai-search-plugin/"
+}

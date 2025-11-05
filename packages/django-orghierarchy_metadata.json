@@ -1,0 +1,11 @@
+{
+  "name": "django-orghierarchy",
+  "version": "0.6.2",
+  "summary": "Reusable Django application for hierarchical organizations.",
+  "author": "City of Helsinki",
+  "license": "MIT License",
+  "home_page": "https://github.com/City-of-Helsinki/django-orghierarchy",
+  "download_filename": "django_orghierarchy-0.6.2.tar.gz",
+  "download_time": "2025-11-05T10:48:08.037933",
+  "package_url": "https://pypi.org/project/django-orghierarchy/"
+}

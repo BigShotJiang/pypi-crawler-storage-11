@@ -1,0 +1,11 @@
+{
+  "name": "bymail",
+  "version": "3.0.0",
+  "summary": "ByMail is a lightweight Python library to fetch inbox messages from temporary email providers. It validates domains and supports both one-shot and continuous (looping) fetching.",
+  "author": "AhMed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bymail-3.0.0.tar.gz",
+  "download_time": "2025-11-05T10:47:58.637796",
+  "package_url": "https://pypi.org/project/bymail/"
+}
