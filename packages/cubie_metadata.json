@@ -1,0 +1,11 @@
+{
+  "name": "cubie",
+  "version": "0.0.5",
+  "summary": "CUDA Batch Integration Engine - for doing a lot at once.",
+  "author": "Chris Cameron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cubie-0.0.5.tar.gz",
+  "download_time": "2025-11-05T23:42:14.180930",
+  "package_url": "https://pypi.org/project/cubie/"
+}

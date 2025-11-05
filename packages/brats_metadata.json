@@ -1,11 +1,11 @@
 {
   "name": "brats",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "BraTS algorithms",
   "author": "Marcel Rosier",
   "license": null,
   "home_page": null,
-  "download_filename": "brats-0.1.5.tar.gz",
-  "download_time": "2025-11-05T15:44:32.715740",
+  "download_filename": "brats-0.1.6.tar.gz",
+  "download_time": "2025-11-05T23:42:18.176155",
   "package_url": "https://pypi.org/project/brats/"
 }

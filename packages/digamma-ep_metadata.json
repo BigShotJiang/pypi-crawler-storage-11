@@ -1,11 +1,11 @@
 {
   "name": "digamma-ep",
-  "version": "1.3.0",
-  "summary": "Symbolic audit framework for divergence, drift, and compliance",
-  "author": "Cesar (Epe Piancé Maria II)",
-  "license": null,
-  "home_page": null,
-  "download_filename": "digamma_ep-1.3.0.tar.gz",
-  "download_time": "2025-11-01T22:51:23.366301",
+  "version": "1.3.1",
+  "summary": "Symbolic audit framework with CZVS, curvature zones, and compliance logic",
+  "author": "Cerene Salt",
+  "license": "MIT",
+  "home_page": "https://github.com/Cerene-Salt/Digamma-Prime-Framework",
+  "download_filename": "digamma_ep-1.3.1.tar.gz",
+  "download_time": "2025-11-05T23:42:13.604306",
   "package_url": "https://pypi.org/project/digamma-ep/"
 }

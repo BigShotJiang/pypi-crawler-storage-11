@@ -1,0 +1,11 @@
+{
+  "name": "kandown",
+  "version": "0.1.4",
+  "summary": "Kandown is a lightweight, markdown-inspired Kanban board application that lets you manage tasks using a simple YAML file, featuring a web UI, image and markdown support, and a hybrid demo mode for browser-based or local file storage.",
+  "author": "Maic Siemering",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kandown-0.1.4.tar.gz",
+  "download_time": "2025-11-05T23:42:08.929630",
+  "package_url": "https://pypi.org/project/kandown/"
+}

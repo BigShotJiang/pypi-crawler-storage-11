@@ -1,11 +1,11 @@
 {
   "name": "opendors",
-  "version": "0.1.dev19",
+  "version": "0.1.dev20",
   "summary": "Library for creating and interacting with OpenDORS datasets.",
   "author": "Stephan Druskat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendors-0.1.dev19.tar.gz",
-  "download_time": "2025-11-03T18:30:36.987043",
+  "download_filename": "opendors-0.1.dev20.tar.gz",
+  "download_time": "2025-11-05T23:42:16.466249",
   "package_url": "https://pypi.org/project/opendors/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Fringes",
+  "version": "2.0.0",
+  "summary": "Phase shifting algorithms for encoding and decoding sinusoidal fringe patterns.",
+  "author": "Christian Kludt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fringes-2.0.0.tar.gz",
+  "download_time": "2025-11-05T23:42:15.888516",
+  "package_url": "https://pypi.org/project/Fringes/"
+}
