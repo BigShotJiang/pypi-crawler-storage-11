@@ -1,0 +1,11 @@
+{
+  "name": "publish-sphinx-docs",
+  "version": "1.1.0",
+  "summary": "A simple Python CLI to publish your Sphinx documentation to a Github Pages or Gitlab Pages repository.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "publish_sphinx_docs-1.1.0.tar.gz",
+  "download_time": "2025-11-05T23:53:22.816105",
+  "package_url": "https://pypi.org/project/publish-sphinx-docs/"
+}

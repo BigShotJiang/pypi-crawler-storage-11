@@ -1,0 +1,11 @@
+{
+  "name": "whisper-api-sdk",
+  "version": "1.0.15",
+  "summary": "Whisper API v1",
+  "author": "Whisper API Support",
+  "license": null,
+  "home_page": "https://github.com/whisper-sec/sdk-python",
+  "download_filename": "whisper_api_sdk-1.0.15.tar.gz",
+  "download_time": "2025-11-05T23:53:25.461554",
+  "package_url": "https://pypi.org/project/whisper-api-sdk/"
+}

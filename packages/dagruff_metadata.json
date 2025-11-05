@@ -1,0 +1,11 @@
+{
+  "name": "dagruff",
+  "version": "1.0.0",
+  "summary": "An extremely fast Python linter for Apache Airflow DAG files",
+  "author": "DagRuff Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dagruff-1.0.0.tar.gz",
+  "download_time": "2025-11-05T23:53:24.427882",
+  "package_url": "https://pypi.org/project/dagruff/"
+}

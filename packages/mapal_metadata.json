@@ -1,0 +1,11 @@
+{
+  "name": "mapal",
+  "version": "1.1",
+  "summary": "MAPping ALloys - A Python library for mapping features and properties of alloys over compositional spaces.",
+  "author": "Dishant Beniwal; Pratik K. Ray",
+  "license": "MIT",
+  "home_page": "https://sites.google.com/view/mapal-pylib",
+  "download_filename": "mapal-1.1-py3-none-any.whl",
+  "download_time": "2025-11-05T23:53:20.219638",
+  "package_url": "https://pypi.org/project/mapal/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phantomwire",
-  "version": "0.1.0",
+  "version": "0.1.0.post2",
   "summary": "Defensive-offensive cybersecurity and networking analysis toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phantomwire-0.1.0.tar.gz",
-  "download_time": "2025-11-05T21:21:24.330983",
+  "download_filename": "phantomwire-0.1.0.post2.tar.gz",
+  "download_time": "2025-11-05T23:53:06.397808",
   "package_url": "https://pypi.org/project/phantomwire/"
 }

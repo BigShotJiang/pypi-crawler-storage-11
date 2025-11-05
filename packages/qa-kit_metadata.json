@@ -1,11 +1,11 @@
 {
   "name": "qa-kit",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "CLI + generator for REST API pytest integration tests with Allure reporting",
   "author": "Roshan Gupta",
   "license": "MIT",
   "home_page": "https://github.com/roshanguptamca/qa-kit",
-  "download_filename": "qa_kit-0.1.2.tar.gz",
-  "download_time": "2025-11-05T22:55:26.807380",
+  "download_filename": "qa_kit-0.1.5.tar.gz",
+  "download_time": "2025-11-05T23:53:21.777144",
   "package_url": "https://pypi.org/project/qa-kit/"
 }

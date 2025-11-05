@@ -1,20 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T23:42:41.426142
-- **Total Packages**: 75
-- **Total Size**: 15.46 MB
+- **Download Time**: 2025-11-05T23:53:52.067833
+- **Total Packages**: 85
+- **Total Size**: 16.15 MB
 
 ## Packages List
+- phantomwire
+- i2ptunnel
+- soap2rest
+- braindecode
+- riveter
+- gnetcli-server-bin
+- dataknobs-bots
+- dataknobs-llm
+- aind-disrnn-utils
+- pulumi-command
+- agent-framework-redis
+- agent-framework-purview
+- agent-framework-mem0
+- agent-framework-devui
+- agent-framework-core
+- agent-framework-copilotstudio
+- python-ecd
+- agent-framework-chatkit
+- agent-framework-azure-ai
+- agent-framework-anthropic
+- agent-framework-a2a
+- agent-framework
+- binary-survivor
+- langgraph-api
 - crystalwindow
+- pyclsp
+- mapal
+- Logbook
 - nkunyim-util
+- qa-kit
+- histomap
+- publish-sphinx-docs
+- agentmake
+- OpenRAFT
+- dagruff
+- pyagentic-core
+- whisper-api-sdk
+- digamma-ep
 - check-config
 - py-radix
 - webbed-duck
 - hyper-python-utils
 - pulumi-aws-apigateway
 - deephaven-coreplus-client
-- pyclsp
 - gwdetchar
 - RapidXml
 - zscaler-sdk-python
@@ -35,7 +70,6 @@
 - lean-lsp-mcp
 - async-lambda-unstable
 - ai-parrot
-- digamma-ep
 - cubie
 - c2cwsgiutils
 - nbmask
@@ -57,27 +91,3 @@
 - llm-dataclass
 - lunar-policy
 - pdf-oxide
-- google-cloud-aiplatform
-- minishare
-- ros-jazzy-shape-msgs
-- mx-platform-python
-- miseqinteropreader
-- leafmap
-- yearn-treasury
-- azureml-registry-tools
-- box-ai-agents-toolkit
-- ovos-tts-plugin-nos
-- kimimaro
-- nomic
-- avyas-aurica-base-apps-demand-supply
-- avyas-aurica-base-apps-chat-app
-- prompt-versioner
-- packaging-demo-cjknobla
-- mdxcanvas
-- byu_pytest_utils
-- flwr-nightly
-- directive
-- tornadopy
-- polysolve
-- stripe
-- kvk-connect
