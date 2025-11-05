@@ -1,22 +1,19 @@
 {
-  "download_time": "2025-11-05T22:22:40.476489",
+  "download_time": "2025-11-05T22:44:18.099911",
   "total_packages_downloaded": 86,
-  "total_size_mb": 52.82,
+  "total_size_mb": 6.16,
   "packages": [
-    "abstractllm",
-    "kbase-sdk-baseclient",
-    "CliSelf",
-    "qa-kit",
-    "maap-help-jupyter-extension",
     "CreativePython",
     "pypomes-iam",
     "polars-xml",
     "prime-sandboxes",
     "azulene-opal",
+    "maap-help-jupyter-extension",
     "chuk-artifacts",
     "framekit",
     "nora-lib",
     "nora-lib-impl",
+    "CliSelf",
     "honeybee-doe2",
     "robot-soccer-kit",
     "UncountablePythonSDK",
@@ -88,6 +85,9 @@
     "movie-barcodes",
     "kuzu-memory",
     "hpackage",
-    "plinkformatter"
+    "plinkformatter",
+    "edgartools",
+    "datavents",
+    "qsogrid"
   ]
 }

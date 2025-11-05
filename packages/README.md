@@ -1,25 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T22:22:40.476489
+- **Download Time**: 2025-11-05T22:44:18.099911
 - **Total Packages**: 86
-- **Total Size**: 52.82 MB
+- **Total Size**: 6.16 MB
 
 ## Packages List
-- abstractllm
-- kbase-sdk-baseclient
-- CliSelf
-- qa-kit
-- maap-help-jupyter-extension
 - CreativePython
 - pypomes-iam
 - polars-xml
 - prime-sandboxes
 - azulene-opal
+- maap-help-jupyter-extension
 - chuk-artifacts
 - framekit
 - nora-lib
 - nora-lib-impl
+- CliSelf
 - honeybee-doe2
 - robot-soccer-kit
 - UncountablePythonSDK
@@ -92,3 +89,6 @@
 - kuzu-memory
 - hpackage
 - plinkformatter
+- edgartools
+- datavents
+- qsogrid
