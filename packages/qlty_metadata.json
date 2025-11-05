@@ -1,0 +1,11 @@
+{
+  "name": "qlty",
+  "version": "0.3.0",
+  "summary": "Unstitch and stich back pytorch tensors",
+  "author": "Petrus H. Zwart",
+  "license": "BSD license",
+  "home_page": "https://github.com/phzwart/qlty",
+  "download_filename": "qlty-0.3.0.tar.gz",
+  "download_time": "2025-11-05T05:44:11.930494",
+  "package_url": "https://pypi.org/project/qlty/"
+}

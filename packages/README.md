@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T05:25:18.830227
-- **Total Packages**: 84
-- **Total Size**: 27.13 MB
+- **Download Time**: 2025-11-05T05:44:37.019332
+- **Total Packages**: 81
+- **Total Size**: 24.87 MB
 
 ## Packages List
-- deepseek-ocr
-- sensorvision-sdk
+- pybibtexer
+- aibread
+- abi-core-ai
+- joserfc
+- rby1-sdk
+- wayspiritmcp-enconly
+- sbase
+- basecase
+- pytest-seleniumbase
+- pytest-sbase
+- selenium-base
+- information-composer
+- seleniumbase
+- ladybug-comfort
+- honeybee-core
+- silero-vad
 - wiselib
+- nucleation
+- fin-infra
+- hk-cdp
+- aware-environment
+- helix.fhir.client.sdk
+- krx300-hj3415
+- mcp-bonuspay
+- terrakio-admin-api
+- terrakio-api
+- terrakio-core
+- orq-ai-sdk
+- rhino-health
+- il-supermarket-scraper
+- openai-agents
+- semantic-kernel-agent-factory
+- SurvivalEVAL
+- qlty
+- ladybug-core
+- awx-zipline-ai
+- pysiphon
+- crawler.dev
+- sensorvision-sdk
 - PyCriCodecsEx
 - switchport
 - pulumi-oci
@@ -20,14 +56,11 @@
 - paprwall
 - synapsia
 - dailyDecisionPackage
-- pysiphon
 - promptius-gui-schema
-- pybibtexer
 - csf-crypto
 - fiftyone-devicedetection-onpremise
 - fiftyone-devicedetection
 - fiftyone-devicedetection-shared
-- abi-core-ai
 - fiftyone-devicedetection-cloud
 - kondoo
 - pymicrosvc
@@ -49,44 +82,8 @@
 - pytest-homeassistant-custom-component
 - mofa-core
 - typer-invoke
-- aware-environment
 - cc-py-commons
 - acdc_aws_etl_pipeline
 - google-colab-selenium
 - tensorblob
 - easy-model-deployer
-- yta-video-frame-time
-- bgp-data-interface
-- extendedstim
-- packagedata
-- ats-coverage
-- curvpyutils
-- lazyregistry
-- gxl-ai-utils
-- grid-apps
-- omlish-cext
-- ommlds
-- omdev-cext
-- omdev-cli
-- omlish
-- omdev
-- ommlds-rs
-- omdev-rs
-- omextra
-- ominfra
-- omserv
-- omextra-cext
-- easy-jar-reader
-- iamdata
-- kimi-cli
-- machineconfig
-- banko-ai-assistant
-- cdk-factory
-- fastgenerateapi
-- agenticwerx-mcp-client
-- fastapi-initializr
-- donetick-mcp-server
-- vardefunc
-- streamlit-launcher
-- judgeval
-- simpletextwriter

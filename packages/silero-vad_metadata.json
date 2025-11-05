@@ -1,0 +1,11 @@
+{
+  "name": "silero-vad",
+  "version": "6.1.0",
+  "summary": "Voice Activity Detector (VAD) by Silero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "silero_vad-6.1.0-py3-none-any.whl",
+  "download_time": "2025-11-05T05:44:02.505757",
+  "package_url": "https://pypi.org/project/silero-vad/"
+}
