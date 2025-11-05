@@ -1,0 +1,11 @@
+{
+  "name": "CTPv",
+  "version": "0.2.3.post3",
+  "summary": "A toolbox of camera, Plücker, and transformation utilities",
+  "author": "Rhys Evans & Seppe Sels",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctpv-0.2.3.post3-py3-none-any.whl",
+  "download_time": "2025-11-05T11:19:59.509155",
+  "package_url": "https://pypi.org/project/CTPv/"
+}

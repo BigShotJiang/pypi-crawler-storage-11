@@ -1,0 +1,11 @@
+{
+  "name": "documentdataextraction",
+  "version": "0.0.155",
+  "summary": "Customer is not fetched correctly in one scanned grayscale PDF file, and on refresh, the customer name is not extracted in OCR (PPO), preventing YML template creation.",
+  "author": "Proteus Technology PVT. LTD.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "documentdataextraction-0.0.155-py3-none-any.whl",
+  "download_time": "2025-11-05T11:19:46.403309",
+  "package_url": "https://pypi.org/project/documentdataextraction/"
+}

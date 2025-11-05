@@ -1,0 +1,11 @@
+{
+  "name": "miz-dac",
+  "version": "0.4.1",
+  "summary": "Minimal measurement data analysis frame with nodes and container.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "miz_dac-0.4.1.tar.gz",
+  "download_time": "2025-11-05T11:19:44.861524",
+  "package_url": "https://pypi.org/project/miz-dac/"
+}

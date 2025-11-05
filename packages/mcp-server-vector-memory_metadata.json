@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-vector-memory",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "MCP server for semantic document memory with Redis vector store",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_vector_memory-0.4.2.tar.gz",
-  "download_time": "2025-11-05T10:48:25.847205",
+  "download_filename": "mcp_server_vector_memory-0.4.3.tar.gz",
+  "download_time": "2025-11-05T11:19:56.419825",
   "package_url": "https://pypi.org/project/mcp-server-vector-memory/"
 }

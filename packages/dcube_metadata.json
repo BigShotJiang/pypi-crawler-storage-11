@@ -1,0 +1,11 @@
+{
+  "name": "dcube",
+  "version": "1.0.2",
+  "summary": "stock data",
+  "author": null,
+  "license": null,
+  "home_page": "https://datacube.foundersc.com/",
+  "download_filename": "dcube-1.0.2.tar.gz",
+  "download_time": "2025-11-05T11:19:50.508862",
+  "package_url": "https://pypi.org/project/dcube/"
+}

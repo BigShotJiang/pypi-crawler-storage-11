@@ -1,0 +1,11 @@
+{
+  "name": "modalities",
+  "version": "0.4.0",
+  "summary": "Modalities, a PyTorch-native framework for distributed and reproducible foundation model training.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modalities-0.4.0.tar.gz",
+  "download_time": "2025-11-05T11:20:19.287864",
+  "package_url": "https://pypi.org/project/modalities/"
+}

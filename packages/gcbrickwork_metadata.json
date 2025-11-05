@@ -1,0 +1,11 @@
+{
+  "name": "gcbrickwork",
+  "version": "0.0.1",
+  "summary": "A library of tools to read various GameCube files",
+  "author": "Some Jake Guy",
+  "license": null,
+  "home_page": "https://github.com/SomeJakeGuy/gcbrickwork",
+  "download_filename": "gcbrickwork-0.0.1.tar.gz",
+  "download_time": "2025-11-05T11:19:54.363836",
+  "package_url": "https://pypi.org/project/gcbrickwork/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ipaddons",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Additional tools for the ipaddress standard library module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ipaddons-0.2.3.tar.gz",
-  "download_time": "2025-11-03T11:18:44.186763",
+  "download_filename": "ipaddons-0.3.1.tar.gz",
+  "download_time": "2025-11-05T11:19:45.890653",
   "package_url": "https://pypi.org/project/ipaddons/"
 }

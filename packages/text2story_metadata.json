@@ -1,11 +1,11 @@
 {
   "name": "text2story",
-  "version": "1.6.8.5",
+  "version": "1.6.8.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/LIAAD/Text2StoryPackage",
-  "download_filename": "text2story-1.6.8.5.tar.gz",
-  "download_time": "2025-11-05T10:47:56.520772",
+  "download_filename": "text2story-1.6.8.6.tar.gz",
+  "download_time": "2025-11-05T11:19:54.883976",
   "package_url": "https://pypi.org/project/text2story/"
 }

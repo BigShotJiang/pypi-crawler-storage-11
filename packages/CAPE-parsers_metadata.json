@@ -1,11 +1,11 @@
 {
   "name": "CAPE-parsers",
-  "version": "0.1.54",
+  "version": "0.1.55",
   "summary": "CAPE: Malware Configuration Extraction",
   "author": "Kevin O'Reilly",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cape_parsers-0.1.54.tar.gz",
-  "download_time": "2025-11-03T23:20:19.121947",
+  "download_filename": "cape_parsers-0.1.55.tar.gz",
+  "download_time": "2025-11-05T11:20:16.713258",
   "package_url": "https://pypi.org/project/CAPE-parsers/"
 }
