@@ -1,0 +1,11 @@
+{
+  "name": "iris-vector-rag",
+  "version": "0.2.0",
+  "summary": "Dead-simple library for building RAG applications with InterSystems IRIS",
+  "author": "InterSystems",
+  "license": "MIT",
+  "home_page": "https://github.com/intersystems/rag-templates",
+  "download_filename": "iris_vector_rag-0.2.0.tar.gz",
+  "download_time": "2025-11-05T19:07:32.300106",
+  "package_url": "https://pypi.org/project/iris-vector-rag/"
+}

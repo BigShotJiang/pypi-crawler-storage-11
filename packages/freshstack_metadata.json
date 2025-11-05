@@ -1,0 +1,11 @@
+{
+  "name": "freshstack",
+  "version": "0.0.6",
+  "summary": "A framework to generate realistic IR & RAG Benchmarks.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "freshstack-0.0.6.tar.gz",
+  "download_time": "2025-11-05T19:07:28.845721",
+  "package_url": "https://pypi.org/project/freshstack/"
+}

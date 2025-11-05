@@ -1,0 +1,11 @@
+{
+  "name": "chiapos",
+  "version": "2.0.12",
+  "summary": "Chia proof of space plotting, proving, and verifying (wraps C++)",
+  "author": "Mariano Sorgente",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Chia-Network/chiapos",
+  "download_filename": "chiapos-2.0.12.tar.gz",
+  "download_time": "2025-11-05T19:07:16.046146",
+  "package_url": "https://pypi.org/project/chiapos/"
+}

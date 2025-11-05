@@ -1,0 +1,11 @@
+{
+  "name": "parseq",
+  "version": "2025.11.0",
+  "summary": "ParSeq is a python software library for Parallel execution of Sequential data analysis.",
+  "author": "Konstantin Klementiev",
+  "license": "MIT License",
+  "home_page": "http://parseq.readthedocs.io",
+  "download_filename": "parseq-2025.11.0.tar.gz",
+  "download_time": "2025-11-05T19:07:21.824325",
+  "package_url": "https://pypi.org/project/parseq/"
+}
