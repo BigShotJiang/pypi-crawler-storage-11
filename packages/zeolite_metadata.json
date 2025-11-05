@@ -1,11 +1,11 @@
 {
   "name": "zeolite",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A library to process raw data into a structured format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zeolite-0.2.0.tar.gz",
-  "download_time": "2025-11-03T10:47:28.905261",
+  "download_filename": "zeolite-0.2.2.tar.gz",
+  "download_time": "2025-11-05T21:21:25.517798",
   "package_url": "https://pypi.org/project/zeolite/"
 }

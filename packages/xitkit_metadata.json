@@ -1,0 +1,11 @@
+{
+  "name": "xitkit",
+  "version": "2.1.0",
+  "summary": "A powerful command-line task management tool that parses and manages tasks from .xit and .md files using the x-it! format",
+  "author": "Christian",
+  "license": null,
+  "home_page": "https://github.com/hoechstleistungshaartrockner/xitkit",
+  "download_filename": "xitkit-2.1.0.tar.gz",
+  "download_time": "2025-11-05T21:21:31.554144",
+  "package_url": "https://pypi.org/project/xitkit/"
+}

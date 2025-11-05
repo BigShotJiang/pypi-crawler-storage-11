@@ -1,11 +1,11 @@
 {
   "name": "nkunyim-util",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "Nkunyim utilities package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nkunyim_util-0.3.9.tar.gz",
-  "download_time": "2025-11-04T17:42:42.180500",
+  "download_filename": "nkunyim_util-0.4.0.tar.gz",
+  "download_time": "2025-11-05T21:21:52.292321",
   "package_url": "https://pypi.org/project/nkunyim-util/"
 }

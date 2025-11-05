@@ -1,0 +1,11 @@
+{
+  "name": "globus-cli",
+  "version": "3.40.0",
+  "summary": "Globus CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "globus_cli-3.40.0.tar.gz",
+  "download_time": "2025-11-05T21:21:16.484588",
+  "package_url": "https://pypi.org/project/globus-cli/"
+}

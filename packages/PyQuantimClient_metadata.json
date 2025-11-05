@@ -1,0 +1,11 @@
+{
+  "name": "PyQuantimClient",
+  "version": "2.0.59",
+  "summary": "Python client to access quantIM services",
+  "author": "Daniel Velasquez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyquantimclient-2.0.59.tar.gz",
+  "download_time": "2025-11-05T21:21:29.941052",
+  "package_url": "https://pypi.org/project/PyQuantimClient/"
+}

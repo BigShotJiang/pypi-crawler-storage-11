@@ -1,0 +1,11 @@
+{
+  "name": "config-ninja",
+  "version": "2.0.1",
+  "summary": "Use special ninja powers to manage system configurations 🥷",
+  "author": "Bryant Finney",
+  "license": null,
+  "home_page": null,
+  "download_filename": "config_ninja-2.0.1.tar.gz",
+  "download_time": "2025-11-05T21:21:23.779758",
+  "package_url": "https://pypi.org/project/config-ninja/"
+}

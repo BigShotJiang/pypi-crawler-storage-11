@@ -1,0 +1,11 @@
+{
+  "name": "GEOS5FP",
+  "version": "1.3.2",
+  "summary": "generates rasters of near-real-time GEOS-5 FP near-surface meteorology",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geos5fp-1.3.2.tar.gz",
+  "download_time": "2025-11-05T21:22:05.174373",
+  "package_url": "https://pypi.org/project/GEOS5FP/"
+}
