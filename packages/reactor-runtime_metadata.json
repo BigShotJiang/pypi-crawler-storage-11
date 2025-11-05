@@ -1,11 +1,11 @@
 {
   "name": "reactor-runtime",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Reactor runtime with public model API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reactor_runtime-0.0.3.tar.gz",
-  "download_time": "2025-11-03T19:38:52.260326",
+  "download_filename": "reactor_runtime-0.0.4.tar.gz",
+  "download_time": "2025-11-05T22:22:29.998919",
   "package_url": "https://pypi.org/project/reactor-runtime/"
 }

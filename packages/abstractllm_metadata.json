@@ -1,0 +1,11 @@
+{
+  "name": "abstractllm",
+  "version": "1.1.5",
+  "summary": "A unified interface for large language models with support for OpenAI, Anthropic, Hugging Face, Ollama, and MLX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abstractllm-1.1.5.tar.gz",
+  "download_time": "2025-11-05T22:21:55.219034",
+  "package_url": "https://pypi.org/project/abstractllm/"
+}

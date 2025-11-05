@@ -1,11 +1,11 @@
 {
   "name": "fibermorph",
-  "version": "0.3.7",
+  "version": "0.3.11",
   "summary": "Toolkit for analyzing hair fiber morphology",
   "author": "tinalasisi",
   "license": "LICENSE",
   "home_page": "https://github.com/tinalasisi/fibermorph_update",
-  "download_filename": "fibermorph-0.3.7.tar.gz",
-  "download_time": "2025-11-05T20:18:21.985301",
+  "download_filename": "fibermorph-0.3.11.tar.gz",
+  "download_time": "2025-11-05T22:22:10.729524",
   "package_url": "https://pypi.org/project/fibermorph/"
 }

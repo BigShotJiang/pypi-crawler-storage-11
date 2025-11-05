@@ -1,11 +1,11 @@
 {
   "name": "rnaglib",
-  "version": "3.4.9",
+  "version": "3.4.10",
   "summary": "RNAglib: Tools for learning on the structure of RNA using 2.5D geometric representations",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "rnaglib-3.4.9.tar.gz",
-  "download_time": "2025-11-05T20:45:33.416517",
+  "download_filename": "rnaglib-3.4.10.tar.gz",
+  "download_time": "2025-11-05T22:22:06.616040",
   "package_url": "https://pypi.org/project/rnaglib/"
 }

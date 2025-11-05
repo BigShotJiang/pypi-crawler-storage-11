@@ -1,0 +1,11 @@
+{
+  "name": "bitfield-extended",
+  "version": "1.1.0",
+  "summary": "A bitfield diagram renderer",
+  "author": "Andreas Wambold",
+  "license": "MIT",
+  "home_page": "https://github.com/Taron686/bitfield",
+  "download_filename": "bitfield_extended-1.1.0.tar.gz",
+  "download_time": "2025-11-05T22:22:20.083898",
+  "package_url": "https://pypi.org/project/bitfield-extended/"
+}

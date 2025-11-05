@@ -1,11 +1,11 @@
 {
   "name": "data-path-config",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "A utility for managing data and log directory paths in Python projects",
   "author": "guocity",
   "license": null,
   "home_page": "https://github.com/guocity/data-path-config",
-  "download_filename": "data_path_config-0.5.6.tar.gz",
-  "download_time": "2025-11-05T21:21:26.631730",
+  "download_filename": "data_path_config-0.5.7.tar.gz",
+  "download_time": "2025-11-05T22:22:17.008651",
   "package_url": "https://pypi.org/project/data-path-config/"
 }
