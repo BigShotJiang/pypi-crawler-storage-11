@@ -1,14 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T04:47:07.774937
-- **Total Packages**: 87
-- **Total Size**: 15.33 MB
+- **Download Time**: 2025-11-05T05:00:32.680556
+- **Total Packages**: 86
+- **Total Size**: 29.43 MB
 
 ## Packages List
+- acdc_aws_etl_pipeline
+- yta-video-frame-time
+- bgp-data-interface
+- extendedstim
+- packagedata
+- pulumi-oci
+- ats-coverage
+- curvpyutils
+- ospac
+- lazyregistry
+- gxl-ai-utils
+- grid-apps
+- omlish-cext
+- ommlds
+- omdev-cext
+- omdev-cli
+- omlish
+- omdev
+- ommlds-rs
+- omdev-rs
+- omextra
+- ominfra
+- omserv
+- omextra-cext
+- easy-jar-reader
+- abi-core-ai
+- iamdata
+- kimi-cli
+- machineconfig
+- banko-ai-assistant
+- pyeasyphd
+- cdk-factory
+- fastgenerateapi
+- agenticwerx-mcp-client
+- fastapi-initializr
+- donetick-mcp-server
+- vardefunc
+- pybibtexer
+- streamlit-launcher
 - judgeval
 - simpletextwriter
-- acdc_aws_etl_pipeline
 - more-compute
 - fortuneluckpredictor
 - eatnyc
@@ -18,11 +56,8 @@
 - starrail_damage_cal
 - smu-ontwins-demo
 - chaos-utils
-- abi-core-ai
-- fastapi-initializr
 - textwrite
 - toastapi
-- easy-jar-reader
 - az-perfwatch
 - monocle-test-tools
 - monocle-mcp
@@ -42,14 +77,11 @@
 - fiddler-langgraph
 - odoo-addons-oca-website
 - minitap-mcp
-- lazyregistry
 - odoo-addons-oca-web
 - PROCS-Promotion-Tool
 - keras-nlp-nightly
 - keras-hub-nightly
 - vector-matrix-overloading
-- bgp-data-interface
-- fastgenerateapi
 - i2ptunnel
 - mathmaker
 - rentry.py
@@ -60,36 +92,3 @@
 - orthax
 - zendriver
 - odoo-addons-oca-stock-logistics-workflow
-- daemonpy
-- physics-1
-- modal
-- agent-mcp-gateway
-- smartswitch
-- snowflake-connector-python-nightly
-- curl-cffi
-- arthur-client
-- tailwhip
-- pydantic-graph
-- pydantic-evals
-- langbot-plugin
-- pydantic-ai-slim
-- pydantic-ai-examples
-- pydantic-ai
-- clai
-- django-easyjwt
-- chatterer
-- TopDownHockey-Scraper
-- pyspecan
-- karellen-llvm-toolchain-tools
-- divide21env
-- morseify-lumen
-- karellen-llvm-lldb
-- timedoctor-mcp
-- cdktf-cdktf-provider-pagerduty
-- timm
-- hk-cdp
-- chromedriver-binary
-- pypomes-core
-- rapyuta-io-cli
-- openssh-synchronization
-- AutoImblearn
