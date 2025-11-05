@@ -1,11 +1,11 @@
 {
   "name": "xls-aws-sso-cli",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "AWS SSO Management CLI Tool",
   "author": "Fahrizal Shofyan Aziz",
   "license": null,
   "home_page": "https://github.com/fahrizalvianaz/python-cli",
-  "download_filename": "xls_aws_sso_cli-0.1.28.tar.gz",
-  "download_time": "2025-11-05T17:21:29.372046",
+  "download_filename": "xls_aws_sso_cli-0.1.29.tar.gz",
+  "download_time": "2025-11-05T17:43:11.651762",
   "package_url": "https://pypi.org/project/xls-aws-sso-cli/"
 }
