@@ -1,0 +1,11 @@
+{
+  "name": "py-radix",
+  "version": "1.0.4",
+  "summary": "Radix tree implementation",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/mjschultz/py-radix",
+  "download_filename": "py_radix-1.0.4-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-05T23:21:05.491554",
+  "package_url": "https://pypi.org/project/py-radix/"
+}

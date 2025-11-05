@@ -1,11 +1,11 @@
 {
   "name": "mx-platform-python",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "summary": "MX Platform API",
   "author": "MX Platform API",
   "license": null,
   "home_page": "https://pypi.org/project/mx-platform-python",
-  "download_filename": "mx_platform_python-1.9.0.tar.gz",
-  "download_time": "2025-11-05T20:45:28.783305",
+  "download_filename": "mx_platform_python-1.10.0.tar.gz",
+  "download_time": "2025-11-05T23:20:43.040077",
   "package_url": "https://pypi.org/project/mx-platform-python/"
 }

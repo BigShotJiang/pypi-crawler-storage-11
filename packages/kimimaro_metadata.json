@@ -1,0 +1,11 @@
+{
+  "name": "kimimaro",
+  "version": "5.8.0",
+  "summary": "Skeletonize densely labeled image volumes.",
+  "author": "Alex Bae, Forrest Collman, Peter Li, Nina Shamsi",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "kimimaro-5.8.0.tar.gz",
+  "download_time": "2025-11-05T23:20:47.809565",
+  "package_url": "https://pypi.org/project/kimimaro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lean-lsp-mcp",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Lean Theorem Prover MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lean_lsp_mcp-0.11.1.tar.gz",
-  "download_time": "2025-11-03T10:47:23.735660",
+  "download_filename": "lean_lsp_mcp-0.11.2.tar.gz",
+  "download_time": "2025-11-05T23:20:56.600943",
   "package_url": "https://pypi.org/project/lean-lsp-mcp/"
 }

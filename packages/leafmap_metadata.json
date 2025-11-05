@@ -1,11 +1,11 @@
 {
   "name": "leafmap",
-  "version": "0.57.0",
+  "version": "0.57.1",
   "summary": "A Python package for geospatial analysis and interactive mapping in a Jupyter environment.",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "leafmap-0.57.0.tar.gz",
-  "download_time": "2025-11-05T21:22:03.016981",
+  "download_filename": "leafmap-0.57.1.tar.gz",
+  "download_time": "2025-11-05T23:20:44.123919",
   "package_url": "https://pypi.org/project/leafmap/"
 }

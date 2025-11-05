@@ -1,0 +1,11 @@
+{
+  "name": "apriltag-pywrapper",
+  "version": "0.1.0",
+  "summary": "Lightweight pip-installable wrapper for AprilTag with full tag family support",
+  "author": "Patrick Carnahan",
+  "license": null,
+  "home_page": "https://github.com/pcarnah/apriltag-pywrapper",
+  "download_filename": "apriltag_pywrapper-0.1.0-cp38-cp38-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-05T23:20:59.720677",
+  "package_url": "https://pypi.org/project/apriltag-pywrapper/"
+}

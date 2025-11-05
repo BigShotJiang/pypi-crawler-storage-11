@@ -1,0 +1,11 @@
+{
+  "name": "BittyTax",
+  "version": "0.6.0",
+  "summary": "Crypto-currency tax calculator for UK tax rules. Produces a PDF report of your capital gains and income. Import your data from popular wallets and exchanges.",
+  "author": "Nano Nano Ltd",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/BittyTax/BittyTax",
+  "download_filename": "bittytax-0.6.0.tar.gz",
+  "download_time": "2025-11-05T23:21:02.864653",
+  "package_url": "https://pypi.org/project/BittyTax/"
+}
