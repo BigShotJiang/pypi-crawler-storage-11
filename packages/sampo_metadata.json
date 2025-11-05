@@ -1,0 +1,11 @@
+{
+  "name": "sampo",
+  "version": "0.1.2.0.4",
+  "summary": "Open-source framework for adaptive manufacturing processes scheduling",
+  "author": "iAirLab",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "sampo-0.1.2.0.4.tar.gz",
+  "download_time": "2025-11-05T07:53:45.739092",
+  "package_url": "https://pypi.org/project/sampo/"
+}

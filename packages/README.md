@@ -1,22 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T07:42:37.289514
-- **Total Packages**: 81
-- **Total Size**: 28.05 MB
+- **Download Time**: 2025-11-05T07:54:29.322678
+- **Total Packages**: 83
+- **Total Size**: 24.43 MB
 
 ## Packages List
-- matrice-analytics
+- sampo
+- tai-keycloak
+- video-format-converter-mcp
+- hpspmplusstudio
+- ping-game-theory-25
+- cubesat-space-protocol-py
+- synth-ai
+- spxquery
+- bumble
+- tcvectordb
+- django-easyjwt
+- csf-crypto
+- zango
 - desmoscl
+- d4rktg
+- dist-launch
+- cacherator
+- superb-ai-onprem
+- raga-canvas-cli
+- dashscope
+- video-format-converter-mcp1
+- zoomy-core
+- ant-ray-cpp-nightly
+- datamorph-airflow
+- novavision-cli
+- drills-pro-proto
+- fourdigits-cli
+- lightrun
+- endoreg-db
+- nixos-compose
+- mtcli-volume
+- django-bulk-hooks
+- matrice-analytics
 - tgit
 - douyin-mcp-server1
-- ping-game-theory-25
 - masto-mailo-inator
 - istr-python
 - orq-ai-sdk
 - livellm
 - headson
-- drills-pro-proto
 - cryptlex.lexfloatclient
 - qrbill
 - mindnlp
@@ -26,7 +55,6 @@
 - markdown-environments
 - ivoryos
 - mtcli
-- superb-ai-onprem
 - un-locc
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
@@ -55,35 +83,9 @@
 - ai-edge-litert-nightly
 - stac-mcp
 - leaf-framework
-- datamorph-airflow
 - aiko-monitor
 - ftw-django-features
 - aiecs
 - openssh-synchronization
 - hamel
 - bisos.b
-- tdrpa.tdworker
-- txt2detection
-- cribl-control-plane
-- kion-vectorstore
-- libmata
-- kagura-ai
-- pyautd3
-- quash-mcp
-- tritonparse
-- c2cciutils
-- streamlit-nightly
-- jpylib-jyrgenn
-- zhkj-plugins-parent
-- more-compute
-- bisos.crypt
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- protenix
-- c2cgeoportal-commons
-- h2ogpte
-- arthur-client
-- gitlab-c-function-content-mcp
-- pydantic-fixturegen
-- easy-model-deployer
-- excusegen

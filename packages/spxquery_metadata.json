@@ -1,11 +1,11 @@
 {
   "name": "spxquery",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "SPHEREx time-domain analysis package for querying and analyzing spectral image data",
   "author": "Wenke Ren",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/WenkeRen/spxquery",
-  "download_filename": "spxquery-0.2.0.tar.gz",
-  "download_time": "2025-11-05T07:25:07.260696",
+  "download_filename": "spxquery-0.2.1.tar.gz",
+  "download_time": "2025-11-05T07:53:49.847691",
   "package_url": "https://pypi.org/project/spxquery/"
 }
