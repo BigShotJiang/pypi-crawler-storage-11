@@ -1,0 +1,11 @@
+{
+  "name": "brainsig",
+  "version": "0.1.0",
+  "summary": "A package for computing 'neural signatures' from fMRI data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brainsig-0.1.0.tar.gz",
+  "download_time": "2025-11-05T16:54:38.653181",
+  "package_url": "https://pypi.org/project/brainsig/"
+}

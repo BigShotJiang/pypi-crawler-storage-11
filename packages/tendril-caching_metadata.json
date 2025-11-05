@@ -1,11 +1,11 @@
 {
   "name": "tendril-caching",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Caching Infrastructure for Tendril",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/tendril-framework/tendril-caching",
-  "download_filename": "tendril_caching-0.3.0.tar.gz",
-  "download_time": "2025-11-04T14:47:10.400301",
+  "download_filename": "tendril_caching-0.3.1.tar.gz",
+  "download_time": "2025-11-05T16:54:29.694686",
   "package_url": "https://pypi.org/project/tendril-caching/"
 }

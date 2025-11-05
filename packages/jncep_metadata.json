@@ -1,0 +1,11 @@
+{
+  "name": "jncep",
+  "version": "55",
+  "summary": "Command-line tool to generate EPUB files for J-Novel Club and JNC Nina pre-pub novels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jncep-55.tar.gz",
+  "download_time": "2025-11-05T16:55:00.093315",
+  "package_url": "https://pypi.org/project/jncep/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "UMA-ASE",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "UMA machine-learned force-field integrated with ASE workflows",
   "author": null,
   "license": "CC BY",
   "home_page": null,
-  "download_filename": "uma_ase-0.4.0.tar.gz",
-  "download_time": "2025-11-04T11:52:24.474038",
+  "download_filename": "uma_ase-0.5.0.tar.gz",
+  "download_time": "2025-11-05T16:55:16.066271",
   "package_url": "https://pypi.org/project/UMA-ASE/"
 }

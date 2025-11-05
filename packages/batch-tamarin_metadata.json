@@ -1,0 +1,11 @@
+{
+  "name": "batch-tamarin",
+  "version": "1.1.1",
+  "summary": "Python wrapper for Tamarin Prover with JSON configuration",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "batch_tamarin-1.1.1.tar.gz",
+  "download_time": "2025-11-05T16:55:13.913754",
+  "package_url": "https://pypi.org/project/batch-tamarin/"
+}
