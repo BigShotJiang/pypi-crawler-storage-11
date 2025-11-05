@@ -1,11 +1,11 @@
 {
   "name": "facebook-collector",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A Python library for collecting data from Facebook using Selenium and GraphQL",
   "author": "Vu Dinh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "facebook_collector-0.2.7.tar.gz",
-  "download_time": "2025-11-04T10:27:12.808004",
+  "download_filename": "facebook_collector-0.2.8.tar.gz",
+  "download_time": "2025-11-05T09:46:18.712076",
   "package_url": "https://pypi.org/project/facebook-collector/"
 }

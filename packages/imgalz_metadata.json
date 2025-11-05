@@ -1,11 +1,11 @@
 {
   "name": "imgalz",
-  "version": "0.0.8.1",
+  "version": "0.0.8.2",
   "summary": "onnx pipline",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imgalz-0.0.8.1.tar.gz",
-  "download_time": "2025-11-05T06:57:57.721180",
+  "download_filename": "imgalz-0.0.8.2.tar.gz",
+  "download_time": "2025-11-05T09:46:34.966635",
   "package_url": "https://pypi.org/project/imgalz/"
 }

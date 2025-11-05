@@ -1,0 +1,11 @@
+{
+  "name": "gcs-easy",
+  "version": "0.1.1",
+  "summary": "Autenticación sencilla y utilidades para Google Cloud Storage (subir, bajar, firmar URLs).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcs_easy-0.1.1.tar.gz",
+  "download_time": "2025-11-05T09:46:16.114957",
+  "package_url": "https://pypi.org/project/gcs-easy/"
+}

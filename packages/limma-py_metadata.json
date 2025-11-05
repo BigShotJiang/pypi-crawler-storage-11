@@ -1,0 +1,11 @@
+{
+  "name": "limma-py",
+  "version": "0.1.0",
+  "summary": "Python implementation of R's limma package for differential expression analysis",
+  "author": "Zhang Xian",
+  "license": "MIT",
+  "home_page": "https://github.com/wd1566/limma-py",
+  "download_filename": "limma_py-0.1.0.tar.gz",
+  "download_time": "2025-11-05T09:46:22.356925",
+  "package_url": "https://pypi.org/project/limma-py/"
+}

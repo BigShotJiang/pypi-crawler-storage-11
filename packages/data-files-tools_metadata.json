@@ -1,0 +1,11 @@
+{
+  "name": "data-files-tools",
+  "version": "0.0.2",
+  "summary": "LLM redis中介的客户端程序",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_files_tools-0.0.2.tar.gz",
+  "download_time": "2025-11-05T09:46:11.434355",
+  "package_url": "https://pypi.org/project/data-files-tools/"
+}

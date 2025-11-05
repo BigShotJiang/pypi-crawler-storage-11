@@ -1,0 +1,11 @@
+{
+  "name": "konvigius",
+  "version": "0.0.4",
+  "summary": "Python library for managing application config objects with validation and a CLI parser included.",
+  "author": "Rik Roos, Roos IT Logics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "konvigius-0.0.4.tar.gz",
+  "download_time": "2025-11-05T09:46:06.699527",
+  "package_url": "https://pypi.org/project/konvigius/"
+}

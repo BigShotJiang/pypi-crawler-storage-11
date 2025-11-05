@@ -1,0 +1,11 @@
+{
+  "name": "bccr-exchange-rates",
+  "version": "1.0.0",
+  "summary": "Python library for scraping Costa Rican exchange rates from Banco Central de Costa Rica (BCCR)",
+  "author": "Mauricio Loría",
+  "license": "MIT",
+  "home_page": "https://github.com/jloria13/bccr-exchange-rates",
+  "download_filename": "bccr_exchange_rates-1.0.0.tar.gz",
+  "download_time": "2025-11-05T09:46:03.574430",
+  "package_url": "https://pypi.org/project/bccr-exchange-rates/"
+}

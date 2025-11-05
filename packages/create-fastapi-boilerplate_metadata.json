@@ -1,0 +1,11 @@
+{
+  "name": "create-fastapi-boilerplate",
+  "version": "1.0.0",
+  "summary": "Production-grade FastAPI project generator with enterprise features",
+  "author": "Parth Joshi",
+  "license": null,
+  "home_page": "https://github.com/parth1618/fastapi-boilerplate",
+  "download_filename": "create_fastapi_boilerplate-1.0.0.tar.gz",
+  "download_time": "2025-11-05T09:46:27.087898",
+  "package_url": "https://pypi.org/project/create-fastapi-boilerplate/"
+}

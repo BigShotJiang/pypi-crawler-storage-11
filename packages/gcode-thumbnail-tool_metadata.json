@@ -1,0 +1,11 @@
+{
+  "name": "gcode-thumbnail-tool",
+  "version": "0.1.2",
+  "summary": "A small tool to analyse and extract thumbnails rendered into GCODE files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcode_thumbnail_tool-0.1.2.tar.gz",
+  "download_time": "2025-11-05T09:46:06.180608",
+  "package_url": "https://pypi.org/project/gcode-thumbnail-tool/"
+}

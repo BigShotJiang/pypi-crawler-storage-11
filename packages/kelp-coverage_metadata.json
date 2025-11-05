@@ -1,11 +1,11 @@
 {
   "name": "kelp-coverage",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "A tool for calculating kelp coverage from UAV images utilizing Segment Anything Models (SAM)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kelp_coverage-2.0.0-py3-none-any.whl",
-  "download_time": "2025-11-04T09:56:31.864428",
+  "download_filename": "kelp_coverage-2.0.1-py3-none-any.whl",
+  "download_time": "2025-11-05T09:46:24.439466",
   "package_url": "https://pypi.org/project/kelp-coverage/"
 }

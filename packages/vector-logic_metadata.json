@@ -1,11 +1,11 @@
 {
   "name": "vector-logic",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "A library for a simple rules engine.",
   "author": "Dmitry Lesnik",
   "license": "MIT",
   "home_page": "https://github.com/dmitry-lesnik/vector-logic",
-  "download_filename": "vector_logic-0.3.0.tar.gz",
-  "download_time": "2025-11-01T23:17:41.965174",
+  "download_filename": "vector_logic-0.4.1.tar.gz",
+  "download_time": "2025-11-05T09:46:03.055934",
   "package_url": "https://pypi.org/project/vector-logic/"
 }
