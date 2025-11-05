@@ -1,0 +1,11 @@
+{
+  "name": "pathsdata",
+  "version": "48.0.3",
+  "summary": "Build and run queries against data",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/pathsdata/pathsdata",
+  "download_filename": "pathsdata-48.0.3.tar.gz",
+  "download_time": "2025-11-05T16:30:19.219733",
+  "package_url": "https://pypi.org/project/pathsdata/"
+}

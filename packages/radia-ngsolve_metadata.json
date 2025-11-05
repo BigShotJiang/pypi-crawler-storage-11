@@ -1,11 +1,11 @@
 {
   "name": "radia-ngsolve",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Radia 3D Magnetostatics with NGSolve Integration and OpenMP Parallelization",
   "author": "Pascal Elleaume",
   "license": "LGPL-2.1",
   "home_page": "https://github.com/ksugahar/Radia_NGSolve",
-  "download_filename": "radia_ngsolve-1.0.2.tar.gz",
-  "download_time": "2025-11-03T06:57:59.994667",
+  "download_filename": "radia_ngsolve-1.0.4.tar.gz",
+  "download_time": "2025-11-05T16:29:50.621601",
   "package_url": "https://pypi.org/project/radia-ngsolve/"
 }

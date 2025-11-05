@@ -1,11 +1,11 @@
 {
   "name": "bioguider",
-  "version": "0.2.35",
+  "version": "0.2.37",
   "summary": "An AI-Powered package to help biomedical developers to generate clear documentation",
   "author": "Cankun Wang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bioguider-0.2.35.tar.gz",
-  "download_time": "2025-11-05T14:22:39.924693",
+  "download_filename": "bioguider-0.2.37.tar.gz",
+  "download_time": "2025-11-05T16:30:24.392280",
   "package_url": "https://pypi.org/project/bioguider/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "prompty-dumpty",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Universal package manager for AI agent artifacts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prompty_dumpty-0.1.0.tar.gz",
-  "download_time": "2025-11-04T07:52:54.827965",
+  "download_filename": "prompty_dumpty-0.2.0.tar.gz",
+  "download_time": "2025-11-05T16:30:21.804227",
   "package_url": "https://pypi.org/project/prompty-dumpty/"
 }

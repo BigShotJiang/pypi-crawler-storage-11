@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-radar",
+  "version": "0.2.2",
+  "summary": "A debugging dashboard for FastAPI applications with real-time monitoring",
+  "author": "Arif Dogan",
+  "license": null,
+  "home_page": "https://github.com/doganarif/fastapi-radar",
+  "download_filename": "fastapi_radar-0.2.2.tar.gz",
+  "download_time": "2025-11-05T16:30:02.133690",
+  "package_url": "https://pypi.org/project/fastapi-radar/"
+}
