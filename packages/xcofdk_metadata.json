@@ -1,0 +1,11 @@
+{
+  "name": "xcofdk",
+  "version": "3.2.1",
+  "summary": "XCOFDK is a runtime environment to provide multithreading, multiprocessing and life cycle management to programs.",
+  "author": "Farzad Safa",
+  "license": "MIT",
+  "home_page": "https://www.xcofdk.de/",
+  "download_filename": "xcofdk-3.2.1-py3-none-any.whl",
+  "download_time": "2025-11-05T10:26:18.258810",
+  "package_url": "https://pypi.org/project/xcofdk/"
+}

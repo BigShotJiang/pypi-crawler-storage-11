@@ -1,0 +1,11 @@
+{
+  "name": "mock-requests-restcountries",
+  "version": "0.7.0",
+  "summary": "REST Countries mock requests: pre-cached per-URL; missing URLs fetched and cached automatically.",
+  "author": "Ethan Steinfeld",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/mock-requests-restcountries/",
+  "download_filename": "mock_requests_restcountries-0.7.0.tar.gz",
+  "download_time": "2025-11-05T10:26:16.112013",
+  "package_url": "https://pypi.org/project/mock-requests-restcountries/"
+}

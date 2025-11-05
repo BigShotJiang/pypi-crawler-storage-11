@@ -1,0 +1,11 @@
+{
+  "name": "pds.ldd-manager",
+  "version": "2.0.1",
+  "summary": "Software tools used in the management of PDS4 Local Data Dictionaries in GitHub Actions",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/ldd-manager",
+  "download_filename": "pds_ldd_manager-2.0.1-py3-none-any.whl",
+  "download_time": "2025-11-05T10:25:52.208266",
+  "package_url": "https://pypi.org/project/pds.ldd-manager/"
+}

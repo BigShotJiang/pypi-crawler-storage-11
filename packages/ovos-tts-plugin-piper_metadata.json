@@ -1,0 +1,11 @@
+{
+  "name": "ovos-tts-plugin-piper",
+  "version": "0.2.5",
+  "summary": "piper tts plugin for OpenVoiceOS",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-tts-plugin-piper",
+  "download_filename": "ovos_tts_plugin_piper-0.2.5.tar.gz",
+  "download_time": "2025-11-05T10:25:55.534393",
+  "package_url": "https://pypi.org/project/ovos-tts-plugin-piper/"
+}

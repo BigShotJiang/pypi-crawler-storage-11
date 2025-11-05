@@ -1,0 +1,11 @@
+{
+  "name": "nersemble-data",
+  "version": "0.0.5",
+  "summary": "Official download kit for the NeRSemble multi-view video face dataset",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "nersemble_data-0.0.5.tar.gz",
+  "download_time": "2025-11-05T10:26:23.746994",
+  "package_url": "https://pypi.org/project/nersemble-data/"
+}
