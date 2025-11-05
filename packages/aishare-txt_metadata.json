@@ -1,0 +1,11 @@
+{
+  "name": "aishare-txt",
+  "version": "1.0.0",
+  "summary": "股票技术指标分析工具包",
+  "author": "AIShareTxt Team",
+  "license": null,
+  "home_page": "https://github.com/example/aishare-txt",
+  "download_filename": "aishare_txt-1.0.0.tar.gz",
+  "download_time": "2025-11-05T11:52:58.887537",
+  "package_url": "https://pypi.org/project/aishare-txt/"
+}

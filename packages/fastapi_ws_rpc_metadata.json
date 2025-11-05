@@ -1,0 +1,11 @@
+{
+  "name": "fastapi_ws_rpc",
+  "version": "1.0.0",
+  "summary": "A fast and durable bidirectional JSON RPC channel over Websockets and FastApi.",
+  "author": "Or Weis",
+  "license": "MIT",
+  "home_page": "https://github.com/permitio/fastapi_websocket_rpc",
+  "download_filename": "fastapi_ws_rpc-1.0.0.tar.gz",
+  "download_time": "2025-11-05T11:53:00.426426",
+  "package_url": "https://pypi.org/project/fastapi_ws_rpc/"
+}

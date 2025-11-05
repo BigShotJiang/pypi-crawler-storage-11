@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-05T11:41:12.055061
-- **Total Packages**: 95
-- **Total Size**: 19.07 MB
+- **Download Time**: 2025-11-05T11:53:45.531886
+- **Total Packages**: 94
+- **Total Size**: 8.84 MB
 
 ## Packages List
+- drtpy
+- ml-management
+- ebird-api-data
+- bilibili-subtitle-fetch
+- aishare-txt
+- b8tex
+- channels-rpc
+- fastapi_ws_rpc
+- pytabkit
+- avyas-aurica-base-apps-drive
+- django-bulk-hooks
+- changelog-version-bump
+- atlassian-page-client
+- transpiler-mate
+- alibabacloud-cs20151215
+- marketspec
+- stix2extensions
+- meikiocr
+- pymobiledevice3
+- tai-sql
+- chapkit
+- oarepo-oidc-einfra
+- acex-cli
+- owimetadatabase-preprocessor
+- booktest
+- pydantic-gitlab-webhooks
+- gcs-easy
+- phonoLAMMPS
+- fast-backend-builder
+- tasauria
+- edaplot-vl
+- bbot
+- odoo-addon-sale-mrp-bom-menu
+- vibetuner
+- ccd2md
+- odoo-addon-subscription-oca
+- gitpulse-cli
+- spatio
+- alprina-cli
+- fubon-api-mcp-server
+- tauspeech
+- pulumi-aws-apigateway
+- umitkavala-zeroc
+- nvidia-nat-llama-index
+- bizerror
+- acex-mcp-server
+- pyeuropepmc
 - dwm-notebooks
 - revengai
 - lks-idprovider-entraid
@@ -53,51 +100,3 @@
 - haiku.rag-slim
 - em27_metadata
 - berryworld
-- umitkavala-zeroc
-- nvidia-nat-semantic-kernel
-- huggingface-hub
-- nvidia-nat-agno
-- pretix-dbevent
-- ambitus-cli
-- nvidia-nat-opentelemetry
-- ipaddons
-- mirror-soiling-data
-- mcp-server-vector-memory
-- dials-data
-- sereto
-- portkey-ai
-- nvidia-nat-ragaai
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- mcp-mineru
-- nvidia-nat-langchain
-- machineconfig
-- torchx-nightly
-- aiqtoolkit-semantic-kernel
-- atlassian-page-client
-- aiologic
-- aiqtoolkit-weave
-- nemo-library-etl
-- scriptman
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
-- torchft-nightly
-- aiqtoolkit-llama-index
-- mcp-okx
-- aiqtoolkit
-- scrapy-mcp-server
-- aiqtoolkit-langchain
-- easycoder
-- pytest-dsl
-- aiqtoolkit-crewai
-- streamlit-octostar-utils
-- codereview-cli
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-agno
-- keynet-inference
-- keynet-train
-- keynet-core
-- fcin
-- avyas-aurica-base-apps-agent-cli
-- avyas-aurica-base-apps-digital-twin
-- avyas-aurica-base-apps-drive

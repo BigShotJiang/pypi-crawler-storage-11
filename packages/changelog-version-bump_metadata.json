@@ -1,11 +1,11 @@
 {
   "name": "changelog-version-bump",
-  "version": "0.4.0",
+  "version": "0.4.4",
   "summary": "A CLI tool to detect version labels in temp.md",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "changelog_version_bump-0.4.0.tar.gz",
-  "download_time": "2025-11-04T07:42:01.302492",
+  "download_filename": "changelog_version_bump-0.4.4.tar.gz",
+  "download_time": "2025-11-05T11:53:02.487568",
   "package_url": "https://pypi.org/project/changelog-version-bump/"
 }
