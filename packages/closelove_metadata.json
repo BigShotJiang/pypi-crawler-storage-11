@@ -1,11 +1,11 @@
 {
   "name": "closelove",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "A simple library for Android UI automation using UIAutomator and ADB",
   "author": "CodeMaster",
   "license": null,
   "home_page": "https://pypi.org/project/closelove/",
-  "download_filename": "closelove-1.2.tar.gz",
-  "download_time": "2025-11-03T19:38:54.841213",
+  "download_filename": "closelove-1.3.tar.gz",
+  "download_time": "2025-11-05T22:55:45.759338",
   "package_url": "https://pypi.org/project/closelove/"
 }

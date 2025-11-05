@@ -1,0 +1,11 @@
+{
+  "name": "sympy_equation",
+  "version": "1.2.0",
+  "summary": "Equations that can be algebraicly manipulated.",
+  "author": null,
+  "license": "GPL-3.0+",
+  "home_page": null,
+  "download_filename": "sympy_equation-1.2.0.tar.gz",
+  "download_time": "2025-11-05T22:55:44.029601",
+  "package_url": "https://pypi.org/project/sympy_equation/"
+}

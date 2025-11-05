@@ -1,11 +1,11 @@
 {
   "name": "phonoLAMMPS",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "phonoLAMMPS module",
   "author": "Abel Carreras",
   "license": "MIT License",
   "home_page": "https://github.com/abelcarreras/phonolammps",
-  "download_filename": "phonolammps-0.10.0.tar.gz",
-  "download_time": "2025-11-05T11:53:10.715753",
+  "download_filename": "phonolammps-0.10.1.tar.gz",
+  "download_time": "2025-11-05T22:55:44.607002",
   "package_url": "https://pypi.org/project/phonoLAMMPS/"
 }

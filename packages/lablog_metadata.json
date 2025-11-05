@@ -1,0 +1,11 @@
+{
+  "name": "lablog",
+  "version": "0.1.0",
+  "summary": "Research workflow memory system - track experiments, todos, and context",
+  "author": "Research Community",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lablog-0.1.0.tar.gz",
+  "download_time": "2025-11-05T22:55:25.617955",
+  "package_url": "https://pypi.org/project/lablog/"
+}
