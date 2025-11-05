@@ -1,0 +1,11 @@
+{
+  "name": "eanalytics-api-py",
+  "version": "0.1.50",
+  "summary": "Locally download a datamining dataset from the Eulerian Technologies API",
+  "author": "Florian",
+  "license": null,
+  "home_page": "https://github.com/EulerianTechnologies/eanalytics-api-py",
+  "download_filename": "eanalytics_api_py-0.1.50.tar.gz",
+  "download_time": "2025-11-05T07:42:10.369196",
+  "package_url": "https://pypi.org/project/eanalytics-api-py/"
+}

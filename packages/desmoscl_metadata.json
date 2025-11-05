@@ -1,0 +1,11 @@
+{
+  "name": "desmoscl",
+  "version": "1.0.0",
+  "summary": "Python Tools for Programming Desmos/Amplify Computation Layer (CL), maintained by Ganesh Sriram",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "desmoscl-1.0.0.tar.gz",
+  "download_time": "2025-11-05T07:41:54.731140",
+  "package_url": "https://pypi.org/project/desmoscl/"
+}

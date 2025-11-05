@@ -1,11 +1,11 @@
 {
   "name": "vutime",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Time Based Utility Tools",
   "author": "WMI Dev Team",
   "license": null,
   "home_page": null,
-  "download_filename": "vutime-0.2.0.tar.gz",
-  "download_time": "2025-11-05T07:24:45.472148",
+  "download_filename": "vutime-0.2.1.tar.gz",
+  "download_time": "2025-11-05T07:42:09.835501",
   "package_url": "https://pypi.org/project/vutime/"
 }
