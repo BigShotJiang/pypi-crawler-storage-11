@@ -1,11 +1,11 @@
 {
   "name": "ert",
-  "version": "16.0.4",
+  "version": "16.0.5",
   "summary": "Ensemble based Reservoir Tool (ERT)",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "ert-16.0.4-py3-none-any.whl",
-  "download_time": "2025-11-04T09:25:05.112146",
+  "download_filename": "ert-16.0.5-py3-none-any.whl",
+  "download_time": "2025-11-05T14:54:14.559579",
   "package_url": "https://pypi.org/project/ert/"
 }

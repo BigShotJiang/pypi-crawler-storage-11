@@ -1,0 +1,11 @@
+{
+  "name": "pycanari",
+  "version": "0.2.3",
+  "summary": "Canari is an open-source library for online change point detection in univariate time series.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycanari-0.2.3.tar.gz",
+  "download_time": "2025-11-05T14:54:05.955267",
+  "package_url": "https://pypi.org/project/pycanari/"
+}

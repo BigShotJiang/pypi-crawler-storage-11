@@ -1,0 +1,11 @@
+{
+  "name": "gazooresearchutils",
+  "version": "1.11.1",
+  "summary": "Analysis of GazooResearch Data",
+  "author": "Andrew Lim MD, Megan Lim MD, Christopher Lim MD, Robert Lim MD",
+  "license": null,
+  "home_page": "https://gazooresearch.com/",
+  "download_filename": "gazooresearchutils-1.11.1.tar.gz",
+  "download_time": "2025-11-05T14:53:47.977837",
+  "package_url": "https://pypi.org/project/gazooresearchutils/"
+}

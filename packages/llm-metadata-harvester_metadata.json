@@ -1,0 +1,11 @@
+{
+  "name": "llm-metadata-harvester",
+  "version": "0.1.2",
+  "summary": "A tool for harvesting metadata from dataset landing pages using Large Language Models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_metadata_harvester-0.1.2.tar.gz",
+  "download_time": "2025-11-05T14:54:02.156509",
+  "package_url": "https://pypi.org/project/llm-metadata-harvester/"
+}

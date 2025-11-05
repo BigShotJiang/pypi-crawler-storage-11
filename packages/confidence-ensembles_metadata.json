@@ -1,0 +1,11 @@
+{
+  "name": "confidence-ensembles",
+  "version": "0.10",
+  "summary": "Confidence Ensembles to Improve Classification",
+  "author": "Tommaso Zoppi",
+  "license": null,
+  "home_page": "https://github.com/tommyippoz/confidence-ensembles",
+  "download_filename": "confidence_ensembles-0.10.tar.gz",
+  "download_time": "2025-11-05T14:54:34.527298",
+  "package_url": "https://pypi.org/project/confidence-ensembles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memtab-visualizers",
+  "version": "1.0.1",
+  "summary": "Utility to be paired with memtab to visualize the output",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memtab_visualizers-1.0.1.tar.gz",
+  "download_time": "2025-11-05T14:54:09.078336",
+  "package_url": "https://pypi.org/project/memtab-visualizers/"
+}

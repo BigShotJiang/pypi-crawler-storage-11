@@ -1,0 +1,11 @@
+{
+  "name": "PyMuPDFPro",
+  "version": "1.26.6",
+  "summary": "Commercial extensions for PyMuPDF; enables Office document handling, including doc, docx, hwp, hwpx, ppt, pptx, xls, xls, and others. Supports text and table extraction, document conversion and more.",
+  "author": "Artifex",
+  "license": "Commercial license. See artifex.com for details.",
+  "home_page": null,
+  "download_filename": "pymupdfpro-1.26.6-cp310-abi3-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-05T14:54:12.987242",
+  "package_url": "https://pypi.org/project/PyMuPDFPro/"
+}

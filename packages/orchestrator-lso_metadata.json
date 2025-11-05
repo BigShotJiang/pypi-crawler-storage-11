@@ -1,11 +1,11 @@
 {
   "name": "orchestrator-lso",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "summary": "LSO, an API for remotely running Ansible playbooks.",
   "author": "GÉANT Orchestration and Automation Team",
   "license": null,
   "home_page": null,
-  "download_filename": "orchestrator_lso-2.3.1.tar.gz",
-  "download_time": "2025-11-03T14:54:17.222961",
+  "download_filename": "orchestrator_lso-2.4.0.tar.gz",
+  "download_time": "2025-11-05T14:54:06.469429",
   "package_url": "https://pypi.org/project/orchestrator-lso/"
 }

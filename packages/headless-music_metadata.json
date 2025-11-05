@@ -1,11 +1,11 @@
 {
   "name": "headless-music",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "headless music: for minimal cpu/gpu usage while listening to music",
   "author": "Rishav Ganguly",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "headless_music-1.0.0.tar.gz",
-  "download_time": "2025-11-05T14:22:49.866850",
+  "download_filename": "headless_music-1.0.1.tar.gz",
+  "download_time": "2025-11-05T14:54:30.139162",
   "package_url": "https://pypi.org/project/headless-music/"
 }

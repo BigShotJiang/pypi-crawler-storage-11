@@ -1,11 +1,11 @@
 {
   "name": "django-ecommerce",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "A Django E-commerce app for streamlined online retail, featuring product management, order processing, and flexible settings for discounts and stock tracking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_ecommerce-1.0.12.tar.gz",
-  "download_time": "2025-11-05T14:22:55.018651",
+  "download_filename": "django_ecommerce-1.0.13.tar.gz",
+  "download_time": "2025-11-05T14:54:00.542472",
   "package_url": "https://pypi.org/project/django-ecommerce/"
 }
