@@ -1,0 +1,11 @@
+{
+  "name": "mcp-data-analysis-server",
+  "version": "1.0.0",
+  "summary": "Data Analysis MCP Server - Model Context Protocol server for data analysis",
+  "author": "BACH Studio",
+  "license": "MIT",
+  "home_page": "https://github.com/BACH-AI-Tools/data-analysis-mcp",
+  "download_filename": "mcp_data_analysis_server-1.0.0.tar.gz",
+  "download_time": "2025-11-05T06:58:11.613382",
+  "package_url": "https://pypi.org/project/mcp-data-analysis-server/"
+}
