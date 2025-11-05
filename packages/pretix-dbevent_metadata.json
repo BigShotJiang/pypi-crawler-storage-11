@@ -1,0 +1,11 @@
+{
+  "name": "pretix-dbevent",
+  "version": "1.0.0",
+  "summary": "Advertise the DB Event Offers for discounted and sustainable train travel to your attendees",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "pretix_dbevent-1.0.0.tar.gz",
+  "download_time": "2025-11-05T11:40:49.426051",
+  "package_url": "https://pypi.org/project/pretix-dbevent/"
+}

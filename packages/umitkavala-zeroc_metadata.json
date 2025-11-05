@@ -1,0 +1,11 @@
+{
+  "name": "umitkavala-zeroc",
+  "version": "1.0.2",
+  "summary": "Zeroc: High-Performance API Compression Protocol",
+  "author": "Umit Kavala",
+  "license": "MIT",
+  "home_page": "https://github.com/umitkavala/zeroc",
+  "download_filename": "umitkavala_zeroc-1.0.2.tar.gz",
+  "download_time": "2025-11-05T11:40:47.380472",
+  "package_url": "https://pypi.org/project/umitkavala-zeroc/"
+}

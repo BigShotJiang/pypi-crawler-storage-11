@@ -1,0 +1,11 @@
+{
+  "name": "datacrawler-test-sdk",
+  "version": "1.0.0",
+  "summary": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+  "author": "Siddharth Shah",
+  "license": "MIT",
+  "home_page": "https://github.com/siddharth-shah-17/Datacrawler-Experimental",
+  "download_filename": "datacrawler_test_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-05T11:40:38.107827",
+  "package_url": "https://pypi.org/project/datacrawler-test-sdk/"
+}

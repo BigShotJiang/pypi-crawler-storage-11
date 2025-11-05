@@ -1,0 +1,11 @@
+{
+  "name": "ambitus-cli",
+  "version": "0.1.0",
+  "summary": "a TUI‑first Python package and multi‑agent market research engine that orchestrates validated data collection, analysis, and report synthesis into citation‑rich PDF reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ambitus_cli-0.1.0.tar.gz",
+  "download_time": "2025-11-05T11:40:49.937434",
+  "package_url": "https://pypi.org/project/ambitus-cli/"
+}
