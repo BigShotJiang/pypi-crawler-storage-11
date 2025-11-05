@@ -1,0 +1,11 @@
+{
+  "name": "holoaverage",
+  "version": "1.1.10",
+  "summary": "Reconstruction and averaging of off-axis electron holograms as obtained by transmission electron microscopes.",
+  "author": "Tore Niermann",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/niermann/holoaverage",
+  "download_filename": "holoaverage-1.1.10.tar.gz",
+  "download_time": "2025-11-05T09:25:25.497738",
+  "package_url": "https://pypi.org/project/holoaverage/"
+}

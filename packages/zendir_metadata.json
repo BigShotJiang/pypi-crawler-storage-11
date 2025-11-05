@@ -1,0 +1,11 @@
+{
+  "name": "zendir",
+  "version": "1.4.1.0",
+  "summary": "Python Interface to the Zendir API for simulations",
+  "author": "Zendir",
+  "license": null,
+  "home_page": "https://github.com/zendir-dev/zendir-py",
+  "download_filename": "zendir-1.4.1.0.tar.gz",
+  "download_time": "2025-11-05T09:25:02.482277",
+  "package_url": "https://pypi.org/project/zendir/"
+}

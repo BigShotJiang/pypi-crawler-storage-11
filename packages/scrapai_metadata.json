@@ -1,11 +1,11 @@
 {
   "name": "scrapai",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "AI-powered web scraping SDK with intelligent configuration generation",
   "author": "Zohaib Yousaf",
   "license": "MIT",
   "home_page": "https://github.com/zohaib3249/scrapai",
-  "download_filename": "scrapai-0.5.1.tar.gz",
-  "download_time": "2025-11-04T13:35:37.927199",
+  "download_filename": "scrapai-0.6.0.tar.gz",
+  "download_time": "2025-11-05T09:25:00.381576",
   "package_url": "https://pypi.org/project/scrapai/"
 }

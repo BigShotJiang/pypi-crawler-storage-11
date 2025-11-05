@@ -1,11 +1,11 @@
 {
   "name": "optimizelab",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A collection of classical and nature-inspired optimization algorithms implemented in Python.",
   "author": "code spaze",
   "license": null,
   "home_page": null,
-  "download_filename": "optimizelab-0.1.1.tar.gz",
-  "download_time": "2025-11-05T08:54:00.077467",
+  "download_filename": "optimizelab-0.1.2.tar.gz",
+  "download_time": "2025-11-05T09:25:15.110862",
   "package_url": "https://pypi.org/project/optimizelab/"
 }

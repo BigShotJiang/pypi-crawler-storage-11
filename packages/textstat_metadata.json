@@ -1,11 +1,11 @@
 {
   "name": "textstat",
-  "version": "0.7.10",
+  "version": "0.7.11",
   "summary": "Calculate statistical features from text",
   "author": "Shivam Bansal, Chaitanya Aggarwal",
   "license": "MIT",
   "home_page": "https://github.com/textstat/textstat",
-  "download_filename": "textstat-0.7.10.tar.gz",
-  "download_time": "2025-11-03T21:53:11.831293",
+  "download_filename": "textstat-0.7.11.tar.gz",
+  "download_time": "2025-11-05T09:25:06.741641",
   "package_url": "https://pypi.org/project/textstat/"
 }

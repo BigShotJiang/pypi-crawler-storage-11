@@ -1,0 +1,11 @@
+{
+  "name": "gvp",
+  "version": "0.1.0",
+  "summary": "The Volcanoes of the World database is a catalog of Holocene and Pleistocene volcanoes, and eruptions from the past 12,000 years.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gvp-0.1.0.tar.gz",
+  "download_time": "2025-11-05T09:24:51.508083",
+  "package_url": "https://pypi.org/project/gvp/"
+}
