@@ -1,11 +1,11 @@
 {
   "name": "tauspeech",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tau analysis of speech articulatory movements",
   "author": "Benjamin Elie",
   "license": "Creative Commons Attribution 4.0 International License",
   "home_page": "https://git.ecdf.ed.ac.uk/belie/tauspeech",
-  "download_filename": "tauspeech-0.1.1.tar.gz",
-  "download_time": "2025-11-05T12:45:12.740011",
+  "download_filename": "tauspeech-0.1.2.tar.gz",
+  "download_time": "2025-11-05T15:57:02.740262",
   "package_url": "https://pypi.org/project/tauspeech/"
 }
