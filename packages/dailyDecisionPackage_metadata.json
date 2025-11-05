@@ -1,0 +1,11 @@
+{
+  "name": "dailyDecisionPackage",
+  "version": "0.0.2",
+  "summary": "A lighthearted Python package that helps you make everyday decisions.",
+  "author": "Jubilee Tang, Maria Lee, Reece Huey, Anshu Aramandla, Natalie Han",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dailydecisionpackage-0.0.2.tar.gz",
+  "download_time": "2025-11-05T05:24:42.192661",
+  "package_url": "https://pypi.org/project/dailyDecisionPackage/"
+}

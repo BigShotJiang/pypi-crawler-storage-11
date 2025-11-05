@@ -1,0 +1,11 @@
+{
+  "name": "fastcaddy",
+  "version": "0.0.9",
+  "summary": "A simple python wrapper for using the Caddy API",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fastcaddy",
+  "download_filename": "fastcaddy-0.0.9.tar.gz",
+  "download_time": "2025-11-05T05:24:38.534440",
+  "package_url": "https://pypi.org/project/fastcaddy/"
+}

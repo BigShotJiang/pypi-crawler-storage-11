@@ -1,11 +1,11 @@
 {
   "name": "dist-py-module",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "summary": "Python package for generation of setup file",
   "author": "Vladimir Roncevic",
   "license": "GPL-3.0-or-later",
   "home_page": "https://vroncevic.github.io/dist_py_module",
-  "download_filename": "dist_py_module-3.0.8.tar.gz",
-  "download_time": "2025-11-03T22:42:13.818028",
+  "download_filename": "dist_py_module-3.0.9.tar.gz",
+  "download_time": "2025-11-05T05:24:53.063311",
   "package_url": "https://pypi.org/project/dist-py-module/"
 }
