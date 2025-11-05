@@ -1,11 +1,11 @@
 {
   "name": "sthg-ontology-base-plus",
-  "version": "0.0.28",
+  "version": "0.0.29.2",
   "summary": "ontology base",
   "author": "DongQing",
   "license": null,
   "home_page": "https://github.com/yourusername/your_package_name",
-  "download_filename": "sthg_ontology_base_plus-0.0.28.tar.gz",
-  "download_time": "2025-11-03T11:18:14.843521",
+  "download_filename": "sthg_ontology_base_plus-0.0.29.2.tar.gz",
+  "download_time": "2025-11-05T07:25:04.036642",
   "package_url": "https://pypi.org/project/sthg-ontology-base-plus/"
 }

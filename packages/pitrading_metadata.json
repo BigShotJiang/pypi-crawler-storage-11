@@ -1,0 +1,11 @@
+{
+  "name": "pitrading",
+  "version": "0.3.20",
+  "summary": "Handy trading utils for PiAsset",
+  "author": "raiden",
+  "license": "MIT license",
+  "home_page": "https://code.piasset.net/saaltfiish/pitrading",
+  "download_filename": "pitrading-0.3.20.tar.gz",
+  "download_time": "2025-11-05T07:24:35.362663",
+  "package_url": "https://pypi.org/project/pitrading/"
+}

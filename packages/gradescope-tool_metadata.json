@@ -1,0 +1,11 @@
+{
+  "name": "gradescope-tool",
+  "version": "0.1.4",
+  "summary": "A Python wrapper for Gradescope to easily retrieve data from your Gradescope Courses.",
+  "author": "HyunJun Park, Daniel Song",
+  "license": null,
+  "home_page": "https://github.com/Teaching-and-Learning-in-Computing/Gradescope",
+  "download_filename": "gradescope_tool-0.1.4.tar.gz",
+  "download_time": "2025-11-05T07:25:12.594318",
+  "package_url": "https://pypi.org/project/gradescope-tool/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "easy-model-deployer",
-  "version": "0.9.43",
+  "version": "0.9.44",
   "summary": "Easy Model Deployer",
   "author": "Yi Yan",
   "license": null,
   "home_page": null,
-  "download_filename": "easy_model_deployer-0.9.43.tar.gz",
-  "download_time": "2025-11-05T05:25:00.386129",
+  "download_filename": "easy_model_deployer-0.9.44.tar.gz",
+  "download_time": "2025-11-05T07:24:59.805462",
   "package_url": "https://pypi.org/project/easy-model-deployer/"
 }

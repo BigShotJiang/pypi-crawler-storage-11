@@ -1,11 +1,11 @@
 {
   "name": "orchestra",
-  "version": "1.0.58",
+  "version": "1.0.59",
   "summary": "A framework for building complex expert workflows.",
   "author": "B12 (Unlimited Labs, Inc.)",
   "license": "Apache 2",
   "home_page": "https://github.com/b12io/orchestra",
-  "download_filename": "orchestra-1.0.58.tar.gz",
-  "download_time": "2025-11-04T09:45:24.131390",
+  "download_filename": "orchestra-1.0.59.tar.gz",
+  "download_time": "2025-11-05T07:24:37.670833",
   "package_url": "https://pypi.org/project/orchestra/"
 }

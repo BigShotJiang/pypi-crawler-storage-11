@@ -1,11 +1,11 @@
 {
   "name": "txt2detection",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A command line tool that takes a txt file containing threat intelligence and turns it into a detection rule.",
   "author": "dogesec",
   "license": null,
   "home_page": null,
-  "download_filename": "txt2detection-1.1.1.tar.gz",
-  "download_time": "2025-11-04T13:35:25.691908",
+  "download_filename": "txt2detection-1.1.2.tar.gz",
+  "download_time": "2025-11-05T07:24:47.820161",
   "package_url": "https://pypi.org/project/txt2detection/"
 }

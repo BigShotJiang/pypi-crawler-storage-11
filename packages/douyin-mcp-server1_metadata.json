@@ -1,11 +1,11 @@
 {
   "name": "douyin-mcp-server1",
-  "version": "1.2.9",
+  "version": "1.4.0",
   "summary": "MCP server for downloading Douyin videos and extracting text",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "douyin_mcp_server1-1.2.9.tar.gz",
-  "download_time": "2025-11-05T06:57:58.748539",
+  "download_filename": "douyin_mcp_server1-1.4.0.tar.gz",
+  "download_time": "2025-11-05T07:24:36.491184",
   "package_url": "https://pypi.org/project/douyin-mcp-server1/"
 }

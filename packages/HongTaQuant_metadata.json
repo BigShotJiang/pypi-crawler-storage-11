@@ -1,0 +1,11 @@
+{
+  "name": "HongTaQuant",
+  "version": "0.1.1",
+  "summary": "HongTaQuant是基于红塔证券量化衍生出来的一套Python框架，对外以Python库的形式提供策略交易所需要的行情和相关的API接口。",
+  "author": "HongTa Stock Quant Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hongtaquant-0.1.1.tar.gz",
+  "download_time": "2025-11-05T07:25:11.535615",
+  "package_url": "https://pypi.org/project/HongTaQuant/"
+}
