@@ -1,0 +1,11 @@
+{
+  "name": "elsheeto",
+  "version": "0.3.0",
+  "summary": "I/O and models in type-annotated Python for NGS sample sheets: Illumina and Aviti",
+  "author": "Manuel Holtgrewe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elsheeto-0.3.0.tar.gz",
+  "download_time": "2025-11-05T20:18:26.005788",
+  "package_url": "https://pypi.org/project/elsheeto/"
+}

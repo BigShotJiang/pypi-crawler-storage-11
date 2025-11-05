@@ -1,11 +1,11 @@
 {
   "name": "ddtrace",
-  "version": "3.17.3",
+  "version": "3.18.0",
   "summary": "Datadog APM client library",
   "author": null,
   "license": "LICENSE.BSD3",
   "home_page": null,
-  "download_filename": "ddtrace-3.17.3-cp310-cp310-macosx_12_0_arm64.whl",
-  "download_time": "2025-11-05T17:21:31.141208",
+  "download_filename": "ddtrace-3.18.0-cp310-cp310-macosx_12_0_arm64.whl",
+  "download_time": "2025-11-05T20:18:04.641023",
   "package_url": "https://pypi.org/project/ddtrace/"
 }

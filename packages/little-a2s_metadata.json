@@ -1,0 +1,11 @@
+{
+  "name": "little-a2s",
+  "version": "0.1.0",
+  "summary": "A sans-I/O library implementing the A2S Valve Source Query protocol.",
+  "author": "thegamecracks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "little_a2s-0.1.0.tar.gz",
+  "download_time": "2025-11-05T20:18:18.911192",
+  "package_url": "https://pypi.org/project/little-a2s/"
+}

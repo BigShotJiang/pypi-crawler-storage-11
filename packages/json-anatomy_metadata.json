@@ -1,0 +1,11 @@
+{
+  "name": "json-anatomy",
+  "version": "0.2.0",
+  "summary": "Scout, explore, infer, and analyze JSON structure and navigate data safely with intuitive exploration tools.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "json_anatomy-0.2.0.tar.gz",
+  "download_time": "2025-11-05T20:17:54.267860",
+  "package_url": "https://pypi.org/project/json-anatomy/"
+}

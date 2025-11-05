@@ -1,11 +1,11 @@
 {
   "name": "tbcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "OCI Generative AI monkey-patch for logging input/output/cost",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tbcp-0.2.0.tar.gz",
-  "download_time": "2025-11-04T07:41:49.305395",
+  "download_filename": "tbcp-0.2.1.tar.gz",
+  "download_time": "2025-11-05T20:18:23.140525",
   "package_url": "https://pypi.org/project/tbcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-equinix",
+  "version": "0.27.1",
+  "summary": "A Pulumi package for creating and managing equinix cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://deploy.equinix.com/",
+  "download_filename": "pulumi_equinix-0.27.1.tar.gz",
+  "download_time": "2025-11-05T20:18:05.697924",
+  "package_url": "https://pypi.org/project/pulumi-equinix/"
+}
