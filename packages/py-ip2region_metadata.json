@@ -1,11 +1,11 @@
 {
   "name": "py-ip2region",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "ip2region official python binding with both IPv4 and IPv6 supported",
   "author": "lionsoul2014",
   "license": "Apache-2.0 License",
   "home_page": "https://github.com/lionsoul2014/ip2region",
-  "download_filename": "py_ip2region-3.0.1.tar.gz",
-  "download_time": "2025-11-02T14:17:14.996986",
+  "download_filename": "py_ip2region-3.0.2.tar.gz",
+  "download_time": "2025-11-05T03:05:17.248227",
   "package_url": "https://pypi.org/project/py-ip2region/"
 }

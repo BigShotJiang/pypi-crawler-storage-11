@@ -1,0 +1,11 @@
+{
+  "name": "OriVec",
+  "version": "0.1.0",
+  "summary": "Compute orientation order parameters with point cloud ICP method.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "orivec-0.1.0.tar.gz",
+  "download_time": "2025-11-05T03:05:15.124046",
+  "package_url": "https://pypi.org/project/OriVec/"
+}

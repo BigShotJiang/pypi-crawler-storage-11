@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-address-no-change",
+  "version": "17.0.1.0.0.4",
+  "summary": "Prevents address changes in completed Field Service orders to preserve historical data.",
+  "author": "APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_address_no_change-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-05T03:04:42.962353",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-address-no-change/"
+}

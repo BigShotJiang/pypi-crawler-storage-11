@@ -1,0 +1,11 @@
+{
+  "name": "sassy-rs",
+  "version": "0.1.6",
+  "summary": "Fast approximate string searching using SIMD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sassy_rs-0.1.6.tar.gz",
+  "download_time": "2025-11-05T03:04:55.874464",
+  "package_url": "https://pypi.org/project/sassy-rs/"
+}

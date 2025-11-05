@@ -1,11 +1,11 @@
 {
   "name": "code-tokenizer",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A professional CLI tool for counting AI model tokens in code projects",
   "author": "Code Tokenizer Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "code_tokenizer-1.0.1.tar.gz",
-  "download_time": "2025-11-04T15:45:16.297496",
+  "download_filename": "code_tokenizer-1.0.3.tar.gz",
+  "download_time": "2025-11-05T03:04:47.305825",
   "package_url": "https://pypi.org/project/code-tokenizer/"
 }

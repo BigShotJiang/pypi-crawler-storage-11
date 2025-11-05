@@ -1,0 +1,11 @@
+{
+  "name": "PyXcpcalibApi",
+  "version": "0.0.2",
+  "summary": "High lelve API to access calibration and measurement.",
+  "author": "Sgnes",
+  "license": null,
+  "home_page": "https://github.com/sgnes/XCP-Calibration-Api",
+  "download_filename": "pyxcpcalibapi-0.0.2.tar.gz",
+  "download_time": "2025-11-05T03:04:35.355327",
+  "package_url": "https://pypi.org/project/PyXcpcalibApi/"
+}

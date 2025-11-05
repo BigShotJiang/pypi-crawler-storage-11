@@ -1,0 +1,11 @@
+{
+  "name": "krx300-hj3415",
+  "version": "1.0.2",
+  "summary": "KRX 300 종목 스냅샷 동기화 도구",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "krx300_hj3415-1.0.2.tar.gz",
+  "download_time": "2025-11-05T03:04:44.586847",
+  "package_url": "https://pypi.org/project/krx300-hj3415/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fa2svg",
+  "version": "0.1.10",
+  "summary": "Convert Font Awesome HTML tags into inline SVG",
+  "author": "meena-erian",
+  "license": null,
+  "home_page": "https://github.com/meena-erian/fa2svg",
+  "download_filename": "fa2svg-0.1.10.tar.gz",
+  "download_time": "2025-11-05T03:05:02.867225",
+  "package_url": "https://pypi.org/project/fa2svg/"
+}
