@@ -1,0 +1,11 @@
+{
+  "name": "django-logger-auth",
+  "version": "1.0.0",
+  "summary": "Django application for logging authentication events (login/logout/failed) in the admin panel. Logs are stored in the database, with the option to save them to a file and output them to the console.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_logger_auth-1.0.0.tar.gz",
+  "download_time": "2025-11-05T14:22:57.597307",
+  "package_url": "https://pypi.org/project/django-logger-auth/"
+}

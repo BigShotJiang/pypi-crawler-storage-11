@@ -1,11 +1,11 @@
 {
   "name": "moat-link",
-  "version": "0.2.20",
+  "version": "0.2.23",
   "summary": "Message exchange between MoaT instances",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moat_link-0.2.20.tar.gz",
-  "download_time": "2025-11-05T10:48:24.296725",
+  "download_filename": "moat_link-0.2.23.tar.gz",
+  "download_time": "2025-11-05T14:23:04.833586",
   "package_url": "https://pypi.org/project/moat-link/"
 }

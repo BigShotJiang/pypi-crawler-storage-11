@@ -1,0 +1,11 @@
+{
+  "name": "xenodocs-mcp-server",
+  "version": "0.1.4",
+  "summary": "MCP server for XenoDocs - Access up-to-date documentation for newly released packages using AI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xenodocs_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-11-05T14:22:52.425972",
+  "package_url": "https://pypi.org/project/xenodocs-mcp-server/"
+}

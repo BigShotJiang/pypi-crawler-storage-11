@@ -1,0 +1,11 @@
+{
+  "name": "monopyly",
+  "version": "1.6.0",
+  "summary": "A homemade personal finance manager.",
+  "author": null,
+  "license": "GNU GPLv3",
+  "home_page": null,
+  "download_filename": "monopyly-1.6.0.tar.gz",
+  "download_time": "2025-11-05T14:23:13.244672",
+  "package_url": "https://pypi.org/project/monopyly/"
+}

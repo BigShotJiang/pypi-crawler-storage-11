@@ -1,0 +1,11 @@
+{
+  "name": "ubiops-file-sync",
+  "version": "0.1.4",
+  "summary": "A Python library for synchronizing files between a local directory and a UbiOps bucket. This library provides utilities for downloading files from UbiOps buckets, uploading files to buckets, and automatically watching local directories for changes to keep them in sync with remote storage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubiops_file_sync-0.1.4.tar.gz",
+  "download_time": "2025-11-05T14:22:58.630450",
+  "package_url": "https://pypi.org/project/ubiops-file-sync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fhws",
+  "version": "0.3.2",
+  "summary": "Python Client API for Forecast and Historical Weather Service ",
+  "author": "Gabriel Sansigolo",
+  "license": null,
+  "home_page": "https://github.com/GSansigolo/fhws",
+  "download_filename": "fhws-0.3.2.tar.gz",
+  "download_time": "2025-11-05T14:22:38.879278",
+  "package_url": "https://pypi.org/project/fhws/"
+}

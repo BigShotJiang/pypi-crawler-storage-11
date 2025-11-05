@@ -1,0 +1,11 @@
+{
+  "name": "apimeter",
+  "version": "2.13.2",
+  "summary": "One-stop solution for HTTP(S) testing.",
+  "author": "debugtalk",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/httprunner/httprunner",
+  "download_filename": "apimeter-2.13.2.tar.gz",
+  "download_time": "2025-11-05T14:23:21.058830",
+  "package_url": "https://pypi.org/project/apimeter/"
+}
