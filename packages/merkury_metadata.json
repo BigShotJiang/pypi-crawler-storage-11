@@ -1,0 +1,11 @@
+{
+  "name": "merkury",
+  "version": "0.11",
+  "summary": "Turn Python scripts into HTML reports",
+  "author": "Piotr Patrzyk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "merkury-0.11.tar.gz",
+  "download_time": "2025-11-05T19:29:34.454721",
+  "package_url": "https://pypi.org/project/merkury/"
+}

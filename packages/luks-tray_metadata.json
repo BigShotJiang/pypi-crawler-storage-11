@@ -1,0 +1,11 @@
+{
+  "name": "luks-tray",
+  "version": "2.0.4",
+  "summary": "A Qt-based tray app for managing LUKS encrypted volumes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "luks_tray-2.0.4.tar.gz",
+  "download_time": "2025-11-05T19:29:01.526567",
+  "package_url": "https://pypi.org/project/luks-tray/"
+}

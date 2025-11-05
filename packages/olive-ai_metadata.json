@@ -1,0 +1,11 @@
+{
+  "name": "olive-ai",
+  "version": "0.10.0",
+  "summary": "Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://microsoft.github.io/Olive/",
+  "download_filename": "olive_ai-0.10.0-py3-none-any.whl",
+  "download_time": "2025-11-05T19:29:21.731665",
+  "package_url": "https://pypi.org/project/olive-ai/"
+}

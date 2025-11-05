@@ -1,0 +1,11 @@
+{
+  "name": "openhands-ai",
+  "version": "0.61.0",
+  "summary": "OpenHands: Code Less, Make More",
+  "author": "OpenHands",
+  "license": "MIT",
+  "home_page": "https://github.com/OpenHands/OpenHands",
+  "download_filename": "openhands_ai-0.61.0.tar.gz",
+  "download_time": "2025-11-05T19:29:19.671685",
+  "package_url": "https://pypi.org/project/openhands-ai/"
+}

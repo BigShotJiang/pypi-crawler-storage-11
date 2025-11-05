@@ -1,0 +1,11 @@
+{
+  "name": "libp2p",
+  "version": "0.4.0",
+  "summary": "libp2p: The Python implementation of the libp2p networking stack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libp2p-0.4.0.tar.gz",
+  "download_time": "2025-11-05T19:29:09.005534",
+  "package_url": "https://pypi.org/project/libp2p/"
+}

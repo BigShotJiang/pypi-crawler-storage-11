@@ -1,0 +1,11 @@
+{
+  "name": "caerp-sign-pdf",
+  "version": "2024.2.2",
+  "summary": "caerp_sign_pdf",
+  "author": "Kilya",
+  "license": "GPLv3",
+  "home_page": "https://framagit.org/caerp/caerp_sign_pdf",
+  "download_filename": "caerp_sign_pdf-2024.2.2.tar.gz",
+  "download_time": "2025-11-05T19:29:32.925050",
+  "package_url": "https://pypi.org/project/caerp-sign-pdf/"
+}

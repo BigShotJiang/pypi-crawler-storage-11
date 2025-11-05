@@ -1,0 +1,11 @@
+{
+  "name": "langchain-pymupdf4llm",
+  "version": "0.5.0",
+  "summary": "An integration package connecting PyMuPDF4LLM to LangChain",
+  "author": "Lakindu Boteju",
+  "license": null,
+  "home_page": "https://github.com/lakinduboteju/langchain-pymupdf4llm",
+  "download_filename": "langchain_pymupdf4llm-0.5.0.tar.gz",
+  "download_time": "2025-11-05T19:29:35.995706",
+  "package_url": "https://pypi.org/project/langchain-pymupdf4llm/"
+}

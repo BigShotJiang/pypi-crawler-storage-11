@@ -1,0 +1,11 @@
+{
+  "name": "pyragix",
+  "version": "0.4.1",
+  "summary": "A document ingestion and RAG query system with FAISS indexing and OCR support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyragix-0.4.1.tar.gz",
+  "download_time": "2025-11-05T19:29:24.288657",
+  "package_url": "https://pypi.org/project/pyragix/"
+}

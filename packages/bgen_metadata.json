@@ -1,0 +1,11 @@
+{
+  "name": "bgen",
+  "version": "1.9.6",
+  "summary": "Package for loading data from bgen files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bgen-1.9.6.tar.gz",
+  "download_time": "2025-11-05T19:28:49.383008",
+  "package_url": "https://pypi.org/project/bgen/"
+}

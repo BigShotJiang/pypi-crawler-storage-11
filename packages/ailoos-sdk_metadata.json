@@ -1,11 +1,11 @@
 {
   "name": "ailoos-sdk",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Python SDK for Ailoos distributed AI platform",
   "author": "Ailoos Team",
   "license": null,
   "home_page": "https://github.com/ailoos/ailoos-python-sdk",
-  "download_filename": "ailoos_sdk-2.0.3.tar.gz",
-  "download_time": "2025-11-05T18:28:43.856741",
+  "download_filename": "ailoos_sdk-2.0.4.tar.gz",
+  "download_time": "2025-11-05T19:29:33.435851",
   "package_url": "https://pypi.org/project/ailoos-sdk/"
 }
