@@ -1,0 +1,11 @@
+{
+  "name": "ros-spdlog-vendor",
+  "version": "1.7.0",
+  "summary": "ROS package providing a CMake shim for the high-performance spdlog logging library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_spdlog_vendor-1.7.0-cp313-cp313-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-05T01:43:25.853580",
+  "package_url": "https://pypi.org/project/ros-spdlog-vendor/"
+}

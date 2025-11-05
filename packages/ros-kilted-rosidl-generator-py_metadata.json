@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-rosidl-generator-py",
+  "version": "0.24.2",
+  "summary": "Meta-package for rosidl_generator_py (ros-rosidl-generator-py) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_rosidl_generator_py-0.24.2-py3-none-any.whl",
+  "download_time": "2025-11-05T01:43:31.016770",
+  "package_url": "https://pypi.org/project/ros-kilted-rosidl-generator-py/"
+}

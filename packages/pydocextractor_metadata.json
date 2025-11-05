@@ -1,11 +1,11 @@
 {
   "name": "pydocextractor",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "A Python library for converting documents (PDF, DOCX, XLSX) to Markdown with multiple precision levels",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pydocextractor-0.1.9.tar.gz",
-  "download_time": "2025-11-04T23:52:45.002054",
+  "download_filename": "pydocextractor-0.1.11.tar.gz",
+  "download_time": "2025-11-05T01:43:16.978511",
   "package_url": "https://pypi.org/project/pydocextractor/"
 }

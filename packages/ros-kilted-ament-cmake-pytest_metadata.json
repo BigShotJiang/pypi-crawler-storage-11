@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-ament-cmake-pytest",
+  "version": "2.7.3",
+  "summary": "Meta-package for ament_cmake_pytest (ros-ament-cmake-pytest) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_ament_cmake_pytest-2.7.3-py3-none-any.whl",
+  "download_time": "2025-11-05T01:43:21.654287",
+  "package_url": "https://pypi.org/project/ros-kilted-ament-cmake-pytest/"
+}

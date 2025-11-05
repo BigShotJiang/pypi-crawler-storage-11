@@ -1,0 +1,11 @@
+{
+  "name": "ros-rosidl-cmake",
+  "version": "4.9.5",
+  "summary": "Wheel for the rosidl_cmake (ros-rosidl-cmake) ROS 2 package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_rosidl_cmake-4.9.5-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-05T01:43:28.439903",
+  "package_url": "https://pypi.org/project/ros-rosidl-cmake/"
+}

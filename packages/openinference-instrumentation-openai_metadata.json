@@ -1,0 +1,11 @@
+{
+  "name": "openinference-instrumentation-openai",
+  "version": "0.1.40",
+  "summary": "OpenInference OpenAI Instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openinference_instrumentation_openai-0.1.40.tar.gz",
+  "download_time": "2025-11-05T01:42:55.283226",
+  "package_url": "https://pypi.org/project/openinference-instrumentation-openai/"
+}

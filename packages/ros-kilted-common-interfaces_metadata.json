@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-common-interfaces",
+  "version": "5.5.1",
+  "summary": "Meta-package for common_interfaces (ros-common-interfaces) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_common_interfaces-5.5.1-py3-none-any.whl",
+  "download_time": "2025-11-05T01:43:35.167745",
+  "package_url": "https://pypi.org/project/ros-kilted-common-interfaces/"
+}

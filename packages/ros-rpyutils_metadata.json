@@ -1,0 +1,11 @@
+{
+  "name": "ros-rpyutils",
+  "version": "0.6.3",
+  "summary": "Python utilities for the ROS 2 code base.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ros2/rpyutils",
+  "download_filename": "ros_rpyutils-0.6.3-py3-none-any.whl",
+  "download_time": "2025-11-05T01:43:25.337727",
+  "package_url": "https://pypi.org/project/ros-rpyutils/"
+}

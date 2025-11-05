@@ -1,0 +1,11 @@
+{
+  "name": "ros-kilted-ament-index-python",
+  "version": "1.11.0",
+  "summary": "Meta-package for ament_index_python (ros-ament-index-python) for ROS 2 kilted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_kilted_ament_index_python-1.11.0-py3-none-any.whl",
+  "download_time": "2025-11-05T01:43:29.469208",
+  "package_url": "https://pypi.org/project/ros-kilted-ament-index-python/"
+}

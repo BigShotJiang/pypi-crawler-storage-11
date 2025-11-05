@@ -1,11 +1,11 @@
 {
   "name": "noventa",
-  "version": "0.1.0a2",
+  "version": "0.1.0a4",
   "summary": null,
   "author": "Marcos Macedo",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "noventa-0.1.0a2-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-04T01:43:53.807404",
+  "download_filename": "noventa-0.1.0a4-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-05T01:42:51.582091",
   "package_url": "https://pypi.org/project/noventa/"
 }

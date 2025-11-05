@@ -1,0 +1,11 @@
+{
+  "name": "moncube-modbus",
+  "version": "1.0.0",
+  "summary": "Moncube Modbus TCP Facade - Expose Moncube cubicle data via Modbus",
+  "author": "Sindika",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moncube_modbus-1.0.0.tar.gz",
+  "download_time": "2025-11-05T01:42:58.667237",
+  "package_url": "https://pypi.org/project/moncube-modbus/"
+}

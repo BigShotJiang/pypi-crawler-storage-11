@@ -1,0 +1,11 @@
+{
+  "name": "ros-ament-cppcheck",
+  "version": "0.19.2",
+  "summary": "Static code analysis on C/C++ code using Cppcheck.",
+  "author": "Dirk Thomas",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ament/ament_lint",
+  "download_filename": "ros_ament_cppcheck-0.19.2-py3-none-any.whl",
+  "download_time": "2025-11-05T01:43:32.048290",
+  "package_url": "https://pypi.org/project/ros-ament-cppcheck/"
+}

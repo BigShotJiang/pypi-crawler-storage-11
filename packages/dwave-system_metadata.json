@@ -1,0 +1,11 @@
+{
+  "name": "dwave-system",
+  "version": "1.34.0",
+  "summary": "All things D-Wave System.",
+  "author": "D-Wave Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dwavesystems/dwave-system",
+  "download_filename": "dwave_system-1.34.0.tar.gz",
+  "download_time": "2025-11-05T01:43:03.324058",
+  "package_url": "https://pypi.org/project/dwave-system/"
+}

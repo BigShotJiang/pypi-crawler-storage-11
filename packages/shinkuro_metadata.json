@@ -1,0 +1,11 @@
+{
+  "name": "shinkuro",
+  "version": "0.3.5",
+  "summary": "Universal prompt loader MCP server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shinkuro-0.3.5.tar.gz",
+  "download_time": "2025-11-05T01:43:09.596116",
+  "package_url": "https://pypi.org/project/shinkuro/"
+}
