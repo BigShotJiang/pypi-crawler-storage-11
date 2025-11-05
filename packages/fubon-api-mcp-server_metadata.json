@@ -1,11 +1,11 @@
 {
   "name": "fubon-api-mcp-server",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "富邦證券 MCP 服務器 - Model Context Protocol 服務器用於富邦證券 API，提供完整的台股交易功能與市場數據查詢",
   "author": "Jimmy Cui",
   "license": "MIT",
   "home_page": "https://github.com/Mofesto/fubon-api-mcp-server",
-  "download_filename": "fubon_api_mcp_server-2.0.2-py3-none-any.whl",
-  "download_time": "2025-11-05T14:23:20.015669",
+  "download_filename": "fubon_api_mcp_server-2.0.3-py3-none-any.whl",
+  "download_time": "2025-11-05T15:45:13.748847",
   "package_url": "https://pypi.org/project/fubon-api-mcp-server/"
 }

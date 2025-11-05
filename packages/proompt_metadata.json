@@ -1,11 +1,11 @@
 {
   "name": "proompt",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Object-oriented prompting for Python",
   "author": "Burhan Qaddoumi",
   "license": null,
   "home_page": null,
-  "download_filename": "proompt-0.2.0.tar.gz",
-  "download_time": "2025-11-05T15:22:49.012228",
+  "download_filename": "proompt-0.2.1.tar.gz",
+  "download_time": "2025-11-05T15:45:08.055723",
   "package_url": "https://pypi.org/project/proompt/"
 }

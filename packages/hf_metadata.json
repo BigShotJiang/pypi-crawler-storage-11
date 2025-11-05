@@ -1,11 +1,11 @@
 {
   "name": "hf",
-  "version": "0.0.14",
-  "summary": "Simple Mapping interface to HuggingFace",
-  "author": null,
-  "license": "mit",
-  "home_page": "https://github.com/thorwhalen/hf",
-  "download_filename": "hf-0.0.14.tar.gz",
-  "download_time": "2025-11-05T12:45:27.500096",
+  "version": "1.1.0",
+  "summary": "CLI extracted from the huggingface_hub library to interact with the Hugging Face Hub",
+  "author": "Hugging Face, Inc.",
+  "license": "Apache",
+  "home_page": "https://github.com/huggingface/huggingface_hub",
+  "download_filename": "hf-1.1.0.tar.gz",
+  "download_time": "2025-11-05T15:45:10.651361",
   "package_url": "https://pypi.org/project/hf/"
 }

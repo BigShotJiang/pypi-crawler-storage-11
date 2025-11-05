@@ -1,0 +1,11 @@
+{
+  "name": "moboard",
+  "version": "0.1.0",
+  "summary": "A Python package for fresh data processing",
+  "author": "Vincent Warmerdam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "moboard-0.1.0.tar.gz",
+  "download_time": "2025-11-05T15:44:27.872737",
+  "package_url": "https://pypi.org/project/moboard/"
+}
