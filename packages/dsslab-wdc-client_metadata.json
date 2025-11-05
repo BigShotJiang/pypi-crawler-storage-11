@@ -1,11 +1,11 @@
 {
   "name": "dsslab-wdc-client",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "A small client for the WDC-Rest-API.",
   "author": "Tino Schöllhorn",
   "license": null,
   "home_page": "https://dss-wdc.wiso.uni-hamburg.de/",
-  "download_filename": "dsslab_wdc_client-0.16.0.tar.gz",
-  "download_time": "2025-11-05T07:25:01.920441",
+  "download_filename": "dsslab_wdc_client-0.16.1.tar.gz",
+  "download_time": "2025-11-05T13:23:58.497667",
   "package_url": "https://pypi.org/project/dsslab-wdc-client/"
 }

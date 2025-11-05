@@ -1,0 +1,11 @@
+{
+  "name": "pyproject-fmt",
+  "version": "2.11.1",
+  "summary": "Format your pyproject.toml file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproject_fmt-2.11.1.tar.gz",
+  "download_time": "2025-11-05T13:24:45.087461",
+  "package_url": "https://pypi.org/project/pyproject-fmt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "weaverbird",
-  "version": "0.61.0",
+  "version": "0.62.0",
   "summary": "A visual data pipeline builder with various backends",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "weaverbird-0.61.0.tar.gz",
-  "download_time": "2025-11-05T09:46:00.450547",
+  "download_filename": "weaverbird-0.62.0.tar.gz",
+  "download_time": "2025-11-05T13:24:24.411765",
   "package_url": "https://pypi.org/project/weaverbird/"
 }

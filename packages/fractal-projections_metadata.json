@@ -1,0 +1,11 @@
+{
+  "name": "fractal-projections",
+  "version": "0.3.1",
+  "summary": "A comprehensive projection system for defining how data should be shaped, aggregated, grouped, ordered, and limited in database queries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fractal_projections-0.3.1.tar.gz",
+  "download_time": "2025-11-05T13:24:23.889054",
+  "package_url": "https://pypi.org/project/fractal-projections/"
+}

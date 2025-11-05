@@ -1,0 +1,11 @@
+{
+  "name": "collective.eeafaceted.batchactions",
+  "version": "1.16.6",
+  "summary": "This package provides batch actions for eea.facetednavigation dashboard",
+  "author": "IMIO",
+  "license": "GPL V2",
+  "home_page": "https://github.com/IMIO/collective.eeafaceted.batchactions",
+  "download_filename": "collective_eeafaceted_batchactions-1.16.6.tar.gz",
+  "download_time": "2025-11-05T13:24:22.857030",
+  "package_url": "https://pypi.org/project/collective.eeafaceted.batchactions/"
+}

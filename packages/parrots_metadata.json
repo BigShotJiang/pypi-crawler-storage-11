@@ -1,0 +1,11 @@
+{
+  "name": "parrots",
+  "version": "1.2.2",
+  "summary": "Parrots, Automatic Speech Recognition(**ASR**), Text-To-Speech(**TTS**) toolkit",
+  "author": "XuMing",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/shibing624/parrots",
+  "download_filename": "parrots-1.2.2.tar.gz",
+  "download_time": "2025-11-05T13:24:06.686957",
+  "package_url": "https://pypi.org/project/parrots/"
+}

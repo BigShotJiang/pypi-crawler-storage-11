@@ -1,0 +1,11 @@
+{
+  "name": "traylinx-auth-client",
+  "version": "1.0.0",
+  "summary": "Enterprise-grade authentication client for Traylinx Sentinel API and agent-to-agent communication",
+  "author": "Traylinx",
+  "license": "MIT",
+  "home_page": "https://traylinx.com",
+  "download_filename": "traylinx_auth_client-1.0.0.tar.gz",
+  "download_time": "2025-11-05T13:24:07.719980",
+  "package_url": "https://pypi.org/project/traylinx-auth-client/"
+}

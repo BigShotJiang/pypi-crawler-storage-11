@@ -1,0 +1,11 @@
+{
+  "name": "ghga-connector",
+  "version": "1.8.0",
+  "summary": "GHGA Connector - A CLI client application for interacting with the GHGA system.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ghga_connector-1.8.0.tar.gz",
+  "download_time": "2025-11-05T13:24:36.096840",
+  "package_url": "https://pypi.org/project/ghga-connector/"
+}
