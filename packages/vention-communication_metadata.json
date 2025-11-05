@@ -1,0 +1,11 @@
+{
+  "name": "vention-communication",
+  "version": "0.1.0",
+  "summary": "A framework for storing and managing component and application data for machine apps.",
+  "author": "VentionCo",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "vention_communication-0.1.0.tar.gz",
+  "download_time": "2025-11-05T19:40:04.243978",
+  "package_url": "https://pypi.org/project/vention-communication/"
+}

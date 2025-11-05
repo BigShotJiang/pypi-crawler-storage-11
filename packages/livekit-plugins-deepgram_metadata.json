@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-deepgram",
+  "version": "1.2.18",
+  "summary": "Agent Framework plugin for services using Deepgram's API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_deepgram-1.2.18.tar.gz",
+  "download_time": "2025-11-05T19:40:00.594427",
+  "package_url": "https://pypi.org/project/livekit-plugins-deepgram/"
+}

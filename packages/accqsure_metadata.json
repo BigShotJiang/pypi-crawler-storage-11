@@ -1,11 +1,11 @@
 {
   "name": "accqsure",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "AccQsure client SDK and command line utilities",
   "author": "AccQsure, Inc.",
   "license": "MIT",
   "home_page": "https://github.com/AccQsure/python-sdk",
-  "download_filename": "accqsure-0.2.10.tar.gz",
-  "download_time": "2025-11-05T19:28:51.682910",
+  "download_filename": "accqsure-0.2.11.tar.gz",
+  "download_time": "2025-11-05T19:40:16.833861",
   "package_url": "https://pypi.org/project/accqsure/"
 }

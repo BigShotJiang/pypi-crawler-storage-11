@@ -1,0 +1,11 @@
+{
+  "name": "plover-lapwing-aio",
+  "version": "1.4.5",
+  "summary": "Plover plugin to install Lapwing dependencies and extras.",
+  "author": "Aerick",
+  "license": null,
+  "home_page": "https://github.com/aerickt/plover-lapwing-aio",
+  "download_filename": "plover_lapwing_aio-1.4.5.tar.gz",
+  "download_time": "2025-11-05T19:39:39.571566",
+  "package_url": "https://pypi.org/project/plover-lapwing-aio/"
+}

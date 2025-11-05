@@ -1,11 +1,11 @@
 {
   "name": "pinecone-pulumi",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A Pulumi package for creating and managing Pinecone resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://www.pinecone.io",
-  "download_filename": "pinecone_pulumi-2.0.1.tar.gz",
-  "download_time": "2025-11-05T19:29:05.730390",
+  "download_filename": "pinecone_pulumi-2.0.2.tar.gz",
+  "download_time": "2025-11-05T19:40:09.555852",
   "package_url": "https://pypi.org/project/pinecone-pulumi/"
 }
