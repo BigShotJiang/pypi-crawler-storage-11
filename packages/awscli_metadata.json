@@ -1,11 +1,11 @@
 {
   "name": "awscli",
-  "version": "1.42.66",
+  "version": "1.42.67",
   "summary": "Universal Command Line Environment for AWS.",
   "author": "Amazon Web Services",
   "license": "Apache License 2.0",
   "home_page": "http://aws.amazon.com/cli/",
-  "download_filename": "awscli-1.42.66.tar.gz",
-  "download_time": "2025-11-04T20:45:12.532329",
+  "download_filename": "awscli-1.42.67.tar.gz",
+  "download_time": "2025-11-05T20:45:55.272865",
   "package_url": "https://pypi.org/project/awscli/"
 }

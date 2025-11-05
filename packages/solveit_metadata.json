@@ -1,0 +1,11 @@
+{
+  "name": "solveit",
+  "version": "0.0.20",
+  "summary": "Solve it with code FastHTML app",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/solveit",
+  "download_filename": "solveit-0.0.20.tar.gz",
+  "download_time": "2025-11-05T20:45:54.494081",
+  "package_url": "https://pypi.org/project/solveit/"
+}

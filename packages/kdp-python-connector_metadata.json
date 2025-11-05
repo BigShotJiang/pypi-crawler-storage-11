@@ -1,0 +1,11 @@
+{
+  "name": "kdp-python-connector",
+  "version": "0.121.0",
+  "summary": "Python Connector for KDP Platform",
+  "author": "Koverse development team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdp_python_connector-0.121.0.tar.gz",
+  "download_time": "2025-11-05T20:46:04.381858",
+  "package_url": "https://pypi.org/project/kdp-python-connector/"
+}
