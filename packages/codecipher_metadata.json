@@ -1,11 +1,11 @@
 {
   "name": "codecipher",
-  "version": "1.4.9",
+  "version": "1.5.0",
   "summary": "Python Cipher Utilities",
   "author": "Vladimir Roncevic",
   "license": "GPL-3.0-or-later",
   "home_page": "https://electux.github.io/codecipher",
-  "download_filename": "codecipher-1.4.9.tar.gz",
-  "download_time": "2025-11-03T17:42:11.892512",
+  "download_filename": "codecipher-1.5.0.tar.gz",
+  "download_time": "2025-11-05T04:26:04.576284",
   "package_url": "https://pypi.org/project/codecipher/"
 }

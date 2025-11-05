@@ -1,0 +1,11 @@
+{
+  "name": "i2ptunnel",
+  "version": "0.1.1",
+  "summary": "I2P Proxy Tunnel with Python decorator support",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/Krabbens/i2ptunnel",
+  "download_filename": "i2ptunnel-0.1.1.tar.gz",
+  "download_time": "2025-11-05T04:25:37.913901",
+  "package_url": "https://pypi.org/project/i2ptunnel/"
+}

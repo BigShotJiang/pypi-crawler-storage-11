@@ -1,11 +1,11 @@
 {
   "name": "mnemo-lib",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A library to read MNemo Survey Tool Memory files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnemo_lib-0.0.6.tar.gz",
-  "download_time": "2025-11-02T22:39:55.628052",
+  "download_filename": "mnemo_lib-0.0.7.tar.gz",
+  "download_time": "2025-11-05T04:26:09.298127",
   "package_url": "https://pypi.org/project/mnemo-lib/"
 }

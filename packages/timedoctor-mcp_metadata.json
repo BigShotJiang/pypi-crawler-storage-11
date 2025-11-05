@@ -1,11 +1,11 @@
 {
   "name": "timedoctor-mcp",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "summary": "MCP Server for extracting Time Doctor time tracking data via AI assistants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timedoctor_mcp-1.2.2.tar.gz",
-  "download_time": "2025-11-05T01:43:05.923661",
+  "download_filename": "timedoctor_mcp-1.2.4.tar.gz",
+  "download_time": "2025-11-05T04:25:58.347047",
   "package_url": "https://pypi.org/project/timedoctor-mcp/"
 }

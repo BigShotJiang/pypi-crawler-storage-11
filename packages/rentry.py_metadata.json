@@ -1,0 +1,11 @@
+{
+  "name": "rentry.py",
+  "version": "0.3.9",
+  "summary": "A python wrapper for the rentry markdown service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rentry_py-0.3.9.tar.gz",
+  "download_time": "2025-11-05T04:25:39.017058",
+  "package_url": "https://pypi.org/project/rentry.py/"
+}
