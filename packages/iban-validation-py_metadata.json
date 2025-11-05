@@ -1,0 +1,11 @@
+{
+  "name": "iban-validation-py",
+  "version": "0.1.21",
+  "summary": "A package to facilitate validation of IBANs and selecting Bank_id and Branch_id",
+  "author": "Eric",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iban_validation_py-0.1.21.tar.gz",
+  "download_time": "2025-11-05T20:56:43.927150",
+  "package_url": "https://pypi.org/project/iban-validation-py/"
+}

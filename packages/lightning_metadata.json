@@ -1,0 +1,11 @@
+{
+  "name": "lightning",
+  "version": "2.5.6",
+  "summary": "The Deep Learning framework to train, deploy, and ship AI products Lightning fast.",
+  "author": "Lightning AI et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Lightning-AI/lightning",
+  "download_filename": "lightning-2.5.6.tar.gz",
+  "download_time": "2025-11-05T20:56:45.532394",
+  "package_url": "https://pypi.org/project/lightning/"
+}

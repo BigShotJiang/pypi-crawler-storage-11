@@ -1,0 +1,11 @@
+{
+  "name": "lightning-fabric",
+  "version": "2.5.6",
+  "summary": null,
+  "author": "Lightning AI et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Lightning-AI/lightning",
+  "download_filename": "lightning_fabric-2.5.6.tar.gz",
+  "download_time": "2025-11-05T20:56:44.451975",
+  "package_url": "https://pypi.org/project/lightning-fabric/"
+}
