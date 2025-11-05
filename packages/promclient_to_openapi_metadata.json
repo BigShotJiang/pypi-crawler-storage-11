@@ -1,0 +1,11 @@
+{
+  "name": "promclient_to_openapi",
+  "version": "1.1.1",
+  "summary": "Translates prometheus_client metrics into OpenAPI specification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promclient_to_openapi-1.1.1.tar.gz",
+  "download_time": "2025-11-05T13:51:22.469219",
+  "package_url": "https://pypi.org/project/promclient_to_openapi/"
+}

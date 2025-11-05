@@ -1,0 +1,11 @@
+{
+  "name": "webtogit",
+  "version": "0.1.1",
+  "summary": "simple tool to download etherpads and archive them in a git repository",
+  "author": "Carsten Knoll",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "webtogit-0.1.1.tar.gz",
+  "download_time": "2025-11-05T13:51:17.679687",
+  "package_url": "https://pypi.org/project/webtogit/"
+}

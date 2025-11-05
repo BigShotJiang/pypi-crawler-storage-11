@@ -1,0 +1,11 @@
+{
+  "name": "MongoConnect825",
+  "version": "0.0.6",
+  "summary": "A Python package for connecting with MongoDB.",
+  "author": "owais825",
+  "license": "MIT",
+  "home_page": "https://github.com/owais825/mongodb_connector",
+  "download_filename": "mongoconnect825-0.0.6.tar.gz",
+  "download_time": "2025-11-05T13:51:08.793818",
+  "package_url": "https://pypi.org/project/MongoConnect825/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytokens",
+  "version": "0.3.0",
+  "summary": "A Fast, spec compliant Python 3.14+ tokenizer that runs on older Pythons.",
+  "author": "Tushar Sadhwani",
+  "license": "MIT",
+  "home_page": "https://github.com/tusharsadhwani/pytokens",
+  "download_filename": "pytokens-0.3.0.tar.gz",
+  "download_time": "2025-11-05T13:51:15.017836",
+  "package_url": "https://pypi.org/project/pytokens/"
+}

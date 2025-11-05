@@ -1,0 +1,11 @@
+{
+  "name": "ecg-k-fold",
+  "version": "0.1.1",
+  "summary": "ECG k-Fold utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecg_k_fold-0.1.1.tar.gz",
+  "download_time": "2025-11-05T13:51:03.023170",
+  "package_url": "https://pypi.org/project/ecg-k-fold/"
+}

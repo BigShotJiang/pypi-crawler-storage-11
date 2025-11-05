@@ -1,0 +1,11 @@
+{
+  "name": "dearwatson",
+  "version": "1.0.0",
+  "summary": "Visual Vetting and Analysis of Transits from Space ObservatioNs",
+  "author": "M. Dévora-Pajares",
+  "license": null,
+  "home_page": "https://github.com/PlanetHunters/watson",
+  "download_filename": "dearwatson-1.0.0.tar.gz",
+  "download_time": "2025-11-05T13:51:19.860021",
+  "package_url": "https://pypi.org/project/dearwatson/"
+}

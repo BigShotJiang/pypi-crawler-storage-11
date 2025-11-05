@@ -1,11 +1,11 @@
 {
   "name": "ray-embedding",
-  "version": "0.13.14",
+  "version": "0.13.16",
   "summary": "Deploy SentenceTransformers embedding models to a ray cluster",
   "author": "Crispin Almodovar",
   "license": null,
   "home_page": null,
-  "download_filename": "ray_embedding-0.13.14.tar.gz",
-  "download_time": "2025-11-05T13:24:04.027563",
+  "download_filename": "ray_embedding-0.13.16.tar.gz",
+  "download_time": "2025-11-05T13:50:54.178642",
   "package_url": "https://pypi.org/project/ray-embedding/"
 }

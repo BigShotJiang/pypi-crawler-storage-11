@@ -1,0 +1,11 @@
+{
+  "name": "judoscale",
+  "version": "1.10.2",
+  "summary": "Official Python adapter for Judoscale — the advanced autoscaler for Heroku",
+  "author": "Adam McCrea",
+  "license": "MIT",
+  "home_page": "https://github.com/judoscale/judoscale-python",
+  "download_filename": "judoscale-1.10.2.tar.gz",
+  "download_time": "2025-11-05T13:51:28.738816",
+  "package_url": "https://pypi.org/project/judoscale/"
+}

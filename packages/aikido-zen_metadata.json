@@ -1,0 +1,11 @@
+{
+  "name": "aikido-zen",
+  "version": "1.2.25",
+  "summary": "Aikido Zen for Python",
+  "author": "Aikido Security",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "aikido_zen-1.2.25.tar.gz",
+  "download_time": "2025-11-05T13:50:51.533555",
+  "package_url": "https://pypi.org/project/aikido-zen/"
+}
