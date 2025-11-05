@@ -1,0 +1,11 @@
+{
+  "name": "scan-your-trash",
+  "version": "1.0.1",
+  "summary": "A tool that extracts samples created using the Scan Your Trash app.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scan_your_trash-1.0.1.tar.gz",
+  "download_time": "2025-11-05T15:23:09.668980",
+  "package_url": "https://pypi.org/project/scan-your-trash/"
+}

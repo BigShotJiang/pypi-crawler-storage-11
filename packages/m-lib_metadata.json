@@ -1,0 +1,11 @@
+{
+  "name": "m-lib",
+  "version": "3.1.2",
+  "summary": "Broytman Library for Python",
+  "author": "Oleg Broytman",
+  "license": "GPL",
+  "home_page": "https://phdru.name/Software/Python/#m_lib",
+  "download_filename": "m_lib-3.1.2.tar.gz",
+  "download_time": "2025-11-05T15:22:47.968527",
+  "package_url": "https://pypi.org/project/m-lib/"
+}

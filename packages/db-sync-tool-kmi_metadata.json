@@ -1,0 +1,11 @@
+{
+  "name": "db-sync-tool-kmi",
+  "version": "2.11.12",
+  "summary": "Synchronize a database from and to host systems.",
+  "author": "Konrad Michalik",
+  "license": "MIT",
+  "home_page": "https://github.com/jackd248/db-sync-tool",
+  "download_filename": "db_sync_tool_kmi-2.11.12.tar.gz",
+  "download_time": "2025-11-05T15:23:13.888529",
+  "package_url": "https://pypi.org/project/db-sync-tool-kmi/"
+}

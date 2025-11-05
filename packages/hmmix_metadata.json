@@ -1,0 +1,11 @@
+{
+  "name": "hmmix",
+  "version": "0.9",
+  "summary": "Find introgressed segments",
+  "author": "Laurits Skov and Moises Coll Macia",
+  "license": null,
+  "home_page": "https://github.com/LauritsSkov/Introgression-detection",
+  "download_filename": "hmmix-0.9.tar.gz",
+  "download_time": "2025-11-05T15:23:18.064403",
+  "package_url": "https://pypi.org/project/hmmix/"
+}

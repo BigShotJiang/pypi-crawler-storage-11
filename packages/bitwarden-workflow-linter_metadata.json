@@ -1,11 +1,11 @@
 {
   "name": "bitwarden-workflow-linter",
-  "version": "1.5.23",
+  "version": "1.5.24",
   "summary": "Custom GitHub Action Workflow Linter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bitwarden_workflow_linter-1.5.23.tar.gz",
-  "download_time": "2025-11-04T20:24:43.313325",
+  "download_filename": "bitwarden_workflow_linter-1.5.24.tar.gz",
+  "download_time": "2025-11-05T15:22:40.662376",
   "package_url": "https://pypi.org/project/bitwarden-workflow-linter/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sharenotelib",
+  "version": "0.1.0",
+  "summary": "Reference Python SDK for Sharenote clients",
+  "author": "Soprinter",
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "sharenotelib-0.1.0.tar.gz",
+  "download_time": "2025-11-05T15:22:38.033141",
+  "package_url": "https://pypi.org/project/sharenotelib/"
+}

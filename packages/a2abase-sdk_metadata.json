@@ -1,0 +1,11 @@
+{
+  "name": "a2abase-sdk",
+  "version": "1.0.2",
+  "summary": "Official Python SDK for building powerful AI agents with access to 50+ built-in tools, 300+ integrations, and all major LLMs—all through a single, unified platform.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a2abase_sdk-1.0.2.tar.gz",
+  "download_time": "2025-11-05T15:22:53.795685",
+  "package_url": "https://pypi.org/project/a2abase-sdk/"
+}

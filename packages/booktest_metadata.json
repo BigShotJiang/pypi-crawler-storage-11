@@ -1,11 +1,11 @@
 {
   "name": "booktest",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Booktest is a snapshot testing library for review driven testing.",
   "author": "Antti Rauhala",
   "license": null,
   "home_page": null,
-  "download_filename": "booktest-1.0.8.tar.gz",
-  "download_time": "2025-11-05T11:53:09.177150",
+  "download_filename": "booktest-1.0.9.tar.gz",
+  "download_time": "2025-11-05T15:22:57.509282",
   "package_url": "https://pypi.org/project/booktest/"
 }

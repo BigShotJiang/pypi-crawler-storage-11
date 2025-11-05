@@ -1,0 +1,11 @@
+{
+  "name": "python-bvk",
+  "version": "0.4.0",
+  "summary": "Python library for tracking water consumption from BVK (Brnenske vodarny a kanalizace, bvk.cz)",
+  "author": "Dan Keder",
+  "license": null,
+  "home_page": "https://github.com/dankeder/python-bvk",
+  "download_filename": "python_bvk-0.4.0.tar.gz",
+  "download_time": "2025-11-05T15:23:01.185130",
+  "package_url": "https://pypi.org/project/python-bvk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "descope",
+  "version": "1.7.12",
+  "summary": "Descope Python SDK",
+  "author": "Descope",
+  "license": "MIT",
+  "home_page": "https://descope.com/",
+  "download_filename": "descope-1.7.12.tar.gz",
+  "download_time": "2025-11-05T15:22:36.992143",
+  "package_url": "https://pypi.org/project/descope/"
+}

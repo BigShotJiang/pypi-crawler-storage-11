@@ -1,11 +1,11 @@
 {
   "name": "systemctl",
-  "version": "1.2.5",
+  "version": "1.2.11",
   "summary": "A Python wrapper for systemctl.",
   "author": "Nadim-Daniel Ghaznavi",
   "license": "GPL-3.0",
   "home_page": "https://systemctl.osoyalce.com/",
-  "download_filename": "systemctl-1.2.5.tar.gz",
-  "download_time": "2025-11-05T12:44:59.652645",
+  "download_filename": "systemctl-1.2.11.tar.gz",
+  "download_time": "2025-11-05T15:22:46.929379",
   "package_url": "https://pypi.org/project/systemctl/"
 }

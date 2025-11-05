@@ -1,0 +1,11 @@
+{
+  "name": "openfacekit",
+  "version": "0.2.0",
+  "summary": "OpenFaceKit is a Python library for face detection and recognition in images, videos and streams using deep learning models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openfacekit-0.2.0.tar.gz",
+  "download_time": "2025-11-05T15:23:19.108925",
+  "package_url": "https://pypi.org/project/openfacekit/"
+}

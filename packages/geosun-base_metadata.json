@@ -1,11 +1,11 @@
 {
   "name": "geosun-base",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "GeoSun 基础库",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geosun_base-0.1.1-cp313-none-win_amd64.whl",
-  "download_time": "2025-11-04T08:54:31.804300",
+  "download_filename": "geosun_base-0.1.2-py3-none-any.whl",
+  "download_time": "2025-11-05T15:23:02.755079",
   "package_url": "https://pypi.org/project/geosun-base/"
 }
