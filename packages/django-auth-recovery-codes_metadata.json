@@ -1,0 +1,11 @@
+{
+  "name": "django-auth-recovery-codes",
+  "version": "1.0.3",
+  "summary": "Django app for 2FA recovery codes",
+  "author": "Egbie Uku",
+  "license": "MIT",
+  "home_page": "https://github.com/EgbieAndersonUku1/django_2fa_recovery_codes",
+  "download_filename": "django_auth_recovery_codes-1.0.3.tar.gz",
+  "download_time": "2025-11-05T03:52:54.745565",
+  "package_url": "https://pypi.org/project/django-auth-recovery-codes/"
+}

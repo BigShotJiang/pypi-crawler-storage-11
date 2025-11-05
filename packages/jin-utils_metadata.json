@@ -1,0 +1,11 @@
+{
+  "name": "jin-utils",
+  "version": "0.4.1",
+  "summary": "The package contains some useful functions for my daily work",
+  "author": "Huaqing Jin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jin_utils-0.4.1.tar.gz",
+  "download_time": "2025-11-05T03:52:32.015183",
+  "package_url": "https://pypi.org/project/jin-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anonymization-sdk",
+  "version": "2.0.4",
+  "summary": "The anonymization-sdk provides an API for inferring videos and images.",
+  "author": "Streamingo Solutions",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anonymization_sdk-2.0.4.tar.gz",
+  "download_time": "2025-11-05T03:52:35.797188",
+  "package_url": "https://pypi.org/project/anonymization-sdk/"
+}

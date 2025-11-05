@@ -1,11 +1,11 @@
 {
   "name": "sembicho-cli",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "Herramienta autocontenida de análisis estático de seguridad para múltiples lenguajes",
   "author": "SemBicho Team",
   "license": null,
   "home_page": "https://github.com/sembicho/sembicho-cli",
-  "download_filename": "sembicho_cli-2.2.0.tar.gz",
-  "download_time": "2025-11-04T21:42:29.816133",
+  "download_filename": "sembicho_cli-2.2.2.tar.gz",
+  "download_time": "2025-11-05T03:52:27.189894",
   "package_url": "https://pypi.org/project/sembicho-cli/"
 }

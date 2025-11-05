@@ -1,0 +1,11 @@
+{
+  "name": "invcrypt",
+  "version": "1.0.10",
+  "summary": "Quantum-safe local file encryption CLI based on Invicra’s proprietary DITG/FTG cryptography.",
+  "author": "Invicra Technologies AB",
+  "license": null,
+  "home_page": "https://github.com/ivarolsson1415/invcrypt-community",
+  "download_filename": "invcrypt-1.0.10.tar.gz",
+  "download_time": "2025-11-05T03:52:50.861658",
+  "package_url": "https://pypi.org/project/invcrypt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fin68",
+  "version": "0.1.11",
+  "summary": "High-performance Python client for the Fin68 financial data platform.",
+  "author": "Fin68 Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fin68-0.1.11-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-11-05T03:52:47.318816",
+  "package_url": "https://pypi.org/project/fin68/"
+}
