@@ -1,11 +1,11 @@
 {
   "name": "mkf",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A simple CLI tool to generate FastAPI starter projects with a modular structure.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkf-0.2.0.tar.gz",
-  "download_time": "2025-11-06T15:46:59.019894",
+  "download_filename": "mkf-0.3.0.tar.gz",
+  "download_time": "2025-11-06T15:58:53.913179",
   "package_url": "https://pypi.org/project/mkf/"
 }

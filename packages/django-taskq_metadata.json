@@ -1,11 +1,11 @@
 {
   "name": "django-taskq",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "summary": "A simple Celery-like database-backed task queue for Django",
   "author": "Aivars Kalvans",
   "license": "MIT",
   "home_page": "https://github.com/aivarsk/django-taskq",
-  "download_filename": "django_taskq-1.0.21.tar.gz",
-  "download_time": "2025-11-06T14:47:51.667905",
+  "download_filename": "django_taskq-1.0.22.tar.gz",
+  "download_time": "2025-11-06T15:58:52.341096",
   "package_url": "https://pypi.org/project/django-taskq/"
 }

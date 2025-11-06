@@ -1,0 +1,11 @@
+{
+  "name": "radical.analytics",
+  "version": "1.103.0",
+  "summary": "('Profiling library for RADICAL-Cybertools',)",
+  "author": "RADICAL Group at Rutgers University",
+  "license": "MIT",
+  "home_page": "http://radical-cybertools.github.io/radical.analytics/",
+  "download_filename": "radical_analytics-1.103.0.tar.gz",
+  "download_time": "2025-11-06T15:58:23.846710",
+  "package_url": "https://pypi.org/project/radical.analytics/"
+}

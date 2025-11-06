@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-image-zoom-with-caption",
+  "version": "0.0.5",
+  "summary": "A Streamlit Component to display an image with interactive zoom functionality.",
+  "author": "tcotte",
+  "license": "MIT",
+  "home_page": "https://github.com/tcotte/streamlit-image-zoom-with-caption",
+  "download_filename": "streamlit_image_zoom_with_caption-0.0.5.tar.gz",
+  "download_time": "2025-11-06T15:58:32.263047",
+  "package_url": "https://pypi.org/project/streamlit-image-zoom-with-caption/"
+}

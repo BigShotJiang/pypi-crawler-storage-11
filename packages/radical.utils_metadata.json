@@ -1,0 +1,11 @@
+{
+  "name": "radical.utils",
+  "version": "1.103.0",
+  "summary": "RADICAL-Cybertools utility library",
+  "author": "RADICAL Group at Rutgers University",
+  "license": "MIT",
+  "home_page": "http://radical-cybertools.github.io/radical.utils/",
+  "download_filename": "radical_utils-1.103.0.tar.gz",
+  "download_time": "2025-11-06T15:58:47.603931",
+  "package_url": "https://pypi.org/project/radical.utils/"
+}

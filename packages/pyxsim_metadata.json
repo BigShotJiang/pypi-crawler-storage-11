@@ -1,0 +1,11 @@
+{
+  "name": "pyxsim",
+  "version": "4.4.3",
+  "summary": "Python package for simulating X-ray observations from astrophysical sources",
+  "author": null,
+  "license": null,
+  "home_page": "http://github.com/jzuhone/pyxsim",
+  "download_filename": "pyxsim-4.4.3.tar.gz",
+  "download_time": "2025-11-06T15:58:51.281086",
+  "package_url": "https://pypi.org/project/pyxsim/"
+}

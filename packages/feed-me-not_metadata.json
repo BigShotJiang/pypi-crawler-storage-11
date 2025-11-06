@@ -1,0 +1,11 @@
+{
+  "name": "feed-me-not",
+  "version": "0.1.0",
+  "summary": "An app to track which foods/ingredients might be causing food digestive issues.",
+  "author": "siru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "feed_me_not-0.1.0.tar.gz",
+  "download_time": "2025-11-06T15:58:22.800584",
+  "package_url": "https://pypi.org/project/feed-me-not/"
+}

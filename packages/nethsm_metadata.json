@@ -1,0 +1,11 @@
+{
+  "name": "nethsm",
+  "version": "2.0.1",
+  "summary": "Python Library to manage NetHSM(s).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nethsm-2.0.1.tar.gz",
+  "download_time": "2025-11-06T15:59:01.745828",
+  "package_url": "https://pypi.org/project/nethsm/"
+}

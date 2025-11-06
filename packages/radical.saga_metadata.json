@@ -1,0 +1,11 @@
+{
+  "name": "radical.saga",
+  "version": "1.103.0",
+  "summary": "A light-weight access layer for distributed compute infrastructure",
+  "author": "RADICAL Group at Rutgers University",
+  "license": "MIT",
+  "home_page": "http://radical-cybertools.github.io/radical.saga/",
+  "download_filename": "radical_saga-1.103.0.tar.gz",
+  "download_time": "2025-11-06T15:59:00.700987",
+  "package_url": "https://pypi.org/project/radical.saga/"
+}

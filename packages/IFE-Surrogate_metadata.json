@@ -1,0 +1,11 @@
+{
+  "name": "IFE-Surrogate",
+  "version": "0.1.2",
+  "summary": "A machine learning library intended for surrogate modeling.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/your-repo",
+  "download_filename": "ife_surrogate-0.1.2.tar.gz",
+  "download_time": "2025-11-06T15:58:41.335678",
+  "package_url": "https://pypi.org/project/IFE-Surrogate/"
+}

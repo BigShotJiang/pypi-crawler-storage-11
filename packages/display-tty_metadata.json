@@ -1,11 +1,11 @@
 {
   "name": "display-tty",
-  "version": "1.1.14",
+  "version": "1.1.16",
   "summary": "A module that allows you to display text with a few boilers (i.e. put your text in a square for titles). It also allows to log to the terminal by wrapping around the logging library.",
   "author": "Henry Letellier",
   "license": null,
   "home_page": "https://github.com/Hanra-s-work/display_tty",
-  "download_filename": "display_tty-1.1.14.tar.gz",
-  "download_time": "2025-11-06T12:57:20.339727",
+  "download_filename": "display_tty-1.1.16.tar.gz",
+  "download_time": "2025-11-06T15:58:48.122435",
   "package_url": "https://pypi.org/project/display-tty/"
 }
