@@ -1,11 +1,11 @@
 {
   "name": "ghs-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Parser for detecting GHS icons in PDFs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ghs_parser-0.1.0.tar.gz",
-  "download_time": "2025-11-06T09:25:44.239195",
+  "download_filename": "ghs_parser-0.1.1.tar.gz",
+  "download_time": "2025-11-06T09:45:37.987064",
   "package_url": "https://pypi.org/project/ghs-parser/"
 }

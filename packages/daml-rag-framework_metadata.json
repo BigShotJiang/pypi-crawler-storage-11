@@ -1,0 +1,11 @@
+{
+  "name": "daml-rag-framework",
+  "version": "1.0.0",
+  "summary": "Domain-Adaptive Meta-Learning RAG Framework for Vertical Domain AI Applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "daml_rag_framework-1.0.0.tar.gz",
+  "download_time": "2025-11-06T09:45:56.257570",
+  "package_url": "https://pypi.org/project/daml-rag-framework/"
+}

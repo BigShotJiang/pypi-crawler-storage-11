@@ -1,0 +1,11 @@
+{
+  "name": "boilerplates",
+  "version": "1.2.4",
+  "summary": "Various boilerplates used in almost all of my Python packages.",
+  "author": "Mateusz Bysiek, Stian Hanssen",
+  "license": null,
+  "home_page": "https://github.com/mbdevpl/python-boilerplates",
+  "download_filename": "boilerplates-1.2.4.tar.gz",
+  "download_time": "2025-11-06T09:45:51.062556",
+  "package_url": "https://pypi.org/project/boilerplates/"
+}

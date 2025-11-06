@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-replicate",
+  "version": "0.1.9",
+  "summary": "FastMCP server implementation for the Replicate API, providing resource-based access to AI model inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_replicate-0.1.9.tar.gz",
+  "download_time": "2025-11-06T09:45:43.746895",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-replicate/"
+}
