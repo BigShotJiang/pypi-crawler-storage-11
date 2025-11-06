@@ -1,0 +1,11 @@
+{
+  "name": "arcade-arcade-engine-api",
+  "version": "1.0.0",
+  "summary": "Tools that enable LLMs to interact directly with the engine API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcade_arcade_engine_api-1.0.0.tar.gz",
+  "download_time": "2025-11-06T22:22:10.249086",
+  "package_url": "https://pypi.org/project/arcade-arcade-engine-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slurm-emulator",
+  "version": "0.0.1",
+  "summary": "SLURM command emulator with time manipulation for testing periodic limits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurm_emulator-0.0.1.tar.gz",
+  "download_time": "2025-11-06T22:22:07.832259",
+  "package_url": "https://pypi.org/project/slurm-emulator/"
+}

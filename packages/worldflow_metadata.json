@@ -1,11 +1,11 @@
 {
   "name": "worldflow",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "DX-first durable workflow orchestration for Python. Write normal async code, survive restarts, run anywhere.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "worldflow-0.1.0.tar.gz",
-  "download_time": "2025-11-06T21:54:13.316842",
+  "download_filename": "worldflow-0.1.2.tar.gz",
+  "download_time": "2025-11-06T22:22:31.187101",
   "package_url": "https://pypi.org/project/worldflow/"
 }
