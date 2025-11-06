@@ -1,0 +1,11 @@
+{
+  "name": "sidraconnector",
+  "version": "2025.8.1.post481",
+  "summary": "A SDK for Sidra connectors",
+  "author": "Sidra Data Services",
+  "license": "Copyright (C) Sidra Data Services - All Rights Reserved\n        Unauthorized copying of this file, via any medium is strictly prohibited\n        Proprietary and confidential\n        Written by Sidra <product@sidra.dev>, 2023",
+  "home_page": "https://sidra.dev/",
+  "download_filename": "sidraconnector-2025.8.1.post481-py3-none-any.whl",
+  "download_time": "2025-11-06T09:25:51.956172",
+  "package_url": "https://pypi.org/project/sidraconnector/"
+}

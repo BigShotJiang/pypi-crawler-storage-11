@@ -1,0 +1,11 @@
+{
+  "name": "sretoolbox",
+  "version": "3.2.0",
+  "summary": "Set of libraries commonly used by multiple SRE projects",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "sretoolbox-3.2.0.tar.gz",
+  "download_time": "2025-11-06T09:26:12.613700",
+  "package_url": "https://pypi.org/project/sretoolbox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lsst-rucio-register",
+  "version": "29.2025.4500",
+  "summary": "Tools for registering LSST metadata information into Rucio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_rucio_register-29.2025.4500.tar.gz",
+  "download_time": "2025-11-06T09:25:56.053338",
+  "package_url": "https://pypi.org/project/lsst-rucio-register/"
+}

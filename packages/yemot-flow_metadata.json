@@ -1,11 +1,11 @@
 {
   "name": "yemot-flow",
-  "version": "0.2.12",
+  "version": "0.2.17",
   "summary": "Modern async/await Python IVR framework for Yemot HaMashiach - Simple as Node.js yemot-router2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yemot_flow-0.2.12.tar.gz",
-  "download_time": "2025-11-06T07:52:30.551295",
+  "download_filename": "yemot_flow-0.2.17.tar.gz",
+  "download_time": "2025-11-06T09:25:45.266182",
   "package_url": "https://pypi.org/project/yemot-flow/"
 }

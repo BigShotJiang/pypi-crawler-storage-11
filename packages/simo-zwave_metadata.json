@@ -1,11 +1,11 @@
 {
   "name": "simo-zwave",
-  "version": "2.1.1",
+  "version": "2.2.1",
   "summary": "Z-Wave JS integration for SIMO.io",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simo_zwave-2.1.1.tar.gz",
-  "download_time": "2025-11-03T12:44:17.918139",
+  "download_filename": "simo_zwave-2.2.1.tar.gz",
+  "download_time": "2025-11-06T09:26:00.672288",
   "package_url": "https://pypi.org/project/simo-zwave/"
 }

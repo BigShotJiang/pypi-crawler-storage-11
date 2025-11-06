@@ -1,11 +1,11 @@
 {
   "name": "ssc_codegen",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "summary": "Python-dsl code converter to html parser for web scraping ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ssc_codegen-0.13.1.tar.gz",
-  "download_time": "2025-11-05T09:46:07.759323",
+  "download_filename": "ssc_codegen-0.13.2.tar.gz",
+  "download_time": "2025-11-06T09:25:55.541645",
   "package_url": "https://pypi.org/project/ssc_codegen/"
 }

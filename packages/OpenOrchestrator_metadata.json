@@ -1,0 +1,11 @@
+{
+  "name": "OpenOrchestrator",
+  "version": "2.0.0",
+  "summary": "A package containing OpenOrchestrator and OpenOrchestrator Scheduler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openorchestrator-2.0.0.tar.gz",
+  "download_time": "2025-11-06T09:25:41.667199",
+  "package_url": "https://pypi.org/project/OpenOrchestrator/"
+}

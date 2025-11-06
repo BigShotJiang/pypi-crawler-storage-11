@@ -1,0 +1,11 @@
+{
+  "name": "lsst-felis",
+  "version": "29.2025.4500",
+  "summary": "A vocabulary for describing catalogs and acting on those descriptions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_felis-29.2025.4500.tar.gz",
+  "download_time": "2025-11-06T09:26:03.914552",
+  "package_url": "https://pypi.org/project/lsst-felis/"
+}
