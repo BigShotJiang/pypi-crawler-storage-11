@@ -1,11 +1,11 @@
 {
   "name": "isuvalidation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Credential validation helper for any project.",
   "author": "yannickRafael",
   "license": null,
   "home_page": null,
-  "download_filename": "isuvalidation-0.1.0.tar.gz",
-  "download_time": "2025-11-05T20:26:44.843238",
+  "download_filename": "isuvalidation-0.1.1.tar.gz",
+  "download_time": "2025-11-06T12:57:44.618109",
   "package_url": "https://pypi.org/project/isuvalidation/"
 }

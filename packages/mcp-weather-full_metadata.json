@@ -1,11 +1,11 @@
 {
   "name": "mcp-weather-full",
-  "version": "0.8.5",
-  "summary": "MCP tools for weather",
+  "version": "0.8.8",
+  "summary": "MCP test for weather",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_weather_full-0.8.5.tar.gz",
-  "download_time": "2025-11-06T11:41:29.487922",
+  "download_filename": "mcp_weather_full-0.8.8.tar.gz",
+  "download_time": "2025-11-06T12:57:59.246143",
   "package_url": "https://pypi.org/project/mcp-weather-full/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flake8-picky-parentheses",
+  "version": "0.6.1",
+  "summary": "flake8 plugin to nitpick about parenthesis, brackets, and braces",
+  "author": "Ivan Prychantovskyi, Rouven Bauer",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "flake8_picky_parentheses-0.6.1.tar.gz",
+  "download_time": "2025-11-06T12:57:38.849334",
+  "package_url": "https://pypi.org/project/flake8-picky-parentheses/"
+}

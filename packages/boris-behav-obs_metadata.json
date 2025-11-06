@@ -1,11 +1,11 @@
 {
   "name": "boris-behav-obs",
-  "version": "9.7.3",
+  "version": "9.7.4",
   "summary": "BORIS - Behavioral Observation Research Interactive Software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boris_behav_obs-9.7.3.tar.gz",
-  "download_time": "2025-11-05T13:24:38.195525",
+  "download_filename": "boris_behav_obs-9.7.4.tar.gz",
+  "download_time": "2025-11-06T12:57:56.957168",
   "package_url": "https://pypi.org/project/boris-behav-obs/"
 }
