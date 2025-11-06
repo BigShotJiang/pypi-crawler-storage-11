@@ -1,0 +1,11 @@
+{
+  "name": "bisocket",
+  "version": "0.0.5",
+  "summary": "bisocket is a high-level Python library for simple, secure, and truly bidirectional socket communication, using a dual-socket architecture to enable non-blocking, full-duplex I/O. It provides automatic AES-GCM encryption and supports both synchronous (threading) and asynchronous (asyncio) client-server applications",
+  "author": "Daniel Olson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bisocket-0.0.5.tar.gz",
+  "download_time": "2025-11-06T14:47:31.702953",
+  "package_url": "https://pypi.org/project/bisocket/"
+}

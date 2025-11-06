@@ -1,0 +1,11 @@
+{
+  "name": "cassandra-medusa",
+  "version": "0.26.0",
+  "summary": "Apache Cassandra backup and restore tool",
+  "author": "The Last Pickle",
+  "license": "Apache",
+  "home_page": "https://github.com/thelastpickle/cassandra-medusa",
+  "download_filename": "cassandra_medusa-0.26.0.tar.gz",
+  "download_time": "2025-11-06T14:48:03.639409",
+  "package_url": "https://pypi.org/project/cassandra-medusa/"
+}

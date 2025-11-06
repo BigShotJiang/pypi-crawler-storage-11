@@ -1,0 +1,11 @@
+{
+  "name": "MMLToolbox",
+  "version": "1.8.10",
+  "summary": null,
+  "author": "Andreas Gschwentner<andreas.gschwentner@tugraz.at>, Elias Alizadeh Saboor<alizadehsaboor@tugraz.at>",
+  "license": null,
+  "home_page": "https://www.tugraz.at/institute/igte/home/",
+  "download_filename": "mmltoolbox-1.8.10-py3-none-any.whl",
+  "download_time": "2025-11-06T14:47:24.946294",
+  "package_url": "https://pypi.org/project/MMLToolbox/"
+}

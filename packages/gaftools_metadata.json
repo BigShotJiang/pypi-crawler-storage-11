@@ -1,0 +1,11 @@
+{
+  "name": "gaftools",
+  "version": "1.3.0",
+  "summary": "Toolkit for pangenome alignments",
+  "author": "Arda Soylev, Fawaz Dabbaghie, Tobias Marschall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaftools-1.3.0.tar.gz",
+  "download_time": "2025-11-06T14:47:29.116035",
+  "package_url": "https://pypi.org/project/gaftools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-delivery-note-batch",
+  "version": "18.0.1.0.0.2",
+  "summary": "Crea i DDT partendo da gruppi di prelievi",
+  "author": "Marco Colombo, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_delivery_note_batch-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-06T14:47:41.253324",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-delivery-note-batch/"
+}

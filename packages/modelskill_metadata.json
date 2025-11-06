@@ -1,0 +1,11 @@
+{
+  "name": "modelskill",
+  "version": "1.3.0",
+  "summary": "Compare results from simulations with observations.",
+  "author": "Jesper Sandvig Mariegaard, Henrik Andersson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modelskill-1.3.0.tar.gz",
+  "download_time": "2025-11-06T14:47:52.189076",
+  "package_url": "https://pypi.org/project/modelskill/"
+}

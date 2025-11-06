@@ -1,0 +1,11 @@
+{
+  "name": "yardstiq",
+  "version": "0.1.1",
+  "summary": "CLI tool to run benchmark over QPUs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "yardstiq-0.1.1.tar.gz",
+  "download_time": "2025-11-06T14:47:19.201743",
+  "package_url": "https://pypi.org/project/yardstiq/"
+}

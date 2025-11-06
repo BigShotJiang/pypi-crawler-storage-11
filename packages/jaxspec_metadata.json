@@ -1,0 +1,11 @@
+{
+  "name": "jaxspec",
+  "version": "0.3.1",
+  "summary": "jaxspec is a bayesian spectral fitting library for X-ray astronomy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaxspec-0.3.1.tar.gz",
+  "download_time": "2025-11-06T14:47:51.152417",
+  "package_url": "https://pypi.org/project/jaxspec/"
+}
