@@ -1,0 +1,11 @@
+{
+  "name": "chaotic-ngine",
+  "version": "0.15.2",
+  "summary": "Chaos for Clouds.",
+  "author": "René Moser",
+  "license": "MIT",
+  "home_page": "https://github.com/ngine-io/chaotic",
+  "download_filename": "chaotic_ngine-0.15.2.tar.gz",
+  "download_time": "2025-11-06T07:52:23.018112",
+  "package_url": "https://pypi.org/project/chaotic-ngine/"
+}

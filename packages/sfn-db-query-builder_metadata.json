@@ -1,0 +1,11 @@
+{
+  "name": "sfn-db-query-builder",
+  "version": "2.1",
+  "summary": "Simplify SQL queries across databases",
+  "author": "Rajesh Darak",
+  "license": null,
+  "home_page": "https://github.com/stepfnAI/db_query_builder",
+  "download_filename": "sfn_db_query_builder-2.1.tar.gz",
+  "download_time": "2025-11-06T07:52:31.773147",
+  "package_url": "https://pypi.org/project/sfn-db-query-builder/"
+}

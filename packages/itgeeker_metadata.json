@@ -1,11 +1,11 @@
 {
   "name": "itgeeker",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Build by ITGeeker.net",
   "author": "ITGeeker",
   "license": null,
   "home_page": null,
-  "download_filename": "itgeeker-0.2.4.tar.gz",
-  "download_time": "2025-11-06T06:33:52.508483",
+  "download_filename": "itgeeker-0.2.6.tar.gz",
+  "download_time": "2025-11-06T07:52:09.081358",
   "package_url": "https://pypi.org/project/itgeeker/"
 }

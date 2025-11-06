@@ -1,11 +1,11 @@
 {
   "name": "boxes-tui",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "summary": "A collection of tools for python TUIs",
   "author": "Legende_7",
   "license": null,
   "home_page": null,
-  "download_filename": "boxes_tui-2.1.0.tar.gz",
-  "download_time": "2025-11-05T21:21:55.561242",
+  "download_filename": "boxes_tui-2.1.2.tar.gz",
+  "download_time": "2025-11-06T07:52:11.406540",
   "package_url": "https://pypi.org/project/boxes-tui/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kudio",
+  "version": "1.1.8.0",
+  "summary": "音頻處理工具 KUDIO",
+  "author": "C.K.",
+  "license": "MIT",
+  "home_page": "https://github.com/recklight",
+  "download_filename": "kudio-1.1.8.0-cp38-cp38-win_amd64.whl",
+  "download_time": "2025-11-06T07:52:26.523959",
+  "package_url": "https://pypi.org/project/kudio/"
+}

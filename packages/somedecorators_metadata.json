@@ -1,0 +1,11 @@
+{
+  "name": "somedecorators",
+  "version": "1.2.6",
+  "summary": "Some useful decorators in Python.",
+  "author": "somenzz",
+  "license": "MIT",
+  "home_page": "https://github.com/somenzz/somedecorators",
+  "download_filename": "somedecorators-1.2.6.tar.gz",
+  "download_time": "2025-11-06T07:52:13.140172",
+  "package_url": "https://pypi.org/project/somedecorators/"
+}
