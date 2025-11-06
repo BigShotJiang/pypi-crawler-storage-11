@@ -1,0 +1,11 @@
+{
+  "name": "cdd-agent",
+  "version": "0.0.2",
+  "summary": "AI coding assistant with structured CDD workflows - LLM agnostic terminal agent",
+  "author": "Guilherme Gouw",
+  "license": "MIT",
+  "home_page": "https://github.com/guilhermegouw/context-driven-development-agent",
+  "download_filename": "cdd_agent-0.0.2.tar.gz",
+  "download_time": "2025-11-06T10:25:47.356136",
+  "package_url": "https://pypi.org/project/cdd-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "h2ctypes",
+  "version": "0.1.0",
+  "summary": "convert c++ header files to python ctypes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h2ctypes-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-06T10:25:49.467121",
+  "package_url": "https://pypi.org/project/h2ctypes/"
+}

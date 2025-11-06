@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-dc-serve",
+  "version": "1.0.8",
+  "summary": "Serve DC on DCOR data via the CKAN API interface",
+  "author": "Paul Müller",
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+  "home_page": null,
+  "download_filename": "ckanext_dc_serve-1.0.8.tar.gz",
+  "download_time": "2025-11-06T10:25:35.330663",
+  "package_url": "https://pypi.org/project/ckanext-dc-serve/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-outlook-email",
+  "version": "0.1.0",
+  "summary": "Email Processing MCP Server with MongoDB integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_outlook_email-0.1.0.tar.gz",
+  "download_time": "2025-11-06T10:25:56.436692",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-outlook-email/"
+}

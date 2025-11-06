@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-dcor-schemas",
+  "version": "1.1.1",
+  "summary": "Introduces or lifts restrictions (authorization) for managing data and metadata on DCOR",
+  "author": "Paul Müller",
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+  "home_page": null,
+  "download_filename": "ckanext_dcor_schemas-1.1.1.tar.gz",
+  "download_time": "2025-11-06T10:25:34.236450",
+  "package_url": "https://pypi.org/project/ckanext-dcor-schemas/"
+}

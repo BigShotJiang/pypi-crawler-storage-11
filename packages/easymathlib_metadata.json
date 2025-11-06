@@ -1,0 +1,11 @@
+{
+  "name": "easymathlib",
+  "version": "1.0.0",
+  "summary": "A simple Python math library with basic, advanced, and geometry operations.",
+  "author": "Krishna Varshney",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mymathlib",
+  "download_filename": "easymathlib-1.0.0.tar.gz",
+  "download_time": "2025-11-06T10:25:49.992735",
+  "package_url": "https://pypi.org/project/easymathlib/"
+}

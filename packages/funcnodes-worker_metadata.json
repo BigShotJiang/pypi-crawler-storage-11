@@ -1,11 +1,11 @@
 {
   "name": "funcnodes-worker",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Worker package for FuncNodes",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "funcnodes_worker-1.2.0.tar.gz",
-  "download_time": "2025-11-05T06:58:07.500370",
+  "download_filename": "funcnodes_worker-1.2.1.tar.gz",
+  "download_time": "2025-11-06T10:25:28.718966",
   "package_url": "https://pypi.org/project/funcnodes-worker/"
 }

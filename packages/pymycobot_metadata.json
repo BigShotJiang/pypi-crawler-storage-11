@@ -1,0 +1,11 @@
+{
+  "name": "pymycobot",
+  "version": "4.0.3",
+  "summary": "Python API for serial communication of MyCobot.",
+  "author": "Elephantrobotics",
+  "license": null,
+  "home_page": "https://github.com/elephantrobotics/pymycobot",
+  "download_filename": "pymycobot-4.0.3.tar.gz",
+  "download_time": "2025-11-06T10:25:31.965296",
+  "package_url": "https://pypi.org/project/pymycobot/"
+}

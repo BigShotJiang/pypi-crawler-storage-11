@@ -1,0 +1,11 @@
+{
+  "name": "db-automation825",
+  "version": "0.0.6",
+  "summary": "A Python package for connecting with MongoDB.",
+  "author": "owais825",
+  "license": "MIT",
+  "home_page": "https://github.com/owais825/mongodb_connector",
+  "download_filename": "db_automation825-0.0.6.tar.gz",
+  "download_time": "2025-11-06T10:26:03.435388",
+  "package_url": "https://pypi.org/project/db-automation825/"
+}
