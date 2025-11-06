@@ -1,0 +1,11 @@
+{
+  "name": "arcadedb-embedded",
+  "version": "0.0.2",
+  "summary": "ArcadeDB embedded multi-model database with bundled JRE - no Java installation required (PLACEHOLDER VERSION)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "arcadedb_embedded-0.0.2.tar.gz",
+  "download_time": "2025-11-06T08:31:24.120450",
+  "package_url": "https://pypi.org/project/arcadedb-embedded/"
+}

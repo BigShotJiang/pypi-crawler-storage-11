@@ -1,11 +1,11 @@
 {
   "name": "bouquin",
-  "version": "0.1.10.1",
+  "version": "0.1.10.2",
   "summary": "Bouquin is a simple, opinionated notebook application written in Python, PyQt and SQLCipher.",
   "author": "Miguel Jacq",
   "license": "GPL-3.0-or-later",
   "home_page": "https://git.mig5.net/mig5/bouquin",
-  "download_filename": "bouquin-0.1.10.1.tar.gz",
-  "download_time": "2025-11-06T05:23:45.902638",
+  "download_filename": "bouquin-0.1.10.2.tar.gz",
+  "download_time": "2025-11-06T08:31:07.099291",
   "package_url": "https://pypi.org/project/bouquin/"
 }

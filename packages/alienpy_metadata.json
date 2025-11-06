@@ -1,0 +1,11 @@
+{
+  "name": "alienpy",
+  "version": "1.6.9",
+  "summary": "Websocket based cli interface for ALICE experiment GRID infrastructure",
+  "author": "Adrian Sevcenco",
+  "license": "BSD-3-Clause",
+  "home_page": "https://gitlab.cern.ch/jalien/xjalienfs",
+  "download_filename": "alienpy-1.6.9.tar.gz",
+  "download_time": "2025-11-06T08:31:26.405839",
+  "package_url": "https://pypi.org/project/alienpy/"
+}

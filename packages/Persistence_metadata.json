@@ -1,0 +1,11 @@
+{
+  "name": "Persistence",
+  "version": "5.2",
+  "summary": "Persistent ExtensionClass",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Persistence",
+  "download_filename": "persistence-5.2.tar.gz",
+  "download_time": "2025-11-06T08:31:03.732313",
+  "package_url": "https://pypi.org/project/Persistence/"
+}

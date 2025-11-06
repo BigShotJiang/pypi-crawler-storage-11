@@ -1,11 +1,11 @@
 {
   "name": "adsdatahub",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Ads Data Hub API client for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adsdatahub-0.0.5.tar.gz",
-  "download_time": "2025-11-05T10:48:15.442612",
+  "download_filename": "adsdatahub-0.0.6.tar.gz",
+  "download_time": "2025-11-06T08:30:38.371021",
   "package_url": "https://pypi.org/project/adsdatahub/"
 }

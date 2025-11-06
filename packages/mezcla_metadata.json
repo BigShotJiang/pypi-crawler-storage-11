@@ -1,0 +1,11 @@
+{
+  "name": "mezcla",
+  "version": "1.4.0.7",
+  "summary": "Mezcla is Spanish for mixture, and this repository contains a variety of Python scripts.",
+  "author": "Tomás O'Hara",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/tomasohara/mezcla",
+  "download_filename": "mezcla-1.4.0.7.tar.gz",
+  "download_time": "2025-11-06T08:31:04.840904",
+  "package_url": "https://pypi.org/project/mezcla/"
+}

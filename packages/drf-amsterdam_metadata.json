@@ -1,0 +1,11 @@
+{
+  "name": "drf-amsterdam",
+  "version": "1.1.0",
+  "summary": "Amsterdam Datapunt code and style for Django REST Framework.",
+  "author": "Amsterdam Datapunt",
+  "license": "Mozilla Public License Version 2.0",
+  "home_page": null,
+  "download_filename": "drf_amsterdam-1.1.0.tar.gz",
+  "download_time": "2025-11-06T08:31:17.852925",
+  "package_url": "https://pypi.org/project/drf-amsterdam/"
+}

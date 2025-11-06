@@ -1,11 +1,11 @@
 {
   "name": "tai-sql",
-  "version": "0.3.49",
+  "version": "0.3.51",
   "summary": null,
   "author": "MateoSaezMata",
   "license": null,
   "home_page": null,
-  "download_filename": "tai_sql-0.3.49.tar.gz",
-  "download_time": "2025-11-05T18:27:59.591697",
+  "download_filename": "tai_sql-0.3.51.tar.gz",
+  "download_time": "2025-11-06T08:31:00.489420",
   "package_url": "https://pypi.org/project/tai-sql/"
 }

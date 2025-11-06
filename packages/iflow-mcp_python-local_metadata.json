@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_python-local",
+  "version": "0.1.1",
+  "summary": "An MCP Server to run python locally",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_python_local-0.1.1.tar.gz",
+  "download_time": "2025-11-06T08:30:50.295548",
+  "package_url": "https://pypi.org/project/iflow-mcp_python-local/"
+}

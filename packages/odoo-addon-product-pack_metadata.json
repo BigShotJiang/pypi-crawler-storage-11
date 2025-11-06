@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-pack",
+  "version": "19.0.1.0.0.1",
+  "summary": "This module allows you to set a product as a Pack",
+  "author": "=?utf-8?q?NaN=C2=B7tic=2C_ADHOC_SA=2C_Tecnativa=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-pack",
+  "download_filename": "odoo_addon_product_pack-19.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2025-11-06T08:30:57.629085",
+  "package_url": "https://pypi.org/project/odoo-addon-product-pack/"
+}
