@@ -1,0 +1,11 @@
+{
+  "name": "hyperx-htmx",
+  "version": "3.3.0",
+  "summary": "Declarative HTMX + Element framework for server-side rendering",
+  "author": "Jeff Panasuik",
+  "license": "MIT",
+  "home_page": "https://github.com/faroncoder/hyperx-htmx",
+  "download_filename": "hyperx_htmx-3.3.0.tar.gz",
+  "download_time": "2025-11-06T06:34:13.727274",
+  "package_url": "https://pypi.org/project/hyperx-htmx/"
+}
