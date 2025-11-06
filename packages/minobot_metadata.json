@@ -1,11 +1,11 @@
 {
   "name": "minobot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A package for visualizing maze solving intended for students learning programming with Python. Developed at the VU Amsterdam.",
-  "author": "Banno Postma, Mauricio Verano Merino",
+  "author": "Banno Postma, Ahmad Ramadan, Mauricio Verano Merino",
   "license": null,
   "home_page": null,
-  "download_filename": "minobot-0.0.2.tar.gz",
-  "download_time": "2025-11-03T20:43:48.297973",
+  "download_filename": "minobot-0.0.3.tar.gz",
+  "download_time": "2025-11-06T22:44:43.131558",
   "package_url": "https://pypi.org/project/minobot/"
 }

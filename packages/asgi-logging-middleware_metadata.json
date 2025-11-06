@@ -1,0 +1,11 @@
+{
+  "name": "asgi-logging-middleware",
+  "version": "0.2.0",
+  "summary": "ASGI middleware for logging HTTP requests and responses. Fork of asgi-logger.",
+  "author": "Marcelo Trylesinski",
+  "license": null,
+  "home_page": "https://github.com/alv2017/asgi-logging-middleware",
+  "download_filename": "asgi_logging_middleware-0.2.0.tar.gz",
+  "download_time": "2025-11-06T22:45:02.044800",
+  "package_url": "https://pypi.org/project/asgi-logging-middleware/"
+}

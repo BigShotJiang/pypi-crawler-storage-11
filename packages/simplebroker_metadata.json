@@ -1,11 +1,11 @@
 {
   "name": "simplebroker",
-  "version": "2.8.3",
+  "version": "2.8.4",
   "summary": "A lightweight message queue backed by SQLite",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplebroker-2.8.3.tar.gz",
-  "download_time": "2025-11-05T20:18:21.470404",
+  "download_filename": "simplebroker-2.8.4.tar.gz",
+  "download_time": "2025-11-06T22:45:07.184367",
   "package_url": "https://pypi.org/project/simplebroker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyrail-uk",
+  "version": "0.1.1",
+  "summary": "Python SDK for dealing with the National Rail API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrail_uk-0.1.1.tar.gz",
+  "download_time": "2025-11-06T22:44:44.863574",
+  "package_url": "https://pypi.org/project/pyrail-uk/"
+}

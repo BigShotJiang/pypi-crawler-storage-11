@@ -1,0 +1,11 @@
+{
+  "name": "virt-stats",
+  "version": "3.0.0",
+  "summary": "This program is now deprecated.",
+  "author": "Tidal",
+  "license": null,
+  "home_page": "https://github.com/tidalmigrations/machine_stats",
+  "download_filename": "virt_stats-3.0.0.tar.gz",
+  "download_time": "2025-11-06T22:45:04.295299",
+  "package_url": "https://pypi.org/project/virt-stats/"
+}
