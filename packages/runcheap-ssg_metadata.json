@@ -1,0 +1,11 @@
+{
+  "name": "runcheap-ssg",
+  "version": "1.0.3",
+  "summary": "A static site generator app for django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runcheap_ssg-1.0.3.tar.gz",
+  "download_time": "2025-11-06T19:53:26.641764",
+  "package_url": "https://pypi.org/project/runcheap-ssg/"
+}

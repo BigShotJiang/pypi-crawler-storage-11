@@ -1,0 +1,11 @@
+{
+  "name": "linearsolve",
+  "version": "3.6.3",
+  "summary": "A module for approximating, solving, and simulating dynamic stochastic general equilibrium (DSGE) models",
+  "author": "Brian C. Jenkins",
+  "license": null,
+  "home_page": "https://github.com/letsgoexploring/linearsolve-package",
+  "download_filename": "linearsolve-3.6.3.tar.gz",
+  "download_time": "2025-11-06T19:53:32.582717",
+  "package_url": "https://pypi.org/project/linearsolve/"
+}

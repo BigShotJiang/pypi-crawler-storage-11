@@ -1,0 +1,11 @@
+{
+  "name": "pyaether",
+  "version": "0.4.7",
+  "summary": "DSL for writing HTML user interfaces in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyaether-0.4.7.tar.gz",
+  "download_time": "2025-11-06T19:53:14.680950",
+  "package_url": "https://pypi.org/project/pyaether/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "natilog-lib",
+  "version": "0.1.1",
+  "summary": "Librería para interactuar con la API de NatiLog",
+  "author": "Natalí",
+  "license": null,
+  "home_page": null,
+  "download_filename": "natilog_lib-0.1.1.tar.gz",
+  "download_time": "2025-11-06T19:53:41.717930",
+  "package_url": "https://pypi.org/project/natilog-lib/"
+}

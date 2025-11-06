@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-autocrud-rishabh",
+  "version": "0.1.0",
+  "summary": "Automatically generate CRUD APIs for FastAPI with SQLAlchemy models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_autocrud_rishabh-0.1.0.tar.gz",
+  "download_time": "2025-11-06T19:53:11.458196",
+  "package_url": "https://pypi.org/project/fastapi-autocrud-rishabh/"
+}
