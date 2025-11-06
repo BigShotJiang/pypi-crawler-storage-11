@@ -1,20 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T05:24:04.798942
-- **Total Packages**: 84
-- **Total Size**: 32.45 MB
+- **Download Time**: 2025-11-06T05:44:49.373129
+- **Total Packages**: 81
+- **Total Size**: 11.39 MB
 
 ## Packages List
+- xttp
+- enterprise-docs
+- wrapt
+- pytradingviewlib
+- pulumi-alicloud
+- urllib3-future
+- iptw-survival
 - kinemotion
+- machineconfig
+- utg-base
+- pulumi-cloudinit
+- pulumi-cloudngfwaws
+- dputils
+- rogvibe
+- bundlewrap
+- pulumi-aws-apigateway
 - wyn360-cli
+- donetick-mcp-server
+- pulumi-azuread
+- pulumi-azuredevops
+- csf-crypto
+- pulumi-cloudamqp
+- text2tok
+- hyperquant
+- manohar
+- aaron-sql-mcp-for-intern
+- pypomes-iam
+- utg-scada-base
+- iflow-mcp_zotero-mcp
+- mcp-weather-full
+- msis21py
+- pulumi-auth0
+- dbt-snowflake
+- acb
+- tttui
+- chemgraphbuilder
+- pulumi-artifactory
+- test-ryzenai-onnx-utils
+- test-ryzenai-dynamic-dispatch
+- test-hip-python-as-cuda
+- test-flashinfer
+- test-amd-taichi
 - wcp-library
 - FourCIPP
 - dclassql
 - pygram11
 - docling
 - rediacc
-- donetick-mcp-server
 - laurelin-cli
 - rda-python-dsupdt
 - aishare-txt
@@ -36,7 +75,6 @@
 - fiftyone-devicedetection
 - fiftyone-devicedetection-shared
 - fiftyone-devicedetection-cloud
-- mcp-weather-full
 - GuardianUnivalle-Benito-Yucra
 - maleo-middlewares
 - freder
@@ -49,44 +87,3 @@
 - maleo-client
 - sora-sdk-rpi
 - sora-sdk
-- nedo-vision-worker
-- rediclous
-- mns-common
-- maleo-infra
-- maleo-database
-- auto-rsa-bot
-- bouquin
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- zarrio
-- robhan-cdk-lib.utils
-- fidelity-api
-- maleo-schemas
-- pythonmonkey_node_modules
-- sourcepp
-- iamdata
-- aider-ce
-- microimpute
-- flowimds
-- fabrictestbed
-- echoss-fileformat
-- hive-builder
-- tp-helper
-- phg-vis
-- market-data-orchestrator
-- pygeomodeling
-- pydecs
-- realtimex-docs-server
-- mavi-companion
-- types-PySide6
-- chbe444umd
-- dijkstra3d
-- pythonmonkey-fork
-- weirdfingers-boards
-- eclips-blossom-ai
-- my-aws-helpers
-- pdfdancer-client-python
-- cdk-factory
-- azure-ai-healthcheck
-- langbot-plugin
-- valid8r

@@ -1,11 +1,11 @@
 {
   "name": "pytradingviewlib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python client library for TradingView Widget API. ✨Using Python to interact with TradingView📈, just like using JavaScript🚀🎉",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytradingviewlib-1.0.0.tar.gz",
-  "download_time": "2025-11-06T03:07:25.224491",
+  "download_filename": "pytradingviewlib-1.0.1.tar.gz",
+  "download_time": "2025-11-06T05:44:08.615931",
   "package_url": "https://pypi.org/project/pytradingviewlib/"
 }

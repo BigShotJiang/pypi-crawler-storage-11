@@ -1,0 +1,11 @@
+{
+  "name": "utg-scada-base",
+  "version": "1.0.0",
+  "summary": "UTG Scada Base Package",
+  "author": "Rovshen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utg_scada_base-1.0.0.tar.gz",
+  "download_time": "2025-11-06T05:44:21.235563",
+  "package_url": "https://pypi.org/project/utg-scada-base/"
+}

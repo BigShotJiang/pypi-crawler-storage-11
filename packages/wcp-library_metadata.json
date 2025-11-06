@@ -1,11 +1,11 @@
 {
   "name": "wcp-library",
-  "version": "1.6.14",
+  "version": "1.6.15",
   "summary": "Common utilites for internal development at WCP",
   "author": "Mitch-Petersen",
   "license": null,
   "home_page": null,
-  "download_filename": "wcp_library-1.6.14.tar.gz",
-  "download_time": "2025-11-06T05:23:19.809718",
+  "download_filename": "wcp_library-1.6.15.tar.gz",
+  "download_time": "2025-11-06T05:44:29.084125",
   "package_url": "https://pypi.org/project/wcp-library/"
 }

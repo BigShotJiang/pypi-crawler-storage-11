@@ -1,11 +1,11 @@
 {
   "name": "tttui",
-  "version": "0.1.1",
+  "version": "1.0.3",
   "summary": "A Terminal-based Typing Test (TUI)",
   "author": "ReidoBoss",
   "license": null,
   "home_page": "https://github.com/ReidoBoss/tttui",
-  "download_filename": "tttui-0.1.1.tar.gz",
-  "download_time": "2025-11-06T03:56:20.352614",
+  "download_filename": "tttui-1.0.3.tar.gz",
+  "download_time": "2025-11-06T05:44:24.847454",
   "package_url": "https://pypi.org/project/tttui/"
 }
