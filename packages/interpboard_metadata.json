@@ -1,11 +1,11 @@
 {
   "name": "interpboard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A comprehensive toolkit for interpreting and understanding large language models",
   "author": "Sohan Venkatesh",
   "license": "MIT",
   "home_page": "https://github.com/sohv/interpboard",
-  "download_filename": "interpboard-0.1.0.tar.gz",
-  "download_time": "2025-11-06T21:54:14.877329",
+  "download_filename": "interpboard-0.1.1.tar.gz",
+  "download_time": "2025-11-06T22:57:48.421494",
   "package_url": "https://pypi.org/project/interpboard/"
 }
