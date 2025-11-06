@@ -1,11 +1,11 @@
 {
   "name": "donkit-ragops-ce",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Community Edition CLI agent for building RAG pipelines",
   "author": "Donkit AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "donkit_ragops_ce-0.3.3.tar.gz",
-  "download_time": "2025-11-05T15:23:18.588169",
+  "download_filename": "donkit_ragops_ce-0.3.5.tar.gz",
+  "download_time": "2025-11-06T11:20:28.864284",
   "package_url": "https://pypi.org/project/donkit-ragops-ce/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "zoomy-core",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A simulation software for dimensionally-reduced free surface flows.",
   "author": null,
   "license": "GNU",
   "home_page": null,
-  "download_filename": "zoomy_core-0.1.5.tar.gz",
-  "download_time": "2025-11-05T08:54:00.608599",
+  "download_filename": "zoomy_core-0.1.7.tar.gz",
+  "download_time": "2025-11-06T11:20:23.325503",
   "package_url": "https://pypi.org/project/zoomy-core/"
 }

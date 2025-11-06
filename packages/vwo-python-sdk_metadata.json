@@ -1,0 +1,11 @@
+{
+  "name": "vwo-python-sdk",
+  "version": "1.68.2",
+  "summary": "Python SDK for VWO server-side A/B Testing",
+  "author": "VWO",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wingify/vwo-python-sdk",
+  "download_filename": "vwo_python_sdk-1.68.2.tar.gz",
+  "download_time": "2025-11-06T11:20:42.677283",
+  "package_url": "https://pypi.org/project/vwo-python-sdk/"
+}

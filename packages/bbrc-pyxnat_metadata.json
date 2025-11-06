@@ -1,0 +1,11 @@
+{
+  "name": "bbrc-pyxnat",
+  "version": "1.6.4",
+  "summary": "XNAT in Python",
+  "author": "Yannick Schwartz",
+  "license": "BSD",
+  "home_page": "https://github.com/pyxnat/pyxnat",
+  "download_filename": "bbrc_pyxnat-1.6.4.tar.gz",
+  "download_time": "2025-11-06T11:20:56.961962",
+  "package_url": "https://pypi.org/project/bbrc-pyxnat/"
+}
