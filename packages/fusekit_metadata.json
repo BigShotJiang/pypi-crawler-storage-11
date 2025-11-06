@@ -1,11 +1,11 @@
 {
   "name": "fusekit",
-  "version": "0.1.0a1",
+  "version": "0.1.0a2",
   "summary": "Composable inference & GPU fusion engine (HF + PEFT).",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fusekit-0.1.0a1.tar.gz",
-  "download_time": "2025-11-05T20:26:40.570475",
+  "download_filename": "fusekit-0.1.0a2.tar.gz",
+  "download_time": "2025-11-06T20:56:18.291483",
   "package_url": "https://pypi.org/project/fusekit/"
 }

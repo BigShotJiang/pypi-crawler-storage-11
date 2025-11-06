@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-poe",
+  "version": "0.0.75",
+  "summary": "A demonstration of the Poe protocol using FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_poe-0.0.75.tar.gz",
+  "download_time": "2025-11-06T20:56:29.925789",
+  "package_url": "https://pypi.org/project/fastapi-poe/"
+}

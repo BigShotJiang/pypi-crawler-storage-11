@@ -1,0 +1,11 @@
+{
+  "name": "distributed-kron",
+  "version": "2.0.0",
+  "summary": "An implementation of PSGD Kron optimizer in JAX/optax for large scale distributed training.",
+  "author": "Evan Walters",
+  "license": null,
+  "home_page": null,
+  "download_filename": "distributed_kron-2.0.0.tar.gz",
+  "download_time": "2025-11-06T20:56:27.275884",
+  "package_url": "https://pypi.org/project/distributed-kron/"
+}

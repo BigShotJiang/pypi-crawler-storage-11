@@ -1,11 +1,11 @@
 {
   "name": "selfops",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A simple CLI built using Typer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "selfops-0.1.2.tar.gz",
-  "download_time": "2025-11-06T19:41:06.951833",
+  "download_filename": "selfops-0.1.3.tar.gz",
+  "download_time": "2025-11-06T20:56:07.807957",
   "package_url": "https://pypi.org/project/selfops/"
 }
