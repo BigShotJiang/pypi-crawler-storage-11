@@ -1,0 +1,11 @@
+{
+  "name": "undef",
+  "version": "0.0.0",
+  "summary": "Undef provides a singleton that represents an undefined value",
+  "author": "metagriffin",
+  "license": "AGPLv3+",
+  "home_page": "https://github.com/metagriffin/undef",
+  "download_filename": "undef-0.0.0.tar.gz",
+  "download_time": "2025-11-06T23:41:47.186690",
+  "package_url": "https://pypi.org/project/undef/"
+}

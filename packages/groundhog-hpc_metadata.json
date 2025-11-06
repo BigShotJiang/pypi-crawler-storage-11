@@ -1,11 +1,11 @@
 {
   "name": "groundhog-hpc",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Iterative HPC function development. As many 'first tries' as you need.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "groundhog_hpc-0.5.3.tar.gz",
-  "download_time": "2025-11-06T23:21:24.443969",
+  "download_filename": "groundhog_hpc-0.5.4.tar.gz",
+  "download_time": "2025-11-06T23:42:23.069760",
   "package_url": "https://pypi.org/project/groundhog-hpc/"
 }

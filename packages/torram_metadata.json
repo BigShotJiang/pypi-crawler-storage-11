@@ -1,11 +1,11 @@
 {
   "name": "torram",
-  "version": "1.5.5",
+  "version": "1.5.8",
   "summary": "Machine Learning essential tools for PyTorch.",
   "author": "Simon Schaefer",
   "license": "MIT",
   "home_page": "https://github.com/simon-schaefer/torram",
-  "download_filename": "torram-1.5.5.tar.gz",
-  "download_time": "2025-11-05T09:25:16.668611",
+  "download_filename": "torram-1.5.8.tar.gz",
+  "download_time": "2025-11-06T23:41:43.125617",
   "package_url": "https://pypi.org/project/torram/"
 }
