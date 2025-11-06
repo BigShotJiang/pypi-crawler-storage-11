@@ -1,11 +1,11 @@
 {
   "name": "oasm",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Open ASseMbly tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oasm-0.1.3.tar.gz",
-  "download_time": "2025-11-02T14:17:23.445797",
+  "download_filename": "oasm-0.1.4.tar.gz",
+  "download_time": "2025-11-06T11:41:59.770936",
   "package_url": "https://pypi.org/project/oasm/"
 }

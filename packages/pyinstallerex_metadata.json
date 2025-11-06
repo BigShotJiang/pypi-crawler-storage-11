@@ -1,0 +1,11 @@
+{
+  "name": "pyinstallerex",
+  "version": "0.1.2",
+  "summary": "扩展PyInstaller 使其拥有单文件安装功能 不用每次都解压执行",
+  "author": "lixin",
+  "license": "MIT",
+  "home_page": "https://gitee.com/iiixxxiii/py-installer-ex",
+  "download_filename": "pyinstallerex-0.1.2.tar.gz",
+  "download_time": "2025-11-06T11:41:49.667558",
+  "package_url": "https://pypi.org/project/pyinstallerex/"
+}

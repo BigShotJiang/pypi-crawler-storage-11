@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-consolecs20160406",
+  "version": "1.0.1",
+  "summary": "Alibaba Cloud Consolecs (20160406) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_consolecs20160406-1.0.1.tar.gz",
+  "download_time": "2025-11-06T11:42:08.671875",
+  "package_url": "https://pypi.org/project/alibabacloud-consolecs20160406/"
+}

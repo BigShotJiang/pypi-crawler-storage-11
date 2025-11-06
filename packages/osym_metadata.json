@@ -1,0 +1,11 @@
+{
+  "name": "osym",
+  "version": "0.1.2",
+  "summary": "Objects with SYMbolic expressions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osym-0.1.2.tar.gz",
+  "download_time": "2025-11-06T11:42:03.414672",
+  "package_url": "https://pypi.org/project/osym/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vis3",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Visualize s3 data",
   "author": "shenguanlin",
   "license": "Apache 2.0",
   "home_page": "https://github.com/OpenDataLab/Vis3",
-  "download_filename": "vis3-1.2.2.tar.gz",
-  "download_time": "2025-11-06T10:47:51.752754",
+  "download_filename": "vis3-1.2.3.tar.gz",
+  "download_time": "2025-11-06T11:41:57.065425",
   "package_url": "https://pypi.org/project/vis3/"
 }

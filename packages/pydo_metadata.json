@@ -1,0 +1,11 @@
+{
+  "name": "pydo",
+  "version": "0.19.0",
+  "summary": "The official client for interacting with the DigitalOcean API",
+  "author": "API Engineering",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/digitalocean/pydo",
+  "download_filename": "pydo-0.19.0.tar.gz",
+  "download_time": "2025-11-06T11:41:40.640428",
+  "package_url": "https://pypi.org/project/pydo/"
+}

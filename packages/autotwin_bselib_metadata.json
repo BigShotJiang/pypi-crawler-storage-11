@@ -1,0 +1,11 @@
+{
+  "name": "autotwin_bselib",
+  "version": "0.1.2",
+  "summary": "Battery SoC Estimation Library for Auto-Twin",
+  "author": "Yiqi Jia",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AutotwinEU/batt-soc-est",
+  "download_filename": "autotwin_bselib-0.1.2.tar.gz",
+  "download_time": "2025-11-06T11:41:39.013709",
+  "package_url": "https://pypi.org/project/autotwin_bselib/"
+}

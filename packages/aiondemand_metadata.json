@@ -1,0 +1,11 @@
+{
+  "name": "aiondemand",
+  "version": "0.2.5",
+  "summary": "Python SDK for the AIoD metadata catalogue",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiondemand-0.2.5.tar.gz",
+  "download_time": "2025-11-06T11:41:36.264602",
+  "package_url": "https://pypi.org/project/aiondemand/"
+}

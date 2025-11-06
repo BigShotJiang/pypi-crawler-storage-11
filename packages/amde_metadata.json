@@ -1,11 +1,11 @@
 {
   "name": "amde",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Easy way to embed your data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amde-0.1.3.tar.gz",
-  "download_time": "2025-11-06T11:20:42.146101",
+  "download_filename": "amde-0.1.4.tar.gz",
+  "download_time": "2025-11-06T11:41:27.938401",
   "package_url": "https://pypi.org/project/amde/"
 }
