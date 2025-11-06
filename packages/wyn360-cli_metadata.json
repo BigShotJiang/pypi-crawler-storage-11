@@ -1,11 +1,11 @@
 {
   "name": "wyn360-cli",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "WYN360 - An intelligent AI coding assistant CLI tool powered by Anthropic Claude",
   "author": "Yiqiao Yin",
   "license": null,
   "home_page": null,
-  "download_filename": "wyn360_cli-0.3.9.tar.gz",
-  "download_time": "2025-11-06T05:44:15.380650",
+  "download_filename": "wyn360_cli-0.3.10.tar.gz",
+  "download_time": "2025-11-06T05:55:30.488316",
   "package_url": "https://pypi.org/project/wyn360-cli/"
 }

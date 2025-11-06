@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T05:44:49.373129
+- **Download Time**: 2025-11-06T05:56:02.549240
 - **Total Packages**: 81
-- **Total Size**: 11.39 MB
+- **Total Size**: 5.09 MB
 
 ## Packages List
+- okta
+- orq-ai-sdk
+- pulumi-dnsimple
+- filetype-detector
+- abi-core-ai
+- testooop
+- pulumi-dbtcloud
+- assetic-esri
+- mcp-okx
+- dragon-ml-toolbox
+- pulumi-databricks
+- mkdocs-dsfr
+- exceeddata-sdk-vdata
+- pulumi-consul
+- maleo-metadata-client
+- femtorun
+- backend-clone
+- depgate
+- ev-sdk
+- wyn360-cli
+- dicom-tools-mcp
+- pulumi-confluentcloud
 - xttp
 - enterprise-docs
 - wrapt
@@ -22,7 +44,6 @@
 - rogvibe
 - bundlewrap
 - pulumi-aws-apigateway
-- wyn360-cli
 - donetick-mcp-server
 - pulumi-azuread
 - pulumi-azuredevops
@@ -64,26 +85,5 @@
 - SnakeScan
 - pulumi-aiven
 - maleo-soma
-- depgate
 - levo-commons
-- abi-core-ai
 - volcengine-video-mcp
-- abacustest
-- pyrobosim
-- pytest-homeassistant-custom-component
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- GuardianUnivalle-Benito-Yucra
-- maleo-middlewares
-- freder
-- maleo-google
-- yiwen-package
-- maleo-metadata
-- optics-framework
-- tradedangerous
-- ridiculous
-- maleo-client
-- sora-sdk-rpi
-- sora-sdk
