@@ -1,11 +1,11 @@
 {
   "name": "laurelin-cli",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Terminal interface for Laurelin nuclear fusion chat platform",
   "author": "Laurelin Inc.",
   "license": "MIT",
   "home_page": "https://laurelin-inc.com",
-  "download_filename": "laurelin_cli-1.0.0.tar.gz",
-  "download_time": "2025-11-05T04:25:40.062599",
+  "download_filename": "laurelin_cli-1.2.0.tar.gz",
+  "download_time": "2025-11-06T05:23:23.629777",
   "package_url": "https://pypi.org/project/laurelin-cli/"
 }

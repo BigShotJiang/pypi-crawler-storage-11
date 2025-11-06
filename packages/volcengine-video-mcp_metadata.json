@@ -1,0 +1,11 @@
+{
+  "name": "volcengine-video-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Volcengine (Doubao) Video Generation API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "volcengine_video_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-06T05:23:30.967636",
+  "package_url": "https://pypi.org/project/volcengine-video-mcp/"
+}

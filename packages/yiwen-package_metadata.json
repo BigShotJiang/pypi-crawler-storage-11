@@ -1,0 +1,11 @@
+{
+  "name": "yiwen-package",
+  "version": "0.1.1",
+  "summary": "一个简单实用的 Python 工具包",
+  "author": "yw.hao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yiwen_package-0.1.1.tar.gz",
+  "download_time": "2025-11-06T05:23:37.672703",
+  "package_url": "https://pypi.org/project/yiwen-package/"
+}

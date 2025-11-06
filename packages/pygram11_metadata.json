@@ -1,0 +1,11 @@
+{
+  "name": "pygram11",
+  "version": "0.15.0",
+  "summary": "Fast histogramming in Python built on pybind11 and OpenMP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygram11-0.15.0.tar.gz",
+  "download_time": "2025-11-06T05:23:21.390872",
+  "package_url": "https://pypi.org/project/pygram11/"
+}

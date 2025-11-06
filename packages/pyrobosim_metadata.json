@@ -1,0 +1,11 @@
+{
+  "name": "pyrobosim",
+  "version": "4.3.2",
+  "summary": "ROS 2 enabled 2D mobile robot simulator for behavior prototyping.",
+  "author": "Sebastian Castro",
+  "license": "MIT",
+  "home_page": "https://github.com/sea-bass/pyrobosim",
+  "download_filename": "pyrobosim-4.3.2.tar.gz",
+  "download_time": "2025-11-06T05:23:32.019368",
+  "package_url": "https://pypi.org/project/pyrobosim/"
+}

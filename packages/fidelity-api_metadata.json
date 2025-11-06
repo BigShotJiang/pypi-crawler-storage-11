@@ -1,0 +1,11 @@
+{
+  "name": "fidelity-api",
+  "version": "0.0.16",
+  "summary": "An unofficial API for Fidelity",
+  "author": "Kenneth Tang",
+  "license": "GPL",
+  "home_page": "https://github.com/kennyboy106/fidelity-api",
+  "download_filename": "fidelity_api-0.0.16.tar.gz",
+  "download_time": "2025-11-06T05:23:48.485145",
+  "package_url": "https://pypi.org/project/fidelity-api/"
+}
