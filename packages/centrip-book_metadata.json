@@ -1,0 +1,11 @@
+{
+  "name": "centrip-book",
+  "version": "1.0.4",
+  "summary": "A simple cross-system command bookmarking tool for your terminal.",
+  "author": "Michael Sowerwine",
+  "license": null,
+  "home_page": "https://github.com/yourusername/centrip-book",
+  "download_filename": "centrip_book-1.0.4.tar.gz",
+  "download_time": "2025-11-06T20:44:51.932748",
+  "package_url": "https://pypi.org/project/centrip-book/"
+}

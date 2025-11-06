@@ -1,11 +1,11 @@
 {
   "name": "commons-metrics",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "A simple library for basic statistical calculations",
   "author": "Bancolombia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "commons_metrics-0.0.9.tar.gz",
-  "download_time": "2025-11-02T22:18:21.107569",
+  "download_filename": "commons_metrics-0.0.10.tar.gz",
+  "download_time": "2025-11-06T20:44:47.123373",
   "package_url": "https://pypi.org/project/commons-metrics/"
 }

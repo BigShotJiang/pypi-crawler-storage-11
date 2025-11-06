@@ -1,11 +1,11 @@
 {
   "name": "myfy-web",
-  "version": "0.1.0a34",
+  "version": "0.1.0a35",
   "summary": "Web/ASGI module for myfy framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myfy_web-0.1.0a34.tar.gz",
-  "download_time": "2025-11-06T20:26:31.426233",
+  "download_filename": "myfy_web-0.1.0a35.tar.gz",
+  "download_time": "2025-11-06T20:45:12.332539",
   "package_url": "https://pypi.org/project/myfy-web/"
 }

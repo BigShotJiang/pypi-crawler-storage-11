@@ -1,11 +1,11 @@
 {
   "name": "pyclean",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "summary": "Pure Python cross-platform pyclean. Clean up your Python bytecode.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyclean-3.3.0.tar.gz",
-  "download_time": "2025-11-06T14:47:50.085752",
+  "download_filename": "pyclean-3.4.0.tar.gz",
+  "download_time": "2025-11-06T20:45:02.697776",
   "package_url": "https://pypi.org/project/pyclean/"
 }

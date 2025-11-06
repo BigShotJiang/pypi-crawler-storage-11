@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-source-medusa",
+  "version": "1.2.1",
+  "summary": "A plugin for Enthusiast that provides a Medusa products importer.",
+  "author": "Kuba Szczęśniak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enthusiast_source_medusa-1.2.1.tar.gz",
+  "download_time": "2025-11-06T20:45:01.126840",
+  "package_url": "https://pypi.org/project/enthusiast-source-medusa/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ailoos",
-  "version": "2.0.21",
+  "version": "2.0.22",
   "summary": "Sovereign Decentralized AI Library for EmpoorioLM Training",
   "author": "Empoorio",
   "license": "Proprietary - Ailoos Technologies & Empoorio Ecosystem",
   "home_page": "https://github.com/empoorio/ailoos",
-  "download_filename": "ailoos-2.0.21.tar.gz",
-  "download_time": "2025-11-06T18:59:39.259905",
+  "download_filename": "ailoos-2.0.22.tar.gz",
+  "download_time": "2025-11-06T20:45:23.997881",
   "package_url": "https://pypi.org/project/ailoos/"
 }
