@@ -1,0 +1,11 @@
+{
+  "name": "gensyn-genrl",
+  "version": "0.3.0",
+  "summary": "A General RL framerwork in a swarm environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gensyn_genrl-0.3.0.tar.gz",
+  "download_time": "2025-11-06T17:46:34.772069",
+  "package_url": "https://pypi.org/project/gensyn-genrl/"
+}

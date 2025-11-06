@@ -1,11 +1,11 @@
 {
   "name": "sf-veritas",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "summary": "Middleware for Django, Flask, and FastAPI to intercept requests, logs, and exceptions.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "sf_veritas-0.10.5-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-11-04T09:25:02.469097",
+  "download_filename": "sf_veritas-0.10.6-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-06T17:46:16.103770",
   "package_url": "https://pypi.org/project/sf-veritas/"
 }

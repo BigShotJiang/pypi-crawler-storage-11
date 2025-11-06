@@ -1,0 +1,11 @@
+{
+  "name": "vulnmap",
+  "version": "1.3.0",
+  "summary": "Advanced AI-Driven Penetration Testing Tool",
+  "author": "AL-MARID",
+  "license": null,
+  "home_page": "https://github.com/AL-MARID/Vulnmap",
+  "download_filename": "vulnmap-1.3.0.tar.gz",
+  "download_time": "2025-11-06T17:46:15.189997",
+  "package_url": "https://pypi.org/project/vulnmap/"
+}

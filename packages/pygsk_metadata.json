@@ -1,11 +1,11 @@
 {
   "name": "pygsk",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Generalized Spectral Kurtosis Toolkit",
   "author": "Gelu M. Nita",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygsk-2.0.0.tar.gz",
-  "download_time": "2025-11-05T22:55:15.741903",
+  "download_filename": "pygsk-2.0.1.tar.gz",
+  "download_time": "2025-11-06T17:46:35.414926",
   "package_url": "https://pypi.org/project/pygsk/"
 }

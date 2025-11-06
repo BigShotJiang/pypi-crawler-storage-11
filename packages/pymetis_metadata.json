@@ -1,0 +1,11 @@
+{
+  "name": "pymetis",
+  "version": "2025.2.2",
+  "summary": "A graph partitioning package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymetis-2025.2.2.tar.gz",
+  "download_time": "2025-11-06T17:46:32.197695",
+  "package_url": "https://pypi.org/project/pymetis/"
+}

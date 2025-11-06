@@ -1,0 +1,11 @@
+{
+  "name": "drap",
+  "version": "0.0.4.post13",
+  "summary": "Tool for analyzing droplet size and concentration using video and EDF images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drap-0.0.4.post13.tar.gz",
+  "download_time": "2025-11-06T17:46:14.559344",
+  "package_url": "https://pypi.org/project/drap/"
+}

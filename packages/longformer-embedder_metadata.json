@@ -1,11 +1,11 @@
 {
   "name": "longformer-embedder",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A small wrapper for generating Longformer embeddings.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "longformer_embedder-0.1.0.tar.gz",
-  "download_time": "2025-11-06T17:29:09.696269",
+  "download_filename": "longformer_embedder-0.1.2.tar.gz",
+  "download_time": "2025-11-06T17:46:50.234485",
   "package_url": "https://pypi.org/project/longformer-embedder/"
 }

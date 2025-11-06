@@ -1,11 +1,11 @@
 {
   "name": "healthchain",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "Open source framework for productionizing healthcare AI",
   "author": "Jennifer Jiang-Kells",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "healthchain-0.11.0.tar.gz",
-  "download_time": "2025-11-06T17:29:32.414278",
+  "download_filename": "healthchain-0.11.1.tar.gz",
+  "download_time": "2025-11-06T17:46:36.620286",
   "package_url": "https://pypi.org/project/healthchain/"
 }

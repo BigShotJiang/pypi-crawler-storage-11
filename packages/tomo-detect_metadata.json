@@ -1,11 +1,11 @@
 {
   "name": "tomo-detect",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A CLI tool for detecting motor coordinates in tomography data",
   "author": "Rajath Kumar",
   "license": null,
   "home_page": "https://github.com/brendanartley/BYU-competition",
-  "download_filename": "tomo_detect-0.1.4.tar.gz",
-  "download_time": "2025-11-06T17:29:38.695943",
+  "download_filename": "tomo_detect-0.1.5.tar.gz",
+  "download_time": "2025-11-06T17:46:18.627529",
   "package_url": "https://pypi.org/project/tomo-detect/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "MOBPY",
+  "version": "2.1.0",
+  "summary": "Monotone optimal binning (MOB) via PAVA with constraints, plus plotting utilities.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mobpy-2.1.0.tar.gz",
+  "download_time": "2025-11-06T17:46:47.017329",
+  "package_url": "https://pypi.org/project/MOBPY/"
+}

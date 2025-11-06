@@ -1,0 +1,11 @@
+{
+  "name": "sheetview",
+  "version": "0.1.0",
+  "summary": "View CSV and XLSX files beautifully in your terminal",
+  "author": "Chowdhury Faizal Ahammed",
+  "license": "MIT",
+  "home_page": "https://github.com/chowdhuryfaizal/sheetview",
+  "download_filename": "sheetview-0.1.0.tar.gz",
+  "download_time": "2025-11-06T17:46:21.779581",
+  "package_url": "https://pypi.org/project/sheetview/"
+}

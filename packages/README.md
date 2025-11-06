@@ -1,14 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T17:29:44.929410
-- **Total Packages**: 87
-- **Total Size**: 27.19 MB
+- **Download Time**: 2025-11-06T17:47:12.497717
+- **Total Packages**: 91
+- **Total Size**: 22.5 MB
 
 ## Packages List
+- nifti2bids
+- drap
+- vulnmap
+- sf-veritas
+- mchnpkg
+- reactivated
+- wads
+- tomo-detect
+- rezlang
+- 9eq
+- orto
+- localstack-core
+- sheetview
+- pydmp
+- domaintools-api
+- mcp-ticketer
+- browser-service
+- tobiko-cloud-api-client
+- tobiko-cloud-helpers
+- cybrid-api-bank-python
+- tobiko-cloud-pydantic
+- cybrid-api-id-python
+- cybrid-api-organization-python
+- ayz-auth
+- encord
+- UMA-ASE
+- pymetis
+- argo-client
+- netint-agents-sdk
+- cc-mapping
+- gensyn-genrl
+- pygsk
+- dbt-bouncer
+- healthchain
+- autorml
+- moat-link-server
+- moat-link
+- stuzha
+- formidable
+- iss-lidar
+- dbt-common
+- pytorchfire
+- lumigo-opentelemetry
+- hami-core
+- gnetcli-server-bin
+- groundx
+- tabpfn
+- llama-index-llms-google-genai
+- etuCV
+- MOBPY
+- chaiverse
+- stocktrim-openapi-client
+- mayini-framework
+- lightman_ai
+- longformer-embedder
+- fexp
+- cachedx
+- pixelemon
+- osbot-utils
+- writer
+- olmoearth-pretrain
+- maisaedu-poormans-dms
 - maisaedu-utilities-prefect
 - rick
-- rezlang
 - korvax
 - icmd-python
 - letschatty
@@ -18,7 +79,6 @@
 - homa
 - signifikante
 - gamengine2d
-- stocktrim-openapi-client
 - elt-dagster-meltano
 - pigeon-transitions
 - hacking
@@ -27,7 +87,6 @@
 - eclypse
 - tai-keycloak
 - multi-ai-handler
-- longformer-embedder
 - openinference-instrumentation-agno
 - tabpfn-common-utils
 - compas-cadwork
@@ -35,61 +94,6 @@
 - kohakuvault
 - defoldsdk
 - projen
-- mayini-framework
 - digimat.mbio
 - lydwhitt-tools
 - modusa
-- lightman_ai
-- layrz-protocol
-- lunr-chatbot
-- alphastats
-- cloudsmith-cli
-- elixir-training-mcp
-- magnum
-- viewinline
-- writer
-- th2-data-services-utils
-- wandelbots-api-client
-- nominal-api-protos
-- nominal-api
-- NEXTProtocol-s3file
-- anime-parsers-ru
-- hpackage
-- cv-toolkit-new
-- airflow-dag-dependencies
-- care-crn
-- spinal-tap
-- globsim
-- fmd-api
-- fundamend
-- llamactl
-- llama-deploy-core
-- llama-deploy-appserver
-- pymodaq
-- pymodaq_gui
-- pymodaq_data
-- pymodaq_utils
-- healthchain
-- mchnpkg
-- xmind-mcp
-- arrakis-backend-kafka
-- orto
-- faststripe
-- ok-script
-- honeyhive
-- whisper-ppi
-- datarobot-genai
-- x-transformers
-- pyremokit
-- tomo-detect
-- aitrados-broker
-- ado-vllm-performance
-- ado-ray-tune
-- ado-sfttrainer
-- ado-core
-- ocifs
-- incognia-python
-- figpack-spike-sorting
-- flowlens-mcp-server
-- yemot-ai
-- smart-budgeting-pkg

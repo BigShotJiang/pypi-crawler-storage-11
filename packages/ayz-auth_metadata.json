@@ -1,0 +1,11 @@
+{
+  "name": "ayz-auth",
+  "version": "2.1.0",
+  "summary": "FastAPI middleware for Stytch B2B authentication with Redis caching, MongoDB entitlements, and team context",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ayz_auth-2.1.0.tar.gz",
+  "download_time": "2025-11-06T17:46:29.777587",
+  "package_url": "https://pypi.org/project/ayz-auth/"
+}
