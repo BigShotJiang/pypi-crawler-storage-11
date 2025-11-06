@@ -1,0 +1,11 @@
+{
+  "name": "pebble-cascade",
+  "version": "1.0.0a7",
+  "summary": "A shell for debugging containers, particularly bare rocks, using Pebble",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pebble_cascade-1.0.0a7.tar.gz",
+  "download_time": "2025-11-06T09:56:50.576759",
+  "package_url": "https://pypi.org/project/pebble-cascade/"
+}

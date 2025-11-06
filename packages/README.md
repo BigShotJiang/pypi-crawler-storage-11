@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T09:46:04.445938
-- **Total Packages**: 79
-- **Total Size**: 29.48 MB
+- **Download Time**: 2025-11-06T09:57:19.525830
+- **Total Packages**: 83
+- **Total Size**: 9.18 MB
 
 ## Packages List
+- ccowsay
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- sharepoint-v1-api
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- udata
+- realtimex-pyautogui-server
+- mwgencode
+- django-bulk-hooks
+- sportstats-sgg
+- ghs-parser
+- prism-models
+- qnexus
+- dve-lumipy-testing
+- gitpuller
+- tagmapper
+- nmaipy
+- xenoform
+- shotgun-sh
+- snowman-py
+- python-ote
+- nsc512
+- runregistry
+- luminesce-sdk
+- libmata
+- pyautoflip
+- pebble-cascade
+- python3-ssh
+- alluxiofs
+- buildgrid
+- aioyookassa
+- pyhttpsig
+- odoo-addon-l10n-it-financial-statements-report
+- kalavai-client
 - drills-pro-proto
 - quas-docs
 - ldc-lender-datalayer
@@ -14,7 +53,6 @@
 - http-router
 - sia-script
 - avaframe
-- django-bulk-hooks
 - annet
 - rossum-api
 - omotes-simulator-core
@@ -36,52 +74,18 @@
 - speechify-api
 - lea-cli
 - berryworld
-- ghs-parser
 - cppark
 - mfcs
 - iona-ops-library
 - robo-goggles
 - rediacc
 - bosa-server-plugins-binary
-- python3-ssh
 - pypsa
 - idcn
 - django-tree-queries
 - iflow-mcp_mcp-server-replicate
 - fastpluggy-scheduled-query
 - numba_extinction
-- seglab
 - projex-cli
 - anemoi-inference
 - material-ai
-- unacast-modeled-metrics-monitoring
-- deltafq
-- boundml
-- pathsim
-- mcp-okx
-- intentkit
-- boilerplates
-- pykon
-- task-view
-- digimat.mbio
-- evidence-seeker
-- actron-neo-api
-- ewah
-- promptdump
-- market-data-sdk
-- python-ecd
-- daml-rag-framework
-- ccowsay
-- govuk-onelogin-django
-- mcp-translation-text
-- pairwise-combinatorial
-- lsst-daf-butler
-- rapidata
-- pilmoji-for-parser
-- OpenOrchestrator
-- vital
-- arkiv-sdk
-- emerge
-- jaaql-middleware-python
-- yemot-flow
-- scalekit-sdk-python

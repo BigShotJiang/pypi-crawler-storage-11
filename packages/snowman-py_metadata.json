@@ -1,0 +1,11 @@
+{
+  "name": "snowman-py",
+  "version": "0.0.33",
+  "summary": "Python model and query builder for Snowflake.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowman_py-0.0.33.tar.gz",
+  "download_time": "2025-11-06T09:56:46.960262",
+  "package_url": "https://pypi.org/project/snowman-py/"
+}
