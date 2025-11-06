@@ -1,11 +1,11 @@
 {
   "name": "splurge-pub-sub",
-  "version": "2025.1.0",
+  "version": "2025.1.1",
   "summary": "A lightweight pub-sub framework.",
   "author": "Jim Schilling",
   "license": null,
   "home_page": null,
-  "download_filename": "splurge_pub_sub-2025.1.0.tar.gz",
-  "download_time": "2025-11-05T19:40:07.376002",
+  "download_filename": "splurge_pub_sub-2025.1.1.tar.gz",
+  "download_time": "2025-11-06T03:56:05.964210",
   "package_url": "https://pypi.org/project/splurge-pub-sub/"
 }

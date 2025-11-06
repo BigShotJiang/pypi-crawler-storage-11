@@ -1,11 +1,11 @@
 {
   "name": "acdc_aws_etl_pipeline",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Tools for ACDC ETL pipeline",
   "author": "JoshuaHarris391",
   "license": null,
   "home_page": null,
-  "download_filename": "acdc_aws_etl_pipeline-0.3.3.tar.gz",
-  "download_time": "2025-11-05T06:33:14.133923",
+  "download_filename": "acdc_aws_etl_pipeline-0.3.5.tar.gz",
+  "download_time": "2025-11-06T03:56:26.839451",
   "package_url": "https://pypi.org/project/acdc_aws_etl_pipeline/"
 }

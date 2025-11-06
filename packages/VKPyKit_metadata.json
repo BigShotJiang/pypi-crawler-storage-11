@@ -1,11 +1,11 @@
 {
   "name": "VKPyKit",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "Packaged functions for ML and Data Science tasks.",
   "author": "Vishal Khapre",
   "license": null,
   "home_page": null,
-  "download_filename": "vkpykit-0.3.2.tar.gz",
-  "download_time": "2025-11-03T12:44:29.051821",
+  "download_filename": "vkpykit-0.3.5.tar.gz",
+  "download_time": "2025-11-06T03:56:23.522896",
   "package_url": "https://pypi.org/project/VKPyKit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aquarion-libtts",
+  "version": "0.1.1",
+  "summary": "Text To Speech (TTS) beckend library for Aquarion AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aquarion_libtts-0.1.1.tar.gz",
+  "download_time": "2025-11-06T03:56:18.641996",
+  "package_url": "https://pypi.org/project/aquarion-libtts/"
+}

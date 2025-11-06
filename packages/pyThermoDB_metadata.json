@@ -1,11 +1,11 @@
 {
   "name": "pyThermoDB",
-  "version": "1.11.49",
+  "version": "1.11.50",
   "summary": "PyThermoDB is a lightweight and user-friendly Python package designed to provide quick access to essential thermodynamic data.",
   "author": "Sina Gilassi",
   "license": null,
   "home_page": "https://github.com/sinagilassi/PyThermoDB",
-  "download_filename": "pythermodb-1.11.49.tar.gz",
-  "download_time": "2025-11-05T23:42:03.706334",
+  "download_filename": "pythermodb-1.11.50.tar.gz",
+  "download_time": "2025-11-06T03:56:40.993442",
   "package_url": "https://pypi.org/project/pyThermoDB/"
 }

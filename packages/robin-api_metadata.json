@@ -1,0 +1,11 @@
+{
+  "name": "robin-api",
+  "version": "2.24",
+  "summary": "RobinApi Framework - LLM API integration and vector database management",
+  "author": "William Gomez",
+  "license": "MIT",
+  "home_page": "https://github.com/williamgomez71/RobinApi",
+  "download_filename": "robin_api-2.24.tar.gz",
+  "download_time": "2025-11-06T03:56:24.600003",
+  "package_url": "https://pypi.org/project/robin-api/"
+}

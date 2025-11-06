@@ -1,11 +1,11 @@
 {
   "name": "PyWebWinUI3",
-  "version": "1.0.0b29",
+  "version": "1.0.0b30",
   "summary": "Create modern WinUI3-style desktop UIs in Python effortlessly using pywebview.",
   "author": "Haruna5718",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Haruna5718/PyWebWinUI3",
-  "download_filename": "pywebwinui3-1.0.0b29.tar.gz",
-  "download_time": "2025-11-04T03:03:21.788755",
+  "download_filename": "pywebwinui3-1.0.0b30.tar.gz",
+  "download_time": "2025-11-06T03:56:26.316720",
   "package_url": "https://pypi.org/project/PyWebWinUI3/"
 }

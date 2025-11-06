@@ -1,0 +1,11 @@
+{
+  "name": "schwab-api2",
+  "version": "0.3.0",
+  "summary": "Unofficial Schwab API wrapper in Python 3.",
+  "author": "Jafer Haider",
+  "license": "MIT",
+  "home_page": "https://github.com/MaxxRK/schwab-api",
+  "download_filename": "schwab_api2-0.3.0.tar.gz",
+  "download_time": "2025-11-06T03:56:39.924281",
+  "package_url": "https://pypi.org/project/schwab-api2/"
+}

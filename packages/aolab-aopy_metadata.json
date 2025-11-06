@@ -1,0 +1,11 @@
+{
+  "name": "aolab-aopy",
+  "version": "0.9.3",
+  "summary": "python code repository for aoLab @UW",
+  "author": "aoLab",
+  "license": null,
+  "home_page": "https://github.com/aolabNeuro/analyze",
+  "download_filename": "aolab_aopy-0.9.3.tar.gz",
+  "download_time": "2025-11-06T03:56:30.659768",
+  "package_url": "https://pypi.org/project/aolab-aopy/"
+}

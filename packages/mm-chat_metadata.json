@@ -1,11 +1,11 @@
 {
   "name": "mm-chat",
-  "version": "0.0.4.1",
+  "version": "0.0.4.2",
   "summary": "Chat utilities for personal use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mm_chat-0.0.4.1.tar.gz",
-  "download_time": "2025-11-03T05:54:32.005275",
+  "download_filename": "mm_chat-0.0.4.2.tar.gz",
+  "download_time": "2025-11-06T03:56:54.920535",
   "package_url": "https://pypi.org/project/mm-chat/"
 }

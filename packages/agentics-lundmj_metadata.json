@@ -1,0 +1,11 @@
+{
+  "name": "agentics-lundmj",
+  "version": "0.2.2",
+  "summary": "A package for building intelligent agents through OpenAI's API.",
+  "author": "Matthew Lund",
+  "license": null,
+  "home_page": "https://github.com/lundmj/aiAgents",
+  "download_filename": "agentics_lundmj-0.2.2.tar.gz",
+  "download_time": "2025-11-06T03:56:05.399733",
+  "package_url": "https://pypi.org/project/agentics-lundmj/"
+}

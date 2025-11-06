@@ -1,11 +1,11 @@
 {
   "name": "vibe-eats-backend",
-  "version": "0.1.0",
-  "summary": "Backend API for Vibe Eats restaurant application",
-  "author": "Your Team",
+  "version": "0.3.post80",
+  "summary": "Backend API for Vibe Eats restaurant application with AI-powered recommendations",
+  "author": "Vibe Eats Team",
   "license": null,
-  "home_page": null,
-  "download_filename": "vibe_eats_backend-0.1.0.tar.gz",
-  "download_time": "2025-11-06T01:43:52.383187",
+  "home_page": "https://github.com/yourusername/vibe-eats",
+  "download_filename": "vibe_eats_backend-0.3.post80.tar.gz",
+  "download_time": "2025-11-06T03:56:15.794097",
   "package_url": "https://pypi.org/project/vibe-eats-backend/"
 }
