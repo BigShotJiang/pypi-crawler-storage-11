@@ -1,11 +1,11 @@
 {
   "name": "multi-puzzle-solver",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Efficient solvers for countless (60+) types of puzzles (like Sudoku, Minesweeper, etc.) with a simple python API.",
   "author": "Ar-Kareem",
   "license": null,
   "home_page": null,
-  "download_filename": "multi_puzzle_solver-1.1.0.tar.gz",
-  "download_time": "2025-11-06T21:54:20.014351",
+  "download_filename": "multi_puzzle_solver-1.1.1.tar.gz",
+  "download_time": "2025-11-06T23:21:28.139681",
   "package_url": "https://pypi.org/project/multi-puzzle-solver/"
 }

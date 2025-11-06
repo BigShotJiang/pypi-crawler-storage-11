@@ -1,0 +1,11 @@
+{
+  "name": "quil",
+  "version": "0.17.0",
+  "summary": "A Python package for building and parsing Quil programs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quil-0.17.0.tar.gz",
+  "download_time": "2025-11-06T23:21:25.016770",
+  "package_url": "https://pypi.org/project/quil/"
+}

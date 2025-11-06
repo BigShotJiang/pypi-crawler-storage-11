@@ -1,0 +1,11 @@
+{
+  "name": "dataverse-client-python",
+  "version": "0.1.0",
+  "summary": "Python SDK for Microsoft Dataverse",
+  "author": "Microsoft Corporation License-Expression: MIT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataverse_client_python-0.1.0.tar.gz",
+  "download_time": "2025-11-06T23:20:57.513333",
+  "package_url": "https://pypi.org/project/dataverse-client-python/"
+}

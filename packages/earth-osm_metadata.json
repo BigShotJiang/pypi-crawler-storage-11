@@ -1,0 +1,11 @@
+{
+  "name": "earth-osm",
+  "version": "3.0.2",
+  "summary": "Python tool to extract large-amounts of OpenStreetMap data",
+  "author": "pypsa-meets-earth",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "earth_osm-3.0.2.tar.gz",
+  "download_time": "2025-11-06T23:21:25.536873",
+  "package_url": "https://pypi.org/project/earth-osm/"
+}
