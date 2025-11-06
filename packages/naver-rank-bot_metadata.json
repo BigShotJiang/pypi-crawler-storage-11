@@ -1,0 +1,11 @@
+{
+  "name": "naver-rank-bot",
+  "version": "0.1.20",
+  "summary": "NoDriver-based browser automation tool for Naver SmartStore product ranking analysis",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "naver_rank_bot-0.1.20.tar.gz",
+  "download_time": "2025-11-06T13:50:28.770371",
+  "package_url": "https://pypi.org/project/naver-rank-bot/"
+}

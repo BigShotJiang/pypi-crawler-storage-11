@@ -1,0 +1,11 @@
+{
+  "name": "circuitpython-build-tools",
+  "version": "1.18.1",
+  "summary": "CircuitPython library build tools",
+  "author": "Scott Shawcroft",
+  "license": null,
+  "home_page": "https://www.adafruit.com/",
+  "download_filename": "circuitpython_build_tools-1.18.1.tar.gz",
+  "download_time": "2025-11-06T13:50:52.652616",
+  "package_url": "https://pypi.org/project/circuitpython-build-tools/"
+}

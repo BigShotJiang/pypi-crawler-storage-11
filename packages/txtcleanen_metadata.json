@@ -1,0 +1,11 @@
+{
+  "name": "txtcleanen",
+  "version": "1.0.0",
+  "summary": "A lightweight Python package to clean English text by removing HTML tags, URLs, emojis, digits, and punctuation.",
+  "author": "Md. Ismiel Hossen Abir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "txtcleanen-1.0.0.tar.gz",
+  "download_time": "2025-11-06T13:50:48.011797",
+  "package_url": "https://pypi.org/project/txtcleanen/"
+}

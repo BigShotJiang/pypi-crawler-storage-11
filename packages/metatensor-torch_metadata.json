@@ -1,0 +1,11 @@
+{
+  "name": "metatensor-torch",
+  "version": "0.8.2",
+  "summary": "TorchScript bindings for metatensor",
+  "author": "Guillaume Fraux, Philip Loche, Filippo Bigi, Joseph W. Abbott, Davide Tisi, Alexander Goscinski, Michele Ceriotti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metatensor_torch-0.8.2.tar.gz",
+  "download_time": "2025-11-06T13:50:52.141314",
+  "package_url": "https://pypi.org/project/metatensor-torch/"
+}

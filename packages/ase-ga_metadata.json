@@ -1,0 +1,11 @@
+{
+  "name": "ase-ga",
+  "version": "1.0.0",
+  "summary": "The Genetic Algorithm for the Atomic Simulation Environment",
+  "author": "Lasse B. Vilhelmsen, Steen Lysgaard, Peter Bjerre Jensen, Maxime Van den Bossche, Paul C. Jennings, Shuang Han",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ase_ga-1.0.0.tar.gz",
+  "download_time": "2025-11-06T13:50:53.680678",
+  "package_url": "https://pypi.org/project/ase-ga/"
+}

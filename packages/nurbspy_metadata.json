@@ -1,0 +1,11 @@
+{
+  "name": "nurbspy",
+  "version": "1.2.3",
+  "summary": "A lightweight library for NURBS curves and surfaces",
+  "author": "Roberto Agromayor",
+  "license": "MIT",
+  "home_page": "https://github.com/turbo-sim/nurbspy",
+  "download_filename": "nurbspy-1.2.3.tar.gz",
+  "download_time": "2025-11-06T13:51:11.630234",
+  "package_url": "https://pypi.org/project/nurbspy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "check11",
-  "version": "2026.11.10",
+  "version": "2026.11.11",
   "summary": "Check11 by Monze.EU makes you dig coding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "check11-2026.11.10.tar.gz",
-  "download_time": "2025-11-06T13:25:17.665484",
+  "download_filename": "check11-2026.11.11.tar.gz",
+  "download_time": "2025-11-06T13:50:57.291610",
   "package_url": "https://pypi.org/project/check11/"
 }

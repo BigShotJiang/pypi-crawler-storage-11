@@ -1,0 +1,11 @@
+{
+  "name": "ai-selector",
+  "version": "0.1.0",
+  "summary": "Interactive CLI tool for managing and executing multiple AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_selector-0.1.0.tar.gz",
+  "download_time": "2025-11-06T13:50:36.505549",
+  "package_url": "https://pypi.org/project/ai-selector/"
+}
