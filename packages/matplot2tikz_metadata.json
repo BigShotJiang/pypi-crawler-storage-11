@@ -1,0 +1,11 @@
+{
+  "name": "matplot2tikz",
+  "version": "0.5.1",
+  "summary": "Convert matplotlib figures into TikZ/PGFPlots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matplot2tikz-0.5.1.tar.gz",
+  "download_time": "2025-11-06T20:26:06.919125",
+  "package_url": "https://pypi.org/project/matplot2tikz/"
+}

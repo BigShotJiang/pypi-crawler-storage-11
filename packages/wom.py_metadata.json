@@ -1,0 +1,11 @@
+{
+  "name": "wom.py",
+  "version": "2.0.5",
+  "summary": "An asynchronous wrapper for the Wise Old Man API.",
+  "author": "Jonxslays",
+  "license": "MIT",
+  "home_page": "https://github.com/Jonxslays/wom.py",
+  "download_filename": "wom_py-2.0.5.tar.gz",
+  "download_time": "2025-11-06T20:26:33.478202",
+  "package_url": "https://pypi.org/project/wom.py/"
+}

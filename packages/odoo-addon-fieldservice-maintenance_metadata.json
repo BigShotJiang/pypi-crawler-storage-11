@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-maintenance",
+  "version": "17.0.1.0.0.2",
+  "summary": "Integrate Field Service orders with maintenance requests",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_maintenance-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-06T20:26:22.611391",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-maintenance/"
+}

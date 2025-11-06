@@ -1,11 +1,11 @@
 {
   "name": "synaptogram",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Module for helping assess synapse counts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synaptogram-0.0.10.tar.gz",
-  "download_time": "2025-11-06T19:40:50.118550",
+  "download_filename": "synaptogram-0.0.11.tar.gz",
+  "download_time": "2025-11-06T20:26:36.036413",
   "package_url": "https://pypi.org/project/synaptogram/"
 }

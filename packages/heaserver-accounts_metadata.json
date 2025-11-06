@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-accounts",
+  "version": "1.12.7",
+  "summary": "Manages account information",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_accounts-1.12.7.tar.gz",
+  "download_time": "2025-11-06T20:25:54.471616",
+  "package_url": "https://pypi.org/project/heaserver-accounts/"
+}

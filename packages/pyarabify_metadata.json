@@ -1,11 +1,11 @@
 {
   "name": "pyarabify",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "summary": "مكتبة قوية لتحويل لغة Python كاملة إلى العربية مع دعم اللهجات المختلفة",
   "author": "MERO",
   "license": "MIT",
   "home_page": "https://github.com/6x-u/pyarabify",
-  "download_filename": "pyarabify-2.0.0.tar.gz",
-  "download_time": "2025-11-05T22:22:33.677065",
+  "download_filename": "pyarabify-2.2.0.tar.gz",
+  "download_time": "2025-11-06T20:26:04.351878",
   "package_url": "https://pypi.org/project/pyarabify/"
 }

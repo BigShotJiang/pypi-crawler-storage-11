@@ -1,0 +1,11 @@
+{
+  "name": "bidskit",
+  "version": "2025.11.7",
+  "summary": "BIDS curation toolkit",
+  "author": "Mike Tyszka",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bidskit-2025.11.7.tar.gz",
+  "download_time": "2025-11-06T20:26:27.759002",
+  "package_url": "https://pypi.org/project/bidskit/"
+}
