@@ -1,11 +1,11 @@
 {
   "name": "datasourcelib",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Data source sync strategies for vector DBs",
   "author": "Jai Prakash",
   "license": null,
   "home_page": "https://github.com/jaiprakash0217/datasourcelib",
-  "download_filename": "datasourcelib-0.1.2.tar.gz",
-  "download_time": "2025-11-06T20:44:49.722943",
+  "download_filename": "datasourcelib-0.1.3.tar.gz",
+  "download_time": "2025-11-06T21:54:18.986181",
   "package_url": "https://pypi.org/project/datasourcelib/"
 }

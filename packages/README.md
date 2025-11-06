@@ -1,18 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T21:41:18.890360
-- **Total Packages**: 86
-- **Total Size**: 23.56 MB
+- **Download Time**: 2025-11-06T21:54:46.749365
+- **Total Packages**: 85
+- **Total Size**: 17.76 MB
 
 ## Packages List
+- latentflow
+- pulumi-vault
+- cerebras-cloud-sdk
+- compair-core
+- duck-chat-api
+- pymexc
+- vital
+- fucciphase
+- tdfpy
+- fin-infra
+- fuckooredoo
+- vcon-wtf
+- little-a2s
+- ai-dynamo
+- macrotools
+- judgeval
+- Pawfetch
+- pypomes-iam
+- gwseq-io
+- cursofiap-anv-package
+- matplobbot-shared
+- disco-tools
+- worldflow
+- centrip-book
+- brainframe-onvif-tools
+- interpboard
+- wah
+- dc-logger
+- nebelung
+- stripe
+- crossplane-function-pythonic
+- AddressPersonLIBmagnagomatheus
+- netbox-lists
+- datasourcelib
+- sleipnirgroup-jormungandr
+- multi-puzzle-solver
+- pixelemon
+- asteval
+- artistools
+- omtx
+- docx-mailmerge2
+- more-compute
+- napari-synaptogram
+- pySEAFOM
+- nba-video-generator
+- llm-apple
+- cdk-factory
 - domainup
+- tsugite
+- ovos-bus-client
 - very-very-very-simple
 - answerrocket-client
 - msconvert-cli
 - ragora
 - edgelab
-- centrip-book
 - stac-mcp
 - mrx-runway
 - ucdp
@@ -39,56 +87,7 @@
 - sdss-clu
 - machineconfig
 - GrnGame
-- llm-apple
 - rkwebutil
 - anzar
 - vesin
 - vesin-torch
-- watch-diff
-- batplot
-- hf-hydrodata
-- sleipnirgroup-jormungandr
-- pydantic-gsheets
-- osiris-pipeline
-- agr-curation-api-client
-- sdsstools
-- idptools-starling
-- flowtube
-- spec-kitty-cli
-- pytest-fixtures-fixtures
-- scself
-- botocore-stubs
-- langgraph-api
-- witrium
-- space-packet-parser
-- ibm-watsonx-orchestrate-mcp-server
-- ibm-watsonx-orchestrate
-- pygeodesy
-- haystack-ml-stack
-- ovos-utils
-- bbperf
-- automated-changelog
-- ragmint
-- metaflow
-- metaflow-stubs
-- powerpoint-mcp
-- xinject
-- trap
-- pycom0com
-- warn-transformer
-- ipaytools
-- metadidomi-server-plus
-- db-analytics-tools
-- cdk-factory
-- tomosphero
-- cosmicfrog
-- mock-spark
-- devolo-home-control-api
-- amalgam-lang
-- transcriptformer
-- sharepointer
-- datarobot-genai
-- dars-framework
-- suite2p_mbo
-- webtoolkit
-- types-boto3-lite

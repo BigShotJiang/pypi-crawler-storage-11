@@ -1,11 +1,11 @@
 {
   "name": "domainup",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "summary": "Domain + HTTPS setup for Docker services (Nginx + Certbot)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "domainup-0.1.3.tar.gz",
-  "download_time": "2025-11-03T15:24:45.373500",
+  "download_filename": "domainup-1.0.0.tar.gz",
+  "download_time": "2025-11-06T21:54:26.212800",
   "package_url": "https://pypi.org/project/domainup/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cursofiap-anv-package",
+  "version": "1.0.0",
+  "summary": "Descricao da sua lib cursofiap_anv",
+  "author": "Alexandre N Vicente",
+  "license": "MIT",
+  "home_page": "https://github.com/tadrianonet/cursofiap_anv",
+  "download_filename": "cursofiap_anv_package-1.0.0.tar.gz",
+  "download_time": "2025-11-06T21:54:11.776196",
+  "package_url": "https://pypi.org/project/cursofiap-anv-package/"
+}

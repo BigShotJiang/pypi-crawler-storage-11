@@ -1,0 +1,11 @@
+{
+  "name": "brainframe-onvif-tools",
+  "version": "0.5.3",
+  "summary": "Python CLI tools for discovering, scanning, and validating ONVIF cameras.",
+  "author": "Stephen Li",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "brainframe_onvif_tools-0.5.3.tar.gz",
+  "download_time": "2025-11-06T21:54:14.367391",
+  "package_url": "https://pypi.org/project/brainframe-onvif-tools/"
+}

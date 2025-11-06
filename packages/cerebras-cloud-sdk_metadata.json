@@ -1,0 +1,11 @@
+{
+  "name": "cerebras-cloud-sdk",
+  "version": "1.59.0",
+  "summary": "The official Python library for the cerebras API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cerebras_cloud_sdk-1.59.0.tar.gz",
+  "download_time": "2025-11-06T21:54:02.516050",
+  "package_url": "https://pypi.org/project/cerebras-cloud-sdk/"
+}

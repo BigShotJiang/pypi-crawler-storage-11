@@ -1,11 +1,11 @@
 {
   "name": "fuckooredoo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Secure Torrent Downloader with Tor-based Anti-Throttling - Bypasses ISP throttling through Tor network routing and traffic encryption",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fuckooredoo-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-06T21:21:14.120027",
+  "download_filename": "fuckooredoo-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-06T21:54:07.160260",
   "package_url": "https://pypi.org/project/fuckooredoo/"
 }
