@@ -1,0 +1,11 @@
+{
+  "name": "compression-prompt",
+  "version": "0.1.2",
+  "summary": "Fast statistical compression for LLM prompts - 50% token reduction with 91% quality retention",
+  "author": "HiveLLM Team",
+  "license": null,
+  "home_page": "https://github.com/hivellm/compression-prompt",
+  "download_filename": "compression_prompt-0.1.2.tar.gz",
+  "download_time": "2025-11-06T17:01:29.278286",
+  "package_url": "https://pypi.org/project/compression-prompt/"
+}

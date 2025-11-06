@@ -1,0 +1,11 @@
+{
+  "name": "h5analysis",
+  "version": "0.1.16.post0",
+  "summary": "Library to analyse, plot, and export data stored in HDF5 files.",
+  "author": "Patrick Braun",
+  "license": "MIT License",
+  "home_page": "https://github.com/pmb399/H5Analysis",
+  "download_filename": "h5analysis-0.1.16.post0.tar.gz",
+  "download_time": "2025-11-06T17:01:55.012496",
+  "package_url": "https://pypi.org/project/h5analysis/"
+}

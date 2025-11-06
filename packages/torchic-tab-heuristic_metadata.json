@@ -1,0 +1,11 @@
+{
+  "name": "torchic-tab-heuristic",
+  "version": "0.1.2",
+  "summary": "TorchicTab-Heuristic: Semantic Table Annotation with Wikidata",
+  "author": "Ioannis Dasoulas",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dtai-kg/TorchicTab-Heuristic",
+  "download_filename": "torchic_tab_heuristic-0.1.2.tar.gz",
+  "download_time": "2025-11-06T17:01:17.738765",
+  "package_url": "https://pypi.org/project/torchic-tab-heuristic/"
+}

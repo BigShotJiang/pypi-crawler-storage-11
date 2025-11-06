@@ -1,0 +1,11 @@
+{
+  "name": "lpqtree",
+  "version": "0.0.7",
+  "summary": "Lpq KD Tree, adapted from Nanoflann with Python wrapper",
+  "author": "Etienne St-Onge",
+  "license": "BSD 2-Clause",
+  "home_page": "https://github.com/StongeEtienne/lpqtree",
+  "download_filename": "lpqtree-0.0.7.tar.gz",
+  "download_time": "2025-11-06T17:01:24.033537",
+  "package_url": "https://pypi.org/project/lpqtree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "distributed",
+  "version": "2025.11.0",
+  "summary": "Distributed scheduler for Dask",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "distributed-2025.11.0.tar.gz",
+  "download_time": "2025-11-06T17:01:16.699776",
+  "package_url": "https://pypi.org/project/distributed/"
+}

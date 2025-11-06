@@ -1,0 +1,11 @@
+{
+  "name": "cc-mapping",
+  "version": "0.1.0",
+  "summary": "Gaussian Mixture Model-based thresholding for single-cell gene expression analysis",
+  "author": "ddpoe",
+  "license": "MIT",
+  "home_page": "https://github.com/StallaertLab/cc_mapping",
+  "download_filename": "cc_mapping-0.1.0.tar.gz",
+  "download_time": "2025-11-06T17:01:12.558431",
+  "package_url": "https://pypi.org/project/cc-mapping/"
+}
