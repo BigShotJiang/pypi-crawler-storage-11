@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-parler",
+  "version": "0.7.2",
+  "summary": "Brings \"omelette du fromage\" 🧀 from parler into wagtail 🐦 (via wagtail snippets or modeladmin)",
+  "author": "Webu",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/webu/wagtail-parler",
+  "download_filename": "wagtail_parler-0.7.2.tar.gz",
+  "download_time": "2025-11-06T11:53:11.989197",
+  "package_url": "https://pypi.org/project/wagtail-parler/"
+}

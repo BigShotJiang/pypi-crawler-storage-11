@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-html",
+  "version": "0.0.1b1",
+  "summary": "balderhub-html: balderhub package that provides features for working with the Hypertext Markup Language (HTML)",
+  "author": "Max Stahlschmidt and others",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/html",
+  "download_filename": "balderhub_html-0.0.1b1.tar.gz",
+  "download_time": "2025-11-06T11:53:12.523039",
+  "package_url": "https://pypi.org/project/balderhub-html/"
+}

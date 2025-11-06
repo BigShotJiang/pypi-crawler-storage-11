@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T11:42:12.281777
-- **Total Packages**: 90
-- **Total Size**: 32.47 MB
+- **Download Time**: 2025-11-06T11:53:57.129055
+- **Total Packages**: 85
+- **Total Size**: 32.04 MB
 
 ## Packages List
+- wagtail-parler
+- balderhub-html
+- effectual
+- netboxlabs-device-discovery
+- swapnilpdf
+- nulldrop
+- acido
+- tabpfn-client
+- closelove
+- scikit-learrnn
+- dao-analyzer
+- cashd
+- agentbill-py-crewai
+- prism-models
+- agentbill-py-langchain
+- agentbill-py-sdk
+- inflow-haisslab
+- kousuan
+- private-captcha
+- composo
+- tec-cli
+- screamrouter
+- hafnia
+- writer
+- megatron-core
+- megatron-fsdp
+- pytsv
+- soundstream-light
+- zoomy-core
+- mermaid-flow
+- diagrams-manager
+- intentkit
+- libretificacaotjcore
+- CIF2Dist
+- direl-ts-tool-kit
+- byteplus-python-sdk-v2
+- aioyookassa
+- iris-vector-rag
+- PyPDFForm
+- eodc-faas-openeo
+- cashd-core
+- invariant-gateway
+- fw-logging
+- pdf4llm
+- lymo
+- masai-framework
 - talentsavvy-improveteam
 - volcengine
 - model-compose
@@ -17,12 +63,10 @@
 - nvidia-nat-s3
 - mcp-weather-full
 - nvidia-nat
-- scikit-learrnn
 - locust
 - nvidia-nat-all
 - nvidia-nat-weave
 - dist-launch
-- acido
 - nvidia-nat-adk
 - mlrun
 - nvidia-nat-mem0ai
@@ -47,52 +91,3 @@
 - dymoapi
 - nvidia-nat-test
 - nvidia-nat-mysql
-- SignerPy
-- check11
-- fapier
-- frontengine
-- mcp-mineru
-- torchx-nightly
-- pyinstallerex
-- nvidia-nat-semantic-kernel
-- bosa-core-binary
-- prism-models
-- tabpfn-common-utils
-- dictIO
-- aiospb
-- nvidia-nat-agno
-- webbed-duck
-- pycarmat
-- django-bulk-hooks
-- nvidia-nat-opentelemetry
-- inixx
-- polartoolkit
-- vis3
-- sling
-- torchft-nightly
-- ldc-lender-datalayer
-- nvidia-nat-ragaai
-- oasm
-- locust-cloud
-- nvidia-nat-profiling
-- pyfswatch
-- antchain-blockchain
-- pypathutils
-- pyfilekit
-- osym
-- pythrottler
-- pyparallels
-- MeUtils
-- pyasyncbox
-- pypassguard
-- pysecurify
-- pyurlutils
-- putplace
-- pynettools
-- alibabacloud-consolecs20160406
-- rabbit-bq-job-optimizer
-- nvidia-nat-data-flywheel
-- pyalgokit
-- nvidia-nat-langchain
-- pycollectionsx
-- glean-sdk

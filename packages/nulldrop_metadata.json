@@ -1,0 +1,11 @@
+{
+  "name": "nulldrop",
+  "version": "1.0.3",
+  "summary": "Python SDK for the NullDrop File Hosting API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nulldrop-1.0.3.tar.gz",
+  "download_time": "2025-11-06T11:53:14.635553",
+  "package_url": "https://pypi.org/project/nulldrop/"
+}
