@@ -1,11 +1,11 @@
 {
   "name": "glitter-cli",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Simple File Transfer CLI",
   "author": "scarletkc",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glitter_cli-0.5.1.tar.gz",
-  "download_time": "2025-11-06T07:10:33.627288",
+  "download_filename": "glitter_cli-0.6.0.tar.gz",
+  "download_time": "2025-11-06T08:54:03.671130",
   "package_url": "https://pypi.org/project/glitter-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "json-toon",
+  "version": "1.0.2",
+  "summary": "Convert Python data to TOON (Token-Oriented Object Notation) - A lightweight, LLM-friendly structured data format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_toon-1.0.2.tar.gz",
+  "download_time": "2025-11-06T08:54:03.160674",
+  "package_url": "https://pypi.org/project/json-toon/"
+}

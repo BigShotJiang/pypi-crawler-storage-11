@@ -1,0 +1,11 @@
+{
+  "name": "dfit-toolkit",
+  "version": "1.0.0",
+  "summary": "A comprehensive command-line forensics toolkit for digital image analysis",
+  "author": "C0d3-cr4f73r",
+  "license": "MIT",
+  "home_page": "https://github.com/C0d3-cr4f73r/DFIT",
+  "download_filename": "dfit_toolkit-1.0.0.tar.gz",
+  "download_time": "2025-11-06T08:54:14.448311",
+  "package_url": "https://pypi.org/project/dfit-toolkit/"
+}

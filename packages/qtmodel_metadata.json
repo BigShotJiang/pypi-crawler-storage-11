@@ -1,11 +1,11 @@
 {
   "name": "qtmodel",
-  "version": "1.1.13",
-  "summary": "python modeling for qt 2025-11-03 ",
+  "version": "1.2.1",
+  "summary": "python modeling for qt 2025-11-06 ",
   "author": "dqy-zhj",
   "license": null,
   "home_page": "https://github.com/Inface0443/pyqt",
-  "download_filename": "qtmodel-1.1.13.tar.gz",
-  "download_time": "2025-11-03T03:58:36.156914",
+  "download_filename": "qtmodel-1.2.1.tar.gz",
+  "download_time": "2025-11-06T08:54:50.454038",
   "package_url": "https://pypi.org/project/qtmodel/"
 }
