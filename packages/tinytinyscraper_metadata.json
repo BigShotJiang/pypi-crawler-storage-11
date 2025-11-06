@@ -1,0 +1,11 @@
+{
+  "name": "tinytinyscraper",
+  "version": "0.1.1",
+  "summary": "A Python library that scrapes URLs and returns their contents. Special handling for YouTube URLs to extract transcripts and PDF files to extract text. Built with BeautifulSoup, Requests, YouTube-Transcript-API, and PyPDF.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tinytinyscraper-0.1.1.tar.gz",
+  "download_time": "2025-11-06T13:24:59.152826",
+  "package_url": "https://pypi.org/project/tinytinyscraper/"
+}

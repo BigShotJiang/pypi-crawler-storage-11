@@ -1,0 +1,11 @@
+{
+  "name": "graphsense-python",
+  "version": "1.15.0",
+  "summary": "GraphSense API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphsense_python-1.15.0.tar.gz",
+  "download_time": "2025-11-06T13:25:13.647019",
+  "package_url": "https://pypi.org/project/graphsense-python/"
+}

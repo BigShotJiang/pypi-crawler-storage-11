@@ -1,11 +1,11 @@
 {
   "name": "markdown-flow",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "summary": "An agent library designed to parse and process MarkdownFlow documents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_flow-0.2.26.tar.gz",
-  "download_time": "2025-11-05T14:53:51.559577",
+  "download_filename": "markdown_flow-0.2.27.tar.gz",
+  "download_time": "2025-11-06T13:25:33.844919",
   "package_url": "https://pypi.org/project/markdown-flow/"
 }

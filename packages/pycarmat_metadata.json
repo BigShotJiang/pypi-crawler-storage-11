@@ -1,11 +1,11 @@
 {
   "name": "pycarmat",
-  "version": "0.1.0.dev13",
+  "version": "0.1.0.dev15",
   "summary": "Python package for Dielectric Material Characterisation at mmwave bands",
   "author": null,
   "license": "AFL-3.0",
   "home_page": null,
-  "download_filename": "pycarmat-0.1.0.dev13.tar.gz",
-  "download_time": "2025-11-06T11:41:54.431124",
+  "download_filename": "pycarmat-0.1.0.dev15.tar.gz",
+  "download_time": "2025-11-06T13:25:06.798806",
   "package_url": "https://pypi.org/project/pycarmat/"
 }

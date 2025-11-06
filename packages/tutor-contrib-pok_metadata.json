@@ -1,11 +1,11 @@
 {
   "name": "tutor-contrib-pok",
-  "version": "19.1.0",
+  "version": "19.1.1",
   "summary": "Tutor plugin to integrate POK certificates into Open edX",
   "author": "Aulasneo",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "tutor_contrib_pok-19.1.0.tar.gz",
-  "download_time": "2025-11-05T17:21:34.269108",
+  "download_filename": "tutor_contrib_pok-19.1.1.tar.gz",
+  "download_time": "2025-11-06T13:24:49.989804",
   "package_url": "https://pypi.org/project/tutor-contrib-pok/"
 }

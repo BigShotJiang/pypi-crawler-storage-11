@@ -1,0 +1,11 @@
+{
+  "name": "ctyun-cli",
+  "version": "0.1.0a1",
+  "summary": "天翼云CLI工具 - 基于终端的云资源管理平台",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctyun_cli-0.1.0a1.tar.gz",
+  "download_time": "2025-11-06T13:25:22.273412",
+  "package_url": "https://pypi.org/project/ctyun-cli/"
+}

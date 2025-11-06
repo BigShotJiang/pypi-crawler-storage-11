@@ -1,11 +1,11 @@
 {
   "name": "Nsc616",
-  "version": "2.0.0",
-  "summary": "Nsc616 - 强大的模式匹配和表达式解析库",
+  "version": "3.1.0",
+  "summary": "Nsc410 增强版表达式处理器",
   "author": "王子毅",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "nsc616-2.0.0.tar.gz",
-  "download_time": "2025-11-06T12:58:01.817453",
+  "download_filename": "nsc616-3.1.0.tar.gz",
+  "download_time": "2025-11-06T13:25:07.373857",
   "package_url": "https://pypi.org/project/Nsc616/"
 }
