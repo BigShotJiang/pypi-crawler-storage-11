@@ -1,0 +1,11 @@
+{
+  "name": "IservMultiTabReportsLib",
+  "version": "0.0.9",
+  "summary": "Для формирования xlsx отчета из нескольких csv файлов.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iservmultitabreportslib-0.0.9.tar.gz",
+  "download_time": "2025-11-06T10:48:02.568200",
+  "package_url": "https://pypi.org/project/IservMultiTabReportsLib/"
+}

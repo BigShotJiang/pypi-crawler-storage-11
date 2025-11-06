@@ -1,0 +1,11 @@
+{
+  "name": "meteomatics",
+  "version": "3.0.0",
+  "summary": "Meteomatics API connector",
+  "author": "Meteomatics AG",
+  "license": "MIT",
+  "home_page": "https://github.com/meteomatics/python-connector-api",
+  "download_filename": "meteomatics-3.0.0.tar.gz",
+  "download_time": "2025-11-06T10:48:14.249187",
+  "package_url": "https://pypi.org/project/meteomatics/"
+}

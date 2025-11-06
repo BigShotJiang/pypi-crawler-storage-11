@@ -1,0 +1,11 @@
+{
+  "name": "rl-arena",
+  "version": "0.1.0",
+  "summary": "A Python library for competitive reinforcement learning environments",
+  "author": "RL Arena Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rl-arena/rl-arena-env",
+  "download_filename": "rl_arena-0.1.0.tar.gz",
+  "download_time": "2025-11-06T10:48:22.606727",
+  "package_url": "https://pypi.org/project/rl-arena/"
+}

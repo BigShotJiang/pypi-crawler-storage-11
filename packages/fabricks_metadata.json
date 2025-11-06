@@ -1,11 +1,11 @@
 {
   "name": "fabricks",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabricks-3.0.8.tar.gz",
-  "download_time": "2025-11-06T10:26:01.290192",
+  "download_filename": "fabricks-3.0.9.tar.gz",
+  "download_time": "2025-11-06T10:48:11.658609",
   "package_url": "https://pypi.org/project/fabricks/"
 }

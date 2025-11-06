@@ -1,0 +1,11 @@
+{
+  "name": "wp21-train",
+  "version": "0.6.0",
+  "summary": "Framework that provides tools allowing for monitoring, training and evaluating ML models",
+  "author": "ATLAS NextGen WP2.1",
+  "license": null,
+  "home_page": "https://gitlab.cern.ch/atlas-nextgen-wp21/wp21_training_framework.git",
+  "download_filename": "wp21_train-0.6.0.tar.gz",
+  "download_time": "2025-11-06T10:48:20.525740",
+  "package_url": "https://pypi.org/project/wp21-train/"
+}

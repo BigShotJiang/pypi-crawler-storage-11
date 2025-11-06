@@ -1,11 +1,11 @@
 {
   "name": "mwgencode",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "summary": "根据starUML文档产生flask专案的代码",
   "author": "cxhjet",
   "license": null,
   "home_page": "https://bitbucket.org/maxwin-inc/gencode/src/",
-  "download_filename": "mwgencode-1.4.6.tar.gz",
-  "download_time": "2025-11-06T10:25:39.821761",
+  "download_filename": "mwgencode-1.4.7.tar.gz",
+  "download_time": "2025-11-06T10:47:56.076938",
   "package_url": "https://pypi.org/project/mwgencode/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "srf-client",
+  "version": "2.9",
+  "summary": "Centre for Sustainable Road Freight - Data Platform client",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "srf_client-2.9.tar.gz",
+  "download_time": "2025-11-06T10:48:08.368376",
+  "package_url": "https://pypi.org/project/srf-client/"
+}

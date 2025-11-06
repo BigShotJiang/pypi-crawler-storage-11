@@ -1,11 +1,11 @@
 {
   "name": "roboka",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A Python wrapper for Rubika bot API. can you read documents in rb-chat.ir site or this github page: https://github.com/aliz17-web/roboka",
   "author": "Ali Zolghadr",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "roboka-0.1.6.tar.gz",
-  "download_time": "2025-11-04T19:39:27.106332",
+  "download_filename": "roboka-0.1.8.tar.gz",
+  "download_time": "2025-11-06T10:48:22.087616",
   "package_url": "https://pypi.org/project/roboka/"
 }

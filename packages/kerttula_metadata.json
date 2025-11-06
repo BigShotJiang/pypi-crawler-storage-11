@@ -1,11 +1,11 @@
 {
   "name": "kerttula",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Juha's home automation application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kerttula-0.1.10.tar.gz",
-  "download_time": "2025-11-01T14:39:00.635133",
+  "download_filename": "kerttula-0.1.11.tar.gz",
+  "download_time": "2025-11-06T10:48:18.970428",
   "package_url": "https://pypi.org/project/kerttula/"
 }

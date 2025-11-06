@@ -1,0 +1,11 @@
+{
+  "name": "line-item-manager",
+  "version": "0.2.14",
+  "summary": "Create and manage line items.",
+  "author": "the prebid contributors",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/prebid/line-item-manager",
+  "download_filename": "line_item_manager-0.2.14.tar.gz",
+  "download_time": "2025-11-06T10:48:07.326430",
+  "package_url": "https://pypi.org/project/line-item-manager/"
+}
