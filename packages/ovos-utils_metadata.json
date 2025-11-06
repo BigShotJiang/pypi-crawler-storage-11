@@ -1,0 +1,11 @@
+{
+  "name": "ovos-utils",
+  "version": "0.8.4",
+  "summary": "collection of simple utilities for use across the openvoiceos ecosystem",
+  "author": "jarbasAI",
+  "license": "Apache",
+  "home_page": "https://github.com/OpenVoiceOS/ovos_utils",
+  "download_filename": "ovos_utils-0.8.4.tar.gz",
+  "download_time": "2025-11-06T21:20:49.663625",
+  "package_url": "https://pypi.org/project/ovos-utils/"
+}

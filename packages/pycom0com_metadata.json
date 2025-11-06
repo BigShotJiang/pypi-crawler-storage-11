@@ -1,11 +1,11 @@
 {
   "name": "pycom0com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python bindings for com0com virtual serial ports",
   "author": "StableKite",
   "license": "GPL-2.0",
   "home_page": "https://github.com/StableKite/pycom0com",
-  "download_filename": "pycom0com-1.0.1.tar.gz",
-  "download_time": "2025-11-06T06:34:00.265752",
+  "download_filename": "pycom0com-1.0.2.tar.gz",
+  "download_time": "2025-11-06T21:20:54.839048",
   "package_url": "https://pypi.org/project/pycom0com/"
 }

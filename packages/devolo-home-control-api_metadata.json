@@ -1,0 +1,11 @@
+{
+  "name": "devolo-home-control-api",
+  "version": "0.19.1",
+  "summary": "devolo Home Control API in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devolo_home_control_api-0.19.1.tar.gz",
+  "download_time": "2025-11-06T21:21:00.532524",
+  "package_url": "https://pypi.org/project/devolo-home-control-api/"
+}

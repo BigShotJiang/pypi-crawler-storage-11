@@ -1,0 +1,11 @@
+{
+  "name": "xinject",
+  "version": "1.5.0",
+  "summary": "Lazy dependency injection.",
+  "author": "Josh Orr",
+  "license": null,
+  "home_page": "https://github.com/xyngular/py-xinject",
+  "download_filename": "xinject-1.5.0.tar.gz",
+  "download_time": "2025-11-06T21:20:53.801794",
+  "package_url": "https://pypi.org/project/xinject/"
+}

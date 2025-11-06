@@ -1,0 +1,11 @@
+{
+  "name": "fetchpoint",
+  "version": "0.1.1",
+  "summary": "A modern SharePoint client library for Python with federated authentication support",
+  "author": "Massimo Mauri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fetchpoint-0.1.1.tar.gz",
+  "download_time": "2025-11-06T21:21:16.235289",
+  "package_url": "https://pypi.org/project/fetchpoint/"
+}

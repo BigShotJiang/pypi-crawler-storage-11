@@ -1,0 +1,11 @@
+{
+  "name": "sharepointer",
+  "version": "0.1.1",
+  "summary": "A tool to manage SharePoint files and folders.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sharepointer-0.1.1.tar.gz",
+  "download_time": "2025-11-06T21:21:02.156957",
+  "package_url": "https://pypi.org/project/sharepointer/"
+}

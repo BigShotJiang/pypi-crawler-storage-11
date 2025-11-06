@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-accessanalyzer",
+  "version": "1.40.68",
+  "summary": "Type annotations for boto3 AccessAnalyzer 1.40.68 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_accessanalyzer-1.40.68.tar.gz",
+  "download_time": "2025-11-06T21:21:11.537454",
+  "package_url": "https://pypi.org/project/types-boto3-accessanalyzer/"
+}

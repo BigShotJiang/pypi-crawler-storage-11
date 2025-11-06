@@ -1,0 +1,11 @@
+{
+  "name": "abcvoting",
+  "version": "2.15.0",
+  "summary": "A Python library of approval-based committee (ABC) rules",
+  "author": "Martin Lackner",
+  "license": "MIT License",
+  "home_page": "https://github.com/martinlackner/abcvoting/",
+  "download_filename": "abcvoting-2.15.0-py3-none-any.whl",
+  "download_time": "2025-11-06T21:21:13.081180",
+  "package_url": "https://pypi.org/project/abcvoting/"
+}

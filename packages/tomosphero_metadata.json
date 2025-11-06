@@ -1,0 +1,11 @@
+{
+  "name": "tomosphero",
+  "version": "0.0.2",
+  "summary": "PyTorch volume raytracer in spherical coordinates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomosphero-0.0.2.tar.gz",
+  "download_time": "2025-11-06T21:20:58.989715",
+  "package_url": "https://pypi.org/project/tomosphero/"
+}
