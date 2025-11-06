@@ -1,11 +1,11 @@
 {
   "name": "superb-ai-onprem",
-  "version": "0.10.6",
+  "version": "0.10.8",
   "summary": "Python SDK for Superb AI On-premise",
   "author": "Superb AI",
   "license": null,
   "home_page": "https://github.com/Superb-AI-Suite/superb-ai-onprem-python",
-  "download_filename": "superb_ai_onprem-0.10.6.tar.gz",
-  "download_time": "2025-11-05T08:54:04.382406",
+  "download_filename": "superb_ai_onprem-0.10.8.tar.gz",
+  "download_time": "2025-11-06T07:10:40.327626",
   "package_url": "https://pypi.org/project/superb-ai-onprem/"
 }

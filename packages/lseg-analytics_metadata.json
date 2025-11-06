@@ -1,0 +1,11 @@
+{
+  "name": "lseg-analytics",
+  "version": "3.0.0b1",
+  "summary": "DEPRECATED - This package is no longer maintained. Use lseg-analytics-pricing instead.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lseg_analytics-3.0.0b1.tar.gz",
+  "download_time": "2025-11-06T07:10:52.418150",
+  "package_url": "https://pypi.org/project/lseg-analytics/"
+}

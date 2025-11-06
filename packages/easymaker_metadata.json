@@ -1,0 +1,11 @@
+{
+  "name": "easymaker",
+  "version": "2.1.1",
+  "summary": "AI EasyMaker SDK for Python.",
+  "author": "NHN Cloud AI EasyMaker Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easymaker-2.1.1.tar.gz",
+  "download_time": "2025-11-06T07:11:14.070725",
+  "package_url": "https://pypi.org/project/easymaker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nxsrecselector",
+  "version": "4.2.0",
+  "summary": "Selector Server for NeXus Sardana recorder",
+  "author": "Jan Kotanski",
+  "license": "GNU GENERAL PUBLIC LICENSE v3",
+  "home_page": "https://github.com/jkotan/nexdatas/",
+  "download_filename": "nxsrecselector-4.2.0.tar.gz",
+  "download_time": "2025-11-06T07:11:03.919691",
+  "package_url": "https://pypi.org/project/nxsrecselector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "himpunan-group1-ucmakassar",
+  "version": "1.0.0",
+  "summary": "A simple Python library for set operations (Himpunan) supporting fractions and decimals.",
+  "author": "Kelompok 2",
+  "license": "MIT",
+  "home_page": "https://github.com/mchlstvny/himpunan-project-discrete-mathematics.git",
+  "download_filename": "himpunan_group1_ucmakassar-1.0.0.tar.gz",
+  "download_time": "2025-11-06T07:10:59.212816",
+  "package_url": "https://pypi.org/project/himpunan-group1-ucmakassar/"
+}

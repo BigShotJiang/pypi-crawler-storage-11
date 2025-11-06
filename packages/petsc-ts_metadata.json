@@ -1,0 +1,11 @@
+{
+  "name": "petsc-ts",
+  "version": "1.4",
+  "summary": "Pattern-based Embedding for Time Series Classification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "petsc_ts-1.4.tar.gz",
+  "download_time": "2025-11-06T07:10:36.258307",
+  "package_url": "https://pypi.org/project/petsc-ts/"
+}

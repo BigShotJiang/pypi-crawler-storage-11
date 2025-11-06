@@ -1,11 +1,11 @@
 {
   "name": "ros-mcp",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Connect AI Language Models with Robots on ROS using MCP",
   "author": "Rohit John Varghese, Jungsoo Lee, Youngmok Yun, Stefano Dalla Gasperina",
   "license": null,
   "home_page": null,
-  "download_filename": "ros_mcp-2.2.0.tar.gz",
-  "download_time": "2025-11-05T22:55:36.789209",
+  "download_filename": "ros_mcp-2.2.1.tar.gz",
+  "download_time": "2025-11-06T07:11:06.046576",
   "package_url": "https://pypi.org/project/ros-mcp/"
 }

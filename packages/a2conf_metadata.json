@@ -1,0 +1,11 @@
+{
+  "name": "a2conf",
+  "version": "0.3.5",
+  "summary": "apache2 configuration file parser and query tool",
+  "author": "Yaroslav Polyakov",
+  "license": "MIT",
+  "home_page": "https://github.com/yaroslaff/a2conf",
+  "download_filename": "a2conf-0.3.5.tar.gz",
+  "download_time": "2025-11-06T07:11:13.490758",
+  "package_url": "https://pypi.org/project/a2conf/"
+}

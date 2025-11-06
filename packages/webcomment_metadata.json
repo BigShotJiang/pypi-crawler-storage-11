@@ -1,0 +1,11 @@
+{
+  "name": "webcomment",
+  "version": "0.3.3",
+  "summary": "A comment SaaS module with Django",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "webcomment-0.3.3.tar.gz",
+  "download_time": "2025-11-06T07:10:46.508406",
+  "package_url": "https://pypi.org/project/webcomment/"
+}

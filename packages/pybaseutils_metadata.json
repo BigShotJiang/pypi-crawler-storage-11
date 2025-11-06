@@ -1,11 +1,11 @@
 {
   "name": "pybaseutils",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "pybaseutils",
   "author": "PanJinquan",
   "license": "MIT",
   "home_page": "https://github.com/PanJinquan/base-utils",
-  "download_filename": "pybaseutils-2.4.1.tar.gz",
-  "download_time": "2025-11-05T03:05:10.361495",
+  "download_filename": "pybaseutils-2.4.2.tar.gz",
+  "download_time": "2025-11-06T07:11:11.958523",
   "package_url": "https://pypi.org/project/pybaseutils/"
 }
