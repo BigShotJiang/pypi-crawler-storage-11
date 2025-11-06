@@ -1,11 +1,11 @@
 {
   "name": "seraa",
-  "version": "0.1.1",
-  "summary": "Stochastic Emergent Reasoning Alignment Architecture - Ethical AI Framework",
+  "version": "0.2.1",
+  "summary": "Stochastic Emergent Reasoning Alignment Architecture - Ethical AI Framework with PAC evaluation and regulatory benchmarks",
   "author": "Theodore Park",
   "license": null,
   "home_page": "https://github.com/tpark216/seraa",
-  "download_filename": "seraa-0.1.1.tar.gz",
-  "download_time": "2025-11-04T20:44:44.416658",
+  "download_filename": "seraa-0.2.1.tar.gz",
+  "download_time": "2025-11-06T16:34:49.749642",
   "package_url": "https://pypi.org/project/seraa/"
 }

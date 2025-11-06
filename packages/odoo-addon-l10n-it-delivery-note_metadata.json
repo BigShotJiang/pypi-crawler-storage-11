@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-delivery-note",
+  "version": "18.0.1.0.3",
+  "summary": "Crea, gestisce e fattura i DDT partendo dalle consegne",
+  "author": "Marco Calcagni, Gianmarco Conte, Link IT Europe Srl, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_delivery_note-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2025-11-06T16:34:40.882857",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-delivery-note/"
+}

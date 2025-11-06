@@ -1,11 +1,11 @@
 {
   "name": "pygeofilter-aeronet",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygeofilter_aeronet-0.2.0.tar.gz",
-  "download_time": "2025-11-06T14:47:28.035743",
+  "download_filename": "pygeofilter_aeronet-0.3.0.tar.gz",
+  "download_time": "2025-11-06T16:34:45.851566",
   "package_url": "https://pypi.org/project/pygeofilter-aeronet/"
 }

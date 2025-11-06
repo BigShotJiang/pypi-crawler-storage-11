@@ -1,0 +1,11 @@
+{
+  "name": "markdown-quote",
+  "version": "0.0.2",
+  "summary": "A command line tool that processes markdown files to replace quote blocks with actual content from referenced files.",
+  "author": null,
+  "license": "Apache License",
+  "home_page": null,
+  "download_filename": "markdown_quote-0.0.2.tar.gz",
+  "download_time": "2025-11-06T16:34:44.545231",
+  "package_url": "https://pypi.org/project/markdown-quote/"
+}

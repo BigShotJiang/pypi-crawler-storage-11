@@ -1,0 +1,11 @@
+{
+  "name": "fastar",
+  "version": "0.2.0",
+  "summary": "High-level bindings for the Rust tar crate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastar-0.2.0.tar.gz",
+  "download_time": "2025-11-06T16:34:24.979335",
+  "package_url": "https://pypi.org/project/fastar/"
+}

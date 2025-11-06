@@ -1,0 +1,11 @@
+{
+  "name": "impact",
+  "version": "0.5.0",
+  "summary": "Impact AI SDK (OTel-native, GenAI semantic conventions)",
+  "author": "Impact AI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "impact-0.5.0-py3-none-any.whl",
+  "download_time": "2025-11-06T16:34:38.924677",
+  "package_url": "https://pypi.org/project/impact/"
+}
