@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T17:47:12.497717
+- **Download Time**: 2025-11-06T18:34:48.150564
 - **Total Packages**: 91
-- **Total Size**: 22.5 MB
+- **Total Size**: 4.43 MB
 
 ## Packages List
+- epicallypowerful
+- pyGroupedTransforms
+- conformal-clip-data
+- config2py
+- etuCV
 - nifti2bids
 - drap
 - vulnmap
@@ -54,7 +59,6 @@
 - groundx
 - tabpfn
 - llama-index-llms-google-genai
-- etuCV
 - MOBPY
 - chaiverse
 - stocktrim-openapi-client
@@ -83,7 +87,6 @@
 - pigeon-transitions
 - hacking
 - istr-python
-- pyGroupedTransforms
 - eclypse
 - tai-keycloak
 - multi-ai-handler
@@ -94,6 +97,3 @@
 - kohakuvault
 - defoldsdk
 - projen
-- digimat.mbio
-- lydwhitt-tools
-- modusa

@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-11-06T17:47:12.497717",
+  "download_time": "2025-11-06T18:34:48.150564",
   "total_packages_downloaded": 91,
-  "total_size_mb": 22.5,
+  "total_size_mb": 4.43,
   "packages": [
+    "epicallypowerful",
+    "pyGroupedTransforms",
+    "conformal-clip-data",
+    "config2py",
+    "etuCV",
     "nifti2bids",
     "drap",
     "vulnmap",
@@ -51,7 +56,6 @@
     "groundx",
     "tabpfn",
     "llama-index-llms-google-genai",
-    "etuCV",
     "MOBPY",
     "chaiverse",
     "stocktrim-openapi-client",
@@ -80,7 +84,6 @@
     "pigeon-transitions",
     "hacking",
     "istr-python",
-    "pyGroupedTransforms",
     "eclypse",
     "tai-keycloak",
     "multi-ai-handler",
@@ -90,9 +93,6 @@
     "embody-file",
     "kohakuvault",
     "defoldsdk",
-    "projen",
-    "digimat.mbio",
-    "lydwhitt-tools",
-    "modusa"
+    "projen"
   ]
 }

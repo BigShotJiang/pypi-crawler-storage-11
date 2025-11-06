@@ -1,11 +1,11 @@
 {
   "name": "netint-agents-sdk",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python SDK for the NetIntGPT Agents API",
   "author": "NetInt Team",
   "license": "MIT",
   "home_page": "https://github.com/netint/netint-agents-sdk",
-  "download_filename": "netint_agents_sdk-0.3.0.tar.gz",
-  "download_time": "2025-11-06T17:46:33.474784",
+  "download_filename": "netint_agents_sdk-0.3.1.tar.gz",
+  "download_time": "2025-11-06T18:34:16.784367",
   "package_url": "https://pypi.org/project/netint-agents-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "orto",
-  "version": "1.7.0",
+  "version": "1.8.2",
   "summary": "A package to make life easier when performing Orca calculations.",
   "author": "Jon Kragskow",
   "license": null,
   "home_page": "https://orto.kragskow.group",
-  "download_filename": "orto-1.7.0.tar.gz",
-  "download_time": "2025-11-06T17:46:20.546934",
+  "download_filename": "orto-1.8.2.tar.gz",
+  "download_time": "2025-11-06T18:34:06.096375",
   "package_url": "https://pypi.org/project/orto/"
 }
