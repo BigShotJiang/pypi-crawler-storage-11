@@ -1,0 +1,11 @@
+{
+  "name": "amd-hipdf",
+  "version": "0.0.1",
+  "summary": "hipDF - GPU Dataframe for AMD GPUs",
+  "author": null,
+  "license": "Apache 2.0 AND MIT",
+  "home_page": null,
+  "download_filename": "amd_hipdf-0.0.1-py3-none-any.whl",
+  "download_time": "2025-11-06T04:28:59.242338",
+  "package_url": "https://pypi.org/project/amd-hipdf/"
+}

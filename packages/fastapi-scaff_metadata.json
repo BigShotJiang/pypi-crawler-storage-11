@@ -1,11 +1,11 @@
 {
   "name": "fastapi-scaff",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "This is a fastapi scaff.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_scaff-0.5.0-py3-none-any.whl",
-  "download_time": "2025-11-05T14:23:25.231782",
+  "download_filename": "fastapi_scaff-0.5.1-py3-none-any.whl",
+  "download_time": "2025-11-06T04:29:05.614635",
   "package_url": "https://pypi.org/project/fastapi-scaff/"
 }
