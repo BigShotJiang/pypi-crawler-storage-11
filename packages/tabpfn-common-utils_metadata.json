@@ -1,11 +1,11 @@
 {
   "name": "tabpfn-common-utils",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Utilities shared between TabPFN codebases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tabpfn_common_utils-0.2.6.tar.gz",
-  "download_time": "2025-11-06T11:41:51.832670",
+  "download_filename": "tabpfn_common_utils-0.2.7.tar.gz",
+  "download_time": "2025-11-06T17:29:10.766340",
   "package_url": "https://pypi.org/project/tabpfn-common-utils/"
 }

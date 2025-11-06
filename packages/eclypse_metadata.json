@@ -1,0 +1,11 @@
+{
+  "name": "eclypse",
+  "version": "0.8.1",
+  "summary": "an Edge-CLoud pYthon Platform for Simulated runtime Environments",
+  "author": "Jacopo Massa",
+  "license": "MIT",
+  "home_page": "https://github.com/eclypse-org/eclypse",
+  "download_filename": "eclypse-0.8.1-py3-none-any.whl",
+  "download_time": "2025-11-06T17:29:08.130941",
+  "package_url": "https://pypi.org/project/eclypse/"
+}

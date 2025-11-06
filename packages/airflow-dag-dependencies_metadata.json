@@ -1,0 +1,11 @@
+{
+  "name": "airflow-dag-dependencies",
+  "version": "0.1.0",
+  "summary": "An Apache Airflow plugin that provides interactive visualization of DAG dependencies, datasets, and trigger relationships. Enhance your workflow monitoring and planning with intuitive D3.js-powered graphs.",
+  "author": "Ponder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airflow_dag_dependencies-0.1.0.tar.gz",
+  "download_time": "2025-11-06T17:29:25.599369",
+  "package_url": "https://pypi.org/project/airflow-dag-dependencies/"
+}

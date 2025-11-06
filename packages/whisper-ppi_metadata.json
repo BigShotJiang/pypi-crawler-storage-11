@@ -1,0 +1,11 @@
+{
+  "name": "whisper-ppi",
+  "version": "0.1.0",
+  "summary": "Weak Heuristic Inference for Supervisory Protein intERaction mapping for PDB and AP-MS datasets",
+  "author": "Vesal Kasmaeifar",
+  "license": "MIT",
+  "home_page": "https://github.com/camlab-bioml/whisper",
+  "download_filename": "whisper_ppi-0.1.0.tar.gz",
+  "download_time": "2025-11-06T17:29:36.597622",
+  "package_url": "https://pypi.org/project/whisper-ppi/"
+}

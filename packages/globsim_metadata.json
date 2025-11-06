@@ -1,0 +1,11 @@
+{
+  "name": "globsim",
+  "version": "4.4.1",
+  "summary": "Using global reanalysis data for local permafrost simulation",
+  "author": "Stephan Gruber",
+  "license": null,
+  "home_page": "https://github.com/geocryology/globsim",
+  "download_filename": "globsim-4.4.1.tar.gz",
+  "download_time": "2025-11-06T17:29:27.178598",
+  "package_url": "https://pypi.org/project/globsim/"
+}

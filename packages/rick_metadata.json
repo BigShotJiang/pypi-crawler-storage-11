@@ -1,0 +1,11 @@
+{
+  "name": "rick",
+  "version": "0.8.0",
+  "summary": "Python plumbing for micro-framework based applications",
+  "author": "João Pinheiro",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/oddbit-project/rick",
+  "download_filename": "rick-0.8.0.tar.gz",
+  "download_time": "2025-11-06T17:28:58.582861",
+  "package_url": "https://pypi.org/project/rick/"
+}
