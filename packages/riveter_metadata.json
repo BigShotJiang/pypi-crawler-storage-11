@@ -1,11 +1,11 @@
 {
   "name": "riveter",
-  "version": "0.13.5",
+  "version": "0.13.6",
   "summary": "Infrastructure Drift Detection as Code - Define custom drift detection rules",
   "author": "Riveter Team",
   "license": null,
   "home_page": null,
-  "download_filename": "riveter-0.13.5.tar.gz",
-  "download_time": "2025-11-06T01:43:32.558407",
+  "download_filename": "riveter-0.13.6.tar.gz",
+  "download_time": "2025-11-06T03:06:49.248808",
   "package_url": "https://pypi.org/project/riveter/"
 }

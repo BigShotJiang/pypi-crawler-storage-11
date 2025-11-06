@@ -1,11 +1,11 @@
 {
   "name": "sheikh-huzaif-resume",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A CLI tool to present my CV",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sheikh_huzaif_resume-1.0.2.tar.gz",
-  "download_time": "2025-11-05T16:30:08.352990",
+  "download_filename": "sheikh_huzaif_resume-1.0.3.tar.gz",
+  "download_time": "2025-11-06T03:07:21.021032",
   "package_url": "https://pypi.org/project/sheikh-huzaif-resume/"
 }

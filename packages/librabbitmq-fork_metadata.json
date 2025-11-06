@@ -1,0 +1,11 @@
+{
+  "name": "librabbitmq-fork",
+  "version": "2.0.2.dev3",
+  "summary": "AMQP Client using the rabbitmq-c library.",
+  "author": "Ask Solem,Henry Tang",
+  "license": "MPL",
+  "home_page": "http://github.com/henryykt/librabbitmq",
+  "download_filename": "librabbitmq_fork-2.0.2.dev3-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-11-06T03:07:32.049378",
+  "package_url": "https://pypi.org/project/librabbitmq-fork/"
+}

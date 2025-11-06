@@ -1,0 +1,11 @@
+{
+  "name": "fit-file-faker",
+  "version": "1.2.3",
+  "summary": "A small tool to edit and upload FIT files to Garmin Connect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fit_file_faker-1.2.3.tar.gz",
+  "download_time": "2025-11-06T03:07:27.830275",
+  "package_url": "https://pypi.org/project/fit-file-faker/"
+}

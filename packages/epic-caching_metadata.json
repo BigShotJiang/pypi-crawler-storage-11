@@ -1,0 +1,11 @@
+{
+  "name": "epic-caching",
+  "version": "1.1.2",
+  "summary": "Utilities for caching",
+  "author": "Assaf Ben-David",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epic_caching-1.1.2.tar.gz",
+  "download_time": "2025-11-06T03:07:19.357296",
+  "package_url": "https://pypi.org/project/epic-caching/"
+}

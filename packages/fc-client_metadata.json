@@ -1,0 +1,11 @@
+{
+  "name": "fc-client",
+  "version": "0.8.3",
+  "summary": null,
+  "author": "Larry Shen",
+  "license": "MIT",
+  "home_page": "https://fc.readthedocs.io/",
+  "download_filename": "fc_client-0.8.3.tar.gz",
+  "download_time": "2025-11-06T03:07:04.074895",
+  "package_url": "https://pypi.org/project/fc-client/"
+}
