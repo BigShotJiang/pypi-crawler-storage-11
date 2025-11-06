@@ -1,11 +1,11 @@
 {
   "name": "histomap",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "visualize histology images with umap",
   "author": "Ajit Johnson Nirmal",
   "license": null,
   "home_page": null,
-  "download_filename": "histomap-0.1.9.tar.gz",
-  "download_time": "2025-11-05T23:53:22.299884",
+  "download_filename": "histomap-0.1.10.tar.gz",
+  "download_time": "2025-11-06T01:43:06.036387",
   "package_url": "https://pypi.org/project/histomap/"
 }

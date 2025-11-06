@@ -1,11 +1,11 @@
 {
   "name": "chatterbox-onnx",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "summary": null,
   "author": "JarbasAi",
   "license": "MIT",
   "home_page": "https://github.com/TigreGotico/chatterbox_onnx",
-  "download_filename": "chatterbox_onnx-0.0.1.tar.gz",
-  "download_time": "2025-11-04T01:44:19.738986",
+  "download_filename": "chatterbox_onnx-0.2.1.tar.gz",
+  "download_time": "2025-11-06T01:43:45.380070",
   "package_url": "https://pypi.org/project/chatterbox-onnx/"
 }

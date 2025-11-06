@@ -1,11 +1,11 @@
 {
   "name": "SignerPy",
-  "version": "0.11.1",
+  "version": "0.11.4",
   "summary": null,
   "author": "L7N",
   "license": null,
   "home_page": "https://github.com/is-L7N/SignerPy/",
-  "download_filename": "signerpy-0.11.1.tar.gz",
-  "download_time": "2025-11-05T10:25:45.138726",
+  "download_filename": "signerpy-0.11.4.tar.gz",
+  "download_time": "2025-11-06T01:43:44.734746",
   "package_url": "https://pypi.org/project/SignerPy/"
 }
