@@ -1,11 +1,11 @@
 {
   "name": "tsugite",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "System-oriented dashboards for DroneCAN & Cyphal (YAML-powered)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tsugite-0.4.1.tar.gz",
-  "download_time": "2025-11-06T13:51:02.933544",
+  "download_filename": "tsugite-0.4.2.tar.gz",
+  "download_time": "2025-11-06T19:40:29.197738",
   "package_url": "https://pypi.org/project/tsugite/"
 }

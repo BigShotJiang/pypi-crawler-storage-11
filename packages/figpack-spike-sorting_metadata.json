@@ -1,11 +1,11 @@
 {
   "name": "figpack-spike-sorting",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Spike Sorting specific extension for figpack",
   "author": "figpack contributors",
   "license": null,
   "home_page": "https://github.com/flatironinstitute/figpack",
-  "download_filename": "figpack_spike_sorting-0.1.6.tar.gz",
-  "download_time": "2025-11-06T17:29:42.871272",
+  "download_filename": "figpack_spike_sorting-0.1.7.tar.gz",
+  "download_time": "2025-11-06T19:40:39.212539",
   "package_url": "https://pypi.org/project/figpack-spike-sorting/"
 }

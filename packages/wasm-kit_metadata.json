@@ -1,0 +1,11 @@
+{
+  "name": "wasm-kit",
+  "version": "0.1.1",
+  "summary": "The Docker of WebAssembly - Build any codebase to WASM with zero setup",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wasm_kit-0.1.1.tar.gz",
+  "download_time": "2025-11-06T19:40:32.224135",
+  "package_url": "https://pypi.org/project/wasm-kit/"
+}

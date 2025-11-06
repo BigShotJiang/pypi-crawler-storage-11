@@ -1,0 +1,11 @@
+{
+  "name": "trayweathertool-oklahoma",
+  "version": "0.9",
+  "summary": "Runs in the system tray, recording and reporting Oklahoma temperatures and storm status",
+  "author": "Edwin Lee",
+  "license": "ModifiedBSD",
+  "home_page": "https://github.com/Myoldmopar/TrayWeatherTool",
+  "download_filename": "trayweathertool_oklahoma-0.9.tar.gz",
+  "download_time": "2025-11-06T19:40:38.066513",
+  "package_url": "https://pypi.org/project/trayweathertool-oklahoma/"
+}
