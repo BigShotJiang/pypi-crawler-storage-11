@@ -1,0 +1,11 @@
+{
+  "name": "t-ocr",
+  "version": "1.5.5",
+  "summary": "Thoughtful OCR Package",
+  "author": "Thoughtful",
+  "license": null,
+  "home_page": "https://www.thoughtful.ai/",
+  "download_filename": "t_ocr-1.5.5.tar.gz",
+  "download_time": "2025-11-06T15:46:30.516085",
+  "package_url": "https://pypi.org/project/t-ocr/"
+}

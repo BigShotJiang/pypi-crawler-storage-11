@@ -1,0 +1,11 @@
+{
+  "name": "chonkie-chunk-utils",
+  "version": "0.2.0",
+  "summary": "Utility functions for managing and processing chonkie Chunk objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chonkie_chunk_utils-0.2.0.tar.gz",
+  "download_time": "2025-11-06T15:46:55.915917",
+  "package_url": "https://pypi.org/project/chonkie-chunk-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datar",
+  "version": "0.15.13",
+  "summary": "A Grammar of Data Manipulation in python",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/datar",
+  "download_filename": "datar-0.15.13.tar.gz",
+  "download_time": "2025-11-06T15:46:34.230807",
+  "package_url": "https://pypi.org/project/datar/"
+}

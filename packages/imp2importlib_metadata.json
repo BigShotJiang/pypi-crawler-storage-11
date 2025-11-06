@@ -1,0 +1,11 @@
+{
+  "name": "imp2importlib",
+  "version": "0.1.0",
+  "summary": "Default template for PDM package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imp2importlib-0.1.0.tar.gz",
+  "download_time": "2025-11-06T15:46:56.949580",
+  "package_url": "https://pypi.org/project/imp2importlib/"
+}

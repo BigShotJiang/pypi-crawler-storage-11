@@ -1,0 +1,11 @@
+{
+  "name": "cfsem",
+  "version": "3.0.2",
+  "summary": "Quasi-steady electromagnetics including filamentized approximations, Biot-Savart, and Grad-Shafranov.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cfs-energy/cfsem-py",
+  "download_filename": "cfsem-3.0.2.tar.gz",
+  "download_time": "2025-11-06T15:46:55.401473",
+  "package_url": "https://pypi.org/project/cfsem/"
+}
