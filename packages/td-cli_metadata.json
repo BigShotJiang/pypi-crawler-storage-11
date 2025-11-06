@@ -1,0 +1,11 @@
+{
+  "name": "td-cli",
+  "version": "2.3.0",
+  "summary": "A todo command line manager",
+  "author": "Darri Steinn Konn Konradsson",
+  "license": "MIT",
+  "home_page": "https://github.com/darrikonn/td-cli",
+  "download_filename": "td_cli-2.3.0.tar.gz",
+  "download_time": "2025-11-06T21:40:44.148240",
+  "package_url": "https://pypi.org/project/td-cli/"
+}

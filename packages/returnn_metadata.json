@@ -1,11 +1,11 @@
 {
   "name": "returnn",
-  "version": "1.20251105.112921",
+  "version": "1.20251106.185107",
   "summary": "The RWTH extensible training framework for universal recurrent neural networks",
   "author": "Albert Zeyer",
   "license": "RETURNN license",
   "home_page": "https://github.com/rwth-i6/returnn/",
-  "download_filename": "returnn-1.20251105.112921.tar.gz",
-  "download_time": "2025-11-05T10:47:57.601457",
+  "download_filename": "returnn-1.20251106.185107.tar.gz",
+  "download_time": "2025-11-06T21:40:45.247367",
   "package_url": "https://pypi.org/project/returnn/"
 }

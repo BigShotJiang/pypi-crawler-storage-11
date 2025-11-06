@@ -1,0 +1,11 @@
+{
+  "name": "scself",
+  "version": "0.5.0",
+  "summary": "Self Supervised Tools for Single Cell Data",
+  "author": "Chris Jackson",
+  "license": null,
+  "home_page": "https://github.com/GreshamLab/sc_self_supervised",
+  "download_filename": "scself-0.5.0.tar.gz",
+  "download_time": "2025-11-06T21:40:58.946716",
+  "package_url": "https://pypi.org/project/scself/"
+}
