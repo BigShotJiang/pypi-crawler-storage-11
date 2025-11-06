@@ -1,0 +1,11 @@
+{
+  "name": "pds.peppi",
+  "version": "0.8.0",
+  "summary": "Get Planetary Data from the Planetary Data System (PDS)",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/peppi",
+  "download_filename": "pds_peppi-0.8.0-py3-none-any.whl",
+  "download_time": "2025-11-06T04:50:38.251562",
+  "package_url": "https://pypi.org/project/pds.peppi/"
+}

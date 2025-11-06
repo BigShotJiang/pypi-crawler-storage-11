@@ -1,0 +1,11 @@
+{
+  "name": "aaz-dev",
+  "version": "4.5.3",
+  "summary": "Microsoft Atomic Azure CLI Commands Developer Tools",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure/aaz-dev-tools",
+  "download_filename": "aaz_dev-4.5.3.tar.gz",
+  "download_time": "2025-11-06T04:50:41.951951",
+  "package_url": "https://pypi.org/project/aaz-dev/"
+}

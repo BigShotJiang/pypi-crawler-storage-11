@@ -1,0 +1,11 @@
+{
+  "name": "dijkstra3d",
+  "version": "1.15.2",
+  "summary": "Implementation of Dijkstra's Shortest Path algorithm on 3D images.",
+  "author": "William Silversmith",
+  "license": "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/seung-lab/dijkstra3d/",
+  "download_filename": "dijkstra3d-1.15.2.tar.gz",
+  "download_time": "2025-11-06T04:50:32.482261",
+  "package_url": "https://pypi.org/project/dijkstra3d/"
+}
