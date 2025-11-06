@@ -1,11 +1,11 @@
 {
   "name": "cirq-scaleway",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A Cirq package to connect to Scaleway Quantum as a Service",
   "author": "The Scaleway Developers",
   "license": "Apache 2",
   "home_page": null,
-  "download_filename": "cirq_scaleway-0.1.11.tar.gz",
-  "download_time": "2025-11-06T13:50:58.822552",
+  "download_filename": "cirq_scaleway-0.1.12.tar.gz",
+  "download_time": "2025-11-06T15:26:11.150898",
   "package_url": "https://pypi.org/project/cirq-scaleway/"
 }

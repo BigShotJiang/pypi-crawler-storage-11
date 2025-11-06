@@ -1,0 +1,11 @@
+{
+  "name": "fw-utils",
+  "version": "5.1.1",
+  "summary": "Common Flywheel helper utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_utils-5.1.1-py3-none-any.whl",
+  "download_time": "2025-11-06T15:26:37.480093",
+  "package_url": "https://pypi.org/project/fw-utils/"
+}

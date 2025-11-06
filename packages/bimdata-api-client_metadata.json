@@ -1,0 +1,11 @@
+{
+  "name": "bimdata-api-client",
+  "version": "10.23.3",
+  "summary": "BIMData API",
+  "author": "BIMData.io",
+  "license": null,
+  "home_page": "https://github.com/bimdata/python-api-client",
+  "download_filename": "bimdata_api_client-10.23.3.tar.gz",
+  "download_time": "2025-11-06T15:26:32.863565",
+  "package_url": "https://pypi.org/project/bimdata-api-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hepunits",
+  "version": "2.4.3",
+  "summary": "Units and constants in the HEP system of units",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hepunits-2.4.3.tar.gz",
+  "download_time": "2025-11-06T15:25:50.107735",
+  "package_url": "https://pypi.org/project/hepunits/"
+}

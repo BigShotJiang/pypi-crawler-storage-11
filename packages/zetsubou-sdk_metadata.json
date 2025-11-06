@@ -1,11 +1,11 @@
 {
   "name": "zetsubou-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python SDK for the Zetsubou.life API v2",
   "author": "Zetsubou.life",
   "license": null,
   "home_page": "https://github.com/zetsubou-life/python-sdk",
-  "download_filename": "zetsubou_sdk-1.0.0.tar.gz",
-  "download_time": "2025-11-06T14:47:24.433605",
+  "download_filename": "zetsubou_sdk-1.0.1.tar.gz",
+  "download_time": "2025-11-06T15:26:36.457946",
   "package_url": "https://pypi.org/project/zetsubou-sdk/"
 }

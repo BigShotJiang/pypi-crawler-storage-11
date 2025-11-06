@@ -1,0 +1,11 @@
+{
+  "name": "qoqo-qasm",
+  "version": "0.15.3",
+  "summary": null,
+  "author": null,
+  "license": "Apache-2.0 AND Apache-2.0 with LLVM-exception AND MIT AND Unicode-DFS-2016 AND\r\n\tBSD-2-Clause AND BSD-3-CLause",
+  "home_page": "https://github.com/HQSquantumsimulations/qoqo_qasm",
+  "download_filename": "qoqo_qasm-0.15.3.tar.gz",
+  "download_time": "2025-11-06T15:26:28.635311",
+  "package_url": "https://pypi.org/project/qoqo-qasm/"
+}

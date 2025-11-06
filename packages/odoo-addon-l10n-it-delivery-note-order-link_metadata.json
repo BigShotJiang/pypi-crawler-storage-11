@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-delivery-note-order-link",
+  "version": "18.0.1.0.0.2",
+  "summary": "Crea collegamento tra i DDT e ordine di vendita/acquisto",
+  "author": "Openindustry.it Sas, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_delivery_note_order_link-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-06T15:26:19.821630",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-delivery-note-order-link/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "data-repo-client",
-  "version": "2.344.0",
+  "version": "2.345.0",
   "summary": "Data Repository API",
   "author": "OpenAPI Generator community",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "data_repo_client-2.344.0.tar.gz",
-  "download_time": "2025-11-04T15:45:22.748925",
+  "download_filename": "data_repo_client-2.345.0.tar.gz",
+  "download_time": "2025-11-06T15:25:57.010597",
   "package_url": "https://pypi.org/project/data-repo-client/"
 }

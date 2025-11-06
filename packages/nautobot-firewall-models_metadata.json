@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-firewall-models",
+  "version": "2.3.0",
+  "summary": "Nautobot app to model firewall objects.",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_firewall_models-2.3.0.tar.gz",
+  "download_time": "2025-11-06T15:26:19.310420",
+  "package_url": "https://pypi.org/project/nautobot-firewall-models/"
+}

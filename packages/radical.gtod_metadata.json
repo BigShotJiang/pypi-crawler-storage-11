@@ -1,0 +1,11 @@
+{
+  "name": "radical.gtod",
+  "version": "1.103.0",
+  "summary": "returns seconds since epoch in subsecond resolution.",
+  "author": "RADICAL Group at Rutgers University",
+  "license": "GPL3",
+  "home_page": "http://radical-cybertools.github.io/radical.gtod/",
+  "download_filename": "radical_gtod-1.103.0.tar.gz",
+  "download_time": "2025-11-06T15:25:59.298470",
+  "package_url": "https://pypi.org/project/radical.gtod/"
+}

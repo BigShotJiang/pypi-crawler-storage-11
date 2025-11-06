@@ -1,0 +1,11 @@
+{
+  "name": "cv-toolkit-takaw",
+  "version": "0.1.0",
+  "summary": "A comprehensive computer vision toolkit for image processing and feature detection",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/cv-toolkit",
+  "download_filename": "cv_toolkit_takaw-0.1.0.tar.gz",
+  "download_time": "2025-11-06T15:26:36.968533",
+  "package_url": "https://pypi.org/project/cv-toolkit-takaw/"
+}

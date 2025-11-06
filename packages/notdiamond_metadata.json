@@ -1,11 +1,11 @@
 {
   "name": "notdiamond",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "summary": "Not Diamond Python SDK",
   "author": "Not Diamond",
   "license": null,
   "home_page": null,
-  "download_filename": "notdiamond-0.4.10.tar.gz",
-  "download_time": "2025-11-05T18:28:41.276153",
+  "download_filename": "notdiamond-0.4.11.tar.gz",
+  "download_time": "2025-11-06T15:25:48.469218",
   "package_url": "https://pypi.org/project/notdiamond/"
 }
