@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-06T13:51:14.679490
-- **Total Packages**: 92
-- **Total Size**: 59.71 MB
+- **Download Time**: 2025-11-06T14:23:49.380314
+- **Total Packages**: 90
+- **Total Size**: 26.74 MB
 
 ## Packages List
+- d4rktg
+- power-grid-model
+- git-llm-tool
+- zjt-sun
+- rgmol
+- stacking-2d-systems
+- zulmorph
+- irclog2html
+- sidradataquality
+- talentro-commons
+- langchain-azure-ai
+- ai21
+- dragohan-grimoire
+- x-transformers
+- tensordict-nightly
+- codemie-tools
+- invenio-app-ils
+- seqcalc
+- ellipsis
+- alas-ce0-client
+- ai-selector
+- any-llm-sdk
+- odoo-addon-l10n-it-intrastat
+- django-sitemaps
+- unistrant
+- fastapi-blocks-registry
+- changepacks
+- pulumi-akamai
+- epics-sumo
+- axmp-openapi-helper
+- lumen-python-sdk
+- devdox-ai-locust
+- lightrag-hku
+- webbed-duck
+- scc-firewall-manager-sdk
+- unipka
+- shellfit
+- unique_internal_search
+- dragon-ml-toolbox
+- bestdori-api
+- pca-scenery
+- antchain-gesaas
+- CodeVideoRenderer
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
 - agglovar
@@ -17,7 +60,6 @@
 - uav-api
 - naver-rank-bot
 - oida
-- pulumi-akamai
 - genailib
 - limpid
 - lightman_ai
@@ -28,10 +70,8 @@
 - simpletuner
 - renalsegmentor
 - SearchPilot
-- ai-selector
 - tc1d
 - mbu-dev-shared-components
-- alas-ce0-client
 - runreporter
 - cocat
 - Vease-Viewer
@@ -56,45 +96,3 @@
 - windsuite-sdk
 - OpenGeodeWeb-Microservice
 - sequana
-- metatensor-torch
-- circuitpython-build-tools
-- kubevim-vivnfm-client
-- ase-ga
-- p1255
-- ejkernel
-- seqcalc
-- treem
-- crawlee
-- check11
-- defoldsdk
-- cirq-scaleway
-- writer
-- TISControlProtocol
-- gitlabform
-- pytest-mergify
-- himpunan-group1-discrete-mathematicsr
-- shotgun-sh
-- odoo-addon-l10n-it-intrastat
-- tsugite
-- ivolatility-backtesting
-- materials-simpro
-- gauss6
-- pycasbin-mongo-watcher
-- fb-library
-- stocklens-sdk
-- relife
-- openai-router
-- pypitzer
-- agent-tools-drnt
-- alluxiofs
-- aioheleket
-- buz
-- montecarlodata
-- memorymanagement
-- SAHAJ
-- nurbspy
-- opentelemetry-instrumentation-kstreams
-- pycarmat
-- amplify-excel-migrator
-- revng
-- glycorender

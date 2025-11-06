@@ -1,0 +1,11 @@
+{
+  "name": "lumen-python-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Lumen - Payments and Billing Infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumen_python_sdk-0.1.1.tar.gz",
+  "download_time": "2025-11-06T14:23:11.495537",
+  "package_url": "https://pypi.org/project/lumen-python-sdk/"
+}

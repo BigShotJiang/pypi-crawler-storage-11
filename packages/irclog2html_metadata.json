@@ -1,0 +1,11 @@
+{
+  "name": "irclog2html",
+  "version": "4.1.0",
+  "summary": "Convert IRC logs to HTML",
+  "author": "Marius Gedminas",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://mg.pov.lt/irclog2html/",
+  "download_filename": "irclog2html-4.1.0.tar.gz",
+  "download_time": "2025-11-06T14:22:55.700012",
+  "package_url": "https://pypi.org/project/irclog2html/"
+}

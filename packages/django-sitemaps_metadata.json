@@ -1,0 +1,11 @@
+{
+  "name": "django-sitemaps",
+  "version": "2.0.2",
+  "summary": null,
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_sitemaps-2.0.2.tar.gz",
+  "download_time": "2025-11-06T14:23:06.266781",
+  "package_url": "https://pypi.org/project/django-sitemaps/"
+}

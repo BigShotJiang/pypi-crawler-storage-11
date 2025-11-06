@@ -1,11 +1,11 @@
 {
   "name": "seqcalc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Arithmetic sequence calculator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "seqcalc-0.0.1.tar.gz",
-  "download_time": "2025-11-06T13:50:55.224218",
+  "download_filename": "seqcalc-0.0.2.tar.gz",
+  "download_time": "2025-11-06T14:23:02.172984",
   "package_url": "https://pypi.org/project/seqcalc/"
 }
