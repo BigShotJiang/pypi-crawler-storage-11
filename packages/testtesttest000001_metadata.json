@@ -1,0 +1,11 @@
+{
+  "name": "testtesttest000001",
+  "version": "2.1.2",
+  "summary": "A C++ boosted DolphinDB Python API based on Pybind11",
+  "author": null,
+  "license": "DolphinDB",
+  "home_page": null,
+  "download_filename": "testtesttest000001-2.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-11-06T07:26:15.971486",
+  "package_url": "https://pypi.org/project/testtesttest000001/"
+}

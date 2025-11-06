@@ -1,0 +1,11 @@
+{
+  "name": "tensorneko",
+  "version": "0.3.22",
+  "summary": "Tensor Neural Engine Kompanion. An util library based on PyTorch and PyTorch Lightning.",
+  "author": "ControlNet",
+  "license": null,
+  "home_page": "https://github.com/ControlNet/tensorneko",
+  "download_filename": "tensorneko-0.3.22.tar.gz",
+  "download_time": "2025-11-06T07:26:09.407999",
+  "package_url": "https://pypi.org/project/tensorneko/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fairotrials-validators",
+  "version": "0.1.0",
+  "summary": "Seven MVP validators for clinical-trial transparency and traceability (POSE Phase I demo).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fairotrials_validators-0.1.0.tar.gz",
+  "download_time": "2025-11-06T07:26:03.059468",
+  "package_url": "https://pypi.org/project/fairotrials-validators/"
+}

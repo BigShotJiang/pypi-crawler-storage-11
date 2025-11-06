@@ -1,11 +1,11 @@
 {
   "name": "cas2json",
-  "version": "1.0.0rc1",
+  "version": "1.0.1",
   "summary": "Serialize financial statements to python objects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cas2json-1.0.0rc1.tar.gz",
-  "download_time": "2025-11-04T09:45:13.161655",
+  "download_filename": "cas2json-1.0.1.tar.gz",
+  "download_time": "2025-11-06T07:26:21.622166",
   "package_url": "https://pypi.org/project/cas2json/"
 }
