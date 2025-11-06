@@ -1,0 +1,11 @@
+{
+  "name": "nashpy",
+  "version": "0.0.43",
+  "summary": "A library with algorithms on 2 player games.",
+  "author": "Vince Knight, James Campbell",
+  "license": null,
+  "home_page": "https://github.com/drvinceknight/Nashpy",
+  "download_filename": "nashpy-0.0.43.tar.gz",
+  "download_time": "2025-11-06T19:00:01.628699",
+  "package_url": "https://pypi.org/project/nashpy/"
+}

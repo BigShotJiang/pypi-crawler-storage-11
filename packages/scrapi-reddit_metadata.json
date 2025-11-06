@@ -1,0 +1,11 @@
+{
+  "name": "scrapi-reddit",
+  "version": "0.1.0",
+  "summary": "Zero-auth Reddit scraper CLI and library",
+  "author": "Rodney Keilson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapi_reddit-0.1.0.tar.gz",
+  "download_time": "2025-11-06T18:59:13.589921",
+  "package_url": "https://pypi.org/project/scrapi-reddit/"
+}
