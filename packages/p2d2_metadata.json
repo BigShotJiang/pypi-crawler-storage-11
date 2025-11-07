@@ -1,11 +1,11 @@
 {
   "name": "p2d2",
-  "version": "0.1.125",
+  "version": "0.1.128",
   "summary": "Pickled Parquetted Dataframed Database",
   "author": "Miles Copeland Luce",
   "license": null,
   "home_page": null,
-  "download_filename": "p2d2-0.1.125.tar.gz",
-  "download_time": "2025-11-07T21:17:28.759578",
+  "download_filename": "p2d2-0.1.128.tar.gz",
+  "download_time": "2025-11-07T23:55:00.847143",
   "package_url": "https://pypi.org/project/p2d2/"
 }

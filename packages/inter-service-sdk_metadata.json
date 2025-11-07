@@ -1,0 +1,11 @@
+{
+  "name": "inter-service-sdk",
+  "version": "1.0.3",
+  "summary": "Complete framework for inter-service communication with client, server utilities, auth and encryption",
+  "author": "Blazel",
+  "license": null,
+  "home_page": "https://github.com/AlexanderRyzhko/inter-service-sdk",
+  "download_filename": "inter_service_sdk-1.0.3.tar.gz",
+  "download_time": "2025-11-07T23:55:07.309999",
+  "package_url": "https://pypi.org/project/inter-service-sdk/"
+}

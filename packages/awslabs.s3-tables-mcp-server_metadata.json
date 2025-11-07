@@ -1,11 +1,11 @@
 {
   "name": "awslabs.s3-tables-mcp-server",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "An AWS Labs Model Context Protocol (MCP) server for awslabs.s3-tables-mcp-server",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "awslabs_s3_tables_mcp_server-0.0.13.tar.gz",
-  "download_time": "2025-11-07T19:53:48.919939",
+  "download_filename": "awslabs_s3_tables_mcp_server-0.0.14.tar.gz",
+  "download_time": "2025-11-07T23:55:04.994295",
   "package_url": "https://pypi.org/project/awslabs.s3-tables-mcp-server/"
 }

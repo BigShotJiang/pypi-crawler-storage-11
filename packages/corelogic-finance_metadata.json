@@ -1,0 +1,11 @@
+{
+  "name": "corelogic-finance",
+  "version": "1.0.0",
+  "summary": "Una librería robusta y precisa para cálculos financieros y de negocios, basada en principios de POO y Test-Driven Development.",
+  "author": "Luis Alejandro Martinez Marin",
+  "license": "MIT License",
+  "home_page": "https://github.com/Aspy2005/corelogic-finance",
+  "download_filename": "corelogic_finance-1.0.0.tar.gz",
+  "download_time": "2025-11-07T23:54:50.925278",
+  "package_url": "https://pypi.org/project/corelogic-finance/"
+}

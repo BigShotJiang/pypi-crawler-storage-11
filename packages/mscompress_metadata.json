@@ -1,11 +1,11 @@
 {
   "name": "mscompress",
-  "version": "1.0.1a3",
+  "version": "1.0.1a4",
   "summary": "Python bindings for mscompress, a compression library for mass spectrometry data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mscompress-1.0.1a3.tar.gz",
-  "download_time": "2025-11-07T19:53:40.433144",
+  "download_filename": "mscompress-1.0.1a4.tar.gz",
+  "download_time": "2025-11-07T23:54:38.275747",
   "package_url": "https://pypi.org/project/mscompress/"
 }

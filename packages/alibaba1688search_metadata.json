@@ -1,11 +1,11 @@
 {
   "name": "alibaba1688search",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Python library for searching products on 1688.com by image",
   "author": "netkaruma",
   "license": null,
   "home_page": null,
-  "download_filename": "alibaba1688search-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-06T20:56:25.155120",
+  "download_filename": "alibaba1688search-2.0.0.tar.gz",
+  "download_time": "2025-11-07T23:54:57.384940",
   "package_url": "https://pypi.org/project/alibaba1688search/"
 }

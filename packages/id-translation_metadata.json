@@ -1,0 +1,11 @@
+{
+  "name": "id-translation",
+  "version": "1.0.0",
+  "summary": "Convert IDs into human-readable labels.",
+  "author": "Richard Sundqvist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "id_translation-1.0.0.tar.gz",
+  "download_time": "2025-11-07T23:55:06.148343",
+  "package_url": "https://pypi.org/project/id-translation/"
+}

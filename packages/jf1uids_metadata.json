@@ -1,0 +1,11 @@
+{
+  "name": "jf1uids",
+  "version": "0.3.0",
+  "summary": "differentiable (magneto)hydrodynamics for astrophysics in JAX",
+  "author": "Leonard Storcks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jf1uids-0.3.0.tar.gz",
+  "download_time": "2025-11-07T23:54:37.475629",
+  "package_url": "https://pypi.org/project/jf1uids/"
+}

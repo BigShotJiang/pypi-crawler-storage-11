@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T23:42:09.304099
+- **Download Time**: 2025-11-07T23:55:27.206739
 - **Total Packages**: 86
-- **Total Size**: 25.31 MB
+- **Total Size**: 21.31 MB
 
 ## Packages List
+- sharepointlib
+- oldaplib
+- axioms-flask-py
+- PyBugReporter
+- osbot-fast-api-serverless
+- mixedbread
+- apple-foundation-models
+- jf1uids
+- mscompress
+- django-spire
+- biblemateweb
+- cdk-factory
+- saltysplits
+- bisos.currents
+- qawolf-socket-pypi
+- snaptrade-python-sdk
+- lazynwb
+- plexmix
+- mellifera
+- py3dcal
+- eolymp
+- spellgen
+- GDAL
+- sutton-signwriting-core
+- morphik
+- awslabs.core-mcp-server
+- corelogic-finance
+- cybrid-api-bank-python
+- cybrid-api-id-python
+- fountain-life-service-clients
+- cybrid-api-organization-python
+- pypomes-iam
+- multi-storage-client
+- yt-dlp
+- claude-mpm
+- gau-python-next
+- alibaba1688search
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- bisos.crypt
+- pds.deeparchive
+- p2d2
+- wmill-pg
+- wmill
+- windmill-api
+- awslabs.terraform-mcp-server
+- awslabs.ccapi-mcp-server
+- awslabs.cloudwatch-applicationsignals-mcp-server
+- awslabs.s3-tables-mcp-server
+- rap-utils
+- id-translation
+- structifyai
+- inter-service-sdk
 - fastcore
 - picopg
 - quickhost-aws
@@ -29,7 +83,6 @@
 - esprit-py
 - flwr-nightly
 - wyoming-piper
-- plexmix
 - langchain
 - ob-project-utils
 - passphera-shell
@@ -39,56 +92,3 @@
 - sleipnirgroup-jormungandr
 - fouriercoint
 - azure-ai-agentserver-core
-- easy-bitrix
-- domru-client
-- agent-framework-azurefunctions
-- duplicaid
-- fraiseql
-- mdopt
-- rds-proxy-password-rotation
-- increase
-- chainlit
-- orso
-- geostatspy
-- methodnetworkscan
-- eval-protocol
-- oidcauthlib
-- wyoming-faster-whisper
-- aquiles-image
-- pysnowclim
-- ddtrace
-- growpal
-- benchify
-- wasm-kit
-- lyapunov-lab
-- pyUSPTO
-- jupyterlab-mlflow
-- service-capacity-modeling
-- filestore
-- feldera
-- fastfeatures
-- rya
-- suclepy
-- GeneralManager
-- silverback
-- wagtailmeili
-- papr-memory
-- hitoshura25-mcp-server-generator
-- fin-infra
-- robotframework-confluentkafkalibrary
-- archetypeai
-- mdformat-py-edu-fr
-- glob2regex
-- zetascale
-- orphos
-- srmbench
-- openmmtorch
-- OpenMM-Torch-CUDA-13
-- OpenMM-Torch-CUDA-12
-- cocode
-- login-auth-tui
-- socketdev
-- mavenagi
-- chia-rs
-- aegon
-- madsci.experiment_application
