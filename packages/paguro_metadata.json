@@ -1,0 +1,11 @@
+{
+  "name": "paguro",
+  "version": "0.3.0",
+  "summary": "Data validation and manipulation using Polars",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "paguro-0.3.0.tar.gz",
+  "download_time": "2025-11-07T19:40:33.210442",
+  "package_url": "https://pypi.org/project/paguro/"
+}

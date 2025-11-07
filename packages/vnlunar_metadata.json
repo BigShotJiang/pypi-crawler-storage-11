@@ -1,11 +1,11 @@
 {
   "name": "vnlunar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Vietnamese Lunar Calendar Library for Python - Thư viện Âm lịch Việt Nam",
   "author": "Min",
   "license": null,
   "home_page": "https://github.com/min9802/pyvnlunar",
-  "download_filename": "vnlunar-1.0.3.tar.gz",
-  "download_time": "2025-11-07T15:56:24.379572",
+  "download_filename": "vnlunar-1.0.4.tar.gz",
+  "download_time": "2025-11-07T19:40:45.727146",
   "package_url": "https://pypi.org/project/vnlunar/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "statemachine-engine",
-  "version": "1.0.68",
+  "version": "1.0.69",
   "summary": "A generic finite state machine (FSM) framework for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statemachine_engine-1.0.68.tar.gz",
-  "download_time": "2025-11-07T19:19:46.995036",
+  "download_filename": "statemachine_engine-1.0.69.tar.gz",
+  "download_time": "2025-11-07T19:40:37.357495",
   "package_url": "https://pypi.org/project/statemachine-engine/"
 }
