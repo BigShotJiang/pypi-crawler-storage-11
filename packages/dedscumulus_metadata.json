@@ -1,0 +1,11 @@
+{
+  "name": "dedscumulus",
+  "version": "0.7.9",
+  "summary": "Kernel functions for Cumulus",
+  "author": "BayWa r.e. Data Services GmbH",
+  "license": null,
+  "home_page": "https://github.com/nino-baywa/dedscumulus",
+  "download_filename": "dedscumulus-0.7.9.tar.gz",
+  "download_time": "2025-11-07T20:54:20.250977",
+  "package_url": "https://pypi.org/project/dedscumulus/"
+}

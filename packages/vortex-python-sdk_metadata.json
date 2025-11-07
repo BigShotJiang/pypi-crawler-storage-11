@@ -1,11 +1,11 @@
 {
   "name": "vortex-python-sdk",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Vortex Python SDK for invitation management and JWT generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vortex_python_sdk-0.0.5.tar.gz",
-  "download_time": "2025-11-06T18:59:45.910894",
+  "download_filename": "vortex_python_sdk-0.0.6.tar.gz",
+  "download_time": "2025-11-07T20:53:59.676186",
   "package_url": "https://pypi.org/project/vortex-python-sdk/"
 }

@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T20:43:12.233456
+- **Download Time**: 2025-11-07T20:54:46.473724
 - **Total Packages**: 88
-- **Total Size**: 37.66 MB
+- **Total Size**: 16.86 MB
 
 ## Packages List
+- vortex-python-sdk
+- CoreUtilities
+- cars-forge
+- cfn-check
+- datawrapper
+- cdk-factory
+- sia-script
+- hamel
+- bokeh
+- dhti-elixir-base
+- suite2p_mbo
+- dioxide
+- polarpandas
+- nvidia-nat-redis
+- nvidia-nat-crewai
+- nvidia-nat-ingestion
+- nvidia-nat-test
+- glyphsLib
+- nvidia-nat-mysql
+- nvidia-nat-semantic-kernel
+- cybrid-api-id-python
+- nvidia-nat-agno
+- cybrid-api-bank-python
+- nvidia-nat-opentelemetry
+- cybrid-api-organization-python
+- fusion-tools
+- nvidia-nat-ragaai
+- fizgrid
+- nvidia-nat-profiling
+- nvidia-nat-data-flywheel
+- dragonfly-core
+- glean-database
+- pycarlo
+- django-prefixed-textinput
+- honeybee-energy
+- nvidia-nat-langchain
+- honeybee-radiance
+- jl-ecms-server
+- dedscumulus
+- aiqtoolkit-semantic-kernel
+- jl-ecms-client
+- aiqtoolkit-weave
+- aiqtoolkit-mem0ai
+- winch
+- aiqtoolkit-test
+- zipstrain
+- aiqtoolkit-llama-index
+- wool
+- aiqtoolkit
 - CreativePython
 - increase
 - pipelex
@@ -14,13 +63,10 @@
 - aws-sdk-python
 - aiqtoolkit-crewai
 - aiqtoolkit-zep-cloud
-- zipstrain
 - uv
 - uv-build
 - conficus
 - aiqtoolkit-agno
-- jl-ecms-client
-- jl-ecms-server
 - neutral-cli
 - galileo
 - yandex-tracker-mcp
@@ -33,7 +79,6 @@
 - types-boto3
 - types-boto3-lite
 - qirrunner
-- fusion-tools
 - p4tools
 - voxel
 - honeybee-core
@@ -49,48 +94,3 @@
 - types-boto3-ec2
 - types-boto3-controltower
 - types-boto3-kms
-- phonic
-- megatron-core
-- megatron-fsdp
-- cbbd
-- mymenu
-- maxo
-- fluid-labels
-- pyopenapi-gen
-- service-capacity-modeling
-- boto3
-- awscli
-- prcerlc
-- core-aprs-client
-- livef1
-- astropydantic
-- divide21env
-- hamel
-- nba-video-generator
-- jupyterlab-zip-extension
-- pygeoapi
-- philipstv
-- mkdocs-decision-records
-- music_bg
-- p2d2
-- sia-script
-- disentangled-rnns
-- CTEC405Library
-- cortexgraph
-- optycode-sdk
-- prefect
-- prefect-client
-- ETEC325Library
-- velocity-python
-- mito-ai
-- iterm2
-- mitosheet
-- py-msu-scripter-app
-- ai-universe-mail
-- quasarr
-- lbt-dragonfly
-- axioms-flask-py
-- context-control
-- xync-client
-- masto-mailo-inator
-- dragonfly-doe2

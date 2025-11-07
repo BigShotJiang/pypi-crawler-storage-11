@@ -1,11 +1,11 @@
 {
   "name": "honeybee-radiance",
-  "version": "1.66.212",
+  "version": "1.66.213",
   "summary": "Daylight and light simulation extension for honeybee.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/honeybee-radiance",
-  "download_filename": "honeybee_radiance-1.66.212.tar.gz",
-  "download_time": "2025-11-07T04:57:34.086778",
+  "download_filename": "honeybee_radiance-1.66.213.tar.gz",
+  "download_time": "2025-11-07T20:54:19.201424",
   "package_url": "https://pypi.org/project/honeybee-radiance/"
 }
