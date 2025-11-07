@@ -1,11 +1,11 @@
 {
   "name": "py-msu-scripter-app",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": null,
   "author": "MattEqualsCoder",
   "license": null,
   "home_page": null,
-  "download_filename": "py_msu_scripter_app-0.1.7.tar.gz",
-  "download_time": "2025-11-07T18:50:54.052000",
+  "download_filename": "py_msu_scripter_app-0.1.9.tar.gz",
+  "download_time": "2025-11-07T20:43:07.483519",
   "package_url": "https://pypi.org/project/py-msu-scripter-app/"
 }

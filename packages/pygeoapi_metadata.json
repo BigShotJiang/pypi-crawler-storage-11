@@ -1,0 +1,11 @@
+{
+  "name": "pygeoapi",
+  "version": "0.22.0",
+  "summary": "pygeoapi provides an API to geospatial data",
+  "author": "Tom Kralidis",
+  "license": "MIT",
+  "home_page": "https://pygeoapi.io",
+  "download_filename": "pygeoapi-0.22.0.tar.gz",
+  "download_time": "2025-11-07T20:42:58.136290",
+  "package_url": "https://pypi.org/project/pygeoapi/"
+}

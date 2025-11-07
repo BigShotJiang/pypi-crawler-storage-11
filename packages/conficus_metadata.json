@@ -1,0 +1,11 @@
+{
+  "name": "conficus",
+  "version": "1.0.0",
+  "summary": "python toml configuration library",
+  "author": "Mark Gemmill",
+  "license": "MIT",
+  "home_page": "https://github.com/markgemmill/conficus",
+  "download_filename": "conficus-1.0.0.tar.gz",
+  "download_time": "2025-11-07T20:42:30.654368",
+  "package_url": "https://pypi.org/project/conficus/"
+}
