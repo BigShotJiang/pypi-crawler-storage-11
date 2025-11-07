@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-claim-sampling",
+  "version": "1.2.0",
+  "summary": "The openIMIS Backend claim_sampling reference module.",
+  "author": "wzgliniecki",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_claim_sampling-1.2.0.tar.gz",
+  "download_time": "2025-11-07T10:48:46.953894",
+  "package_url": "https://pypi.org/project/openimis-be-claim-sampling/"
+}

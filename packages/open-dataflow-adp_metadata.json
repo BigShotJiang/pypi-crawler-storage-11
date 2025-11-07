@@ -1,11 +1,11 @@
 {
   "name": "open-dataflow-adp",
-  "version": "1.1.15",
+  "version": "1.1.16",
   "summary": "Modern Data Centric AI system for Large Language Models",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "open_dataflow_adp-1.1.15.tar.gz",
-  "download_time": "2025-11-06T11:41:37.936456",
+  "download_filename": "open_dataflow_adp-1.1.16.tar.gz",
+  "download_time": "2025-11-07T10:48:44.045407",
   "package_url": "https://pypi.org/project/open-dataflow-adp/"
 }

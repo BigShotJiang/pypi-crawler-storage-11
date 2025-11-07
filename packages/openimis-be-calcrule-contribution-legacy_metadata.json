@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-calcrule-contribution-legacy",
+  "version": "1.9.0",
+  "summary": "The openIMIS Backend calculation rule contribution legacy reference module.",
+  "author": "Seweryn Niedzielski",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_calcrule_contribution_legacy-1.9.0.tar.gz",
+  "download_time": "2025-11-07T10:48:55.002493",
+  "package_url": "https://pypi.org/project/openimis-be-calcrule-contribution-legacy/"
+}

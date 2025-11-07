@@ -1,0 +1,11 @@
+{
+  "name": "hastexo-xblock",
+  "version": "8.5.2",
+  "summary": "hastexo XBlock: Makes arbitrarily complex lab environments available on an Open edX LMS",
+  "author": "hastexo",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/hastexo/hastexo-xblock",
+  "download_filename": "hastexo_xblock-8.5.2.tar.gz",
+  "download_time": "2025-11-07T10:48:37.740686",
+  "package_url": "https://pypi.org/project/hastexo-xblock/"
+}

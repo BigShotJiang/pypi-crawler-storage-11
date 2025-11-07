@@ -1,11 +1,11 @@
 {
   "name": "gene-id-resolver",
-  "version": "0.1.1",
-  "summary": "Production-grade gene ID conversion tool with comprehensive deprecated gene support",
+  "version": "0.2.0",
+  "summary": "Production-grade gene ID conversion tool with multi-species support and auto-updates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gene_id_resolver-0.1.1.tar.gz",
-  "download_time": "2025-11-06T23:41:51.175033",
+  "download_filename": "gene_id_resolver-0.2.0.tar.gz",
+  "download_time": "2025-11-07T10:48:38.892206",
   "package_url": "https://pypi.org/project/gene-id-resolver/"
 }

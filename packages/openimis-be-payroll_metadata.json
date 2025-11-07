@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-payroll",
+  "version": "1.4.0",
+  "summary": "The openIMIS Backend payroll reference module.",
+  "author": "Kamil Malinowski",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_payroll-1.4.0.tar.gz",
+  "download_time": "2025-11-07T10:48:47.526614",
+  "package_url": "https://pypi.org/project/openimis-be-payroll/"
+}

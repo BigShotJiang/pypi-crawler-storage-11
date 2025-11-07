@@ -1,11 +1,11 @@
 {
   "name": "pyGroupedTransforms",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Python implementation of Grouped Transforms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygroupedtransforms-0.3.3.tar.gz",
-  "download_time": "2025-11-06T18:33:58.062399",
+  "download_filename": "pygroupedtransforms-0.3.4.tar.gz",
+  "download_time": "2025-11-07T10:48:16.505483",
   "package_url": "https://pypi.org/project/pyGroupedTransforms/"
 }

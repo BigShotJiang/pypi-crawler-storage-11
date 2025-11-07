@@ -1,0 +1,11 @@
+{
+  "name": "sifflet-sdk",
+  "version": "0.4.2",
+  "summary": "Sifflet sdk",
+  "author": "Sifflet",
+  "license": null,
+  "home_page": "https://www.siffletdata.com/",
+  "download_filename": "sifflet_sdk-0.4.2.tar.gz",
+  "download_time": "2025-11-07T10:48:52.709666",
+  "package_url": "https://pypi.org/project/sifflet-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simulateur-trafic-gh",
+  "version": "1.0.2",
+  "summary": "Simulateur de trafic routier (routes, véhicules, réseau, analyse)",
+  "author": "yosr.gh",
+  "license": "MIT",
+  "home_page": "https://github.com/YosraGhanmi/simulateur_trafic_gh.git",
+  "download_filename": "simulateur_trafic_gh-1.0.2.tar.gz",
+  "download_time": "2025-11-07T10:48:09.115522",
+  "package_url": "https://pypi.org/project/simulateur-trafic-gh/"
+}

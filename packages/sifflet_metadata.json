@@ -1,0 +1,11 @@
+{
+  "name": "sifflet",
+  "version": "0.4.2",
+  "summary": "Sifflet CLI",
+  "author": "Sifflet",
+  "license": null,
+  "home_page": "https://www.siffletdata.com/",
+  "download_filename": "sifflet-0.4.2.tar.gz",
+  "download_time": "2025-11-07T10:48:49.252036",
+  "package_url": "https://pypi.org/project/sifflet/"
+}

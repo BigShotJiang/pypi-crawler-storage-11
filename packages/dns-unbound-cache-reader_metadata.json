@@ -1,0 +1,11 @@
+{
+  "name": "dns-unbound-cache-reader",
+  "version": "0.6.0",
+  "summary": "Read DNS cache from unbound",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dns_unbound_cache_reader-0.6.0.tar.gz",
+  "download_time": "2025-11-07T10:48:34.336565",
+  "package_url": "https://pypi.org/project/dns-unbound-cache-reader/"
+}

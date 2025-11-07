@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-agent-catalog-enrichment",
+  "version": "1.1.2",
+  "summary": "Example implementation of a catalog enrichment ReAct agent for Enthusiast",
+  "author": "Damian Sowiński",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enthusiast_agent_catalog_enrichment-1.1.2.tar.gz",
+  "download_time": "2025-11-07T10:48:11.362109",
+  "package_url": "https://pypi.org/project/enthusiast-agent-catalog-enrichment/"
+}
