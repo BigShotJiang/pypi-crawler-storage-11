@@ -1,11 +1,11 @@
 {
   "name": "ddgs",
-  "version": "9.7.1",
+  "version": "9.8.0",
   "summary": "Dux Distributed Global Search. A metasearch library that aggregates results from diverse web search services.",
   "author": "deedy5",
   "license": null,
   "home_page": null,
-  "download_filename": "ddgs-9.7.1.tar.gz",
-  "download_time": "2025-11-05T08:30:26.153857",
+  "download_filename": "ddgs-9.8.0.tar.gz",
+  "download_time": "2025-11-07T05:23:15.249222",
   "package_url": "https://pypi.org/project/ddgs/"
 }

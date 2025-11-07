@@ -1,14 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T04:58:20.624421
-- **Total Packages**: 91
-- **Total Size**: 7.87 MB
+- **Download Time**: 2025-11-07T05:23:38.335287
+- **Total Packages**: 79
+- **Total Size**: 20.31 MB
 
 ## Packages List
+- fast-trading-simulator
+- alluxiofs
+- acemcp
+- jaxace
+- gac
+- pyeasyphd
+- isolate-proto
+- autodoc-ai-paudelnirajan
+- pybibtexer
+- PYVY
+- phonemize
+- lbt-dragonfly
+- llm-watermark-utils
+- meta-spec
+- ha-mcp
+- lbt-honeybee
+- dragonfly-energy
+- whitespace-format
+- gbase8sdb-python2
+- little-a2s
+- hisui
+- first-logs
+- dragonfly-radiance
+- countdown-cli
+- ytdl-sub
+- rich-color-ext
+- naludaq
+- pygenpdf
+- uapg
+- centrip-book
+- mofa-core
+- iflow-mcp_osp-marketing-tools
+- substrata
+- honeybee-radiance-postprocess
+- aws-cost-calculator-cli
+- pycarlo
+- personal_knowledge_library
+- wooscloud
+- ddgs
+- pygenpdf-json
+- databricks-switch-plugin
+- napari-copick
+- leetagent
 - dragonfly-core
 - honeybee-energy
-- autodoc-ai-paudelnirajan
 - lbt-ladybug
 - selfops
 - honeybee-radiance
@@ -16,9 +58,7 @@
 - dasheng
 - py-browser-automation
 - baktfold
-- wooscloud
 - iamdata
-- rich-color-ext
 - chatroutes
 - OpenGeodeWeb-Viewer
 - mlsauce
@@ -45,55 +85,3 @@
 - aind-zarr-utils
 - socketsecurity
 - es2
-- centrip-book
-- ob-project-utils
-- agt-lab-server
-- fbchat-muqit
-- little-a2s
-- molcraft
-- snapctl
-- agwr
-- ladybug-geometry-polyskel
-- ipyflow
-- ladybug-core
-- ipyflow-core
-- abi-core-ai
-- pyglet
-- jtexport
-- llmling-agent
-- odoo14-addon-website-user-login-redirect-custom
-- beads-mcp
-- teloclip
-- keras-nlp-nightly
-- keras-hub-nightly
-- crewai-tools
-- crewai
-- litesplat
-- causalem
-- unravel
-- sparkwheel
-- pysvgchart
-- iflow-mcp_mcp-think-tool
-- glitter-cli
-- pyxel
-- boulder-opal-scale-up
-- pyhtml-cem
-- pytest-dsl
-- odoo-addons-oca-stock-logistics-warehouse
-- odoo-addon-stock-lot-image
-- syft-rds
-- odoo-addon-stock-exception
-- ladybug-geometry
-- cache-dit
-- odoo-addon-stock-available-to-promise-release-carrier-alternative
-- snowflake-connector-python-nightly
-- Radar-Range-Equation
-- odoo-addon-barcodes-generator-abstract
-- odoo-addons-oca-social
-- gac
-- pyeasyphd
-- pyhtml-htmx
-- azcore
-- tobot
-- odoo-addon-base-tier-validation
-- unitops

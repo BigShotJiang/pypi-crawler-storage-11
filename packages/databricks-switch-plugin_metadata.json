@@ -1,0 +1,11 @@
+{
+  "name": "databricks-switch-plugin",
+  "version": "0.1.5",
+  "summary": "LLM-powered tool to convert SQL, code, and workflow files into Databricks notebooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_switch_plugin-0.1.5.tar.gz",
+  "download_time": "2025-11-07T05:23:16.311870",
+  "package_url": "https://pypi.org/project/databricks-switch-plugin/"
+}

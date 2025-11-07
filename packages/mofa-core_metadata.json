@@ -1,11 +1,11 @@
 {
   "name": "mofa-core",
-  "version": "0.1.28",
+  "version": "0.1.35",
   "summary": "MoFA is a software framework for building AI agents through a composition-based approach.",
   "author": "Cheng Chen, ZongHuan Wu",
   "license": null,
   "home_page": null,
-  "download_filename": "mofa_core-0.1.28.tar.gz",
-  "download_time": "2025-11-05T11:20:01.598169",
+  "download_filename": "mofa_core-0.1.35.tar.gz",
+  "download_time": "2025-11-07T05:23:11.084566",
   "package_url": "https://pypi.org/project/mofa-core/"
 }

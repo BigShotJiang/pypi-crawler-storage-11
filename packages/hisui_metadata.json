@@ -1,0 +1,11 @@
+{
+  "name": "hisui",
+  "version": "2025.4.0.dev0",
+  "summary": "CLI package for using Recording Composition Tool Hisui from Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/shiguredo/hisui",
+  "download_filename": "hisui-2025.4.0.dev0-py3-none-macosx_14_0_arm64.whl",
+  "download_time": "2025-11-07T05:23:05.848727",
+  "package_url": "https://pypi.org/project/hisui/"
+}
