@@ -1,16 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T21:55:35.971291
-- **Total Packages**: 79
-- **Total Size**: 22.29 MB
+- **Download Time**: 2025-11-07T22:22:08.047729
+- **Total Packages**: 82
+- **Total Size**: 36.69 MB
 
 ## Packages List
-- nkunyim-util
-- jjrawlins-cdk-ami-builder
 - duplicaid
+- dojo-openenv
+- innerloop
+- passphera-shell
+- dojo-sdk-client
+- free-fermion-lib
+- batplot
+- dars-framework
+- TikSign
+- domru-client
+- fastapi-factory-utilities
+- mirror-dedupe
+- flekspy
+- mat3ra-ade
+- openai-chatkit
+- open-kimi
+- masterframework
+- passphera-core
+- pymtech-docker-launcher
+- knockapi
+- smartfunc
+- agent-cli
+- anc
+- harbor
+- moleql
+- regula-documentreader-webclient
+- django-simpleinliner
+- howso-engine
+- nkunyim-util
+- iomaps
+- spatools
+- pebble-tool
+- pyvcad-rendering
+- databricks-labs-lakebridge
+- data-ingestion-sdk
+- chilo-api
+- workflows-mcp
+- hydra-slurm-rich-launcher
+- openforis-whisp
+- dragohan-grimoire
+- openjd-sessions
+- revenium-middleware-ollama
+- hboptimize
+- catocli
+- skald-sdk
+- hassette
+- llama-index-readers-web
+- zscaler-sdk-python
+- molecular-simulations
+- pytensorlogic
+- claude-mpm
+- modal
+- abstra
+- simulateur-trafic-ahmed-hamed-2025
+- skiba
+- chatroutes
+- google-cloud-vectorsearch
+- flyteidl2
+- torchlanc
+- jjrawlins-cdk-ami-builder
 - movie-barcodes
-- meu-investimento-anv
 - fleet-python
 - kicad-sch-api
 - kde-material-you-colors
@@ -18,12 +74,10 @@
 - coaiapy-mcp
 - langchain-anthropic
 - fusion-tools
-- innerloop
 - coaiapy
 - intelligence-toolkit
 - centralized-llm-client
 - klyne
-- claude-mpm
 - synnax
 - synnax-freighter
 - nora-lib
@@ -34,54 +88,3 @@
 - valid8r
 - my-exes
 - smoosense
-- ivolatility-backtesting
-- kishu
-- aristotlelib
-- NEMO-billing
-- mxx-tool
-- olog-tool
-- foundationallm-agent-plugins
-- remixtree
-- modal
-- tempo-ql
-- javacore-analyser
-- aponyx
-- databudgie
-- NREL-COMPASS
-- dbt-adapters
-- mysql-ch-replicator
-- django-affiliate-system
-- nexusai
-- synth-ai
-- email-manager
-- bifacial-radiance
-- triton-python-backend-mock-utils
-- megatron-core
-- megatron-fsdp
-- jp_tools
-- adv-optm
-- stocktrim-mcp-server
-- py3dcal
-- MPh
-- sambanova
-- powerplatform-management
-- dbt-tests-adapter
-- masterframework
-- materialdash
-- spinal-tap
-- beekeeper-monitors-watsonx
-- formidable
-- pyontoenv
-- sembicho-cli
-- rustest
-- ragmint
-- openremote-client
-- toml-rs
-- mcp-checkpoint
-- pygments-pytest
-- eink-template-gen
-- pipecat-ai
-- fastapi-mongo-admin
-- orcheo-sdk
-- orcheo-backend
-- sia-script

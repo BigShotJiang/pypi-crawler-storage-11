@@ -1,0 +1,11 @@
+{
+  "name": "open-kimi",
+  "version": "0.1.2",
+  "summary": "An open source implementation of the Kimi K2 Reasoning model architecture in pure PyTorch",
+  "author": "Kye Gomez",
+  "license": "MIT",
+  "home_page": "https://github.com/kyegomez/Open-Kimi",
+  "download_filename": "open_kimi-0.1.2.tar.gz",
+  "download_time": "2025-11-07T22:21:30.718030",
+  "package_url": "https://pypi.org/project/open-kimi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flyteidl2",
-  "version": "2.0.0a13",
+  "version": "2.0.0a14",
   "summary": "IDL for Flyte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flyteidl2-2.0.0a13-py3-none-any.whl",
-  "download_time": "2025-11-01T22:50:59.934484",
+  "download_filename": "flyteidl2-2.0.0a14-py3-none-any.whl",
+  "download_time": "2025-11-07T22:21:54.580899",
   "package_url": "https://pypi.org/project/flyteidl2/"
 }

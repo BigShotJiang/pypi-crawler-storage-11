@@ -1,11 +1,11 @@
 {
   "name": "skald-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Official Python SDK for Skald",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skald_sdk-0.2.0.tar.gz",
-  "download_time": "2025-11-02T22:40:05.892702",
+  "download_filename": "skald_sdk-0.3.0.tar.gz",
+  "download_time": "2025-11-07T22:21:46.939983",
   "package_url": "https://pypi.org/project/skald-sdk/"
 }

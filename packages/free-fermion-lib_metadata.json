@@ -1,11 +1,11 @@
 {
   "name": "free-fermion-lib",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A comprehensive Python library for free fermion systems",
   "author": "James D. Whitfield",
   "license": "MIT",
   "home_page": "https://github.com/jdwhitfield/free-fermion-lib",
-  "download_filename": "free_fermion_lib-1.2.0.tar.gz",
-  "download_time": "2025-11-06T20:56:04.399138",
+  "download_filename": "free_fermion_lib-1.2.1.tar.gz",
+  "download_time": "2025-11-07T22:21:25.541168",
   "package_url": "https://pypi.org/project/free-fermion-lib/"
 }

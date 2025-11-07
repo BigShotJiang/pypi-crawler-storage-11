@@ -1,0 +1,11 @@
+{
+  "name": "dojo-sdk-client",
+  "version": "0.1.7",
+  "summary": "Client sdk to intearct with Dojo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dojo_sdk_client-0.1.7.tar.gz",
+  "download_time": "2025-11-07T22:21:25.027437",
+  "package_url": "https://pypi.org/project/dojo-sdk-client/"
+}

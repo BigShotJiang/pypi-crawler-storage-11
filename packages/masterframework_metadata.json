@@ -1,11 +1,11 @@
 {
   "name": "masterframework",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "masterframework-0.3.0.tar.gz",
-  "download_time": "2025-11-07T21:45:36.577552",
+  "download_filename": "masterframework-0.6.0.tar.gz",
+  "download_time": "2025-11-07T22:21:31.230889",
   "package_url": "https://pypi.org/project/masterframework/"
 }
