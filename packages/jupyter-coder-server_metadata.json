@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-coder-server",
+  "version": "0.0.14",
+  "summary": "VSCODE integration in jupyter-lab",
+  "author": "MiXaiLL76",
+  "license": null,
+  "home_page": "https://github.com/MiXaiLL76/jupyter_coder_server",
+  "download_filename": "jupyter_coder_server-0.0.14.tar.gz",
+  "download_time": "2025-11-07T11:41:32.557456",
+  "package_url": "https://pypi.org/project/jupyter-coder-server/"
+}

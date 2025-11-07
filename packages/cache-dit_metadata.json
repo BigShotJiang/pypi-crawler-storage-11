@@ -1,11 +1,11 @@
 {
   "name": "cache-dit",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "A Unified and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for 🤗Diffusers.",
   "author": "DefTruth, vipshop.com, etc.",
   "license": null,
   "home_page": null,
-  "download_filename": "cache_dit-1.0.12-py3-none-any.whl",
-  "download_time": "2025-11-07T04:47:03.130268",
+  "download_filename": "cache_dit-1.0.13-py3-none-any.whl",
+  "download_time": "2025-11-07T11:41:30.412570",
   "package_url": "https://pypi.org/project/cache-dit/"
 }

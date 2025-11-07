@@ -1,0 +1,11 @@
+{
+  "name": "birdgame",
+  "version": "0.3.0",
+  "summary": "Utilities to help play the Bird Game at crunchdao.com",
+  "author": "microprediction",
+  "license": "MIT",
+  "home_page": "https://github.com/microprediction/birdgame",
+  "download_filename": "birdgame-0.3.0.tar.gz",
+  "download_time": "2025-11-07T11:41:23.039649",
+  "package_url": "https://pypi.org/project/birdgame/"
+}

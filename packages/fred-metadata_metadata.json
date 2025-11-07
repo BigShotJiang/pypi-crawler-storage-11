@@ -1,0 +1,11 @@
+{
+  "name": "fred-metadata",
+  "version": "0.0.19",
+  "summary": "Metadata generation, validation, search and visualization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fred_metadata-0.0.19.tar.gz",
+  "download_time": "2025-11-07T11:41:26.764263",
+  "package_url": "https://pypi.org/project/fred-metadata/"
+}

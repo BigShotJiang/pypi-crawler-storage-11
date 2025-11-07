@@ -1,11 +1,11 @@
 {
   "name": "pyatagone",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "AtagOne API wrapper",
   "author": "herikw",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyatagone-1.0.9.tar.gz",
-  "download_time": "2025-11-06T18:59:37.621352",
+  "download_filename": "pyatagone-1.0.11.tar.gz",
+  "download_time": "2025-11-07T11:41:19.403954",
   "package_url": "https://pypi.org/project/pyatagone/"
 }

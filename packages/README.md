@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T11:28:20.797167
-- **Total Packages**: 92
-- **Total Size**: 47.0 MB
+- **Download Time**: 2025-11-07T11:41:54.146889
+- **Total Packages**: 87
+- **Total Size**: 14.41 MB
 
 ## Packages List
+- aiohomematic-test-support
+- aiqtoolkit-crewai
+- celeste-ai
+- aiohomematic
+- ms-agent
+- suprsend-py-sdk
+- aiqtoolkit-zep-cloud
+- py-himitsu
+- aiqtoolkit-agno
+- sicoob-sdk
+- scc-firewall-manager-sdk
+- ayechat
+- pyckster
+- shellfit
+- sqlitewebviewer
+- mortm
+- tacotoolbox
+- tai-api
+- CRRM
+- ephemerista
+- aitrados-broker
+- pycfs
+- pyatagone
+- promptstudio-sdk
+- sequifier
+- langchain-trading-agents
+- cosmicfrog
+- ato
+- nsj-integracao-api-entidades
+- birdgame
+- flacker
+- appmod-catalog-blueprints
+- spinsight
+- browserstack-sdk
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- fred-metadata
+- krn-harmony-adapter
+- py-ezmail
+- finance-trading-ai-agents-mcp
+- datamarket
+- codemie-sdk-python
+- cache-dit
+- tts-webui-extension.log-viewer
+- dome-api-sdk
+- torchx-nightly
+- jupyter-coder-server
+- vectorwave
+- odoo-addon-kpi-data-hub
+- mcp-proxy-adapter
+- chuk-mcp-echo
+- dfm-python
 - torchft-nightly
 - cryptnoxpy
 - shotgun-sh
@@ -14,15 +66,11 @@
 - uipath
 - odoo-addon-bus-alt-connection
 - batch-router
-- shellfit
 - odl
-- ato
 - oxylabs-mcp
-- krn-harmony-adapter
 - dbt-core-mcp
 - win32more-Microsoft.Web.WebView2
 - shunyalabs
-- ayechat
 - uniswap-v3-quoter
 - avantis-trader-sdk
 - aitrados-api
@@ -45,56 +93,3 @@
 - jsonstat-validator
 - tensorwatch-api
 - pyrmm
-- worker-automate-hub
-- OmnissiahPrayer
-- MeUtils
-- arthur-client
-- libreflow
-- ai-journal-kit
-- odoo-addon-l10n-it-vat-settlement-date
-- lintro
-- hgvs2seq
-- scintiPulses
-- nrt-math-utils
-- panda-server
-- smartbudget-analytics-pkg
-- a2a-sdk
-- django-dbbackup
-- promptron
-- opik
-- vnlunar
-- devlake-mcp
-- pdf-to-markdown-summarizer
-- apify-client
-- delos-llmax
-- jettask
-- wexa-sdk
-- sampdfextractor
-- wei516-enconly
-- pthelma
-- Blacksmith
-- FABulous-FPGA
-- securekit
-- niceplotpy
-- helper-cli
-- chapkit
-- agent0-sdk
-- pandoc-mcp-server
-- springgen
-- cogflow
-- geoVeRoPy
-- orq-ai-sdk
-- spotify-mcp-server
-- esgvoc
-- jdcat
-- miniflux-tui-py
-- curvpyutils
-- nrt-collections-utils
-- aryaxai
-- Titan-Client
-- strvcf-annotator
-- localstack-core
-- nxstools
-- bqs
-- yayaml
-- zpp_config
