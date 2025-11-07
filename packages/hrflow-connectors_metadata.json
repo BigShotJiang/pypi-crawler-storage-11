@@ -1,0 +1,11 @@
+{
+  "name": "hrflow-connectors",
+  "version": "4.27.4",
+  "summary": "hrflow-connectors is an open source project created by HrFlow.ai to allow developers to connect easily HR ecosystem component.",
+  "author": "HrFlow.ai",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Riminder/hrflow-connectors",
+  "download_filename": "hrflow_connectors-4.27.4.tar.gz",
+  "download_time": "2025-11-07T03:52:34.061966",
+  "package_url": "https://pypi.org/project/hrflow-connectors/"
+}

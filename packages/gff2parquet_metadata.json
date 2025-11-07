@@ -1,0 +1,11 @@
+{
+  "name": "gff2parquet",
+  "version": "0.3.0",
+  "summary": "GFF3 cli utils (convert, merge, filter, split, print, extract)",
+  "author": null,
+  "license": "BSD-3-Clause License",
+  "home_page": null,
+  "download_filename": "gff2parquet-0.3.0.tar.gz",
+  "download_time": "2025-11-07T03:52:53.664837",
+  "package_url": "https://pypi.org/project/gff2parquet/"
+}

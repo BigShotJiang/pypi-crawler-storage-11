@@ -1,11 +1,11 @@
 {
   "name": "cdktf-cdktf-provider-newrelic",
-  "version": "13.11.1",
+  "version": "13.11.2",
   "summary": "Prebuilt newrelic Provider for Terraform CDK (cdktf)",
   "author": "HashiCorp",
   "license": "MPL-2.0",
   "home_page": "https://github.com/cdktf/cdktf-provider-newrelic.git",
-  "download_filename": "cdktf_cdktf_provider_newrelic-13.11.1.tar.gz",
-  "download_time": "2025-11-06T03:56:17.013098",
+  "download_filename": "cdktf_cdktf_provider_newrelic-13.11.2.tar.gz",
+  "download_time": "2025-11-07T03:52:38.725374",
   "package_url": "https://pypi.org/project/cdktf-cdktf-provider-newrelic/"
 }

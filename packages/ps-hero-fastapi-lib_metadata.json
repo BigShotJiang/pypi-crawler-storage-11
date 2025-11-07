@@ -1,0 +1,11 @@
+{
+  "name": "ps-hero-fastapi-lib",
+  "version": "0.1.0",
+  "summary": "Biblioteca do model de Heróis com banco de dados.",
+  "author": "Douglas Lima",
+  "license": null,
+  "home_page": "https://github.com/douglasbolis/ps_hero_fastapi_lib",
+  "download_filename": "ps_hero_fastapi_lib-0.1.0.tar.gz",
+  "download_time": "2025-11-07T03:53:02.441416",
+  "package_url": "https://pypi.org/project/ps-hero-fastapi-lib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mns-common",
-  "version": "1.5.3.3",
+  "version": "1.5.3.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mns_common-1.5.3.3.tar.gz",
-  "download_time": "2025-11-06T05:23:43.811435",
+  "download_filename": "mns_common-1.5.3.4.tar.gz",
+  "download_time": "2025-11-07T03:52:56.241242",
   "package_url": "https://pypi.org/project/mns-common/"
 }

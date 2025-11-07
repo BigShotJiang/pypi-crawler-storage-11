@@ -1,0 +1,11 @@
+{
+  "name": "PERSONADRESSsaraivagustavo",
+  "version": "0.1.2",
+  "summary": "Biblioteca para gerenciamento de pessoas e endereços, utilizando banco de dados em memória com SQLModel.",
+  "author": "Gustavo Saraiva Mariano",
+  "license": "MIT",
+  "home_page": "https://github.com/saraivagustavo/PersonAdressLib",
+  "download_filename": "personadresssaraivagustavo-0.1.2.tar.gz",
+  "download_time": "2025-11-07T03:52:26.281051",
+  "package_url": "https://pypi.org/project/PERSONADRESSsaraivagustavo/"
+}

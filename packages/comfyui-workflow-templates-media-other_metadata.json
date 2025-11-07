@@ -1,0 +1,11 @@
+{
+  "name": "comfyui-workflow-templates-media-other",
+  "version": "0.3.0",
+  "summary": "Media bundle containing audio/3D/misc workflow assets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "comfyui_workflow_templates_media_other-0.3.0.tar.gz",
+  "download_time": "2025-11-07T03:53:02.997816",
+  "package_url": "https://pypi.org/project/comfyui-workflow-templates-media-other/"
+}

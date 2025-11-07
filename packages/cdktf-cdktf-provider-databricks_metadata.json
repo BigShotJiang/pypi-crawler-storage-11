@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-databricks",
+  "version": "15.14.0",
+  "summary": "Prebuilt databricks Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-databricks.git",
+  "download_filename": "cdktf_cdktf_provider_databricks-15.14.0.tar.gz",
+  "download_time": "2025-11-07T03:52:25.257843",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-databricks/"
+}
