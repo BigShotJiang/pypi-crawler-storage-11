@@ -1,0 +1,11 @@
+{
+  "name": "edx-codejail",
+  "version": "4.1.0",
+  "summary": "CodeJail manages execution of untrusted code in secure sandboxes. It is designed primarily for Python execution, but can be used for other languages as well.",
+  "author": "edX",
+  "license": "Apache",
+  "home_page": "https://github.com/openedx/codejail",
+  "download_filename": "edx_codejail-4.1.0.tar.gz",
+  "download_time": "2025-11-07T15:44:20.746260",
+  "package_url": "https://pypi.org/project/edx-codejail/"
+}

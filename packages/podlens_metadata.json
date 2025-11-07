@@ -1,11 +1,11 @@
 {
   "name": "podlens",
-  "version": "1.2.22",
+  "version": "1.2.23",
   "summary": "Intelligent Podcast & Youtube Transcription & Understanding AI Agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "podlens-1.2.22-py3-none-any.whl",
-  "download_time": "2025-11-07T12:43:40.245055",
+  "download_filename": "podlens-1.2.23-py3-none-any.whl",
+  "download_time": "2025-11-07T15:44:18.042877",
   "package_url": "https://pypi.org/project/podlens/"
 }

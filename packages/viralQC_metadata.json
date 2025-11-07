@@ -1,11 +1,11 @@
 {
   "name": "viralQC",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "A tool and package for quality control of consensus virus genomes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "viralqc-0.6.0.tar.gz",
-  "download_time": "2025-11-06T21:21:22.063897",
+  "download_filename": "viralqc-0.7.0.tar.gz",
+  "download_time": "2025-11-07T15:43:54.198968",
   "package_url": "https://pypi.org/project/viralQC/"
 }

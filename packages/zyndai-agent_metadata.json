@@ -1,0 +1,11 @@
+{
+  "name": "zyndai-agent",
+  "version": "0.1.0",
+  "summary": "A Langchain and Autogen wrapper that enables agents to communicate and establish identity on the P3 AI Network. This SDK provides three core capabilities: Identity Management, Agent Discovery & Search, and MQTT-based Communication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zyndai_agent-0.1.0.tar.gz",
+  "download_time": "2025-11-07T15:44:16.951101",
+  "package_url": "https://pypi.org/project/zyndai-agent/"
+}

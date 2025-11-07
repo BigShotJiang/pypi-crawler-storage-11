@@ -1,0 +1,11 @@
+{
+  "name": "flip-evaluator",
+  "version": "1.7",
+  "summary": "A Difference Evaluator for Alternating Images",
+  "author": "Pontus Ebelin, Tomas Akenine-Möller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flip_evaluator-1.7.tar.gz",
+  "download_time": "2025-11-07T15:44:15.322005",
+  "package_url": "https://pypi.org/project/flip-evaluator/"
+}

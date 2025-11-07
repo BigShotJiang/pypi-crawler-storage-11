@@ -1,0 +1,11 @@
+{
+  "name": "bigeye-airflow",
+  "version": "0.2.0",
+  "summary": "Bigeye Airflow Library supports Airflow versions >=2.6.3 and offers custom operators for interacting with your bigeye workspace.",
+  "author": "Bigeye",
+  "license": "Proprietary",
+  "home_page": "https://docs.bigeye.com/docs",
+  "download_filename": "bigeye_airflow-0.2.0.tar.gz",
+  "download_time": "2025-11-07T15:44:30.252822",
+  "package_url": "https://pypi.org/project/bigeye-airflow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sambanova",
+  "version": "1.1.6",
+  "summary": "The official Python library for the SambaNova API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sambanova-1.1.6.tar.gz",
+  "download_time": "2025-11-07T15:43:54.745322",
+  "package_url": "https://pypi.org/project/sambanova/"
+}

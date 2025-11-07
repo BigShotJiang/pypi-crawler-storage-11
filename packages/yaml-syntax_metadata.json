@@ -1,0 +1,11 @@
+{
+  "name": "yaml-syntax",
+  "version": "0.0.9",
+  "summary": "Check the syntax of a YAML file as you want to be. Checking the syntax of the YAML file is based on BaseModel of Pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaml_syntax-0.0.9.tar.gz",
+  "download_time": "2025-11-07T15:43:51.425002",
+  "package_url": "https://pypi.org/project/yaml-syntax/"
+}

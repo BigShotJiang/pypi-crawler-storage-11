@@ -1,0 +1,11 @@
+{
+  "name": "ods-tools",
+  "version": "4.0.4",
+  "summary": "Tools to manage ODS files",
+  "author": "Oasis LMF",
+  "license": null,
+  "home_page": "https://github.com/OasisLMF/OpenDataStandards",
+  "download_filename": "ods_tools-4.0.4.tar.gz",
+  "download_time": "2025-11-07T15:44:13.653945",
+  "package_url": "https://pypi.org/project/ods-tools/"
+}
