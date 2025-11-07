@@ -1,0 +1,11 @@
+{
+  "name": "rapid-redis",
+  "version": "0.1.0",
+  "summary": "A lightweight in-memory cache inspired by Redis (educational)",
+  "author": "Atharsh K",
+  "license": "MIT",
+  "home_page": "https://github.com/AtharshKrishnamoorthy/RAPID-REDIS.git",
+  "download_filename": "rapid_redis-0.1.0.tar.gz",
+  "download_time": "2025-11-07T18:31:51.898642",
+  "package_url": "https://pypi.org/project/rapid-redis/"
+}

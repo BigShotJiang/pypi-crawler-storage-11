@@ -1,11 +1,11 @@
 {
   "name": "vidurai",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "summary": "Self-learning AI memory system with RL-based compression - Intelligence emerges from experience, not rules",
   "author": "Chandan",
   "license": null,
   "home_page": "https://github.com/chandantochandan/vidurai",
-  "download_filename": "vidurai-1.5.1.tar.gz",
-  "download_time": "2025-11-04T10:49:50.057680",
+  "download_filename": "vidurai-1.6.0.tar.gz",
+  "download_time": "2025-11-07T18:31:49.666780",
   "package_url": "https://pypi.org/project/vidurai/"
 }

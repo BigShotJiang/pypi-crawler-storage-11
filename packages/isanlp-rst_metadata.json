@@ -1,11 +1,11 @@
 {
   "name": "isanlp-rst",
-  "version": "3.1.3",
+  "version": "3.2.0",
   "summary": "IsaNLP RST Parser: A library for parsing Rhetorical Structure Theory trees.",
-  "author": "Elena Chistova",
-  "license": "MIT",
-  "home_page": "https://github.com/tchewik/isanlp_rst",
-  "download_filename": "isanlp_rst-3.1.3.tar.gz",
-  "download_time": "2025-11-05T14:54:06.983272",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isanlp_rst-3.2.0.tar.gz",
+  "download_time": "2025-11-07T18:32:02.441242",
   "package_url": "https://pypi.org/project/isanlp-rst/"
 }

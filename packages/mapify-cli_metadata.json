@@ -1,11 +1,11 @@
 {
   "name": "mapify-cli",
-  "version": "1.2.3",
+  "version": "1.3.1",
   "summary": "MAP Framework installer - Modular Agentic Planner for Claude Code",
   "author": "MAP Framework Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "mapify_cli-1.2.3.tar.gz",
-  "download_time": "2025-11-05T08:30:23.147277",
+  "download_filename": "mapify_cli-1.3.1.tar.gz",
+  "download_time": "2025-11-07T18:31:48.588022",
   "package_url": "https://pypi.org/project/mapify-cli/"
 }

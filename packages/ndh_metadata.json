@@ -1,0 +1,11 @@
+{
+  "name": "ndh",
+  "version": "6.11.0",
+  "summary": "Nim's Django Helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndh-6.11.0.tar.gz",
+  "download_time": "2025-11-07T18:31:39.537228",
+  "package_url": "https://pypi.org/project/ndh/"
+}

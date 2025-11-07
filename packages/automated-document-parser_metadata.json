@@ -1,0 +1,11 @@
+{
+  "name": "automated-document-parser",
+  "version": "0.1.2",
+  "summary": "A document parser built with LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "automated_document_parser-0.1.2.tar.gz",
+  "download_time": "2025-11-07T18:32:07.940372",
+  "package_url": "https://pypi.org/project/automated-document-parser/"
+}

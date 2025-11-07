@@ -1,11 +1,11 @@
 {
   "name": "openinference-instrumentation-agno",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "OpenInference Agno Instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openinference_instrumentation_agno-0.1.21.tar.gz",
-  "download_time": "2025-11-06T17:29:10.216624",
+  "download_filename": "openinference_instrumentation_agno-0.1.22.tar.gz",
+  "download_time": "2025-11-07T18:31:32.901968",
   "package_url": "https://pypi.org/project/openinference-instrumentation-agno/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "contrastive-ne",
+  "version": "0.4.0",
+  "summary": "Contrastive Neighbor Embeddings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contrastive_ne-0.4.0.tar.gz",
+  "download_time": "2025-11-07T18:31:48.036540",
+  "package_url": "https://pypi.org/project/contrastive-ne/"
+}
