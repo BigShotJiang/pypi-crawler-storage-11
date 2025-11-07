@@ -1,11 +1,11 @@
 {
   "name": "uniswap-v3-quoter",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Python implementation of Uniswap V3 QuoterV2 for high-frequency trading",
   "author": "V3 Python Quoter Contributors",
   "license": null,
   "home_page": "https://github.com/yourusername/v3-python-quoter",
-  "download_filename": "uniswap_v3_quoter-1.0.1.tar.gz",
-  "download_time": "2025-11-07T16:25:32.299344",
+  "download_filename": "uniswap_v3_quoter-1.0.4.tar.gz",
+  "download_time": "2025-11-07T17:21:45.879686",
   "package_url": "https://pypi.org/project/uniswap-v3-quoter/"
 }

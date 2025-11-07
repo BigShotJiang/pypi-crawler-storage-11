@@ -1,0 +1,11 @@
+{
+  "name": "luma.core",
+  "version": "2.5.2",
+  "summary": "A component library to support SBC display drivers",
+  "author": "Richard Hull",
+  "license": "MIT",
+  "home_page": "https://github.com/rm-hull/luma.core",
+  "download_filename": "luma_core-2.5.2.tar.gz",
+  "download_time": "2025-11-07T17:21:29.803547",
+  "package_url": "https://pypi.org/project/luma.core/"
+}

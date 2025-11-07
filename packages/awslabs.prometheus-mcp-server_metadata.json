@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.prometheus-mcp-server",
+  "version": "0.2.7",
+  "summary": "MCP server for interacting with AWS Managed Prometheus",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_prometheus_mcp_server-0.2.7.tar.gz",
+  "download_time": "2025-11-07T17:22:03.467236",
+  "package_url": "https://pypi.org/project/awslabs.prometheus-mcp-server/"
+}

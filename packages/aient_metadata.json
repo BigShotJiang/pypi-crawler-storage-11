@@ -1,11 +1,11 @@
 {
   "name": "aient",
-  "version": "1.2.51",
+  "version": "1.2.52",
   "summary": "Aient: The Awakening of Agent.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aient-1.2.51.tar.gz",
-  "download_time": "2025-11-04T21:21:06.295694",
+  "download_filename": "aient-1.2.52.tar.gz",
+  "download_time": "2025-11-07T17:22:02.893093",
   "package_url": "https://pypi.org/project/aient/"
 }

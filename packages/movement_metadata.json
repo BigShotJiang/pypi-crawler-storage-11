@@ -1,0 +1,11 @@
+{
+  "name": "movement",
+  "version": "0.11.0",
+  "summary": "Analysis of body movement",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "movement-0.11.0.tar.gz",
+  "download_time": "2025-11-07T17:21:27.554602",
+  "package_url": "https://pypi.org/project/movement/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sim-toolkit",
+  "version": "4.0.0",
+  "summary": "Synthetic Images Metrics Toolkit (SIM Toolkit)",
+  "author": null,
+  "license": "NPOSL-3.0",
+  "home_page": null,
+  "download_filename": "sim_toolkit-4.0.0.tar.gz",
+  "download_time": "2025-11-07T17:22:10.600665",
+  "package_url": "https://pypi.org/project/sim-toolkit/"
+}

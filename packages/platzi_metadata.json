@@ -1,0 +1,11 @@
+{
+  "name": "platzi",
+  "version": "0.7.2",
+  "summary": "Download your courses from platzi",
+  "author": "ivansaul",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "platzi-0.7.2.tar.gz",
+  "download_time": "2025-11-07T17:21:40.368082",
+  "package_url": "https://pypi.org/project/platzi/"
+}

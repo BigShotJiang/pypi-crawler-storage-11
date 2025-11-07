@@ -1,11 +1,11 @@
 {
   "name": "realtime",
-  "version": "2.23.3",
+  "version": "2.24.0",
   "summary": null,
   "author": "Joel Lee",
   "license": null,
   "home_page": null,
-  "download_filename": "realtime-2.23.3.tar.gz",
-  "download_time": "2025-11-06T19:53:47.545945",
+  "download_filename": "realtime-2.24.0.tar.gz",
+  "download_time": "2025-11-07T17:21:56.437536",
   "package_url": "https://pypi.org/project/realtime/"
 }
