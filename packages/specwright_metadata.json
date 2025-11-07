@@ -1,0 +1,11 @@
+{
+  "name": "specwright",
+  "version": "0.3.0",
+  "summary": "The architect of agentic workflows. Defines, validates, and executes AIPs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "specwright-0.3.0.tar.gz",
+  "download_time": "2025-11-07T15:23:24.101983",
+  "package_url": "https://pypi.org/project/specwright/"
+}

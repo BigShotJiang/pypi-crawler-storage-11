@@ -1,0 +1,11 @@
+{
+  "name": "agentshield",
+  "version": "0.1.1",
+  "summary": "Security and monitoring for AI agents",
+  "author": "AgentShield",
+  "license": "MIT",
+  "home_page": "https://agent-shield.com",
+  "download_filename": "agentshield-0.1.1.tar.gz",
+  "download_time": "2025-11-07T15:23:16.305130",
+  "package_url": "https://pypi.org/project/agentshield/"
+}

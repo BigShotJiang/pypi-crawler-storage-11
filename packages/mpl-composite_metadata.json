@@ -1,11 +1,11 @@
 {
   "name": "mpl-composite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Matplotlib wrapper for composite figure building.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpl_composite-0.0.1.tar.gz",
-  "download_time": "2025-11-01T14:39:09.019692",
+  "download_filename": "mpl_composite-0.0.2.tar.gz",
+  "download_time": "2025-11-07T15:23:31.856417",
   "package_url": "https://pypi.org/project/mpl-composite/"
 }

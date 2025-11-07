@@ -1,11 +1,11 @@
 {
   "name": "gradio-creditspanel",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Credits Panel for Gradio UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_creditspanel-0.0.5.tar.gz",
-  "download_time": "2025-11-07T14:57:57.361666",
+  "download_filename": "gradio_creditspanel-0.0.6.tar.gz",
+  "download_time": "2025-11-07T15:23:54.658646",
   "package_url": "https://pypi.org/project/gradio-creditspanel/"
 }

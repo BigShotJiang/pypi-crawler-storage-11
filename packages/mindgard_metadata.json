@@ -1,0 +1,11 @@
+{
+  "name": "mindgard",
+  "version": "0.94.0",
+  "summary": "Test your AI model's security without leaving your terminal.",
+  "author": "Danny Hunt",
+  "license": "MIT",
+  "home_page": "https://github.com/Mindgard/cli",
+  "download_filename": "mindgard-0.94.0.tar.gz",
+  "download_time": "2025-11-07T15:23:16.819953",
+  "package_url": "https://pypi.org/project/mindgard/"
+}

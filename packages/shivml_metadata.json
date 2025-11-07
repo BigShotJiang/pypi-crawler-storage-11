@@ -1,0 +1,11 @@
+{
+  "name": "shivml",
+  "version": "0.0.1",
+  "summary": "An automatic Machine Learning trainer by Shivam.",
+  "author": "Shivam Vinod Chaudhari",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shivml-0.0.1.tar.gz",
+  "download_time": "2025-11-07T15:23:38.047450",
+  "package_url": "https://pypi.org/project/shivml/"
+}

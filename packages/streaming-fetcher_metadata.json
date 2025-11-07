@@ -1,0 +1,11 @@
+{
+  "name": "streaming-fetcher",
+  "version": "0.3.0",
+  "summary": "Streaming fetcher library can be used to automatize downloads from streaming sites",
+  "author": "Roberto Bochet",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "streaming_fetcher-0.3.0.tar.gz",
+  "download_time": "2025-11-07T15:23:53.105339",
+  "package_url": "https://pypi.org/project/streaming-fetcher/"
+}

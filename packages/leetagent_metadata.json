@@ -1,11 +1,11 @@
 {
   "name": "leetagent",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "LeetAgentAutoSat — The Smart LeetCode AI Automation Tool",
   "author": "Satyam Yadav",
   "license": null,
-  "home_page": "https://github.com/yourusername/leetagent",
-  "download_filename": "leetagent-1.0.0.tar.gz",
-  "download_time": "2025-11-07T05:23:17.351747",
+  "home_page": "https://github.com/satyamyadav/leetagent",
+  "download_filename": "leetagent-1.0.2.tar.gz",
+  "download_time": "2025-11-07T15:23:26.711389",
   "package_url": "https://pypi.org/project/leetagent/"
 }

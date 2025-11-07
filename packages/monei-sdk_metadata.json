@@ -1,0 +1,11 @@
+{
+  "name": "monei-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Monei API - AI agent for finance, Financial services, wallets, and crypto exchange",
+  "author": "Monei Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Mr-Money01/monei-python-sdk",
+  "download_filename": "monei_sdk-0.1.1.tar.gz",
+  "download_time": "2025-11-07T15:23:29.791604",
+  "package_url": "https://pypi.org/project/monei-sdk/"
+}
