@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T03:53:08.160529
-- **Total Packages**: 84
-- **Total Size**: 43.39 MB
+- **Download Time**: 2025-11-07T04:27:13.785251
+- **Total Packages**: 85
+- **Total Size**: 8.27 MB
 
 ## Packages List
-- pulumi-newrelic
-- pulumi-rancher2
-- glitter-cli
-- publicsuffixlist
-- easy-cos
 - scikit-autoeval
 - pyarrow-stubs
 - cdktf-cdktf-provider-databricks
@@ -26,6 +21,7 @@
 - odoo-addons-oca-product-pack
 - trello-cli-python
 - arthexis
+- pulumi-newrelic
 - x-transformers
 - pro-craft
 - cdktf-cdktf-provider-ionoscloud
@@ -48,6 +44,7 @@
 - odoo-addon-partner-rank-single
 - api-bulk
 - crewplus-python
+- glitter-cli
 - kubeflow-trainer-api
 - greenstream-config
 - prime-sandboxes
@@ -90,3 +87,7 @@
 - hitoshura25-pypi-workflow-generator
 - mcp-okx
 - gbase8sdb
+- pyAgrum-nightly
+- model-compose
+- fortigate-cert-decoder
+- egasp

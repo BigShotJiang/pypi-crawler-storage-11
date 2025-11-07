@@ -1,11 +1,11 @@
 {
   "name": "egasp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "乙二醇水溶液属性查询程序 Ethylene Glycol Aqueous Solution Properties Program",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "egasp-0.1.6.tar.gz",
-  "download_time": "2025-11-07T03:05:13.074395",
+  "download_filename": "egasp-0.1.7.tar.gz",
+  "download_time": "2025-11-07T04:27:13.284279",
   "package_url": "https://pypi.org/project/egasp/"
 }

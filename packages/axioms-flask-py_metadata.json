@@ -1,11 +1,11 @@
 {
   "name": "axioms-flask-py",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Flask SDK for Axioms and OAuth2 / OpenID Connect based authentication and authorization providers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axioms_flask_py-0.0.15.tar.gz",
-  "download_time": "2025-11-07T03:52:37.143212",
+  "download_filename": "axioms_flask_py-0.0.16.tar.gz",
+  "download_time": "2025-11-07T04:26:34.835938",
   "package_url": "https://pypi.org/project/axioms-flask-py/"
 }
