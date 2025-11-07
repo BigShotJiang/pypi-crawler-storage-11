@@ -1,0 +1,11 @@
+{
+  "name": "biosppy",
+  "version": "2.2.4",
+  "summary": "A toolbox for biosignal processing written in Python.",
+  "author": "Instituto de Telecomunicacoes",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/scientisst/BioSPPy",
+  "download_filename": "biosppy-2.2.4.tar.gz",
+  "download_time": "2025-11-07T12:44:04.616052",
+  "package_url": "https://pypi.org/project/biosppy/"
+}

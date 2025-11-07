@@ -1,0 +1,11 @@
+{
+  "name": "imio.smartweb.policy",
+  "version": "1.2.12",
+  "summary": "Policies to setup imio.smartweb",
+  "author": "Christophe Boulanger",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/imio/imio.smartweb.policy",
+  "download_filename": "imio_smartweb_policy-1.2.12.tar.gz",
+  "download_time": "2025-11-07T12:44:18.770714",
+  "package_url": "https://pypi.org/project/imio.smartweb.policy/"
+}

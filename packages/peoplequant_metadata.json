@@ -1,11 +1,11 @@
 {
   "name": "peoplequant",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "PeopleQuant trading CTP API package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peoplequant-1.0.4.tar.gz",
-  "download_time": "2025-11-07T07:24:59.189841",
+  "download_filename": "peoplequant-1.0.5-py3-none-any.whl",
+  "download_time": "2025-11-07T12:43:50.347983",
   "package_url": "https://pypi.org/project/peoplequant/"
 }

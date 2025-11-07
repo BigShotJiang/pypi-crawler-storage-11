@@ -1,0 +1,11 @@
+{
+  "name": "piket",
+  "version": "0.3.1",
+  "summary": "Pikmin e+ Card Tools, a library for manipulating Pikmin e+ cards",
+  "author": "plxl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "piket-0.3.1.tar.gz",
+  "download_time": "2025-11-07T12:44:13.527848",
+  "package_url": "https://pypi.org/project/piket/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "neuwo-api",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "Neuwo API SDK - Python SDK client for the Neuwo content classification API.",
   "author": "Grzegorz Malisz",
   "license": "MIT",
   "home_page": "https://neuwo.ai",
-  "download_filename": "neuwo_api-0.3.0.tar.gz",
-  "download_time": "2025-11-06T06:33:48.327332",
+  "download_filename": "neuwo_api-1.0.0.tar.gz",
+  "download_time": "2025-11-07T12:43:38.679545",
   "package_url": "https://pypi.org/project/neuwo-api/"
 }

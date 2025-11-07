@@ -1,11 +1,11 @@
 {
   "name": "py-ezmail",
-  "version": "2.2.9",
+  "version": "2.3.0",
   "summary": "Send and read emails easily — with attachments, inline images, IMAP management, and OAuth2 authentication.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_ezmail-2.2.9.tar.gz",
-  "download_time": "2025-11-07T11:41:28.314702",
+  "download_filename": "py_ezmail-2.3.0.tar.gz",
+  "download_time": "2025-11-07T12:43:48.693373",
   "package_url": "https://pypi.org/project/py-ezmail/"
 }

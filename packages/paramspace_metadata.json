@@ -1,0 +1,11 @@
+{
+  "name": "paramspace",
+  "version": "2.8.2",
+  "summary": "Dictionary-based, multi-dimensional parameter space iteration",
+  "author": "Yunus Sevinchan",
+  "license": "BSD-2-Clause",
+  "home_page": "https://gitlab.com/blsqr/paramspace",
+  "download_filename": "paramspace-2.8.2.tar.gz",
+  "download_time": "2025-11-07T12:43:47.135534",
+  "package_url": "https://pypi.org/project/paramspace/"
+}

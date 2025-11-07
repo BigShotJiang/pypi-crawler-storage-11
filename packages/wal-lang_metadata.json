@@ -1,0 +1,11 @@
+{
+  "name": "wal-lang",
+  "version": "0.8.6",
+  "summary": "Wal - Wavefile Analysis Language",
+  "author": "Lucas Klemmer",
+  "license": null,
+  "home_page": "https://wal-lang.org",
+  "download_filename": "wal_lang-0.8.6.tar.gz",
+  "download_time": "2025-11-07T12:44:18.251804",
+  "package_url": "https://pypi.org/project/wal-lang/"
+}

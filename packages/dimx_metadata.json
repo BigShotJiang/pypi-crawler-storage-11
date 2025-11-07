@@ -1,11 +1,11 @@
 {
   "name": "dimx",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "summary": "Manifold Dimensional Expansion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dimx-1.0.5.tar.gz",
-  "download_time": "2025-11-04T19:39:11.749293",
+  "download_filename": "dimx-1.1.1.tar.gz",
+  "download_time": "2025-11-07T12:44:01.501243",
   "package_url": "https://pypi.org/project/dimx/"
 }

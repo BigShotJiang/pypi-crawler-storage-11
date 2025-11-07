@@ -1,0 +1,11 @@
+{
+  "name": "django-mfa2",
+  "version": "3.1.2",
+  "summary": "Allows user to add 2FA to their accounts",
+  "author": "Mohamed El-Kalioby",
+  "license": "MIT",
+  "home_page": "https://github.com/mkalioby/django-mfa2/",
+  "download_filename": "django_mfa2-3.1.2.tar.gz",
+  "download_time": "2025-11-07T12:44:05.654141",
+  "package_url": "https://pypi.org/project/django-mfa2/"
+}
