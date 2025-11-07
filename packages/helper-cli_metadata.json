@@ -1,11 +1,11 @@
 {
   "name": "helper-cli",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Simple system info CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "helper_cli-0.1.11.tar.gz",
-  "download_time": "2025-11-07T10:48:06.194381",
+  "download_filename": "helper_cli-0.1.12.tar.gz",
+  "download_time": "2025-11-07T10:57:41.797887",
   "package_url": "https://pypi.org/project/helper-cli/"
 }

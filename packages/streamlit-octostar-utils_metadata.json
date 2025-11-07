@@ -1,11 +1,11 @@
 {
   "name": "streamlit-octostar-utils",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": null,
   "author": "Octostar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamlit_octostar_utils-0.3.1.tar.gz",
-  "download_time": "2025-11-06T10:47:49.929035",
+  "download_filename": "streamlit_octostar_utils-0.3.2.tar.gz",
+  "download_time": "2025-11-07T10:58:29.143819",
   "package_url": "https://pypi.org/project/streamlit-octostar-utils/"
 }

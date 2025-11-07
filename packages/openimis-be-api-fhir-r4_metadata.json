@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-api-fhir-r4",
+  "version": "1.9.0",
+  "summary": "The openIMIS Backend FHIR R4 API reference module.",
+  "author": "Faris Ahmetasevic",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_api_fhir_r4-1.9.0.tar.gz",
+  "download_time": "2025-11-07T10:58:14.868421",
+  "package_url": "https://pypi.org/project/openimis-be-api-fhir-r4/"
+}

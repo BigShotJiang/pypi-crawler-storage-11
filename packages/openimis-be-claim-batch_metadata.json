@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-claim-batch",
+  "version": "1.10.0",
+  "summary": "The openIMIS Backend Claim Batch reference module.",
+  "author": "Xavier Gillmann",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_claim_batch-1.10.0.tar.gz",
+  "download_time": "2025-11-07T10:58:16.151396",
+  "package_url": "https://pypi.org/project/openimis-be-claim-batch/"
+}

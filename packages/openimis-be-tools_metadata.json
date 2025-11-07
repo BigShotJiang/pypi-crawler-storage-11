@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-tools",
+  "version": "1.10.0",
+  "summary": "The openIMIS Backend Tools reference module.",
+  "author": "Bluesquare",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_tools-1.10.0.tar.gz",
+  "download_time": "2025-11-07T10:58:15.508789",
+  "package_url": "https://pypi.org/project/openimis-be-tools/"
+}

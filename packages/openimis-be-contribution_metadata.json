@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-contribution",
+  "version": "1.9.1",
+  "summary": "The openIMIS Backend Policy reference module.",
+  "author": "Xavier Gillmann",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_contribution-1.9.1.tar.gz",
+  "download_time": "2025-11-07T10:58:21.164902",
+  "package_url": "https://pypi.org/project/openimis-be-contribution/"
+}

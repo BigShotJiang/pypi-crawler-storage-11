@@ -1,0 +1,11 @@
+{
+  "name": "tracebloc-package",
+  "version": "0.6.24",
+  "summary": "Package required to run Tracebloc jupyter notebook to create experiment",
+  "author": "Tracebloc",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/tracebloc/tracebloc-py-package",
+  "download_filename": "tracebloc_package-0.6.24.tar.gz",
+  "download_time": "2025-11-07T10:58:21.807210",
+  "package_url": "https://pypi.org/project/tracebloc-package/"
+}

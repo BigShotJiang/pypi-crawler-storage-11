@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-tasks-management",
+  "version": "1.4.0",
+  "summary": "The openIMIS Backend tasks_management reference module.",
+  "author": "jdolkowski",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_tasks_management-1.4.0.tar.gz",
+  "download_time": "2025-11-07T10:58:26.221408",
+  "package_url": "https://pypi.org/project/openimis-be-tasks-management/"
+}

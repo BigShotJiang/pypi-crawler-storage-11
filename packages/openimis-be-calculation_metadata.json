@@ -1,0 +1,11 @@
+{
+  "name": "openimis-be-calculation",
+  "version": "1.9.1",
+  "summary": "The openIMIS Backend Calculation reference module.",
+  "author": "Damian Borowiecki",
+  "license": "GNU AGPL v3",
+  "home_page": "https://openimis.org/",
+  "download_filename": "openimis_be_calculation-1.9.1.tar.gz",
+  "download_time": "2025-11-07T10:58:14.226439",
+  "package_url": "https://pypi.org/project/openimis-be-calculation/"
+}
