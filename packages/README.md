@@ -1,18 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T22:44:22.425871
-- **Total Packages**: 92
-- **Total Size**: 17.56 MB
+- **Download Time**: 2025-11-07T22:55:10.995068
+- **Total Packages**: 89
+- **Total Size**: 25.09 MB
 
 ## Packages List
+- oidcauthlib
+- wyoming-faster-whisper
+- aquiles-image
+- pysnowclim
+- ddtrace
+- growpal
+- benchify
+- wasm-kit
+- lyapunov-lab
+- pyUSPTO
+- jupyterlab-mlflow
+- service-capacity-modeling
+- filestore
+- feldera
+- fastfeatures
+- fouriercoint
+- rya
+- humalab
+- suclepy
+- GeneralManager
+- silverback
+- wagtailmeili
 - papr-memory
 - hitoshura25-mcp-server-generator
 - fin-infra
 - robotframework-confluentkafkalibrary
 - passphera-shell
 - archetypeai
-- lyapunov-lab
 - mdformat-py-edu-fr
 - glob2regex
 - zetascale
@@ -27,7 +48,6 @@
 - mavenagi
 - chia-rs
 - aegon
-- fouriercoint
 - madsci.experiment_application
 - madsci.data_manager
 - madsci.workcell_manager
@@ -75,26 +95,3 @@
 - retromol
 - duplicaid
 - dojo-openenv
-- dojo-sdk-client
-- free-fermion-lib
-- batplot
-- dars-framework
-- TikSign
-- domru-client
-- fastapi-factory-utilities
-- mirror-dedupe
-- flekspy
-- mat3ra-ade
-- openai-chatkit
-- open-kimi
-- masterframework
-- passphera-core
-- pymtech-docker-launcher
-- knockapi
-- smartfunc
-- agent-cli
-- anc
-- harbor
-- moleql
-- regula-documentreader-webclient
-- django-simpleinliner

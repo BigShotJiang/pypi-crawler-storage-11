@@ -1,11 +1,11 @@
 {
   "name": "lyapunov-lab",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Chaos Analyzer hardware dashboard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lyapunov_lab-0.1.9.tar.gz",
-  "download_time": "2025-11-07T22:43:37.945017",
+  "download_filename": "lyapunov_lab-0.1.10.tar.gz",
+  "download_time": "2025-11-07T22:54:27.964688",
   "package_url": "https://pypi.org/project/lyapunov-lab/"
 }

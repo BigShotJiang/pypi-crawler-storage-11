@@ -1,11 +1,11 @@
 {
   "name": "fastfeatures",
-  "version": "0.1.4",
-  "summary": "Modular features discovery system for FastAPI projects.",
+  "version": "0.1.6",
+  "summary": "A powerful FastAPI toolkit designed to accelerate development with a modular, async-first architecture. It provides project scaffolding, feature generation, automatic settings from .env files, and auto-discovery of routes and SQL models. This reduces boilerplate, simplifies setup, and ensures high performance, ideal for modern applications and LLM integrations. Seamlessly integrates with Alembic for database migrations.",
   "author": "Yuri Seki",
   "license": null,
-  "home_page": null,
-  "download_filename": "fastfeatures-0.1.4.tar.gz",
-  "download_time": "2025-11-04T13:35:16.080685",
+  "home_page": "https://github.com/yuriseki/fastfeatures",
+  "download_filename": "fastfeatures-0.1.6.tar.gz",
+  "download_time": "2025-11-07T22:54:32.019249",
   "package_url": "https://pypi.org/project/fastfeatures/"
 }
