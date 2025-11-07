@@ -1,0 +1,11 @@
+{
+  "name": "intelligence-toolkit",
+  "version": "0.1.3",
+  "summary": "Interactive workflows for generating AI intelligence reports from real-world data sources using GPT models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "intelligence_toolkit-0.1.3.tar.gz",
+  "download_time": "2025-11-07T21:55:01.244707",
+  "package_url": "https://pypi.org/project/intelligence-toolkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nora-lib-impl",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "For making and coordinating agents and tools",
   "author": null,
   "license": null,
   "home_page": "https://github.com/allenai/nora_lib/impl",
-  "download_filename": "nora_lib_impl-1.8.0.tar.gz",
-  "download_time": "2025-11-05T22:22:01.943350",
+  "download_filename": "nora_lib_impl-1.8.1.tar.gz",
+  "download_time": "2025-11-07T21:55:04.914937",
   "package_url": "https://pypi.org/project/nora-lib-impl/"
 }

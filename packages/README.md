@@ -1,23 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T21:46:00.470485
-- **Total Packages**: 83
-- **Total Size**: 17.59 MB
+- **Download Time**: 2025-11-07T21:55:35.971291
+- **Total Packages**: 79
+- **Total Size**: 22.29 MB
 
 ## Packages List
+- nkunyim-util
+- jjrawlins-cdk-ami-builder
+- duplicaid
+- movie-barcodes
+- meu-investimento-anv
+- fleet-python
+- kicad-sch-api
+- kde-material-you-colors
+- goodday-mcp-fastmcp
 - coaiapy-mcp
+- langchain-anthropic
+- fusion-tools
+- innerloop
 - coaiapy
+- intelligence-toolkit
+- centralized-llm-client
+- klyne
+- claude-mpm
+- synnax
+- synnax-freighter
+- nora-lib
+- nora-lib-impl
+- alamos
+- osiris-pipeline
+- hexdoc-hexdebug
+- valid8r
+- my-exes
+- smoosense
 - ivolatility-backtesting
 - kishu
-- nkunyim-util
 - aristotlelib
 - NEMO-billing
 - mxx-tool
 - olog-tool
 - foundationallm-agent-plugins
 - remixtree
-- fusion-tools
 - modal
 - tempo-ql
 - javacore-analyser
@@ -41,11 +65,9 @@
 - MPh
 - sambanova
 - powerplatform-management
-- centralized-llm-client
 - dbt-tests-adapter
 - masterframework
 - materialdash
-- my-exes
 - spinal-tap
 - beekeeper-monitors-watsonx
 - formidable
@@ -63,29 +85,3 @@
 - orcheo-sdk
 - orcheo-backend
 - sia-script
-- orcheo
-- marearts-anpr
-- fme
-- x402-solana
-- claude-mpm
-- powerpoint-mcp
-- blue-cli
-- prime-sandboxes
-- blue-platform
-- taters
-- r-nida
-- pyctrld
-- botocore-stubs
-- kroma
-- samplepath
-- mccoygroup-mcutils
-- universal-mcp-applications
-- python3-cyberfusion-queue-support
-- matplobbot-shared
-- p2d2
-- langchain-tool-server
-- ctfbridge
-- kardocss
-- increase
-- divide21env
-- anyt

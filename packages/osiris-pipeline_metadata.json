@@ -1,11 +1,11 @@
 {
   "name": "osiris-pipeline",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "LLM-first conversational ETL pipeline generator",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "osiris_pipeline-0.5.4.tar.gz",
-  "download_time": "2025-11-06T23:41:57.346786",
+  "download_filename": "osiris_pipeline-0.5.5.tar.gz",
+  "download_time": "2025-11-07T21:55:05.991291",
   "package_url": "https://pypi.org/project/osiris-pipeline/"
 }

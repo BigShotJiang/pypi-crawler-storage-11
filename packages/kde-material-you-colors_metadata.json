@@ -1,0 +1,11 @@
+{
+  "name": "kde-material-you-colors",
+  "version": "2.0.0",
+  "summary": "Automatic Material You Colors Generator from your wallpaper for the Plasma Desktop",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kde_material_you_colors-2.0.0.tar.gz",
+  "download_time": "2025-11-07T21:54:57.453224",
+  "package_url": "https://pypi.org/project/kde-material-you-colors/"
+}
