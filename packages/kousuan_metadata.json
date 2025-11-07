@@ -1,11 +1,11 @@
 {
   "name": "kousuan",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python package for providing mental arithmetic calculation skills",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kousuan-0.1.2.tar.gz",
-  "download_time": "2025-11-06T11:53:21.004578",
+  "download_filename": "kousuan-0.1.3.tar.gz",
+  "download_time": "2025-11-07T06:34:06.807313",
   "package_url": "https://pypi.org/project/kousuan/"
 }

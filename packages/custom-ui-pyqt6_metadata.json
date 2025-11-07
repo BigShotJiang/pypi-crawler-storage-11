@@ -1,11 +1,11 @@
 {
   "name": "custom-ui-pyqt6",
-  "version": "1.0.5",
-  "summary": "Modern PyQt6 UI components with glassmorphism effects, smooth animations, and 21 customizable widgets",
+  "version": "1.0.7",
+  "summary": "Modern PyQt6 UI components with glassmorphism effects, smooth animations, and 22 customizable widgets",
   "author": "CrypterENC",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/CrypterENC/custom-ui-pyqt6",
-  "download_filename": "custom_ui_pyqt6-1.0.5.tar.gz",
-  "download_time": "2025-11-06T18:59:55.089013",
+  "download_filename": "custom_ui_pyqt6-1.0.7.tar.gz",
+  "download_time": "2025-11-07T06:34:11.491012",
   "package_url": "https://pypi.org/project/custom-ui-pyqt6/"
 }

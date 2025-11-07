@@ -1,11 +1,11 @@
 {
   "name": "rogvibe",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Textual-based terminal lottery wheel.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rogvibe-0.4.0.tar.gz",
-  "download_time": "2025-11-06T05:44:13.848335",
+  "download_filename": "rogvibe-0.5.0.tar.gz",
+  "download_time": "2025-11-07T06:34:13.124043",
   "package_url": "https://pypi.org/project/rogvibe/"
 }

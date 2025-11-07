@@ -1,0 +1,11 @@
+{
+  "name": "coo-algorithm",
+  "version": "1.1.1",
+  "summary": "COO Algorithm — Canine Olfactory Optimization (COO). Surrogate-assisted, pack-based black-box optimizer.",
+  "author": "Sandip Garai",
+  "license": null,
+  "home_page": "https://github.com/SandipGarai/coo_algorithm",
+  "download_filename": "coo_algorithm-1.1.1.tar.gz",
+  "download_time": "2025-11-07T06:34:26.685590",
+  "package_url": "https://pypi.org/project/coo-algorithm/"
+}

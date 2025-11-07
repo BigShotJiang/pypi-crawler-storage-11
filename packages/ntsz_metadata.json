@@ -1,0 +1,11 @@
+{
+  "name": "ntsz",
+  "version": "1.2",
+  "summary": "A python 3 implementation for calculation of various Sunyaev        -Zeldovich effects.",
+  "author": "Vyoma Muralidhara",
+  "license": null,
+  "home_page": "https://github.com/Vyoma-M/ntsz",
+  "download_filename": "ntsz-1.2.tar.gz",
+  "download_time": "2025-11-07T06:34:08.370287",
+  "package_url": "https://pypi.org/project/ntsz/"
+}

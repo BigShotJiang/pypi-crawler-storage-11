@@ -1,0 +1,11 @@
+{
+  "name": "gkeepapi",
+  "version": "0.17.0",
+  "summary": "An unofficial Google Keep API client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gkeepapi-0.17.0-py3-none-any.whl",
+  "download_time": "2025-11-07T06:34:29.798521",
+  "package_url": "https://pypi.org/project/gkeepapi/"
+}

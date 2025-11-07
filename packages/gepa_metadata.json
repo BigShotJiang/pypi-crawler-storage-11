@@ -1,11 +1,11 @@
 {
   "name": "gepa",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "A framework for optimizing textual system components (AI prompts, code snippets, etc.) using LLM-based reflection and Pareto-efficient evolutionary search.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gepa-0.0.19.tar.gz",
-  "download_time": "2025-11-04T06:33:24.504897",
+  "download_filename": "gepa-0.0.20.tar.gz",
+  "download_time": "2025-11-07T06:34:03.153765",
   "package_url": "https://pypi.org/project/gepa/"
 }
