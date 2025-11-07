@@ -1,0 +1,11 @@
+{
+  "name": "badkeys",
+  "version": "0.0.15",
+  "summary": "Check cryptographic keys for known weaknesses",
+  "author": "Hanno Böck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "badkeys-0.0.15.tar.gz",
+  "download_time": "2025-11-07T11:54:38.327251",
+  "package_url": "https://pypi.org/project/badkeys/"
+}

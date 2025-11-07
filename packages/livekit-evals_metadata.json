@@ -1,11 +1,11 @@
 {
   "name": "livekit-evals",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Track and evaluate LiveKit agent sessions with automatic metrics, transcripts, and usage analytics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "livekit_evals-0.1.4.tar.gz",
-  "download_time": "2025-11-07T05:44:47.274592",
+  "download_filename": "livekit_evals-0.1.5.tar.gz",
+  "download_time": "2025-11-07T11:54:19.141887",
   "package_url": "https://pypi.org/project/livekit-evals/"
 }

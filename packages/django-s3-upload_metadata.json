@@ -1,0 +1,11 @@
+{
+  "name": "django-s3-upload",
+  "version": "1.1.1",
+  "summary": "Integrates direct client-side uploading to s3 with Django.",
+  "author": "YunoJuno",
+  "license": "MIT",
+  "home_page": "https://github.com/yunojuno/django-s3-upload",
+  "download_filename": "django_s3_upload-1.1.1.tar.gz",
+  "download_time": "2025-11-07T11:54:42.980661",
+  "package_url": "https://pypi.org/project/django-s3-upload/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shunyalabs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Professional speech transcription package by Shunya Labs with ct2 and transformers backends",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shunyalabs-1.0.1.tar.gz",
-  "download_time": "2025-11-07T11:27:39.164115",
+  "download_filename": "shunyalabs-1.0.2.tar.gz",
+  "download_time": "2025-11-07T11:54:35.779682",
   "package_url": "https://pypi.org/project/shunyalabs/"
 }

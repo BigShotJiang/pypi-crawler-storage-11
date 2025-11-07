@@ -1,0 +1,11 @@
+{
+  "name": "blochbuster",
+  "version": "1.2.0",
+  "summary": "BlochBuster is a nuclear magnetic resonance Bloch equation simulator that creates animated plots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blochbuster-1.2.0.tar.gz",
+  "download_time": "2025-11-07T11:54:25.298387",
+  "package_url": "https://pypi.org/project/blochbuster/"
+}
