@@ -1,11 +1,11 @@
 {
   "name": "wooscloud",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Simple, powerful, and scalable cloud storage for Python applications",
   "author": "WoosCloud Team",
   "license": null,
   "home_page": "https://github.com/sisi010/wooscloud-storage",
-  "download_filename": "wooscloud-1.2.2.tar.gz",
-  "download_time": "2025-11-07T09:24:17.890196",
+  "download_filename": "wooscloud-1.2.3.tar.gz",
+  "download_time": "2025-11-07T09:43:51.383001",
   "package_url": "https://pypi.org/project/wooscloud/"
 }

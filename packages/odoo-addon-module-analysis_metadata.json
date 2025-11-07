@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-module-analysis",
+  "version": "17.0.1.0.2.2",
+  "summary": "Add analysis tools regarding installed modules to know which installed modules comes from Odoo Core, OCA, or are custom modules",
+  "author": "GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_module_analysis-17.0.1.0.2.2-py3-none-any.whl",
+  "download_time": "2025-11-07T09:43:56.039596",
+  "package_url": "https://pypi.org/project/odoo-addon-module-analysis/"
+}

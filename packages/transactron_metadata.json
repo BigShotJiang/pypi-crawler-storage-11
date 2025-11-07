@@ -1,0 +1,11 @@
+{
+  "name": "transactron",
+  "version": "0.4.0",
+  "summary": "Hardware transactions library for Amaranth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transactron-0.4.0.tar.gz",
+  "download_time": "2025-11-07T09:43:38.329459",
+  "package_url": "https://pypi.org/project/transactron/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kcpwd",
+  "version": "0.3.0",
+  "summary": "macOS Keychain Password Manager - CLI tool and Python library with import/export, decorator support, and password generation",
+  "author": "osmanuygar",
+  "license": null,
+  "home_page": "https://github.com/osmanuygar/kcpwd",
+  "download_filename": "kcpwd-0.3.0.tar.gz",
+  "download_time": "2025-11-07T09:44:03.254137",
+  "package_url": "https://pypi.org/project/kcpwd/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "springernature-api-client",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Springer Nature API Client",
   "author": "Springer Nature",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "springernature_api_client-0.0.8.tar.gz",
-  "download_time": "2025-11-05T09:57:03.182706",
+  "download_filename": "springernature_api_client-0.0.9.tar.gz",
+  "download_time": "2025-11-07T09:43:51.900496",
   "package_url": "https://pypi.org/project/springernature-api-client/"
 }
