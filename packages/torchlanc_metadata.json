@@ -1,0 +1,11 @@
+{
+  "name": "torchlanc",
+  "version": "1.1.0",
+  "summary": "A High-Quality Lanczos Scaler for PyTorch",
+  "author": "ArtificialSweetener",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/Artificial-Sweetener/TorchLanc",
+  "download_filename": "torchlanc-1.1.0.tar.gz",
+  "download_time": "2025-11-07T21:17:47.164612",
+  "package_url": "https://pypi.org/project/torchlanc/"
+}

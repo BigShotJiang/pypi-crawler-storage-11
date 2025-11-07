@@ -1,11 +1,11 @@
 {
   "name": "tsuchinoko",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "summary": "A Qt application for adaptive experiment tuning and execution ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tsuchinoko-1.1.26.tar.gz",
-  "download_time": "2025-11-06T21:21:23.123724",
+  "download_filename": "tsuchinoko-1.1.27.tar.gz",
+  "download_time": "2025-11-07T21:17:53.515266",
   "package_url": "https://pypi.org/project/tsuchinoko/"
 }

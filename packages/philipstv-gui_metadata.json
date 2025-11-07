@@ -1,0 +1,11 @@
+{
+  "name": "philipstv-gui",
+  "version": "2.0.0",
+  "summary": "GUI remote for Philips Android-powered TVs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/bcyran/philipstv-gui",
+  "download_filename": "philipstv_gui-2.0.0.tar.gz",
+  "download_time": "2025-11-07T21:17:37.681127",
+  "package_url": "https://pypi.org/project/philipstv-gui/"
+}

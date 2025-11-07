@@ -1,11 +1,11 @@
 {
   "name": "domru-client",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Execute API calls to DomRU Internet provider from python code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "domru_client-1.0.4-py3-none-any.whl",
-  "download_time": "2025-11-07T17:21:39.791543",
+  "download_filename": "domru_client-1.0.6-py3-none-any.whl",
+  "download_time": "2025-11-07T21:17:46.124094",
   "package_url": "https://pypi.org/project/domru-client/"
 }
