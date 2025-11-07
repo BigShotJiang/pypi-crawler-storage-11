@@ -1,11 +1,11 @@
 {
   "name": "systemloader",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Загрузка движка",
   "author": "Alex Yanchenko",
   "license": null,
   "home_page": null,
-  "download_filename": "systemloader-0.1.3.tar.gz",
-  "download_time": "2025-11-05T14:23:01.729780",
+  "download_filename": "systemloader-0.1.4.tar.gz",
+  "download_time": "2025-11-07T06:59:16.414843",
   "package_url": "https://pypi.org/project/systemloader/"
 }

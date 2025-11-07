@@ -1,0 +1,11 @@
+{
+  "name": "lys-python",
+  "version": "0.3.5",
+  "summary": "Interactive multi-dimensional data analysis and visualization",
+  "author": "Asuka Nakamura",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/lys-devel/lys",
+  "download_filename": "lys_python-0.3.5.tar.gz",
+  "download_time": "2025-11-07T06:59:11.743921",
+  "package_url": "https://pypi.org/project/lys-python/"
+}

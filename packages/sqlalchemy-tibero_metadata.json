@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-tibero",
+  "version": "1.4.55",
+  "summary": "SQLAlchemy Tibero Dialect",
+  "author": "Yeongbae Jeon",
+  "license": "MIT",
+  "home_page": "https://github.com/ybjeon01/sqlalchemy-tibero",
+  "download_filename": "sqlalchemy_tibero-1.4.55.tar.gz",
+  "download_time": "2025-11-07T06:59:12.253929",
+  "package_url": "https://pypi.org/project/sqlalchemy-tibero/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mingli-mcp",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "命理MCP服务 - 支持紫微斗数、八字等多种命理系统",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mingli_mcp-1.0.10.tar.gz",
-  "download_time": "2025-11-04T09:24:31.040174",
+  "download_filename": "mingli_mcp-1.0.11.tar.gz",
+  "download_time": "2025-11-07T06:59:17.437865",
   "package_url": "https://pypi.org/project/mingli-mcp/"
 }
