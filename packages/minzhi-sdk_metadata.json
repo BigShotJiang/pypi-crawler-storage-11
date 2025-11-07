@@ -1,0 +1,11 @@
+{
+  "name": "minzhi-sdk",
+  "version": "0.1.24",
+  "summary": "敏智 Python SDK - 提供自动化执行和CMDB客户端功能",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minzhi_sdk-0.1.24.tar.gz",
+  "download_time": "2025-11-07T05:56:09.623022",
+  "package_url": "https://pypi.org/project/minzhi-sdk/"
+}

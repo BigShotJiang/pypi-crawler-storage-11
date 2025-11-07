@@ -1,0 +1,11 @@
+{
+  "name": "pytest-embedded-nuttx",
+  "version": "2.3.0",
+  "summary": "Make pytest-embedded plugin work with NuttX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_embedded_nuttx-2.3.0.tar.gz",
+  "download_time": "2025-11-07T05:56:13.366935",
+  "package_url": "https://pypi.org/project/pytest-embedded-nuttx/"
+}

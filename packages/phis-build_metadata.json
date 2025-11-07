@@ -1,11 +1,11 @@
 {
   "name": "phis-build",
-  "version": "2025.11.7.0",
+  "version": "2025.11.7.1",
   "summary": "custom build system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phis_build-2025.11.7.0.tar.gz",
-  "download_time": "2025-11-07T05:44:40.409474",
+  "download_filename": "phis_build-2025.11.7.1.tar.gz",
+  "download_time": "2025-11-07T05:56:08.541324",
   "package_url": "https://pypi.org/project/phis-build/"
 }

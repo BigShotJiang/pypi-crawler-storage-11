@@ -1,16 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T05:45:19.207161
-- **Total Packages**: 75
-- **Total Size**: 5.43 MB
+- **Download Time**: 2025-11-07T05:56:52.484980
+- **Total Packages**: 83
+- **Total Size**: 17.46 MB
 
 ## Packages List
+- llm-watermark-utils
+- deepface-antispoofing
+- phis-build
+- glitter-cli
+- minzhi-sdk
+- civic-geo-generator
+- midas-civil
+- aws-cost-calculator-cli
+- h2ctypes
+- mcp-weather-full
+- soda-update-version
+- pytest-embedded-nuttx
+- pytest-embedded-wokwi
+- pytest-embedded-arduino
+- pytest-embedded-qemu
+- nuql
+- pytest-embedded-jtag
+- pytest-embedded-idf
+- pytest-embedded-serial-esp
+- pytest-embedded-serial
+- pytest-embedded
+- phonimize
+- python3-ssh
+- spl-core
+- fastscheduler
+- taos-ws-py
+- devlake-mcp
+- itp-interface
+- pytrendx
+- SAHAJ
+- Vease-Viewer
+- bachai-facebook
+- schedulo-api
+- ekgtools
+- pyqqq
 - intellif-aihub
 - mcp-ticketer
+- conformal-clip
 - iflow-mcp_paper-search-mcp
-- aws-cost-calculator-cli
-- phis-build
 - dari-python
 - sheaf
 - medvision-classification
@@ -20,7 +54,6 @@
 - kailash-dataflow
 - kailash
 - trello-cli-python
-- llm-watermark-utils
 - windows-use
 - livekit-evals
 - rich-color-ext
@@ -28,7 +61,6 @@
 - PyMyGekko
 - wrapica
 - XZGUtil
-- mcp-weather-full
 - PYVY
 - iflow-mcp_magic-api-mcp-server
 - ha-mcp
@@ -57,27 +89,3 @@
 - first-logs
 - dragonfly-radiance
 - countdown-cli
-- ytdl-sub
-- naludaq
-- pygenpdf
-- uapg
-- mofa-core
-- iflow-mcp_osp-marketing-tools
-- substrata
-- honeybee-radiance-postprocess
-- pycarlo
-- personal_knowledge_library
-- wooscloud
-- ddgs
-- pygenpdf-json
-- databricks-switch-plugin
-- napari-copick
-- leetagent
-- dragonfly-core
-- honeybee-energy
-- lbt-ladybug
-- selfops
-- honeybee-radiance
-- swanlab
-- dasheng
-- py-browser-automation

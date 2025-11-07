@@ -1,0 +1,11 @@
+{
+  "name": "ekgtools",
+  "version": "1.0.1.1",
+  "summary": "ECG XML parsing, fast loading, and plotting utilities for research pipelines",
+  "author": "WYeung, Mat00, FigLing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ekgtools-1.0.1.1.tar.gz",
+  "download_time": "2025-11-07T05:56:24.967653",
+  "package_url": "https://pypi.org/project/ekgtools/"
+}
