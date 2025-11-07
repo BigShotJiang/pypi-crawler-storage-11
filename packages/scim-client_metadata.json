@@ -1,0 +1,11 @@
+{
+  "name": "scim-client",
+  "version": "0.2.3",
+  "summary": "SCIM v2 API client",
+  "author": "Mitratech Development Team",
+  "license": "MIT license",
+  "home_page": "https://github.com/Aplopio/python-scim-client",
+  "download_filename": "scim_client-0.2.3.tar.gz",
+  "download_time": "2025-11-07T11:27:43.223515",
+  "package_url": "https://pypi.org/project/scim-client/"
+}

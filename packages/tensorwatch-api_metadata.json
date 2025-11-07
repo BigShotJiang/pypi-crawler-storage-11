@@ -1,0 +1,11 @@
+{
+  "name": "tensorwatch-api",
+  "version": "1.1.0",
+  "summary": "Interactive Kafka stream visualization API for Jupyter using TensorWatch.",
+  "author": "Konstantinos Revythis",
+  "license": "MIT",
+  "home_page": "https://github.com/costasrevi/jupyterstreamvis",
+  "download_filename": "tensorwatch_api-1.1.0-py3-none-any.whl",
+  "download_time": "2025-11-07T11:27:50.985316",
+  "package_url": "https://pypi.org/project/tensorwatch-api/"
+}

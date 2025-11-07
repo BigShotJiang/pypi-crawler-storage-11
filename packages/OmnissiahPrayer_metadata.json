@@ -1,0 +1,11 @@
+{
+  "name": "OmnissiahPrayer",
+  "version": "1.0.0",
+  "summary": "A ritual Python program that invokes the Machine God.",
+  "author": "CountZero",
+  "license": "MIT",
+  "home_page": "https://github.com/CountZero-Error/OmnissiahPrayer",
+  "download_filename": "omnissiahprayer-1.0.0.tar.gz",
+  "download_time": "2025-11-07T11:27:52.603028",
+  "package_url": "https://pypi.org/project/OmnissiahPrayer/"
+}

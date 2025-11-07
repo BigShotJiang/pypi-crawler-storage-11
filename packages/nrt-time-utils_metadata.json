@@ -1,0 +1,11 @@
+{
+  "name": "nrt-time-utils",
+  "version": "1.0.6",
+  "summary": "Time utilities in Python",
+  "author": "Eyal Tuzon",
+  "license": null,
+  "home_page": "https://github.com/etuzon/python-nrt-time-utils",
+  "download_filename": "nrt_time_utils-1.0.6-py3-none-any.whl",
+  "download_time": "2025-11-07T11:27:44.753511",
+  "package_url": "https://pypi.org/project/nrt-time-utils/"
+}

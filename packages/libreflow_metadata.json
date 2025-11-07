@@ -1,11 +1,11 @@
 {
   "name": "libreflow",
-  "version": "2.12.5",
+  "version": "2.12.6",
   "summary": "An example flow for kabaret",
   "author": "Flavio Perez",
   "license": "LGPLv3+",
   "home_page": "https://gitlab.com/lfs.coop/libreflow",
-  "download_filename": "libreflow-2.12.5.tar.gz",
-  "download_time": "2025-11-06T09:45:28.096973",
+  "download_filename": "libreflow-2.12.6.tar.gz",
+  "download_time": "2025-11-07T11:27:54.213991",
   "package_url": "https://pypi.org/project/libreflow/"
 }

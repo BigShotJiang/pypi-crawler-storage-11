@@ -1,0 +1,11 @@
+{
+  "name": "yayaml",
+  "version": "0.2.4",
+  "summary": "yayaml makes yaml nicer. yay!",
+  "author": "Yunus Sevinchan",
+  "license": null,
+  "home_page": "https://gitlab.com/blsqr/yayaml",
+  "download_filename": "yayaml-0.2.4.tar.gz",
+  "download_time": "2025-11-07T11:28:19.281464",
+  "package_url": "https://pypi.org/project/yayaml/"
+}

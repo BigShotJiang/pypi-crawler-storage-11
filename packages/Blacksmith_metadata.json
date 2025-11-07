@@ -1,0 +1,11 @@
+{
+  "name": "Blacksmith",
+  "version": "4.1.2",
+  "summary": "REST API Client designed for microservices",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "blacksmith-4.1.2.tar.gz",
+  "download_time": "2025-11-07T11:28:06.167700",
+  "package_url": "https://pypi.org/project/Blacksmith/"
+}

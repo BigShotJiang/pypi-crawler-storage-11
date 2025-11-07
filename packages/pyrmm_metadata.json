@@ -1,0 +1,11 @@
+{
+  "name": "pyrmm",
+  "version": "0.3.6",
+  "summary": "Magisk/Apatch/Kernelsu模块的工具集",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/LIghtJUNction/RootManageModuleModel",
+  "download_filename": "pyrmm-0.3.6.tar.gz",
+  "download_time": "2025-11-07T11:27:51.496662",
+  "package_url": "https://pypi.org/project/pyrmm/"
+}

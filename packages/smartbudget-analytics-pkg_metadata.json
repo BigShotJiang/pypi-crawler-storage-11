@@ -1,0 +1,11 @@
+{
+  "name": "smartbudget-analytics-pkg",
+  "version": "0.1.0",
+  "summary": "Reusable budget projections & anomaly checks for Spendwise",
+  "author": "Manojkumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartbudget_analytics_pkg-0.1.0.tar.gz",
+  "download_time": "2025-11-07T11:27:58.427256",
+  "package_url": "https://pypi.org/project/smartbudget-analytics-pkg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "strvcf-annotator",
+  "version": "0.1.0",
+  "summary": "STR annotation tool for VCF files",
+  "author": "Olesia Kondrateva",
+  "license": "MIT",
+  "home_page": "https://github.com/KondratievaOlesya/strvcf_annotator",
+  "download_filename": "strvcf_annotator-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-07T11:28:16.722294",
+  "package_url": "https://pypi.org/project/strvcf-annotator/"
+}
