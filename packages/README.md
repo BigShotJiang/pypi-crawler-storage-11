@@ -1,12 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T21:32:08.706154
+- **Download Time**: 2025-11-07T21:46:00.470485
 - **Total Packages**: 83
-- **Total Size**: 17.85 MB
+- **Total Size**: 17.59 MB
 
 ## Packages List
+- coaiapy-mcp
+- coaiapy
+- ivolatility-backtesting
+- kishu
 - nkunyim-util
+- aristotlelib
+- NEMO-billing
+- mxx-tool
+- olog-tool
+- foundationallm-agent-plugins
+- remixtree
+- fusion-tools
+- modal
+- tempo-ql
+- javacore-analyser
+- aponyx
+- databudgie
+- NREL-COMPASS
+- dbt-adapters
+- mysql-ch-replicator
+- django-affiliate-system
+- nexusai
+- synth-ai
+- email-manager
+- bifacial-radiance
+- triton-python-backend-mock-utils
+- megatron-core
+- megatron-fsdp
+- jp_tools
+- adv-optm
+- stocktrim-mcp-server
+- py3dcal
+- MPh
+- sambanova
+- powerplatform-management
+- centralized-llm-client
+- dbt-tests-adapter
+- masterframework
+- materialdash
+- my-exes
+- spinal-tap
+- beekeeper-monitors-watsonx
+- formidable
 - pyontoenv
 - sembicho-cli
 - rustest
@@ -14,13 +56,10 @@
 - openremote-client
 - toml-rs
 - mcp-checkpoint
-- fusion-tools
 - pygments-pytest
 - eink-template-gen
-- mxx-tool
 - pipecat-ai
 - fastapi-mongo-admin
-- masterframework
 - orcheo-sdk
 - orcheo-backend
 - sia-script
@@ -50,42 +89,3 @@
 - increase
 - divide21env
 - anyt
-- jayrock
-- wapiti3
-- itp-interface
-- serieux
-- onec-codetemplate-parser
-- philipstv-gui
-- coaiapy-mcp
-- codeflare-sdk
-- bebms
-- coaiapy
-- patch-api
-- nvidia-nat-llama-index
-- lbt-dragonfly
-- nvidia-nat-s3
-- nvidia-nat
-- nvidia-nat-all
-- nvidia-nat-weave
-- umlshapes
-- amalgam-lang
-- domru-client
-- nvidia-nat-adk
-- torchlanc
-- optiwindnet
-- lbt-honeybee
-- nvidia-nat-mem0ai
-- autodoc-ai-paudelnirajan
-- nvidia-nat-zep-cloud
-- vogel-video-analyzer
-- ratio1
-- nvidia-nat-mcp
-- klyne
-- nvidia-nat-phoenix
-- dragonfly-energy
-- tsuchinoko
-- hzclient
-- mas-cli
-- ibm-watsonx-orchestrate-mcp-server
-- ibm-watsonx-orchestrate
-- langgraph-runtime-inmem

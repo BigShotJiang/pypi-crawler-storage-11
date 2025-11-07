@@ -1,11 +1,11 @@
 {
   "name": "py3dcal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": null,
   "author": "Rohan Kota",
   "license": "MIT",
   "home_page": "https://github.com/rohankotanu/py3DCal",
-  "download_filename": "py3dcal-1.0.3.tar.gz",
-  "download_time": "2025-11-05T21:21:42.390278",
+  "download_filename": "py3dcal-1.0.4.tar.gz",
+  "download_time": "2025-11-07T21:45:32.991224",
   "package_url": "https://pypi.org/project/py3dcal/"
 }

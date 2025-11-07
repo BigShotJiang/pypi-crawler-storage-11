@@ -1,11 +1,11 @@
 {
   "name": "formidable",
-  "version": "0.10",
+  "version": "0.11",
   "summary": "A small but powerful library for processing web forms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "formidable-0.10.tar.gz",
-  "download_time": "2025-11-06T17:46:39.808489",
+  "download_filename": "formidable-0.11.tar.gz",
+  "download_time": "2025-11-07T21:45:39.148059",
   "package_url": "https://pypi.org/project/formidable/"
 }
