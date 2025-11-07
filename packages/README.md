@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T23:21:37.054865
-- **Total Packages**: 91
-- **Total Size**: 4.16 MB
+- **Download Time**: 2025-11-07T23:42:09.304099
+- **Total Packages**: 86
+- **Total Size**: 25.31 MB
 
 ## Packages List
+- fastcore
+- picopg
+- quickhost-aws
+- deployml-core
+- sec2md
+- visage
+- pvw-cli
+- curvpyutils
+- partial-tables
+- crystalwindow
+- kompos
+- jitx
+- workflows-mcp
+- gybe
+- humalab
+- socketsecurity
+- ome-arrow
+- pytimetk
+- dogonnet
+- eink-template-gen
+- esprit-py
+- flwr-nightly
+- wyoming-piper
+- plexmix
+- langchain
+- ob-project-utils
+- passphera-shell
+- dialoghelper
+- skypilot-nightly
+- audio-metatag
+- sleipnirgroup-jormungandr
+- fouriercoint
+- azure-ai-agentserver-core
+- easy-bitrix
+- domru-client
+- agent-framework-azurefunctions
+- duplicaid
+- fraiseql
+- mdopt
+- rds-proxy-password-rotation
+- increase
+- chainlit
 - orso
 - geostatspy
 - methodnetworkscan
@@ -25,9 +67,7 @@
 - filestore
 - feldera
 - fastfeatures
-- fouriercoint
 - rya
-- humalab
 - suclepy
 - GeneralManager
 - silverback
@@ -36,7 +76,6 @@
 - hitoshura25-mcp-server-generator
 - fin-infra
 - robotframework-confluentkafkalibrary
-- passphera-shell
 - archetypeai
 - mdformat-py-edu-fr
 - glob2regex
@@ -53,47 +92,3 @@
 - chia-rs
 - aegon
 - madsci.experiment_application
-- madsci.data_manager
-- madsci.workcell_manager
-- madsci.experiment_manager
-- madsci.resource_manager
-- madsci.event_manager
-- madsci.node_module
-- madsci.client
-- madsci.common
-- orb-billing
-- ezmq
-- gyp-next
-- langchain-core
-- AgentToolProtocol
-- wigglystuff
-- pulumi-provider-boilerplate
-- cybrid-api-bank-python
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- diffpy.distanceprinter
-- megadetector-utils
-- megadetector
-- mujoco-usd-converter
-- igs-slm
-- genepy-cli
-- omdev-cli
-- omextra-cext
-- omlish-cext
-- omdev
-- omserv
-- omlish
-- omextra
-- omdev-cext
-- ommlds-rs
-- ominfra
-- ommlds
-- omdev-rs
-- fastpubsub
-- pytemplify
-- innerloop
-- letta-client
-- verifiers
-- skald-sdk
-- pyrepl-hacks
-- retromol

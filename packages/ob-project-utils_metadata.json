@@ -1,11 +1,11 @@
 {
   "name": "ob-project-utils",
-  "version": "0.1.46",
+  "version": "0.2.0",
   "summary": "Utilities for Outerbounds projects",
   "author": "Ville Tuulos",
   "license": null,
   "home_page": null,
-  "download_filename": "ob_project_utils-0.1.46.tar.gz",
-  "download_time": "2025-11-07T04:46:41.201978",
+  "download_filename": "ob_project_utils-0.2.0.tar.gz",
+  "download_time": "2025-11-07T23:41:33.372702",
   "package_url": "https://pypi.org/project/ob-project-utils/"
 }

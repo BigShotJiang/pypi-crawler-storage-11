@@ -1,0 +1,11 @@
+{
+  "name": "audio-metatag",
+  "version": "0.1.4",
+  "summary": "Clean metadata and tag audio files (MP3, FLAC, Ogg Vorbis)",
+  "author": "Corey Goldberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "audio_metatag-0.1.4.tar.gz",
+  "download_time": "2025-11-07T23:41:35.694444",
+  "package_url": "https://pypi.org/project/audio-metatag/"
+}

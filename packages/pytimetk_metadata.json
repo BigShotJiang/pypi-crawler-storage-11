@@ -1,11 +1,11 @@
 {
   "name": "pytimetk",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "The time series toolkit for Python.",
   "author": "Business Science",
   "license": "MIT",
   "home_page": "https://business-science.github.io/pytimetk/",
-  "download_filename": "pytimetk-2.3.0.tar.gz",
-  "download_time": "2025-11-05T22:55:41.146981",
+  "download_filename": "pytimetk-2.4.0.tar.gz",
+  "download_time": "2025-11-07T23:41:28.703965",
   "package_url": "https://pypi.org/project/pytimetk/"
 }
