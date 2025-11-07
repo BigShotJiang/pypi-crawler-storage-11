@@ -1,0 +1,11 @@
+{
+  "name": "sceneprogllm",
+  "version": "0.2.0",
+  "summary": "An LLM wrapper built for scene prog projects",
+  "author": "Kunal Gupta",
+  "license": null,
+  "home_page": "https://github.com/KunalMGupta/sceneprogllm.git",
+  "download_filename": "sceneprogllm-0.2.0.tar.gz",
+  "download_time": "2025-11-07T19:20:17.011542",
+  "package_url": "https://pypi.org/project/sceneprogllm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gcloud-aio-storage",
+  "version": "9.6.1",
+  "summary": "Python Client for Google Cloud Storage",
+  "author": "Vi Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/talkiq/gcloud-aio",
+  "download_filename": "gcloud_aio_storage-9.6.1.tar.gz",
+  "download_time": "2025-11-07T19:20:08.939555",
+  "package_url": "https://pypi.org/project/gcloud-aio-storage/"
+}

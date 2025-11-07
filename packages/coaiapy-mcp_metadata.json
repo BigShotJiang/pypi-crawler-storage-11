@@ -1,11 +1,11 @@
 {
   "name": "coaiapy-mcp",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "MCP (Model Context Protocol) wrapper for coaiapy observability toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coaiapy_mcp-0.1.10.tar.gz",
-  "download_time": "2025-11-01T16:41:47.979137",
+  "download_filename": "coaiapy_mcp-0.1.11.tar.gz",
+  "download_time": "2025-11-07T19:19:52.782691",
   "package_url": "https://pypi.org/project/coaiapy-mcp/"
 }

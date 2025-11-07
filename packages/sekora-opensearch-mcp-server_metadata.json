@@ -1,0 +1,11 @@
+{
+  "name": "sekora-opensearch-mcp-server",
+  "version": "0.4.0",
+  "summary": "OpenSearch MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sekora_opensearch_mcp_server-0.4.0.tar.gz",
+  "download_time": "2025-11-07T19:19:54.348179",
+  "package_url": "https://pypi.org/project/sekora-opensearch-mcp-server/"
+}

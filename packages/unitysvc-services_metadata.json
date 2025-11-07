@@ -1,11 +1,11 @@
 {
   "name": "unitysvc-services",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "SDK for digital service providers on UnitySVC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unitysvc_services-0.1.12.tar.gz",
-  "download_time": "2025-11-04T01:44:22.860231",
+  "download_filename": "unitysvc_services-0.1.14.tar.gz",
+  "download_time": "2025-11-07T19:20:14.344437",
   "package_url": "https://pypi.org/project/unitysvc-services/"
 }

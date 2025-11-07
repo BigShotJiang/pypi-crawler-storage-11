@@ -1,0 +1,11 @@
+{
+  "name": "elt-dagster-ext",
+  "version": "1.0.0",
+  "summary": "`elt-dagster-ext` is a Meltano utility extension.",
+  "author": "Camis Inc",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "elt_dagster_ext-1.0.0.tar.gz",
+  "download_time": "2025-11-07T19:19:48.046868",
+  "package_url": "https://pypi.org/project/elt-dagster-ext/"
+}

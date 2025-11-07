@@ -1,0 +1,11 @@
+{
+  "name": "rectangle-packer",
+  "version": "2.0.5",
+  "summary": "Pack a set of rectangles into a bounding box with minimum area",
+  "author": "Daniel Andersson",
+  "license": "MIT",
+  "home_page": "https://github.com/Penlect/rectangle-packer",
+  "download_filename": "rectangle_packer-2.0.5.tar.gz",
+  "download_time": "2025-11-07T19:20:16.484566",
+  "package_url": "https://pypi.org/project/rectangle-packer/"
+}

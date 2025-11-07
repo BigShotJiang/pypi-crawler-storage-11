@@ -1,0 +1,11 @@
+{
+  "name": "sklearn-raster",
+  "version": "0.1.0.dev1",
+  "summary": "Spatial raster prediction with scikit-learn estimators.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sklearn_raster-0.1.0.dev1.tar.gz",
+  "download_time": "2025-11-07T19:20:15.955309",
+  "package_url": "https://pypi.org/project/sklearn-raster/"
+}
