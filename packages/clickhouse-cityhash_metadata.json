@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse-cityhash",
+  "version": "1.0.2.5",
+  "summary": "Python-bindings for CityHash, a fast non-cryptographic hash algorithm",
+  "author": "Alexander [Amper] Marshalov",
+  "license": "MIT",
+  "home_page": "https://github.com/xzkostyan/clickhouse-cityhash",
+  "download_filename": "clickhouse_cityhash-1.0.2.5-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-07T13:58:42.421153",
+  "package_url": "https://pypi.org/project/clickhouse-cityhash/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dfm-python",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Dynamic Factor Model (DFM) estimation and nowcasting in Python",
   "author": "DFM Python Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dfm_python-0.1.4.tar.gz",
-  "download_time": "2025-11-07T11:54:46.591982",
+  "download_filename": "dfm_python-0.1.6.tar.gz",
+  "download_time": "2025-11-07T13:58:40.786902",
   "package_url": "https://pypi.org/project/dfm-python/"
 }

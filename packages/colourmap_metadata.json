@@ -1,0 +1,11 @@
+{
+  "name": "colourmap",
+  "version": "1.2.1",
+  "summary": "Python package colourmap generates an N unique colors from the specified input colormap.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "colourmap-1.2.1.tar.gz",
+  "download_time": "2025-11-07T13:59:29.504413",
+  "package_url": "https://pypi.org/project/colourmap/"
+}

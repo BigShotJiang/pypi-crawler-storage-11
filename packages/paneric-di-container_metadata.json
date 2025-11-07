@@ -1,0 +1,11 @@
+{
+  "name": "paneric-di-container",
+  "version": "1.0.0",
+  "summary": "A simple dependency injection container.",
+  "author": "Tomasz Januszewicz",
+  "license": null,
+  "home_page": "https://gitlab.com/python5471645/libs/paneric-di-container",
+  "download_filename": "paneric_di_container-1.0.0.tar.gz",
+  "download_time": "2025-11-07T13:59:23.280207",
+  "package_url": "https://pypi.org/project/paneric-di-container/"
+}

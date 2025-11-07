@@ -1,11 +1,11 @@
 {
   "name": "deepfabric",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "summary": "Large Scale Topic based Synthetic Data Generation for LLM Fine-Tuning & Training",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepfabric-3.1.0.tar.gz",
-  "download_time": "2025-11-01T21:16:17.163478",
+  "download_filename": "deepfabric-3.2.0.tar.gz",
+  "download_time": "2025-11-07T13:58:55.960298",
   "package_url": "https://pypi.org/project/deepfabric/"
 }
