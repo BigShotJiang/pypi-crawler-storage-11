@@ -1,0 +1,11 @@
+{
+  "name": "langchain-document-parser",
+  "version": "0.1.0",
+  "summary": "A document parser built with LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_document_parser-0.1.0.tar.gz",
+  "download_time": "2025-11-07T17:42:59.426663",
+  "package_url": "https://pypi.org/project/langchain-document-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sva-oauth-client",
+  "version": "1.0.0",
+  "summary": "Django package for integrating SVA (Secure Vault Authentication) OAuth provider",
+  "author": "SVA Team",
+  "license": "MIT",
+  "home_page": "https://github.com/getsva/sva-oauth-client",
+  "download_filename": "sva_oauth_client-1.0.0.tar.gz",
+  "download_time": "2025-11-07T17:43:14.871340",
+  "package_url": "https://pypi.org/project/sva-oauth-client/"
+}

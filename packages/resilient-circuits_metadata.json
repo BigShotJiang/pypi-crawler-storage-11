@@ -1,11 +1,11 @@
 {
   "name": "resilient-circuits",
-  "version": "51.0.7.1.15755",
+  "version": "51.0.7.1.16191",
   "summary": "Framework used to run IBM SOAR Apps and Integrations",
   "author": "IBM SOAR",
   "license": "MIT",
   "home_page": "https://github.com/ibmresilient/resilient-python-api/tree/main/resilient-circuits",
-  "download_filename": "resilient_circuits-51.0.7.1.15755.tar.gz",
-  "download_time": "2025-11-04T13:35:54.448086",
+  "download_filename": "resilient_circuits-51.0.7.1.16191.tar.gz",
+  "download_time": "2025-11-07T17:42:48.877061",
   "package_url": "https://pypi.org/project/resilient-circuits/"
 }

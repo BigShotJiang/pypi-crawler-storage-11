@@ -1,0 +1,11 @@
+{
+  "name": "pynecil",
+  "version": "4.2.1",
+  "summary": "Python library to communicate with Pinecil V2 soldering irons via Bluetooth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynecil-4.2.1.tar.gz",
+  "download_time": "2025-11-07T17:43:23.303818",
+  "package_url": "https://pypi.org/project/pynecil/"
+}

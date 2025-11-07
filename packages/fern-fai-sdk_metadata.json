@@ -1,11 +1,11 @@
 {
   "name": "fern-fai-sdk",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fern_fai_sdk-0.0.9.tar.gz",
-  "download_time": "2025-11-04T22:43:19.283025",
+  "download_filename": "fern_fai_sdk-0.0.10.tar.gz",
+  "download_time": "2025-11-07T17:43:12.245455",
   "package_url": "https://pypi.org/project/fern-fai-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "libnvme",
-  "version": "1.16",
+  "version": "1.16.1",
   "summary": "python bindings for libnvme",
   "author": null,
   "license": "LGPL-2.1-or-later",
   "home_page": null,
-  "download_filename": "libnvme-1.16.tar.gz",
-  "download_time": "2025-11-04T09:45:31.951122",
+  "download_filename": "libnvme-1.16.1.tar.gz",
+  "download_time": "2025-11-07T17:43:21.738895",
   "package_url": "https://pypi.org/project/libnvme/"
 }

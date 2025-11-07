@@ -1,11 +1,11 @@
 {
   "name": "resilient-sdk",
-  "version": "51.0.7.1.15755",
+  "version": "51.0.7.1.16191",
   "summary": "Python SDK for developing Apps for IBM SOAR",
   "author": "IBM SOAR",
   "license": "MIT",
   "home_page": "https://github.com/ibmresilient/resilient-python-api/tree/main/resilient-sdk",
-  "download_filename": "resilient_sdk-51.0.7.1.15755.tar.gz",
-  "download_time": "2025-11-04T13:35:53.425093",
+  "download_filename": "resilient_sdk-51.0.7.1.16191.tar.gz",
+  "download_time": "2025-11-07T17:42:47.828539",
   "package_url": "https://pypi.org/project/resilient-sdk/"
 }

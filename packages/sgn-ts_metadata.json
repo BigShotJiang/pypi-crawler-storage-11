@@ -1,0 +1,11 @@
+{
+  "name": "sgn-ts",
+  "version": "0.4.0",
+  "summary": "TimeSeries Extensions for SGN Framework",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "sgn_ts-0.4.0.tar.gz",
+  "download_time": "2025-11-07T17:42:54.159063",
+  "package_url": "https://pypi.org/project/sgn-ts/"
+}

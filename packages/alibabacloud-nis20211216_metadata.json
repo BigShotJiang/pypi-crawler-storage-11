@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-nis20211216",
+  "version": "2.2.3",
+  "summary": "Alibaba Cloud nis (20211216) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_nis20211216-2.2.3.tar.gz",
+  "download_time": "2025-11-07T17:43:01.531557",
+  "package_url": "https://pypi.org/project/alibabacloud-nis20211216/"
+}
