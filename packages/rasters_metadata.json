@@ -1,11 +1,11 @@
 {
   "name": "rasters",
-  "version": "1.15.1",
+  "version": "1.16.0",
   "summary": "raster processing toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rasters-1.15.1-py3-none-any.whl",
-  "download_time": "2025-11-06T20:26:29.834616",
+  "download_filename": "rasters-1.16.0-py3-none-any.whl",
+  "download_time": "2025-11-07T17:54:47.232695",
   "package_url": "https://pypi.org/project/rasters/"
 }

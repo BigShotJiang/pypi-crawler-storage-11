@@ -1,11 +1,11 @@
 {
   "name": "passagemath-mcqd",
-  "version": "10.6.32",
+  "version": "10.6.33",
   "summary": "passagemath: Finding maximum cliques with mcqd",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_mcqd-10.6.32-cp310-cp310-macosx_13_0_x86_64.whl",
-  "download_time": "2025-11-05T16:54:55.928193",
+  "download_filename": "passagemath_mcqd-10.6.33.tar.gz",
+  "download_time": "2025-11-07T17:55:12.455065",
   "package_url": "https://pypi.org/project/passagemath-mcqd/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mozart-api",
-  "version": "5.1.0.247.0",
+  "version": "5.1.0.247.1",
   "summary": "Mozart platform API",
   "author": "BangOlufsen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mozart_api-5.1.0.247.0.tar.gz",
-  "download_time": "2025-11-06T15:46:37.850415",
+  "download_filename": "mozart_api-5.1.0.247.1.tar.gz",
+  "download_time": "2025-11-07T17:54:47.743402",
   "package_url": "https://pypi.org/project/mozart-api/"
 }

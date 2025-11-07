@@ -1,11 +1,11 @@
 {
   "name": "passagemath-msolve",
-  "version": "10.6.32",
+  "version": "10.6.33",
   "summary": "passagemath: Polynomial system solving through algebraic methods with msolve",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_msolve-10.6.32-cp310-cp310-macosx_13_0_x86_64.whl",
-  "download_time": "2025-11-05T16:54:53.694428",
+  "download_filename": "passagemath_msolve-10.6.33.tar.gz",
+  "download_time": "2025-11-07T17:55:10.781849",
   "package_url": "https://pypi.org/project/passagemath-msolve/"
 }

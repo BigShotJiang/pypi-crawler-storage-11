@@ -1,11 +1,11 @@
 {
   "name": "mujoco-ar-viewer",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "AR visualization for MuJoCo physics simulations",
   "author": "Improbable AI",
   "license": null,
   "home_page": null,
-  "download_filename": "mujoco_ar_viewer-0.4.0.tar.gz",
-  "download_time": "2025-11-07T17:42:44.073818",
+  "download_filename": "mujoco_ar_viewer-0.4.1.tar.gz",
+  "download_time": "2025-11-07T17:55:07.165194",
   "package_url": "https://pypi.org/project/mujoco-ar-viewer/"
 }

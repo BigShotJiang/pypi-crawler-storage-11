@@ -1,11 +1,11 @@
 {
   "name": "fuzzfetch",
-  "version": "15.0.1",
+  "version": "16.0.0",
   "summary": "Downloader for firefox/jsshell builds.",
   "author": null,
   "license": "MPL 2.0",
   "home_page": "https://github.com/MozillaSecurity/fuzzfetch",
-  "download_filename": "fuzzfetch-15.0.1.tar.gz",
-  "download_time": "2025-11-07T15:23:29.276482",
+  "download_filename": "fuzzfetch-16.0.0.tar.gz",
+  "download_time": "2025-11-07T17:54:48.322671",
   "package_url": "https://pypi.org/project/fuzzfetch/"
 }
