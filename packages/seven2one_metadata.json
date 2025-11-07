@@ -1,0 +1,11 @@
+{
+  "name": "seven2one",
+  "version": "9.3.1",
+  "summary": "Functions to interact with the Seven2one TechStack",
+  "author": "Seven2one Informationssysteme GmbH",
+  "license": "MIT",
+  "home_page": "http://www.seven2one.de",
+  "download_filename": "seven2one-9.3.1.tar.gz",
+  "download_time": "2025-11-07T18:50:50.919293",
+  "package_url": "https://pypi.org/project/seven2one/"
+}

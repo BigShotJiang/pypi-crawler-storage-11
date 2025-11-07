@@ -1,0 +1,11 @@
+{
+  "name": "spotipy-anon",
+  "version": "1.5.7",
+  "summary": "An extension to Spotipy for anonymous access to the Spotify Web API",
+  "author": "@dieserniko",
+  "license": "MIT",
+  "home_page": "https://github.com/dieser-niko/spotipy-anon",
+  "download_filename": "spotipy_anon-1.5.7.tar.gz",
+  "download_time": "2025-11-07T18:50:58.236596",
+  "package_url": "https://pypi.org/project/spotipy-anon/"
+}

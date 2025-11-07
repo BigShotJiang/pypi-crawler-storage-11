@@ -1,11 +1,11 @@
 {
   "name": "webb1",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Web Development Practical Notes: PHP, C#, ASP.NET",
   "author": "Unknown",
   "license": null,
   "home_page": null,
-  "download_filename": "webb1-0.3.3.tar.gz",
-  "download_time": "2025-11-07T18:31:40.065102",
+  "download_filename": "webb1-0.3.5.tar.gz",
+  "download_time": "2025-11-07T18:51:00.851923",
   "package_url": "https://pypi.org/project/webb1/"
 }

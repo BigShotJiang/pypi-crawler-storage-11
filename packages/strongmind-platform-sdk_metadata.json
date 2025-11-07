@@ -1,11 +1,11 @@
 {
   "name": "strongmind-platform-sdk",
-  "version": "3.9.3",
+  "version": "3.9.4",
   "summary": "Common utilities, models, and clients used with StrongMind Platform APIs",
   "author": "Team Platform",
   "license": null,
   "home_page": "https://github.com/StrongMind/platform-python-sdk",
-  "download_filename": "strongmind_platform_sdk-3.9.3.tar.gz",
-  "download_time": "2025-11-05T23:21:02.329225",
+  "download_filename": "strongmind_platform_sdk-3.9.4.tar.gz",
+  "download_time": "2025-11-07T18:50:50.395412",
   "package_url": "https://pypi.org/project/strongmind-platform-sdk/"
 }

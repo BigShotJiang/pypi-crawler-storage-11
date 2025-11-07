@@ -1,11 +1,11 @@
 {
   "name": "tnfr",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "summary": "Modular structural-based dynamics on networks.",
   "author": "fmg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tnfr-7.0.0.tar.gz",
-  "download_time": "2025-11-02T11:39:49.090871",
+  "download_filename": "tnfr-8.0.0.tar.gz",
+  "download_time": "2025-11-07T18:51:01.903474",
   "package_url": "https://pypi.org/project/tnfr/"
 }

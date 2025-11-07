@@ -1,0 +1,11 @@
+{
+  "name": "langchain-vdms",
+  "version": "0.2.0",
+  "summary": "An integration package connecting VDMS and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/IntelLabs/langchain-vdms",
+  "download_filename": "langchain_vdms-0.2.0.tar.gz",
+  "download_time": "2025-11-07T18:50:39.496441",
+  "package_url": "https://pypi.org/project/langchain-vdms/"
+}

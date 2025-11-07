@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-fnma",
+  "version": "2.1.0b1.dev0",
+  "summary": "Database Abstraction Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_fnma-2.1.0b1.dev0.tar.gz",
+  "download_time": "2025-11-07T18:50:45.683457",
+  "package_url": "https://pypi.org/project/sqlalchemy-fnma/"
+}
