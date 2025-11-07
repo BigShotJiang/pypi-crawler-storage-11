@@ -1,0 +1,11 @@
+{
+  "name": "yt-hd-dl",
+  "version": "0.1.1",
+  "summary": "A Python library to download YouTube videos in HD MP4 and MP3 formats",
+  "author": "DNhacker",
+  "license": "MIT",
+  "home_page": "https://github.com/DNhacker/yt-dl",
+  "download_filename": "yt_hd_dl-0.1.1.tar.gz",
+  "download_time": "2025-11-07T15:56:34.791876",
+  "package_url": "https://pypi.org/project/yt-hd-dl/"
+}

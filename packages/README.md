@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T15:44:37.548548
-- **Total Packages**: 84
-- **Total Size**: 20.11 MB
+- **Download Time**: 2025-11-07T15:57:00.051815
+- **Total Packages**: 88
+- **Total Size**: 30.64 MB
 
 ## Packages List
+- hards
+- airflow-provider-ducklake
+- cad-to-dagmc
+- yymake
+- labonneboite-datamodel
+- memprod
+- claude-mpm
+- coffee-grinds
+- gamma-desk
+- epicallypowerful
+- snakemake
+- amulet-anvil
+- odoo-addon-web-form-banner
+- wool
+- odoo-addon-web-chatter-position
+- pyfsviz
+- pei-docker
+- olas-operate-middleware
+- kadoa_sdk
+- alprina-cli
+- squirrels
+- vnlunar
+- pipelex
+- mcp-scan
+- awsreplicate
+- odoo-addon-l10n-es-ticketbai-pos
+- odoo-addon-l10n-es-ticketbai-api
+- odoo-addon-l10n-es-ticketbai
+- amulet-resource-pack
+- opentargets-otter
+- exsite
+- pyqrackising
+- pacu-snp
+- korea-investment-stock
+- behave-test-recorder
+- stuzha
+- zyndai-agent
+- nl2sh
+- kpler-sdk
+- ipsl-ncdiff
+- yt-hd-dl
+- HorusAPI
+- langgraph-swarm
+- square-authentication
+- factory-bo
+- winipedia-utils
+- prediction-market-agent-tooling
 - yaml-syntax
 - blendsql
 - amulet-test-utils
@@ -35,7 +82,6 @@
 - bbblb
 - specklia
 - asebytes
-- pei-docker
 - fastapi-blocks-registry
 - halfred
 - besser
@@ -48,45 +94,3 @@
 - ods-tools
 - eodc-faas-openeo
 - jabs-mimir
-- flip-evaluator
-- arvi
-- reno-sd
-- zyndai-agent
-- arcane-core
-- podlens
-- wool
-- modal
-- kmtest
-- pvw-cli
-- edx-codejail
-- winipedia-utils
-- planqk-quantum
-- vid-cleaner
-- Typhoon-HIL-API
-- nati-log
-- rl-autoscale
-- integrate-ai
-- agentum
-- mcp-ticketer
-- je-load-density-dev
-- properpath
-- talentro-commons
-- wypp
-- TyphoonTest
-- megatron-core
-- megatron-fsdp
-- pymod112
-- bigeye-airflow
-- mortm
-- c2cwsgiutils
-- cybrid-api-bank-python
-- mcp-haystack
-- basketball-reference-webscrapper
-- routheon-server
-- cybrid-api-id-python
-- maps4fs
-- cybrid-api-organization-python
-- labelr
-- seshatdatasetanalysis
-- fers-calculations
-- agentshield

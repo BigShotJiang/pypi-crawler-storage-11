@@ -1,0 +1,11 @@
+{
+  "name": "factory-bo",
+  "version": "0.0.3",
+  "summary": "Electronic Document Management",
+  "author": "Stepan Lushchiy",
+  "license": null,
+  "home_page": "http://docs.budg.bars.group/factory_bo/",
+  "download_filename": "factory_bo-0.0.3.tar.gz",
+  "download_time": "2025-11-07T15:56:36.933858",
+  "package_url": "https://pypi.org/project/factory-bo/"
+}

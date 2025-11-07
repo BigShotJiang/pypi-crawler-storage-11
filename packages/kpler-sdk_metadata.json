@@ -1,0 +1,11 @@
+{
+  "name": "kpler-sdk",
+  "version": "1.0.62",
+  "summary": "A Python wrapper around the Kpler client API",
+  "author": "Kpler",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://github.com/kpler/python-sdk",
+  "download_filename": "kpler_sdk-1.0.62.tar.gz",
+  "download_time": "2025-11-07T15:56:33.771469",
+  "package_url": "https://pypi.org/project/kpler-sdk/"
+}

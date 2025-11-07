@@ -1,0 +1,11 @@
+{
+  "name": "behave-test-recorder",
+  "version": "0.0.5",
+  "summary": "Electronic Document Management",
+  "author": "Stepan Lushchiy",
+  "license": null,
+  "home_page": "http://docs.budg.bars.group/behave_test_recorder/",
+  "download_filename": "behave_test_recorder-0.0.5.tar.gz",
+  "download_time": "2025-11-07T15:56:31.727475",
+  "package_url": "https://pypi.org/project/behave-test-recorder/"
+}
