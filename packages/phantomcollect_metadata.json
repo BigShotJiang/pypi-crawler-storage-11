@@ -1,0 +1,11 @@
+{
+  "name": "phantomcollect",
+  "version": "1.0.0",
+  "summary": "Advanced Stealth Web Data Collection Framework",
+  "author": "xsser01",
+  "license": null,
+  "home_page": "https://github.com/xsser01/phantomcollect",
+  "download_filename": "phantomcollect-1.0.0.tar.gz",
+  "download_time": "2025-11-07T14:57:15.306526",
+  "package_url": "https://pypi.org/project/phantomcollect/"
+}

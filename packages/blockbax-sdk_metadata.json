@@ -1,0 +1,11 @@
+{
+  "name": "blockbax-sdk",
+  "version": "1.5.0",
+  "summary": "Blockbax Python SDK",
+  "author": "Blockbax",
+  "license": "MIT",
+  "home_page": "https://blockbax.com/docs/integrations/python-sdk/",
+  "download_filename": "blockbax_sdk-1.5.0.tar.gz",
+  "download_time": "2025-11-07T14:57:21.361518",
+  "package_url": "https://pypi.org/project/blockbax-sdk/"
+}

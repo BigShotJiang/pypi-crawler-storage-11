@@ -1,0 +1,11 @@
+{
+  "name": "aipype",
+  "version": "0.1.0a5",
+  "summary": "A modular AI agent framework with declarative pipeline-based task orchestration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aipype-0.1.0a5.tar.gz",
+  "download_time": "2025-11-07T14:57:24.149359",
+  "package_url": "https://pypi.org/project/aipype/"
+}

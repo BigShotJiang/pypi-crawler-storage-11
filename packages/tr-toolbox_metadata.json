@@ -1,0 +1,11 @@
+{
+  "name": "tr-toolbox",
+  "version": "0.0.1",
+  "summary": "Türkçe metin işlemleri ve URL slug için yardımcı araçlar.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tr_toolbox-0.0.1.tar.gz",
+  "download_time": "2025-11-07T14:57:27.983802",
+  "package_url": "https://pypi.org/project/tr-toolbox/"
+}

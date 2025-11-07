@@ -1,0 +1,11 @@
+{
+  "name": "crypto-licensing",
+  "version": "5.2.3",
+  "summary": "The crypto-licensing module implements Ed25519-signed license checking and automatic issuance after cryptocurrency payment",
+  "author": "Perry Kundert",
+  "license": "Dual License; GPLv3 and Proprietary",
+  "home_page": "https://github.com/pjkundert/crypto-licensing",
+  "download_filename": "crypto_licensing-5.2.3.tar.gz",
+  "download_time": "2025-11-07T14:57:38.693919",
+  "package_url": "https://pypi.org/project/crypto-licensing/"
+}

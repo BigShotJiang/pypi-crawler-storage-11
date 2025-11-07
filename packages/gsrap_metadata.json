@@ -1,11 +1,11 @@
 {
   "name": "gsrap",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": null,
   "author": "Gioele Lazzari",
   "license": "GNU General Public License v3.0",
   "home_page": null,
-  "download_filename": "gsrap-0.8.0.tar.gz",
-  "download_time": "2025-11-05T10:48:06.470187",
+  "download_filename": "gsrap-0.8.1.tar.gz",
+  "download_time": "2025-11-07T14:57:49.961299",
   "package_url": "https://pypi.org/project/gsrap/"
 }
