@@ -1,0 +1,11 @@
+{
+  "name": "pylib-autogptkit",
+  "version": "0.1.0",
+  "summary": "Build agent workflows with memory & tools. Autonomous AI agents toolkit. Perfect for AI agents and LLM applications.",
+  "author": "pylib-autogptkit",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_autogptkit-0.1.0.tar.gz",
+  "download_time": "2025-11-07T03:05:07.275395",
+  "package_url": "https://pypi.org/project/pylib-autogptkit/"
+}

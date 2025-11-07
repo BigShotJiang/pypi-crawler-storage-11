@@ -1,11 +1,11 @@
 {
   "name": "deep-dive-logger",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A colorful and feature-rich logging utility for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deep_dive_logger-0.1.2.tar.gz",
-  "download_time": "2025-11-06T22:57:43.724800",
+  "download_filename": "deep_dive_logger-0.1.3.tar.gz",
+  "download_time": "2025-11-07T03:05:26.615267",
   "package_url": "https://pypi.org/project/deep-dive-logger/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "anastruct",
+  "version": "1.6.2",
+  "summary": "Finite element analysis of 2D structures",
+  "author": "Ritchie Vink",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "anastruct-1.6.2.tar.gz",
+  "download_time": "2025-11-07T03:05:02.961752",
+  "package_url": "https://pypi.org/project/anastruct/"
+}

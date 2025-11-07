@@ -1,11 +1,11 @@
 {
   "name": "libdatachannel-py",
-  "version": "2025.1.0.dev18",
+  "version": "2025.1.0.dev19",
   "summary": "libdatachannel-py is a Python binding for libdatachannel.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/shiguredo/libdatachannel-py",
-  "download_filename": "libdatachannel_py-2025.1.0.dev18.tar.gz",
-  "download_time": "2025-11-07T01:43:54.546267",
+  "download_filename": "libdatachannel_py-2025.1.0.dev19.tar.gz",
+  "download_time": "2025-11-07T03:05:05.343022",
   "package_url": "https://pypi.org/project/libdatachannel-py/"
 }

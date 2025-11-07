@@ -1,0 +1,11 @@
+{
+  "name": "ast-grep-cli",
+  "version": "0.39.9",
+  "summary": "Structural Search and Rewrite code at large scale using precise AST pattern.",
+  "author": null,
+  "license": null,
+  "home_page": "https://ast-grep.github.io/",
+  "download_filename": "ast_grep_cli-0.39.9.tar.gz",
+  "download_time": "2025-11-07T03:05:18.960525",
+  "package_url": "https://pypi.org/project/ast-grep-cli/"
+}

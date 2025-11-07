@@ -1,11 +1,11 @@
 {
   "name": "rabbit-bq-job-optimizer",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "Python client for Rabbit BigQuery Job Optimizer API",
   "author": "Rabbit Team",
   "license": null,
   "home_page": "https://github.com/followrabbit-ai/python-bq-job-optimizer",
-  "download_filename": "rabbit_bq_job_optimizer-0.1.14.tar.gz",
-  "download_time": "2025-11-06T11:42:09.194188",
+  "download_filename": "rabbit_bq_job_optimizer-0.1.16.tar.gz",
+  "download_time": "2025-11-07T03:05:21.474305",
   "package_url": "https://pypi.org/project/rabbit-bq-job-optimizer/"
 }

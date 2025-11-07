@@ -1,0 +1,11 @@
+{
+  "name": "doggonet",
+  "version": "0.1.0",
+  "summary": "AI-friendly Datadog dashboard templating library using Jsonnet - create beautiful dashboards from natural language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doggonet-0.1.0.tar.gz",
+  "download_time": "2025-11-07T03:05:45.627115",
+  "package_url": "https://pypi.org/project/doggonet/"
+}

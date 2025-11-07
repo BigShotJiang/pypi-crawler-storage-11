@@ -1,11 +1,11 @@
 {
   "name": "pyln-proto",
-  "version": "25.9.2",
+  "version": "25.9.3",
   "summary": "This package implements some of the Lightning Network protocol in pure python. It is intended for protocol testing and some minor tooling only. It is not deemed secure enough to handle any amount of real funds (you have been warned!).",
   "author": null,
   "license": "BSD-MIT",
   "home_page": null,
-  "download_filename": "pyln_proto-25.9.2.tar.gz",
-  "download_time": "2025-11-04T06:33:58.307537",
+  "download_filename": "pyln_proto-25.9.3.tar.gz",
+  "download_time": "2025-11-07T03:05:50.669077",
   "package_url": "https://pypi.org/project/pyln-proto/"
 }
