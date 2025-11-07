@@ -1,11 +1,11 @@
 {
   "name": "dragohan-grimoire",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "AI Automation Grimoire - JSON mastery & file handling made dead simple",
   "author": "DragoHan",
   "license": null,
   "home_page": "https://github.com/farhanistopG1/my_grimoire",
-  "download_filename": "dragohan_grimoire-1.0.4.tar.gz",
-  "download_time": "2025-11-06T14:22:58.908721",
+  "download_filename": "dragohan_grimoire-1.0.5.tar.gz",
+  "download_time": "2025-11-07T08:30:54.340256",
   "package_url": "https://pypi.org/project/dragohan-grimoire/"
 }

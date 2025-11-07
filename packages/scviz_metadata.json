@@ -1,0 +1,11 @@
+{
+  "name": "scviz",
+  "version": "0.1.10",
+  "summary": "A package to visualize single cell proteomics (and more to come!) data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scviz-0.1.10.tar.gz",
+  "download_time": "2025-11-07T08:31:15.369247",
+  "package_url": "https://pypi.org/project/scviz/"
+}

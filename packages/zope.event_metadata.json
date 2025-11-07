@@ -1,0 +1,11 @@
+{
+  "name": "zope.event",
+  "version": "6.1",
+  "summary": "Very basic event publishing system",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.event",
+  "download_filename": "zope_event-6.1.tar.gz",
+  "download_time": "2025-11-07T08:31:25.789829",
+  "package_url": "https://pypi.org/project/zope.event/"
+}

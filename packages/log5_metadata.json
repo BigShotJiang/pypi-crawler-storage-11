@@ -1,0 +1,11 @@
+{
+  "name": "log5",
+  "version": "1.0.0",
+  "summary": "Output logs",
+  "author": "Hai Liang Wang",
+  "license": "Chunsong Public License, version 1.0",
+  "home_page": "https://github.com/hailiang-wang/python-log5",
+  "download_filename": "log5-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-07T08:31:26.849112",
+  "package_url": "https://pypi.org/project/log5/"
+}

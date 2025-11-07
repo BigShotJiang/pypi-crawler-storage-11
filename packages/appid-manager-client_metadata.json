@@ -1,0 +1,11 @@
+{
+  "name": "appid-manager-client",
+  "version": "1.0.0",
+  "summary": "AppID Management Client SDK for Python",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/your-username/appid-manager-client",
+  "download_filename": "appid_manager_client-1.0.0.tar.gz",
+  "download_time": "2025-11-07T08:31:22.155917",
+  "package_url": "https://pypi.org/project/appid-manager-client/"
+}

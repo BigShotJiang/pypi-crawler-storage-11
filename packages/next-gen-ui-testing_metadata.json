@@ -1,0 +1,11 @@
+{
+  "name": "next-gen-ui-testing",
+  "version": "0.3.0",
+  "summary": "Testing data Next Gen UI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RedHat-UX/next-gen-ui-agent",
+  "download_filename": "next_gen_ui_testing-0.3.0-py3-none-any.whl",
+  "download_time": "2025-11-07T08:31:00.635461",
+  "package_url": "https://pypi.org/project/next-gen-ui-testing/"
+}

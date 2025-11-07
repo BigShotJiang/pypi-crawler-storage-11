@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-salesperson-planner",
+  "version": "18.0.1.0.0.2",
+  "summary": "Crm Salesperson Planner",
+  "author": "Sygel Technology,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/crm",
+  "download_filename": "odoo_addon_crm_salesperson_planner-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-07T08:31:16.927693",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-salesperson-planner/"
+}

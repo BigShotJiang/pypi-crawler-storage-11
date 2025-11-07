@@ -1,11 +1,11 @@
 {
   "name": "mibale",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "summary": "Vue.js-like mobile framework in Python - Build native mobile apps with Python",
   "author": "gedeon-kay",
   "license": "MIT",
   "home_page": "https://github.com/votre-username/mibale",
-  "download_filename": "mibale-1.0.2.tar.gz",
-  "download_time": "2025-11-06T23:41:41.974669",
+  "download_filename": "mibale-1.1.2.tar.gz",
+  "download_time": "2025-11-07T08:31:28.935200",
   "package_url": "https://pypi.org/project/mibale/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-judge",
+  "version": "0.1.4",
+  "summary": "An interactive application for testing MCP tools.",
+  "author": "Nilavo Boral",
+  "license": null,
+  "home_page": "https://github.com/NilavoBoral/mcp-judge",
+  "download_filename": "mcp_judge-0.1.4.tar.gz",
+  "download_time": "2025-11-07T08:31:21.105601",
+  "package_url": "https://pypi.org/project/mcp-judge/"
+}

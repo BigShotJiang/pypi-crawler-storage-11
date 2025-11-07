@@ -1,0 +1,11 @@
+{
+  "name": "next-gen-ui-rhds-renderer",
+  "version": "0.3.0",
+  "summary": "RHDS Extension for Next Gen UI Agent",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RedHat-UX/next-gen-ui-agent",
+  "download_filename": "next_gen_ui_rhds_renderer-0.3.0-py3-none-any.whl",
+  "download_time": "2025-11-07T08:31:01.153759",
+  "package_url": "https://pypi.org/project/next-gen-ui-rhds-renderer/"
+}

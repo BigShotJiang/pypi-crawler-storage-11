@@ -1,11 +1,11 @@
 {
   "name": "kmeans-seeding",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Fast k-means++ seeding algorithms with C++ implementation and Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kmeans_seeding-0.2.2.tar.gz",
-  "download_time": "2025-11-04T05:23:09.604880",
+  "download_filename": "kmeans_seeding-0.2.3.tar.gz",
+  "download_time": "2025-11-07T08:31:16.408392",
   "package_url": "https://pypi.org/project/kmeans-seeding/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "binance-async-client",
+  "version": "0.1.0",
+  "summary": "异步币安API客户端，支持现货和期货交易，内置智能限流器",
+  "author": "binance-async-client contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_async_client-0.1.0.tar.gz",
+  "download_time": "2025-11-07T08:31:34.160702",
+  "package_url": "https://pypi.org/project/binance-async-client/"
+}

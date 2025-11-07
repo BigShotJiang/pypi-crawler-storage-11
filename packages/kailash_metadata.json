@@ -1,11 +1,11 @@
 {
   "name": "kailash",
-  "version": "0.10.9",
+  "version": "0.10.10",
   "summary": "Python SDK for the Kailash container-node architecture",
   "author": "Integrum",
   "license": "Apache-2.0 WITH Additional-Terms",
   "home_page": "https://github.com/integrum/kailash-python-sdk",
-  "download_filename": "kailash-0.10.9.tar.gz",
-  "download_time": "2025-11-07T05:44:45.192722",
+  "download_filename": "kailash-0.10.10.tar.gz",
+  "download_time": "2025-11-07T08:31:00.116604",
   "package_url": "https://pypi.org/project/kailash/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wxutil",
+  "version": "0.0.14",
+  "summary": "wechat utils.",
+  "author": "Msky",
+  "license": "MIT",
+  "home_page": "https://github.com/miloira/wxutil",
+  "download_filename": "wxutil-0.0.14.tar.gz",
+  "download_time": "2025-11-07T08:30:50.170467",
+  "package_url": "https://pypi.org/project/wxutil/"
+}
