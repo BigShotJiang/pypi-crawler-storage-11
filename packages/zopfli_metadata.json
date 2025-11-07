@@ -1,0 +1,11 @@
+{
+  "name": "zopfli",
+  "version": "0.3.0",
+  "summary": "Zopfli module for python",
+  "author": "Adam DePrince",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/fonttools/py-zopfli",
+  "download_filename": "zopfli-0.3.0.tar.gz",
+  "download_time": "2025-11-07T14:25:01.081141",
+  "package_url": "https://pypi.org/project/zopfli/"
+}

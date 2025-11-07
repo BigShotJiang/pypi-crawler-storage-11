@@ -1,0 +1,11 @@
+{
+  "name": "paperscraper",
+  "version": "0.3.3",
+  "summary": "paperscraper: Package to scrape papers.",
+  "author": "Jannis Born, Matteo Manica",
+  "license": "MIT",
+  "home_page": "https://github.com/jannisborn/paperscraper",
+  "download_filename": "paperscraper-0.3.3.tar.gz",
+  "download_time": "2025-11-07T14:25:41.498266",
+  "package_url": "https://pypi.org/project/paperscraper/"
+}

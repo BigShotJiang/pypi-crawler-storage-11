@@ -1,11 +1,11 @@
 {
   "name": "sema4ai-actions",
-  "version": "1.6.2",
+  "version": "1.6.4",
   "summary": "Sema4AI Actions",
   "author": "Sema4.ai Engineering",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Sema4AI/actions/",
-  "download_filename": "sema4ai_actions-1.6.2.tar.gz",
-  "download_time": "2025-11-04T07:53:06.353208",
+  "download_filename": "sema4ai_actions-1.6.4.tar.gz",
+  "download_time": "2025-11-07T14:25:05.232835",
   "package_url": "https://pypi.org/project/sema4ai-actions/"
 }

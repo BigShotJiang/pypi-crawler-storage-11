@@ -1,0 +1,11 @@
+{
+  "name": "m01.fs",
+  "version": "3.2.5",
+  "summary": "MongoDB file implementation wihtout gridfs for Zope3",
+  "author": "Roger Ineichen, Projekt01 GmbH",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/m01.fs",
+  "download_filename": "m01_fs-3.2.5.tar.gz",
+  "download_time": "2025-11-07T14:25:20.090674",
+  "package_url": "https://pypi.org/project/m01.fs/"
+}

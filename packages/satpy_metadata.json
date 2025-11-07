@@ -1,0 +1,11 @@
+{
+  "name": "satpy",
+  "version": "0.59.0",
+  "summary": "Python package for earth-observing satellite data processing",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "satpy-0.59.0.tar.gz",
+  "download_time": "2025-11-07T14:25:19.066087",
+  "package_url": "https://pypi.org/project/satpy/"
+}

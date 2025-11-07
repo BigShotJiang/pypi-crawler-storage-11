@@ -1,0 +1,11 @@
+{
+  "name": "pandora",
+  "version": "1.7.2",
+  "summary": "Pandora is a stereo matching framework that helps emulate state of the art algorithms",
+  "author": "CNES",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pandora-1.7.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-11-07T14:25:04.718605",
+  "package_url": "https://pypi.org/project/pandora/"
+}

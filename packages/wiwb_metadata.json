@@ -1,0 +1,11 @@
+{
+  "name": "wiwb",
+  "version": "2025.11.0",
+  "summary": "Python API to work with WIWB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wiwb-2025.11.0.tar.gz",
+  "download_time": "2025-11-07T14:25:02.619336",
+  "package_url": "https://pypi.org/project/wiwb/"
+}

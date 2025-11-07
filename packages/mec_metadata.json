@@ -1,11 +1,11 @@
 {
   "name": "mec",
-  "version": "0.226",
+  "version": "0.227",
   "summary": "description of the package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mec-0.226.tar.gz",
-  "download_time": "2025-11-07T13:59:11.741279",
+  "download_filename": "mec-0.227.tar.gz",
+  "download_time": "2025-11-07T14:25:40.436721",
   "package_url": "https://pypi.org/project/mec/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "arez-currency",
+  "version": "1.1.0",
+  "summary": "A simple asynchronous currency, gold, and crypto price fetcher for the Iranian market.",
+  "author": "AmirhosseinPython",
+  "license": "MIT",
+  "home_page": "https://github.com/amirhossinpython/arez_currency",
+  "download_filename": "arez_currency-1.1.0.tar.gz",
+  "download_time": "2025-11-07T14:25:06.827991",
+  "package_url": "https://pypi.org/project/arez-currency/"
+}
