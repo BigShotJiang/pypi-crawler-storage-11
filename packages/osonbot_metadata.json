@@ -1,11 +1,11 @@
 {
   "name": "osonbot",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "A simple and lightweight Telegram bot framework",
   "author": "https://t.me/jackson_rodger",
   "license": null,
   "home_page": "https://github.com/sinofarmonov323/osonbot",
-  "download_filename": "osonbot-1.1.6.tar.gz",
-  "download_time": "2025-11-04T04:24:50.050620",
+  "download_filename": "osonbot-1.1.7.tar.gz",
+  "download_time": "2025-11-07T08:53:35.418121",
   "package_url": "https://pypi.org/project/osonbot/"
 }

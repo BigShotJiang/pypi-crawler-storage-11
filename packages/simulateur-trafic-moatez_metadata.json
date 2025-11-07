@@ -1,0 +1,11 @@
+{
+  "name": "simulateur-trafic-moatez",
+  "version": "1.0.0",
+  "summary": "Simulateur de trafic routier avec gestion d'exceptions et tests complets",
+  "author": "Moatez Tilouche",
+  "license": "MIT",
+  "home_page": "https://github.com/MoatezTilouche/simulateur_trafic",
+  "download_filename": "simulateur_trafic_moatez-1.0.0.tar.gz",
+  "download_time": "2025-11-07T08:53:13.907889",
+  "package_url": "https://pypi.org/project/simulateur-trafic-moatez/"
+}

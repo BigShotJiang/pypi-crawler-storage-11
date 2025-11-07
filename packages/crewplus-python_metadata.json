@@ -1,11 +1,11 @@
 {
   "name": "crewplus-python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The official Python SDK for Crewplus, used to interact with Crewplus backend services programmatically.",
   "author": "OpsmateAI",
   "license": "MIT",
   "home_page": "https://www.opsmate.ai/",
-  "download_filename": "crewplus_python-0.1.1.tar.gz",
-  "download_time": "2025-11-07T03:52:44.356569",
+  "download_filename": "crewplus_python-0.1.2.tar.gz",
+  "download_time": "2025-11-07T08:53:17.493454",
   "package_url": "https://pypi.org/project/crewplus-python/"
 }

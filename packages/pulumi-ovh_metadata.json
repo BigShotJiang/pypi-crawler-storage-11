@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-ovh",
+  "version": "2.9.0",
+  "summary": "A Pulumi package for creating and managing OVH resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_ovh-2.9.0.tar.gz",
+  "download_time": "2025-11-07T08:53:23.637509",
+  "package_url": "https://pypi.org/project/pulumi-ovh/"
+}

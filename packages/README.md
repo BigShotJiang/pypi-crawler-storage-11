@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T08:31:36.244529
-- **Total Packages**: 94
-- **Total Size**: 24.46 MB
+- **Download Time**: 2025-11-07T08:53:55.194051
+- **Total Packages**: 92
+- **Total Size**: 12.85 MB
 
 ## Packages List
+- cesnet-service-path-plugin
+- plexos-to-pypsa-converter
+- odoo-addon-l10n-es-aeat-sii-oca
+- whisper-ai-zxs
+- bunnyshell
+- srikanth-math-pkg
+- tensorwatchext
+- torchcvnn
+- objectstore-client
+- odoo-addon-l10n-it-intrastat
+- google-metrax
+- powerbpy
+- simulateur-trafic-moatez
+- eodc-faas-openeo
+- spotify-mcp-server
+- semantikon
+- scrapy-googlelogin
+- mlops-misis2025
+- ato
+- crewplus-python
+- point-topic-mcp
+- bg4h
+- qudix
+- wei516-enconly
+- django-essentials-kit
+- simulateur-trafic
+- superu
+- odoo-addon-account-financial-report
+- wei516-ppa
+- synapse-sdk
+- pulumi-ovh
+- wei516-tpa
+- py-agent-tools
+- pyminmax
+- pyspark2pmml
+- parsehub
+- wetest-usb-tethering
+- weather-mcp-copa
+- leapx
+- anemoi-plugins-ecmwf-inference
+- cli-ih
+- systemloader
+- sia-script
+- testcase-converter
+- inventory-monitor
+- cribl-control-plane
+- odoo-addon-l10n-it-edi-extension
+- hossam
+- togomq-sdk
+- aidge-export-arm-cortexm
+- modusa
+- audio-processor-mcp
+- digital-life
+- osonbot
+- summary-ai
+- caerp-oidc-client
+- tencent-wedata-auto-ml
 - splurge-pub-sub
 - slownie
 - gemseo-jax
@@ -15,7 +72,6 @@
 - my-pack3age123432
 - wxutil
 - simt-emlite
-- django-essentials-kit
 - kailash-dataflow
 - smlr-learn
 - depanalyzer
@@ -31,7 +87,6 @@
 - AstrBot
 - oocana
 - mcp-weather-buding999
-- cribl-control-plane
 - kailash
 - next-gen-ui-testing
 - next-gen-ui-rhds-renderer
@@ -43,60 +98,3 @@
 - gnome-extensions-cli
 - meikiocr
 - openplx-bundles
-- hyperquant
-- mayini-framework
-- ucrs
-- dodopayments
-- let3
-- modular-cli-sdk
-- ivolatility-backtesting
-- tplinkrouterc6u
-- line-bot-sdk
-- metripy
-- wmill-pg
-- wmill
-- windmill-api
-- apify-client
-- renumerate
-- molcraft
-- owasp-dependency-track-cli
-- scviz
-- scpviz
-- kmeans-seeding
-- odoo-addon-crm-salesperson-planner
-- databricks-labs-dqx
-- aidev-agent
-- hyperbrowser
-- tesseractpkg
-- pyglove
-- prefect
-- prefect-client
-- mcp-judge
-- aws-lambda-powertools
-- appid-manager-client
-- krn-harmony-adapter
-- konigle
-- yemot-speech
-- clia-swe-ai
-- ssb-nudb-config
-- myexceptions
-- zope.event
-- pyrfm
-- log5
-- ato
-- bzfs
-- eodash_catalog
-- mibale
-- tree-sitter-clojure-orchard
-- dist-launch
-- verifiers
-- test-ylang
-- crawlee
-- stacking-2d-systems
-- dclassql
-- lyapunov-lab
-- tf-models-nightly
-- binance-async-client
-- bartste-prompts
-- sindre
-- coremail
