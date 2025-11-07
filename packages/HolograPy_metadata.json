@@ -1,0 +1,11 @@
+{
+  "name": "HolograPy",
+  "version": "0.1.0",
+  "summary": "Tools for 3D holography, acoustic field simulation, and grid generation",
+  "author": "James Hardwick",
+  "license": "MIT",
+  "home_page": "https://github.com/JamesAHardwick/HolograPy",
+  "download_filename": "holograpy-0.1.0.tar.gz",
+  "download_time": "2025-11-07T09:24:24.132306",
+  "package_url": "https://pypi.org/project/HolograPy/"
+}

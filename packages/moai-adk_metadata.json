@@ -1,11 +1,11 @@
 {
   "name": "moai-adk",
-  "version": "0.20.1",
+  "version": "0.21.0",
   "summary": "MoAI Agentic Development Kit - SPEC-First TDD with Alfred SuperAgent & Complete Skills v2.0",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moai_adk-0.20.1.tar.gz",
-  "download_time": "2025-11-06T08:31:19.554371",
+  "download_filename": "moai_adk-0.21.0.tar.gz",
+  "download_time": "2025-11-07T09:24:19.053965",
   "package_url": "https://pypi.org/project/moai-adk/"
 }

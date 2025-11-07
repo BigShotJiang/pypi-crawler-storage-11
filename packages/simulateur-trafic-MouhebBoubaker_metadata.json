@@ -1,0 +1,11 @@
+{
+  "name": "simulateur-trafic-MouhebBoubaker",
+  "version": "0.2.0",
+  "summary": "Un simulateur de trafic pour modéliser des véhicules sur des routes.",
+  "author": "Mouheb Boubaker",
+  "license": null,
+  "home_page": "https://github.com/mouhebboubaker/simulateur_trafic",
+  "download_filename": "simulateur_trafic_mouhebboubaker-0.2.0.tar.gz",
+  "download_time": "2025-11-07T09:24:42.562293",
+  "package_url": "https://pypi.org/project/simulateur-trafic-MouhebBoubaker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lybase",
-  "version": "1.0.112",
+  "version": "1.0.114",
   "summary": "lybase库，包括lybase和util两个包，适用于Django项目的基础功能与工具集。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lybase-1.0.112-py3-none-any.whl",
-  "download_time": "2025-11-07T06:59:13.827117",
+  "download_filename": "lybase-1.0.114-py3-none-any.whl",
+  "download_time": "2025-11-07T09:24:02.002792",
   "package_url": "https://pypi.org/project/lybase/"
 }

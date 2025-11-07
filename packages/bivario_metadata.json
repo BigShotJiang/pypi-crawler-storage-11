@@ -1,11 +1,11 @@
 {
   "name": "bivario",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python library for plotting bivariate choropleth maps",
   "author": "Kamil Raczycki",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bivario-0.3.0.tar.gz",
-  "download_time": "2025-11-01T20:51:18.174050",
+  "download_filename": "bivario-0.3.1.tar.gz",
+  "download_time": "2025-11-07T09:24:34.730729",
   "package_url": "https://pypi.org/project/bivario/"
 }

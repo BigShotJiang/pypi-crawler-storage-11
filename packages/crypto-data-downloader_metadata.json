@@ -1,0 +1,11 @@
+{
+  "name": "crypto-data-downloader",
+  "version": "0.1.4",
+  "summary": "High-speed cryptocurrency OHLCV data downloader via concurrent API requests",
+  "author": "Ricky Ding",
+  "license": "MIT",
+  "home_page": "https://github.com/SerenaTradingResearch/crypto-data-downloader",
+  "download_filename": "crypto_data_downloader-0.1.4.tar.gz",
+  "download_time": "2025-11-07T09:24:05.835760",
+  "package_url": "https://pypi.org/project/crypto-data-downloader/"
+}

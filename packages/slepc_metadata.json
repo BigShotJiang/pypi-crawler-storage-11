@@ -1,0 +1,11 @@
+{
+  "name": "slepc",
+  "version": "3.24.1",
+  "summary": "SLEPc: Scalable Library for Eigenvalue Problem Computations",
+  "author": "SLEPc Team",
+  "license": "BSD-2-Clause",
+  "home_page": "https://slepc.upv.es/",
+  "download_filename": "slepc-3.24.1.tar.gz",
+  "download_time": "2025-11-07T09:24:40.904426",
+  "package_url": "https://pypi.org/project/slepc/"
+}

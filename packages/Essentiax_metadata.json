@@ -1,11 +1,11 @@
 {
   "name": "Essentiax",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A next-generation Python library for smart EDA, cleaning, and interpretability in ML.",
   "author": "Shubham Wagh",
   "license": null,
   "home_page": "https://pypi.org/project/Essentiax/",
-  "download_filename": "essentiax-0.1.4.tar.gz",
-  "download_time": "2025-11-07T08:30:56.977687",
+  "download_filename": "essentiax-0.1.6.tar.gz",
+  "download_time": "2025-11-07T09:24:38.121297",
   "package_url": "https://pypi.org/project/Essentiax/"
 }

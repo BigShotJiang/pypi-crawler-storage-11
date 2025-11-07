@@ -1,11 +1,11 @@
 {
   "name": "spotify-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Model Context Protocol server for Spotify integration",
   "author": "Nir Levy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spotify_mcp_server-0.1.0.tar.gz",
-  "download_time": "2025-11-07T08:53:14.942263",
+  "download_filename": "spotify_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-11-07T09:24:06.971753",
   "package_url": "https://pypi.org/project/spotify-mcp-server/"
 }

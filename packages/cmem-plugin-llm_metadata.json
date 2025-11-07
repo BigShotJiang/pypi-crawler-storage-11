@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-llm",
+  "version": "2.1.0",
+  "summary": "Interact with Large Language Models (Execute Instructions, Create Embeddings).",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmem_plugin_llm-2.1.0.tar.gz",
+  "download_time": "2025-11-07T09:24:31.935246",
+  "package_url": "https://pypi.org/project/cmem-plugin-llm/"
+}

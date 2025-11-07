@@ -1,0 +1,11 @@
+{
+  "name": "learner-py",
+  "version": "1.0.4",
+  "summary": "Implements transfer learning methods for low-rank matrix estimation.",
+  "author": "Sean McGrath, Ryan ODea, Cenhao Zhu, and Rui Duan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "learner_py-1.0.4-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-07T09:23:53.483499",
+  "package_url": "https://pypi.org/project/learner-py/"
+}

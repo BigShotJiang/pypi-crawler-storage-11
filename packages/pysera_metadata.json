@@ -1,0 +1,11 @@
+{
+  "name": "pysera",
+  "version": "2.1.3",
+  "summary": "A Python library for radiomics feature extraction with multiprocessing support",
+  "author": "Dr. Mohammad R. Salmanpour, A.H. Pouria",
+  "license": null,
+  "home_page": "https://github.com/Tecvico/PySERA",
+  "download_filename": "pysera-2.1.3.tar.gz",
+  "download_time": "2025-11-07T09:24:14.105189",
+  "package_url": "https://pypi.org/project/pysera/"
+}
