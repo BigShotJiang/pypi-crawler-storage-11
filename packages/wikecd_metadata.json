@@ -1,0 +1,11 @@
+{
+  "name": "wikecd",
+  "version": "0.1.1",
+  "summary": "Wikipedia Efficient Compression & Decompression (WikECD): optimal revision partitioning, fast retrieval, and analytics.",
+  "author": "Amit Verma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wikecd-0.1.1.tar.gz",
+  "download_time": "2025-11-07T07:25:08.978795",
+  "package_url": "https://pypi.org/project/wikecd/"
+}

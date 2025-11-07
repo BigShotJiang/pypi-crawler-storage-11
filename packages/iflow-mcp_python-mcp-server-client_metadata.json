@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_python-mcp-server-client",
+  "version": "0.1.0",
+  "summary": "MCP服务器，用于搜索技术文档，支持langchain、llama-index、autogen等多个库",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_python_mcp_server_client-0.1.0.tar.gz",
+  "download_time": "2025-11-07T07:24:51.432644",
+  "package_url": "https://pypi.org/project/iflow-mcp_python-mcp-server-client/"
+}

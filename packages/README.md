@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T06:59:39.387167
-- **Total Packages**: 86
-- **Total Size**: 29.87 MB
+- **Download Time**: 2025-11-07T07:25:38.072241
+- **Total Packages**: 88
+- **Total Size**: 34.06 MB
 
 ## Packages List
+- iflow-mcp_python-mcp-server-client
+- falk
+- cognite-pygen
+- mcp-id-photo
+- robotframework-jmespath
+- alignmenter
+- odoo-addon-somconnexio
+- ai-edge-litert-nightly
+- iflow-mcp_dune-analytics-mcp
+- toughanimator
+- trame-slicer
+- spx-sdk
+- iflow-mcp_mcp-python
+- tritonparse
+- peoplequant
+- odoo-addon-account-statement-import-online
+- iflow-mcp_adx_mcp_server
+- iflow-mcp_blockbeats-mcp
+- visaionlibrary
+- simultaneous-cli
+- strictjson
+- streamlit-nightly
+- e6data-python-connector
+- iflow-mcp_mcp-paperswithcode
+- dataverse-sdk
+- tree-sitter-matlab
+- iflow-mcp_zotero-mcp
+- konigle
+- gac
+- universal-sdk
+- python3-ssh
+- scenariogeneration
+- fetch-cpy-src
+- wikecd
+- pyeasyphd
+- fastapi-i18n
+- mtgeo
+- zhkj-plugins-parent
+- doris-vector-search
+- panda3d-imgui
+- iflow-mcp_mcp-server-duckdb
+- runreporter
+- pybibtexer
+- alibabacloud-oss-v2
+- iflow-mcp_deepseek-claude
+- international-urns
+- asebytes
+- radicalpy
+- aws-cost-calculator-cli
+- rl-simple-yourname
+- virgo-modules
+- iflow-mcp_bloodhound-mcp
+- quarkcircuit
+- django-ldap3-auth
 - llm-watermark
 - orq-ai-sdk
 - iflow-mcp_pdf2md
@@ -19,12 +73,10 @@
 - dfm-python
 - xmind-mcp
 - djpress
-- toughanimator
 - covers
 - imgenx
 - digital-life
 - tsmasterapi
-- peoplequant
 - datachain
 - rhosocial-activerecord
 - yta-video-frame-time
@@ -33,8 +85,6 @@
 - juham-automation
 - pdsls
 - iflow-mcp_amazon-mcp
-- visaionlibrary
-- trame-slicer
 - pubsublib
 - instavm
 - frametree
@@ -44,51 +94,3 @@
 - sqlalchemy-tibero
 - pulumi-aws-native
 - visaionedgesam
-- lybase
-- konigle
-- verifyforge
-- shopware-api-client
-- x-anylabeling-cvhub
-- systemloader
-- lyapunov-lab
-- mingli-mcp
-- pyThermoDB
-- tencent-wedata-auto-ml
-- machineconfig
-- imgalz
-- aiauto-client
-- ai-cost-tracker
-- jdcloud-sdk
-- anyt
-- aws-cost-calculator-cli
-- nucleation
-- mcp-weather-full
-- pulumi-command
-- python3-ssh
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- antchain-blockchain
-- julia-browser
-- genesis-forge
-- robhan-cdk-lib.utils
-- pyeasyphd
-- pybibtexer
-- rapidnbt
-- wei516-enconly
-- pyriichi
-- tencent-wedata-feature-engineering-dev
-- alluxiofs
-- midas-civil
-- pylibxdaq
-- bosch-alarm-mode2
-- openhcs
-- fetch-cpy-src
-- p4tools
-- gepa
-- cdk8s-awscdk-resolver
-- pytrendx
-- parquool
-- chat-export
-- webscout
-- p1-taskqueue
-- kousuan
