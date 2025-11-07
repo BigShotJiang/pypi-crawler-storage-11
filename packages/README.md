@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T21:18:12.775673
-- **Total Packages**: 84
-- **Total Size**: 21.51 MB
+- **Download Time**: 2025-11-07T21:32:08.706154
+- **Total Packages**: 83
+- **Total Size**: 17.85 MB
 
 ## Packages List
+- nkunyim-util
+- pyontoenv
+- sembicho-cli
+- rustest
+- ragmint
+- openremote-client
+- toml-rs
+- mcp-checkpoint
+- fusion-tools
+- pygments-pytest
+- eink-template-gen
+- mxx-tool
+- pipecat-ai
+- fastapi-mongo-admin
+- masterframework
+- orcheo-sdk
+- orcheo-backend
+- sia-script
+- orcheo
+- marearts-anpr
+- fme
+- x402-solana
+- claude-mpm
+- powerpoint-mcp
+- blue-cli
+- prime-sandboxes
+- blue-platform
+- taters
+- r-nida
+- pyctrld
+- botocore-stubs
+- kroma
+- samplepath
 - mccoygroup-mcutils
 - universal-mcp-applications
 - python3-cyberfusion-queue-support
@@ -19,11 +52,7 @@
 - anyt
 - jayrock
 - wapiti3
-- fusion-tools
-- masterframework
-- mxx-tool
 - itp-interface
-- sia-script
 - serieux
 - onec-codetemplate-parser
 - philipstv-gui
@@ -60,33 +89,3 @@
 - ibm-watsonx-orchestrate-mcp-server
 - ibm-watsonx-orchestrate
 - langgraph-runtime-inmem
-- dragonfly-radiance
-- anomalo
-- fleet-python
-- yandex-tracker-mcp
-- lbm_suite2p_python
-- jp_tools
-- tespy
-- dyff-schema
-- honeybee-radiance-postprocess
-- vortex-python-sdk
-- CoreUtilities
-- cars-forge
-- cfn-check
-- datawrapper
-- cdk-factory
-- hamel
-- bokeh
-- dhti-elixir-base
-- suite2p_mbo
-- dioxide
-- polarpandas
-- nvidia-nat-redis
-- nvidia-nat-crewai
-- nvidia-nat-ingestion
-- nvidia-nat-test
-- glyphsLib
-- nvidia-nat-mysql
-- nvidia-nat-semantic-kernel
-- cybrid-api-id-python
-- nvidia-nat-agno

@@ -1,11 +1,11 @@
 {
   "name": "orcheo-backend",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Deployment wrapper around the Orcheo FastAPI application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orcheo_backend-0.9.0.tar.gz",
-  "download_time": "2025-11-04T06:33:22.444607",
+  "download_filename": "orcheo_backend-0.9.1.tar.gz",
+  "download_time": "2025-11-07T21:31:32.549904",
   "package_url": "https://pypi.org/project/orcheo-backend/"
 }

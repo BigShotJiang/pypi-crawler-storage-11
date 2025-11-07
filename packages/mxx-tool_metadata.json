@@ -1,11 +1,11 @@
 {
   "name": "mxx-tool",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "mxx tool for automating and managing mxx framework/boilerplate projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mxx_tool-0.1.0.tar.gz",
-  "download_time": "2025-11-07T21:17:35.049131",
+  "download_filename": "mxx_tool-0.1.2.tar.gz",
+  "download_time": "2025-11-07T21:31:29.875812",
   "package_url": "https://pypi.org/project/mxx-tool/"
 }

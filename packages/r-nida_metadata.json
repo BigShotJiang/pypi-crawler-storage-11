@@ -1,0 +1,11 @@
+{
+  "name": "r-nida",
+  "version": "0.1.0",
+  "summary": "A package for reverse engineering with NIDA",
+  "author": "Henrylee",
+  "license": null,
+  "home_page": "https://github.com/Henryle-hd/r_nida",
+  "download_filename": "r_nida-0.1.0.tar.gz",
+  "download_time": "2025-11-07T21:31:38.851647",
+  "package_url": "https://pypi.org/project/r-nida/"
+}

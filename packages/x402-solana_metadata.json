@@ -1,0 +1,11 @@
+{
+  "name": "x402-solana",
+  "version": "2.0.1",
+  "summary": "Complete x402 Protocol Implementation for Solana",
+  "author": "mega123-art",
+  "license": "MIT",
+  "home_page": "https://github.com/mega123-art/x402-solana",
+  "download_filename": "x402_solana-2.0.1.tar.gz",
+  "download_time": "2025-11-07T21:31:35.174150",
+  "package_url": "https://pypi.org/project/x402-solana/"
+}

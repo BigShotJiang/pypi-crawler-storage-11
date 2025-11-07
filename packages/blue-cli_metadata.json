@@ -1,0 +1,11 @@
+{
+  "name": "blue-cli",
+  "version": "1.0",
+  "summary": "Command line interface for blue installation and deployment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blue_cli-1.0.tar.gz",
+  "download_time": "2025-11-07T21:31:36.767273",
+  "package_url": "https://pypi.org/project/blue-cli/"
+}

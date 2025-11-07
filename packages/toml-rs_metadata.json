@@ -1,11 +1,11 @@
 {
   "name": "toml-rs",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "summary": "A High-Performance TOML Parser for Python written in Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toml_rs-0.0.13.tar.gz",
-  "download_time": "2025-11-05T19:29:34.976254",
+  "download_filename": "toml_rs-0.1.0.tar.gz",
+  "download_time": "2025-11-07T21:31:27.257746",
   "package_url": "https://pypi.org/project/toml-rs/"
 }

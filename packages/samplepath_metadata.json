@@ -1,0 +1,11 @@
+{
+  "name": "samplepath",
+  "version": "0.1.1",
+  "summary": "Sample Path Analysis Library",
+  "author": "Krishna Kumar",
+  "license": "MIT",
+  "home_page": "https://docs.pcalc.org",
+  "download_filename": "samplepath-0.1.1.tar.gz",
+  "download_time": "2025-11-07T21:31:40.954329",
+  "package_url": "https://pypi.org/project/samplepath/"
+}
