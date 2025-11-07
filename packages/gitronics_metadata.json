@@ -1,0 +1,11 @@
+{
+  "name": "gitronics",
+  "version": "0.3.2",
+  "summary": "Automatically build an MCNP from a set of files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitronics-0.3.2.tar.gz",
+  "download_time": "2025-11-07T16:25:15.965489",
+  "package_url": "https://pypi.org/project/gitronics/"
+}

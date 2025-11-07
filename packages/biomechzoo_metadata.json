@@ -1,11 +1,11 @@
 {
   "name": "biomechzoo",
-  "version": "0.5.5",
+  "version": "0.5.8",
   "summary": "Python implementation of the biomechZoo toolbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "biomechzoo-0.5.5.tar.gz",
-  "download_time": "2025-11-05T19:07:34.602105",
+  "download_filename": "biomechzoo-0.5.8.tar.gz",
+  "download_time": "2025-11-07T16:25:53.266330",
   "package_url": "https://pypi.org/project/biomechzoo/"
 }

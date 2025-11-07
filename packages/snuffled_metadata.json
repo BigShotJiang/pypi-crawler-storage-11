@@ -1,0 +1,11 @@
+{
+  "name": "snuffled",
+  "version": "0.1.4",
+  "summary": "Systematic Numerical Univariate Full-Function anaLysis for Establishing Difficulty of root-finding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snuffled-0.1.4.tar.gz",
+  "download_time": "2025-11-07T16:25:31.273861",
+  "package_url": "https://pypi.org/project/snuffled/"
+}

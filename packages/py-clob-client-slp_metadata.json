@@ -1,0 +1,11 @@
+{
+  "name": "py-clob-client-slp",
+  "version": "0.30.0",
+  "summary": "Python client for the Polymarket CLOB",
+  "author": "Polymarket Engineering",
+  "license": null,
+  "home_page": "https://github.com/Polymarket/py-clob-client",
+  "download_filename": "py_clob_client_slp-0.30.0.tar.gz",
+  "download_time": "2025-11-07T16:25:36.007072",
+  "package_url": "https://pypi.org/project/py-clob-client-slp/"
+}

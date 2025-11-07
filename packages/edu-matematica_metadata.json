@@ -1,0 +1,11 @@
+{
+  "name": "edu-matematica",
+  "version": "0.1.0",
+  "summary": "Biblioteca de Matemática e Educação Física — cálculos, IMC e médias.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edu_matematica-0.1.0.tar.gz",
+  "download_time": "2025-11-07T16:25:47.032691",
+  "package_url": "https://pypi.org/project/edu-matematica/"
+}
