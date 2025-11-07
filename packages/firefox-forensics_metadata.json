@@ -1,0 +1,11 @@
+{
+  "name": "firefox-forensics",
+  "version": "1.0.1b0",
+  "summary": "Read data from Firefox browser and extract useful information.",
+  "author": "Bodo Schönfeld",
+  "license": "MIT",
+  "home_page": "https://github.com/niftycode/firefox-forensics",
+  "download_filename": "firefox_forensics-1.0.1b0.tar.gz",
+  "download_time": "2025-11-07T13:47:40.161266",
+  "package_url": "https://pypi.org/project/firefox-forensics/"
+}

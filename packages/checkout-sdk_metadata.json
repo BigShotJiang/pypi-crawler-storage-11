@@ -1,0 +1,11 @@
+{
+  "name": "checkout-sdk",
+  "version": "3.4.2",
+  "summary": "Checkout.com Python SDK",
+  "author": "Checkout.com",
+  "license": "MIT",
+  "home_page": "https://github.com/checkout/checkout-sdk-python",
+  "download_filename": "checkout_sdk-3.4.2.tar.gz",
+  "download_time": "2025-11-07T13:47:43.565660",
+  "package_url": "https://pypi.org/project/checkout-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ccowsay",
-  "version": "1.0.2",
+  "version": "1.2.3",
   "summary": "A tool for generating customizable ASCII art messages with speech bubbles and cow-style templates, supporting styled text using AnsiMarkup.",
   "author": "Ashkan Feyzollahi",
   "license": null,
   "home_page": null,
-  "download_filename": "ccowsay-1.0.2.tar.gz",
-  "download_time": "2025-11-06T09:56:33.871351",
+  "download_filename": "ccowsay-1.2.3.tar.gz",
+  "download_time": "2025-11-07T13:47:32.765523",
   "package_url": "https://pypi.org/project/ccowsay/"
 }
