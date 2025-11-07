@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T04:47:18.448633
-- **Total Packages**: 89
-- **Total Size**: 42.66 MB
+- **Download Time**: 2025-11-07T04:58:20.624421
+- **Total Packages**: 91
+- **Total Size**: 7.87 MB
 
 ## Packages List
+- dragonfly-core
+- honeybee-energy
+- autodoc-ai-paudelnirajan
+- lbt-ladybug
+- selfops
+- honeybee-radiance
+- swanlab
+- dasheng
+- py-browser-automation
+- baktfold
+- wooscloud
+- iamdata
+- rich-color-ext
+- chatroutes
+- OpenGeodeWeb-Viewer
+- mlsauce
+- realtimex-pyautogui-server
 - OpenGeodeWeb-Microservice
 - ladybug-comfort
 - pypomes-sob
@@ -80,18 +97,3 @@
 - tobot
 - odoo-addon-base-tier-validation
 - unitops
-- tirex-mirror
-- odoo14-addon-server-action-domain
-- odoo14-addon-base-tier-validation-waiting
-- odoo14-addon-multi-step-wizard
-- odoo14-addon-sequence-reset-period
-- pybibtexer
-- odoo-addons-oca-server-tools
-- cdktf-cdktf-provider-opentelekomcloud
-- lionherd-core
-- autowin
-- signalr-unified-client
-- mcp-weather-full
-- axioms-flask-py
-- anthropicautodocstrings
-- tob
