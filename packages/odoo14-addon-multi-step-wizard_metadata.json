@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-multi-step-wizard",
+  "version": "14.0.1.0.1.dev11",
+  "summary": "Multi-Steps Wizards",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-ux",
+  "download_filename": "odoo14_addon_multi_step_wizard-14.0.1.0.1.dev11-py3-none-any.whl",
+  "download_time": "2025-11-07T04:47:11.911449",
+  "package_url": "https://pypi.org/project/odoo14-addon-multi-step-wizard/"
+}

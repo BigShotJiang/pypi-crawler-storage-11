@@ -1,0 +1,11 @@
+{
+  "name": "teloclip",
+  "version": "0.3.4",
+  "summary": "A tool for the recovery of unassembled telomeres from raw long-reads using soft-clipped read alignments.",
+  "author": "Adam Taranto",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "teloclip-0.3.4.tar.gz",
+  "download_time": "2025-11-07T04:46:51.513552",
+  "package_url": "https://pypi.org/project/teloclip/"
+}

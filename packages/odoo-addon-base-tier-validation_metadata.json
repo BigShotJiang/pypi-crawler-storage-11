@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-tier-validation",
+  "version": "18.0.3.1.0.5",
+  "summary": "Implement a validation process based on tiers.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-ux",
+  "download_filename": "odoo_addon_base_tier_validation-18.0.3.1.0.5-py3-none-any.whl",
+  "download_time": "2025-11-07T04:47:09.229597",
+  "package_url": "https://pypi.org/project/odoo-addon-base-tier-validation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autowin",
+  "version": "0.0.2",
+  "summary": "一个基于 pywinauto 和 pyautogui 的自用 Windows 自动化库。",
+  "author": "Xiaoqiang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autowin-0.0.2.tar.gz",
+  "download_time": "2025-11-07T04:47:15.257033",
+  "package_url": "https://pypi.org/project/autowin/"
+}

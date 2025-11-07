@@ -1,11 +1,11 @@
 {
   "name": "snowflake-connector-python-nightly",
-  "version": "2025.11.6",
+  "version": "2025.11.7",
   "summary": "Nigthly build of Snowflake Connector for Python",
   "author": "Snowflake, Inc",
   "license": "Apache-2.0",
   "home_page": "https://www.snowflake.com/",
-  "download_filename": "snowflake_connector_python_nightly-2025.11.6.tar.gz",
-  "download_time": "2025-11-06T04:28:44.075438",
+  "download_filename": "snowflake_connector_python_nightly-2025.11.7.tar.gz",
+  "download_time": "2025-11-07T04:47:04.303783",
   "package_url": "https://pypi.org/project/snowflake-connector-python-nightly/"
 }

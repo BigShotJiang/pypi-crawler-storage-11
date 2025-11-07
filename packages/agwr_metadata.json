@@ -1,0 +1,11 @@
+{
+  "name": "agwr",
+  "version": "2.0.0",
+  "summary": "各向异性地理加权回归模型实现 (VGWR)",
+  "author": "AGWR开发团队",
+  "license": "MIT",
+  "home_page": "https://github.com/agwr-team/agwr",
+  "download_filename": "agwr-2.0.0.tar.gz",
+  "download_time": "2025-11-07T04:46:44.641197",
+  "package_url": "https://pypi.org/project/agwr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lionherd-core",
-  "version": "1.0.0a1",
+  "version": "1.0.0a3",
   "summary": "The kernel layer for production AI agents - protocol-based, type-safe, zero framework lock-in",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lionherd_core-1.0.0a1.tar.gz",
-  "download_time": "2025-11-04T04:25:08.393991",
+  "download_filename": "lionherd_core-1.0.0a3.tar.gz",
+  "download_time": "2025-11-07T04:47:14.705886",
   "package_url": "https://pypi.org/project/lionherd-core/"
 }

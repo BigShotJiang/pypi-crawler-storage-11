@@ -1,11 +1,11 @@
 {
   "name": "syft-rds",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Doing remote data science with SyftBox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syft_rds-0.4.2.tar.gz",
-  "download_time": "2025-11-05T03:52:53.577275",
+  "download_filename": "syft_rds-0.5.0.tar.gz",
+  "download_time": "2025-11-07T04:47:01.489336",
   "package_url": "https://pypi.org/project/syft-rds/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyhtml-cem",
+  "version": "0.1.0",
+  "summary": "Custom Elements Manifest parser and pre-generated component libraries for PyHTML",
+  "author": "Ylan Allouche",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyhtml_cem-0.1.0.tar.gz",
+  "download_time": "2025-11-07T04:46:59.303682",
+  "package_url": "https://pypi.org/project/pyhtml-cem/"
+}
