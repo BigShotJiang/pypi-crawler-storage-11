@@ -1,0 +1,11 @@
+{
+  "name": "turbid",
+  "version": "0.2.2",
+  "summary": "Transparent obfuscation of numeric IDs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turbid-0.2.2.tar.gz",
+  "download_time": "2025-11-07T19:53:52.076684",
+  "package_url": "https://pypi.org/project/turbid/"
+}

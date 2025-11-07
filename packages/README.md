@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T19:40:59.598112
-- **Total Packages**: 86
-- **Total Size**: 55.49 MB
+- **Download Time**: 2025-11-07T19:54:24.560875
+- **Total Packages**: 90
+- **Total Size**: 36.0 MB
 
 ## Packages List
+- synvya-sdk
+- rag-core-api
+- phagetrix
+- pulumi-eks
+- pysimmmulator
+- pyrudof
+- talky-dictation
+- mscompress
+- pjrpc
+- pypomes-iam
+- NEMO-CE
+- gwkokab
+- edq-lms-toolkit
+- rds-proxy-password-rotation
+- spinal-tap
+- extractor-api-lib
+- pyautoprocess
+- admin-api-lib
+- django-bolt
+- deepbridge
+- weave
+- spring-ready-python
+- ivolatility-backtesting
+- awslabs.s3-tables-mcp-server
+- rag-core-lib
+- crc-pulp-service-client
+- nominal-api-protos
+- crc-pulp-file-client
+- nominal-api
+- turbid
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- azure-ai-evaluation
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- plato-sdk
+- testio-mcp
+- curv
+- fhir-sheets
+- curvtools
 - rubxy
 - curvpyutils
 - crackerjack
@@ -32,7 +74,6 @@
 - flowtrace
 - praval
 - fusion-tools
-- curvtools
 - talklabs-stt
 - odoo-addon-l10n-es-vat-book
 - pytest-jsonschema
@@ -46,10 +87,7 @@
 - paguro
 - kptn
 - water-column-sonar-resampling
-- curv
 - leetagent
-- livef1
-- mscompress
 - statemachine-engine
 - langgraph-api
 - iqm-benchmarks
@@ -58,37 +96,3 @@
 - cezzis-otel
 - cezzis-kafka
 - survey-kit
-- plugo
-- kardocss
-- nsj-integracao-api-client
-- orq-ai-sdk
-- stocktrim-mcp-server
-- launchdarkly-eventsource
-- splurge-pub-sub
-- vnlunar
-- crewai-tools
-- crewai
-- numnorm
-- bfcl-eval
-- tabbed
-- webb1
-- velocity-python
-- coveralls
-- pyfsviz
-- edq-utils
-- django-telescope
-- esprit-py
-- odoo-addon-base-report-to-printer
-- http-utils
-- deepcompress
-- timeback
-- megatron-core
-- megatron-fsdp
-- kalavai-client
-- qui-server
-- reflex-monaco-editor
-- droidflow
-- shinestacker
-- hamel
-- elt-dagster-ext
-- camply
