@@ -1,11 +1,11 @@
 {
   "name": "AgentToolProtocol",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A ChatATP Python SDK for registering, exposing, and serving your own Python functions as tools via the ATP platform. Supports secure OAuth2 flows, dynamic tool registration, and real-time tool invocation via WebSocket or HTTP.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agenttoolprotocol-0.2.2.tar.gz",
-  "download_time": "2025-11-06T15:26:31.207009",
+  "download_filename": "agenttoolprotocol-0.2.3.tar.gz",
+  "download_time": "2025-11-07T22:43:52.877738",
   "package_url": "https://pypi.org/project/AgentToolProtocol/"
 }

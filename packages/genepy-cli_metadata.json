@@ -1,0 +1,11 @@
+{
+  "name": "genepy-cli",
+  "version": "0.6",
+  "summary": "Genepy client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genepy_cli-0.6.tar.gz",
+  "download_time": "2025-11-07T22:43:58.745829",
+  "package_url": "https://pypi.org/project/genepy-cli/"
+}

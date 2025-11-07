@@ -1,0 +1,11 @@
+{
+  "name": "glob2regex",
+  "version": "0.1.0",
+  "summary": "Python library for converting glob formatted search to regex.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glob2regex-0.1.0.tar.gz",
+  "download_time": "2025-11-07T22:43:38.966491",
+  "package_url": "https://pypi.org/project/glob2regex/"
+}

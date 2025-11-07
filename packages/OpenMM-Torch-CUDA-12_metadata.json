@@ -1,0 +1,11 @@
+{
+  "name": "OpenMM-Torch-CUDA-12",
+  "version": "1.5",
+  "summary": "CUDA platform for OpenMM-Torch",
+  "author": "Peter Eastman",
+  "license": null,
+  "home_page": "https://openmm.org",
+  "download_filename": "openmm_torch_cuda_12-1.5-py3-none-any.whl",
+  "download_time": "2025-11-07T22:43:42.045110",
+  "package_url": "https://pypi.org/project/OpenMM-Torch-CUDA-12/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-confluentkafkalibrary",
+  "version": "2.12.0.post1",
+  "summary": "Confluent Kafka library for Robot Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_confluentkafkalibrary-2.12.0.post1.tar.gz",
+  "download_time": "2025-11-07T22:43:36.412805",
+  "package_url": "https://pypi.org/project/robotframework-confluentkafkalibrary/"
+}
