@@ -1,15 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T14:25:46.779731
-- **Total Packages**: 86
-- **Total Size**: 46.19 MB
+- **Download Time**: 2025-11-07T14:46:27.393372
+- **Total Packages**: 87
+- **Total Size**: 14.35 MB
 
 ## Packages List
-- ultracart-rest-sdk
-- dr-source
-- selene-sim
-- qa4sm-reader
 - fastglmpca
 - zopfli
 - pyctrld
@@ -54,6 +50,7 @@
 - thds.adls
 - faker-pk
 - thds.termtool
+- ultracart-rest-sdk
 - thds.core
 - thds.attrs-utils
 - thds.atacama
@@ -92,3 +89,7 @@
 - passagemath-homfly
 - passagemath-groups
 - unique_deep_research
+- passagemath-graphs
+- mawo-pymorphy3
+- cognite-toolkit
+- passagemath-glucose
