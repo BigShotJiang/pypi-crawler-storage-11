@@ -1,11 +1,11 @@
 {
   "name": "passphera-shell",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "The shell contain the use cases and interfaces of passphera project",
   "author": "Fathi Abdelmalek",
   "license": null,
   "home_page": "https://github.com/passphera/shell",
-  "download_filename": "passphera_shell-0.4.1.tar.gz",
-  "download_time": "2025-11-07T22:43:36.922670",
+  "download_filename": "passphera_shell-0.5.0.tar.gz",
+  "download_time": "2025-11-07T23:21:02.719724",
   "package_url": "https://pypi.org/project/passphera-shell/"
 }

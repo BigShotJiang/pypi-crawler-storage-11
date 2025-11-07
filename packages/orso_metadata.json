@@ -1,11 +1,11 @@
 {
   "name": "orso",
-  "version": "0.0.229",
+  "version": "0.0.230",
   "summary": "🐻 DataFrame Library",
   "author": null,
   "license": null,
   "home_page": "https://github.com/mabel-dev/orso/",
-  "download_filename": "orso-0.0.229.tar.gz",
-  "download_time": "2025-11-05T09:46:26.566729",
+  "download_filename": "orso-0.0.230.tar.gz",
+  "download_time": "2025-11-07T23:20:45.740270",
   "package_url": "https://pypi.org/project/orso/"
 }

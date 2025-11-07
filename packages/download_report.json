@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-11-07T22:55:10.995068",
-  "total_packages_downloaded": 89,
-  "total_size_mb": 25.09,
+  "download_time": "2025-11-07T23:21:37.054865",
+  "total_packages_downloaded": 91,
+  "total_size_mb": 4.16,
   "packages": [
+    "orso",
+    "geostatspy",
+    "methodnetworkscan",
+    "eval-protocol",
     "oidcauthlib",
     "wyoming-faster-whisper",
     "aquiles-image",
@@ -89,8 +93,6 @@
     "verifiers",
     "skald-sdk",
     "pyrepl-hacks",
-    "retromol",
-    "duplicaid",
-    "dojo-openenv"
+    "retromol"
   ]
 }
