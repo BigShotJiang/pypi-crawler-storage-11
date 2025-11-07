@@ -1,11 +1,11 @@
 {
   "name": "trello-cli-python",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Official Python CLI for Trello - Optimized for agile workflows",
   "author": "Bernard Uriza Orozco",
   "license": null,
   "home_page": "https://github.com/bernardurizaorozco/trello-cli-python",
-  "download_filename": "trello_cli_python-2.2.0.tar.gz",
-  "download_time": "2025-11-07T03:52:30.916016",
+  "download_filename": "trello_cli_python-2.2.1.tar.gz",
+  "download_time": "2025-11-07T05:44:45.713706",
   "package_url": "https://pypi.org/project/trello-cli-python/"
 }

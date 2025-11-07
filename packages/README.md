@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-07T05:23:38.335287
-- **Total Packages**: 79
-- **Total Size**: 20.31 MB
+- **Download Time**: 2025-11-07T05:45:19.207161
+- **Total Packages**: 75
+- **Total Size**: 5.43 MB
 
 ## Packages List
+- intellif-aihub
+- mcp-ticketer
+- iflow-mcp_paper-search-mcp
+- aws-cost-calculator-cli
+- phis-build
+- dari-python
+- sheaf
+- medvision-classification
+- ratio1
+- anymap
+- OpenGeodeWeb-Back
+- kailash-dataflow
+- kailash
+- trello-cli-python
+- llm-watermark-utils
+- windows-use
+- livekit-evals
+- rich-color-ext
+- mcp-wireshark
+- PyMyGekko
+- wrapica
+- XZGUtil
+- mcp-weather-full
+- PYVY
+- iflow-mcp_magic-api-mcp-server
+- ha-mcp
+- lupislabs
+- centrip-book
+- iflow-mcp_mcp-logo-gen
+- nepse-client
 - fast-trading-simulator
 - alluxiofs
 - acemcp
@@ -15,12 +45,9 @@
 - isolate-proto
 - autodoc-ai-paudelnirajan
 - pybibtexer
-- PYVY
 - phonemize
 - lbt-dragonfly
-- llm-watermark-utils
 - meta-spec
-- ha-mcp
 - lbt-honeybee
 - dragonfly-energy
 - whitespace-format
@@ -31,16 +58,13 @@
 - dragonfly-radiance
 - countdown-cli
 - ytdl-sub
-- rich-color-ext
 - naludaq
 - pygenpdf
 - uapg
-- centrip-book
 - mofa-core
 - iflow-mcp_osp-marketing-tools
 - substrata
 - honeybee-radiance-postprocess
-- aws-cost-calculator-cli
 - pycarlo
 - personal_knowledge_library
 - wooscloud
@@ -57,31 +81,3 @@
 - swanlab
 - dasheng
 - py-browser-automation
-- baktfold
-- iamdata
-- chatroutes
-- OpenGeodeWeb-Viewer
-- mlsauce
-- realtimex-pyautogui-server
-- OpenGeodeWeb-Microservice
-- ladybug-comfort
-- pypomes-sob
-- db-connect-mcp
-- honeybee-core
-- pytransportnswv2
-- dfm-python
-- backpyf
-- biopipen
-- label-studio-sso
-- syft-flwr
-- taskforceai
-- com-pac
-- Pystructor
-- Python-Lua-Helper
-- asext
-- bear-dereth
-- iflow-mcp_mcp_server_trino
-- timber-common
-- aind-zarr-utils
-- socketsecurity
-- es2

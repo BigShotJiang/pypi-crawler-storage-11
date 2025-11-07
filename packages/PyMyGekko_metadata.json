@@ -1,11 +1,11 @@
 {
   "name": "PyMyGekko",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Python Library to access the myGEKKO Query API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymygekko-1.4.0.tar.gz",
-  "download_time": "2025-11-03T21:20:03.126917",
+  "download_filename": "pymygekko-1.5.0.tar.gz",
+  "download_time": "2025-11-07T05:44:48.834028",
   "package_url": "https://pypi.org/project/PyMyGekko/"
 }
