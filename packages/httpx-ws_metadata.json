@@ -1,0 +1,11 @@
+{
+  "name": "httpx-ws",
+  "version": "0.8.2",
+  "summary": "WebSockets support for HTTPX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpx_ws-0.8.2.tar.gz",
+  "download_time": "2025-11-07T13:21:57.768978",
+  "package_url": "https://pypi.org/project/httpx-ws/"
+}

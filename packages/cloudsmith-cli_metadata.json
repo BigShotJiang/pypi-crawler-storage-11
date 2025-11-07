@@ -1,11 +1,11 @@
 {
   "name": "cloudsmith-cli",
-  "version": "1.9.2",
+  "version": "1.9.4",
   "summary": "Cloudsmith Command-Line Interface (CLI)",
   "author": "Cloudsmith Ltd",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/cloudsmith-io/cloudsmith-cli",
-  "download_filename": "cloudsmith_cli-1.9.2.tar.gz",
-  "download_time": "2025-11-06T17:29:18.699873",
+  "download_filename": "cloudsmith_cli-1.9.4.tar.gz",
+  "download_time": "2025-11-07T13:21:52.904289",
   "package_url": "https://pypi.org/project/cloudsmith-cli/"
 }

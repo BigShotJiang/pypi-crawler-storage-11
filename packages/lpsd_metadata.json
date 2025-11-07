@@ -1,0 +1,11 @@
+{
+  "name": "lpsd",
+  "version": "1.0.6",
+  "summary": "Python and C implementation for logarithmical power spectral density (LPSD) calculation.",
+  "author": "Christoph Bode",
+  "license": null,
+  "home_page": "https://gitlab.com/uhh-gwd/lpsd",
+  "download_filename": "lpsd-1.0.6.tar.gz",
+  "download_time": "2025-11-07T13:21:44.188364",
+  "package_url": "https://pypi.org/project/lpsd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-codeforces-plugin",
+  "version": "0.1.1",
+  "summary": "MkDocs plugin to display Codeforces user statistics as beautiful cards",
+  "author": "Eurekaimer",
+  "license": "MIT",
+  "home_page": "https://github.com/Eurekaimer/mkdocs-codeforces-plugin",
+  "download_filename": "mkdocs_codeforces_plugin-0.1.1.tar.gz",
+  "download_time": "2025-11-07T13:21:16.566116",
+  "package_url": "https://pypi.org/project/mkdocs-codeforces-plugin/"
+}

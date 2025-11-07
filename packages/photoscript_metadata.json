@@ -1,11 +1,11 @@
 {
   "name": "photoscript",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Python wrapper around Apple Photos applescript interface",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "photoscript-0.5.0.tar.gz",
-  "download_time": "2025-11-04T01:44:08.810946",
+  "download_filename": "photoscript-0.5.2.tar.gz",
+  "download_time": "2025-11-07T13:21:49.322655",
   "package_url": "https://pypi.org/project/photoscript/"
 }
