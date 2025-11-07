@@ -1,11 +1,11 @@
 {
   "name": "dicom-tools-mcp",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "summary": "基于 MCP (Model Context Protocol) 的 DICOM 医学影像文件分析工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dicom_tools_mcp-0.2.0.tar.gz",
-  "download_time": "2025-11-06T08:31:16.156253",
+  "download_filename": "dicom_tools_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-07T01:43:49.677727",
   "package_url": "https://pypi.org/project/dicom-tools-mcp/"
 }

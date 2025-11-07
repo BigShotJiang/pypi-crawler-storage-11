@@ -1,11 +1,11 @@
 {
   "name": "biometal-rs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "ARM-native bioinformatics library with streaming architecture and evidence-based optimization",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/shandley/biometal",
-  "download_filename": "biometal_rs-1.0.0.tar.gz",
-  "download_time": "2025-11-05T19:28:50.001900",
+  "download_filename": "biometal_rs-1.1.0.tar.gz",
+  "download_time": "2025-11-07T01:44:08.804171",
   "package_url": "https://pypi.org/project/biometal-rs/"
 }

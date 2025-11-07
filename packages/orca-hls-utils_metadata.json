@@ -1,0 +1,11 @@
+{
+  "name": "orca-hls-utils",
+  "version": "0.0.3",
+  "summary": "Collection of utilities for getting Orcasound HLS data",
+  "author": "Example Author",
+  "license": null,
+  "home_page": "https://github.com/orcasound/orca-hls-utils",
+  "download_filename": "orca_hls_utils-0.0.3-py3-none-any.whl",
+  "download_time": "2025-11-07T01:43:46.094589",
+  "package_url": "https://pypi.org/project/orca-hls-utils/"
+}

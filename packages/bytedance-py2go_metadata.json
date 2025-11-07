@@ -1,0 +1,11 @@
+{
+  "name": "bytedance-py2go",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedance_py2go",
+  "download_filename": "bytedance_py2go-0.0.1.tar.gz",
+  "download_time": "2025-11-07T01:43:36.740123",
+  "package_url": "https://pypi.org/project/bytedance-py2go/"
+}

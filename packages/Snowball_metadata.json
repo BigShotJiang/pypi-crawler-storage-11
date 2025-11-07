@@ -1,0 +1,11 @@
+{
+  "name": "Snowball",
+  "version": "0.5.5",
+  "summary": "Investment strategy backtesting tool",
+  "author": "Hong Junhyoung",
+  "license": "MIT",
+  "home_page": "https://github.com/HongJunhyoung/Snowball",
+  "download_filename": "snowball-0.5.5.tar.gz",
+  "download_time": "2025-11-07T01:43:45.071262",
+  "package_url": "https://pypi.org/project/Snowball/"
+}

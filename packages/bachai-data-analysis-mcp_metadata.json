@@ -1,11 +1,11 @@
 {
   "name": "bachai-data-analysis-mcp",
-  "version": "1.1.3",
-  "summary": "Data Analysis MCP Server - Model Context Protocol server for data analysis with SSE transport",
+  "version": "1.1.4",
+  "summary": "Data Analysis MCP Server - Model Context Protocol server for data analysis (stdio and SSE modes)",
   "author": "BACH Studio",
   "license": "MIT",
   "home_page": "https://github.com/BACH-AI-Tools/data-analysis-mcp",
-  "download_filename": "bachai_data_analysis_mcp-1.1.3.tar.gz",
-  "download_time": "2025-11-06T10:25:38.576540",
+  "download_filename": "bachai_data_analysis_mcp-1.1.4.tar.gz",
+  "download_time": "2025-11-07T01:43:24.652709",
   "package_url": "https://pypi.org/project/bachai-data-analysis-mcp/"
 }

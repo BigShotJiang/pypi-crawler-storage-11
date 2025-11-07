@@ -1,0 +1,11 @@
+{
+  "name": "unstructured",
+  "version": "0.18.18",
+  "summary": "A library that prepares raw documents for downstream ML tasks.",
+  "author": "Unstructured Technologies",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Unstructured-IO/unstructured",
+  "download_filename": "unstructured-0.18.18.tar.gz",
+  "download_time": "2025-11-07T01:44:10.874832",
+  "package_url": "https://pypi.org/project/unstructured/"
+}

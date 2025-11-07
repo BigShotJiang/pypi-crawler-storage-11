@@ -1,0 +1,11 @@
+{
+  "name": "cartalyzer",
+  "version": "0.1.1",
+  "summary": "Fetch and analyze e-commerce cart data",
+  "author": "Ekene",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cartalyzer-0.1.1.tar.gz",
+  "download_time": "2025-11-07T01:44:10.349993",
+  "package_url": "https://pypi.org/project/cartalyzer/"
+}

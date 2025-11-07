@@ -1,11 +1,11 @@
 {
   "name": "miseqinteropreader",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Python parser for Illumina MiSeq InterOp binary files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "miseqinteropreader-1.0.0.tar.gz",
-  "download_time": "2025-11-06T23:20:51.701550",
+  "download_filename": "miseqinteropreader-1.1.1.tar.gz",
+  "download_time": "2025-11-07T01:43:43.524895",
   "package_url": "https://pypi.org/project/miseqinteropreader/"
 }
