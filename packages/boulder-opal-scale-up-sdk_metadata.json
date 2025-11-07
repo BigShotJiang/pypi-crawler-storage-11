@@ -1,11 +1,11 @@
 {
   "name": "boulder-opal-scale-up-sdk",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "Q-CTRL Boulder Opal Scale Up Python SDK",
   "author": "Q-CTRL",
   "license": "https://q-ctrl.com/terms",
   "home_page": "https://q-ctrl.com",
-  "download_filename": "boulder_opal_scale_up_sdk-1.0.9.tar.gz",
-  "download_time": "2025-11-03T03:58:45.579097",
+  "download_filename": "boulder_opal_scale_up_sdk-1.0.11.tar.gz",
+  "download_time": "2025-11-07T07:54:30.430208",
   "package_url": "https://pypi.org/project/boulder-opal-scale-up-sdk/"
 }
