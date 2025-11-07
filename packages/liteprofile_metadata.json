@@ -1,0 +1,11 @@
+{
+  "name": "liteprofile",
+  "version": "0.1.0",
+  "summary": "A lightweight, fast data profiling library built on Polars (with Pandas fallback).",
+  "author": "Inez Van Laer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "liteprofile-0.1.0.tar.gz",
+  "download_time": "2025-11-07T07:42:10.068158",
+  "package_url": "https://pypi.org/project/liteprofile/"
+}

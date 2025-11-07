@@ -1,11 +1,11 @@
 {
   "name": "vovk-hello-world",
-  "version": "0.0.57",
+  "version": "0.0.58",
   "summary": "A showcase for Next.js + Vovk.ts + Zod, demonstrating its capabilities with TypeScript, Rust, and Python RPC.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vovk_hello_world-0.0.57.tar.gz",
-  "download_time": "2025-11-06T07:10:47.651182",
+  "download_filename": "vovk_hello_world-0.0.58.tar.gz",
+  "download_time": "2025-11-07T07:42:00.224307",
   "package_url": "https://pypi.org/project/vovk-hello-world/"
 }

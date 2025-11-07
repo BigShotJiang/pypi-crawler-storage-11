@@ -1,0 +1,11 @@
+{
+  "name": "nekro-agent-toolkit",
+  "version": "1.5.5",
+  "summary": "Nekro Agent 安装、更新与备份的统一管理工具",
+  "author": "greenhandzdl",
+  "license": "MIT",
+  "home_page": "https://github.com/greenhandzdl/nekro-agent-toolkit",
+  "download_filename": "nekro_agent_toolkit-1.5.5.tar.gz",
+  "download_time": "2025-11-07T07:42:12.671170",
+  "package_url": "https://pypi.org/project/nekro-agent-toolkit/"
+}

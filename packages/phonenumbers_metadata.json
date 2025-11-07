@@ -1,0 +1,11 @@
+{
+  "name": "phonenumbers",
+  "version": "9.0.18",
+  "summary": "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers.",
+  "author": "David Drysdale",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/daviddrysdale/python-phonenumbers",
+  "download_filename": "phonenumbers-9.0.18.tar.gz",
+  "download_time": "2025-11-07T07:42:06.428194",
+  "package_url": "https://pypi.org/project/phonenumbers/"
+}

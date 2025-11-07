@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_nearby-search-mcp",
+  "version": "0.1.0",
+  "summary": "An MCP server for nearby place searches with IP-based location detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_nearby_search_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-07T07:42:15.224098",
+  "package_url": "https://pypi.org/project/iflow-mcp_nearby-search-mcp/"
+}
