@@ -1,11 +1,11 @@
 {
   "name": "temporals",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "summary": "Python library providing time, date and datetime periods support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "temporals-3.1.0.tar.gz",
-  "download_time": "2025-11-06T17:01:18.256622",
+  "download_filename": "temporals-3.2.0.tar.gz",
+  "download_time": "2025-11-07T10:25:11.132374",
   "package_url": "https://pypi.org/project/temporals/"
 }

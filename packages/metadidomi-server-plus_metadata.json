@@ -1,11 +1,11 @@
 {
   "name": "metadidomi-server-plus",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "Un serveur avancé pour Metadidomi",
   "author": "MetadidomiServerPlus Team",
   "license": null,
   "home_page": "https://github.com/METADIDOMIOFFICIEL/Metadidomi-ServerPlus-Core",
-  "download_filename": "metadidomi_server_plus-0.1.0.tar.gz",
-  "download_time": "2025-11-06T21:20:56.413368",
+  "download_filename": "metadidomi_server_plus-1.0.1.tar.gz",
+  "download_time": "2025-11-07T10:25:09.410949",
   "package_url": "https://pypi.org/project/metadidomi-server-plus/"
 }

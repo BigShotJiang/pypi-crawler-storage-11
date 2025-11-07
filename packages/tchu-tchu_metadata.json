@@ -1,11 +1,11 @@
 {
   "name": "tchu-tchu",
-  "version": "2.2.30",
+  "version": "2.2.31",
   "summary": "A modern Celery-based messaging library with true broadcast support for microservices",
   "author": "David Sigley",
   "license": "MIT",
   "home_page": "https://github.com/sigularusrex/tchu-tchu",
-  "download_filename": "tchu_tchu-2.2.30.tar.gz",
-  "download_time": "2025-11-07T09:44:08.504324",
+  "download_filename": "tchu_tchu-2.2.31.tar.gz",
+  "download_time": "2025-11-07T10:25:12.835925",
   "package_url": "https://pypi.org/project/tchu-tchu/"
 }

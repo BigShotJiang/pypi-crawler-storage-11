@@ -1,0 +1,11 @@
+{
+  "name": "donkit-llm",
+  "version": "0.1.0",
+  "summary": "Unified LLM model implementations for Donkit (OpenAI, Azure OpenAI, Claude, Vertex AI)",
+  "author": "Donkit AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "donkit_llm-0.1.0.tar.gz",
+  "download_time": "2025-11-07T10:25:03.119872",
+  "package_url": "https://pypi.org/project/donkit-llm/"
+}

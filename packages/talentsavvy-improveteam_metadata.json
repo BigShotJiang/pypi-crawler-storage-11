@@ -1,11 +1,11 @@
 {
   "name": "talentsavvy-improveteam",
-  "version": "0.0.272",
+  "version": "0.0.273",
   "summary": "Data extraction scripts for development tools (CSV mode)",
   "author": "TalentSavvy.com",
   "license": null,
   "home_page": null,
-  "download_filename": "talentsavvy_improveteam-0.0.272.tar.gz",
-  "download_time": "2025-11-06T15:26:23.007236",
+  "download_filename": "talentsavvy_improveteam-0.0.273.tar.gz",
+  "download_time": "2025-11-07T10:24:56.659145",
   "package_url": "https://pypi.org/project/talentsavvy-improveteam/"
 }
