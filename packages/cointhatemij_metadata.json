@@ -1,11 +1,11 @@
 {
   "name": "cointhatemij",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Hatemi-J Cointegration Test with Two Unknown Regime Shifts",
   "author": "Dr. Merwan Roudane",
   "license": "MIT",
   "home_page": "https://github.com/merwanroudane/cointhatemij",
-  "download_filename": "cointhatemij-0.1.4.tar.gz",
-  "download_time": "2025-11-08T08:27:16.044756",
+  "download_filename": "cointhatemij-0.1.5.tar.gz",
+  "download_time": "2025-11-08T08:47:00.256711",
   "package_url": "https://pypi.org/project/cointhatemij/"
 }
