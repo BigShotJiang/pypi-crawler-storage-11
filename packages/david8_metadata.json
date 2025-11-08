@@ -1,11 +1,11 @@
 {
   "name": "david8",
-  "version": "0.dev1",
+  "version": "0.dev2",
   "summary": null,
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "david8-0.dev1.tar.gz",
-  "download_time": "2025-11-08T22:41:54.594461",
+  "download_filename": "david8-0.dev2.tar.gz",
+  "download_time": "2025-11-08T22:53:55.931507",
   "package_url": "https://pypi.org/project/david8/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "PyBoolector",
-  "version": "3.2.4.19199565967",
+  "version": "3.2.4.19199673826",
   "summary": "Python wrapper around the Boolector SMT solver",
   "author": null,
   "license": null,
   "home_page": "https://github.com/boolector/boolector",
-  "download_filename": "pyboolector-3.2.4.19199565967.tar.gz",
-  "download_time": "2025-11-08T22:41:53.552905",
+  "download_filename": "pyboolector-3.2.4.19199673826.tar.gz",
+  "download_time": "2025-11-08T22:53:55.411937",
   "package_url": "https://pypi.org/project/PyBoolector/"
 }

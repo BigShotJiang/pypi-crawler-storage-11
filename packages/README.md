@@ -1,32 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T22:42:29.040684
-- **Total Packages**: 76
-- **Total Size**: 5.13 MB
+- **Download Time**: 2025-11-08T22:54:30.365950
+- **Total Packages**: 74
+- **Total Size**: 2.68 MB
 
 ## Packages List
-- crisp-t
-- paytm-api
 - vicutils
+- localargo
+- django-unfold-extra
+- silverback
+- minesweeper-env-rl
+- relai
+- paytm-api
+- PyBoolector
+- david8
+- changeforge
+- chuk-acp
+- buckpy
+- colrs
+- CliReport
+- tcwindprofile
+- coding-open-agent-tools
+- fin-infra
+- pkn
+- pkn-ccflow
+- octotui
+- crisp-t
 - bugsink
 - tmux-mcp-tools
 - torob-prices
 - temporal-forecasting
 - tiddl
 - wnstatmech
-- PyBoolector
-- CliReport
-- david8
 - speedywalk
 - textzle
 - mehc-curation
 - meshcoredecoder
-- tcwindprofile
 - vogel-video-analyzer
 - napari-tomodl
 - glyrics
-- buckpy
 - langroid
 - fetchcraft-parsing-docling
 - fin-classifier
@@ -56,7 +69,6 @@
 - apppy-queues
 - apppy-app
 - apppy-generic
-- django-unfold-extra
 - apppy-auth
 - apppy-fastql
 - trycourier
@@ -68,17 +80,3 @@
 - liffile
 - mact-cli
 - ipyslides
-- petrus
-- dbus-fast
-- pmp-verifier
-- qolsys-controller
-- cliff-cli
-- par-scrape
-- crackerjack
-- je-api-testka
-- judge0
-- innerloop
-- alpha-stable-mixture
-- chutils
-- mkdocs-dsfr-men
-- barmoury
