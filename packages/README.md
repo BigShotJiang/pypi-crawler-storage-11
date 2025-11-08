@@ -1,39 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T15:41:37.890288
-- **Total Packages**: 81
-- **Total Size**: 20.11 MB
+- **Download Time**: 2025-11-08T15:55:08.567383
+- **Total Packages**: 77
+- **Total Size**: 0.01 MB
 
 ## Packages List
-- sbdl
-- pgzpro
-- calkit-python
-- allos-agent-sdk
-- odoo-addon-l10n-es-aeat
-- odoo-addon-l10n-es-vat-book-oss
-- odoo-addon-l10n-es-vat-prorate
-- odoo-addon-l10n-es-vat-book
-- odoo-addon-l10n-es-vat-book-igic
-- gpustack-runner
-- joythief
-- cb2325-numerica-g8
-- autosubtitle-api
-- tigr81
-- gui-utilities
-- clinicedc-utils
-- ttsfm
-- sayer
-- TypeTreeGeneratorAPIEx
 - PyS3Uploader
 - clinicedc-constants
 - caldav-server-tester
 - petrus
 - metrics_layer
+- autosubtitle-api
 - pyspark-storydoc
 - v440
 - specdec
 - quant1024
+- gui-utilities
 - notionary
 - py-hpl-logger
 - byzh-ai
@@ -87,3 +70,16 @@
 - langbot-plugin
 - Reduino
 - yarobot
+- gpustack-runner
+- reyfetch
+- caldav
+- zignal-processing
+- Functions-d
+- matrixone-python-sdk
+- inclde010py
+- mawo-slovnet
+- xai-review
+- funasr-client
+- aocref
+- pyspread
+- joythief
