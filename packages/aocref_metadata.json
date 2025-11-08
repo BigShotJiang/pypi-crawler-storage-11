@@ -1,11 +1,11 @@
 {
   "name": "aocref",
-  "version": "2.0.31",
+  "version": "2.0.32",
   "summary": "Age of Empires reference data",
   "author": null,
   "license": null,
   "home_page": "https://github.com/siegeengineers/aoc-reference-data",
-  "download_filename": "aocref-2.0.31.tar.gz",
-  "download_time": "2025-11-08T14:19:28.079930",
+  "download_filename": "aocref-2.0.32.tar.gz",
+  "download_time": "2025-11-08T14:54:46.849948",
   "package_url": "https://pypi.org/project/aocref/"
 }
