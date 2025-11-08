@@ -1,11 +1,11 @@
 {
   "name": "avtdl",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "summary": "Monitoring and automation tool for Youtube and other streaming platforms",
   "author": "15532th",
   "license": null,
   "home_page": null,
-  "download_filename": "avtdl-2.8.1.tar.gz",
-  "download_time": "2025-11-08T09:22:50.278945",
+  "download_filename": "avtdl-2.8.2.tar.gz",
+  "download_time": "2025-11-08T17:40:57.663030",
   "package_url": "https://pypi.org/project/avtdl/"
 }

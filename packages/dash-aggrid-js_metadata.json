@@ -1,0 +1,11 @@
+{
+  "name": "dash-aggrid-js",
+  "version": "0.2.1",
+  "summary": "Tiny Dash wrapper that mounts AgGridReact using a JS config registry",
+  "author": "Gulf of Analytics <dev@goa.local>",
+  "license": "MIT",
+  "home_page": "https://github.com/ScottTpirate/dash-aggrid",
+  "download_filename": "dash_aggrid_js-0.2.1.tar.gz",
+  "download_time": "2025-11-08T17:40:40.579410",
+  "package_url": "https://pypi.org/project/dash-aggrid-js/"
+}

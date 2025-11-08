@@ -1,0 +1,11 @@
+{
+  "name": "totopubsub",
+  "version": "1.0.0",
+  "summary": "Agnostic PubSub implementation for Toto",
+  "author": "nicolasances",
+  "license": null,
+  "home_page": null,
+  "download_filename": "totopubsub-1.0.0.tar.gz",
+  "download_time": "2025-11-08T17:40:48.988184",
+  "package_url": "https://pypi.org/project/totopubsub/"
+}

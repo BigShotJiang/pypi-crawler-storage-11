@@ -1,11 +1,11 @@
 {
   "name": "masto-mailo-inator",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A background program allowing to read Mastodon in an Email client",
   "author": "MMS",
   "license": null,
   "home_page": null,
-  "download_filename": "masto_mailo_inator-0.1.2.tar.gz",
-  "download_time": "2025-11-07T20:43:11.215347",
+  "download_filename": "masto_mailo_inator-0.2.0.tar.gz",
+  "download_time": "2025-11-08T17:41:01.618994",
   "package_url": "https://pypi.org/project/masto-mailo-inator/"
 }
