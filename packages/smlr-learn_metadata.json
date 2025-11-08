@@ -1,11 +1,11 @@
 {
   "name": "smlr-learn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python Package of Simplex-based Multinomial Logistic Regression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smlr_learn-0.1.1.tar.gz",
-  "download_time": "2025-11-07T08:30:52.262026",
+  "download_filename": "smlr_learn-0.1.2.tar.gz",
+  "download_time": "2025-11-08T10:53:41.281558",
   "package_url": "https://pypi.org/project/smlr-learn/"
 }

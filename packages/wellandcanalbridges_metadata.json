@@ -1,0 +1,11 @@
+{
+  "name": "wellandcanalbridges",
+  "version": "0.2.0",
+  "summary": "Integration for Welland Canal Bridge Status",
+  "author": "Tim Empringham",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/djtimca/wellancanalbridges",
+  "download_filename": "wellandcanalbridges-0.2.0.tar.gz",
+  "download_time": "2025-11-08T10:53:40.217180",
+  "package_url": "https://pypi.org/project/wellandcanalbridges/"
+}

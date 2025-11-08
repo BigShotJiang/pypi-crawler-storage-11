@@ -1,11 +1,11 @@
 {
   "name": "sapphireui",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "summary": "SapphireUI – The UI Library for Reflex Developers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sapphireui-0.3.6.tar.gz",
-  "download_time": "2025-11-08T10:43:14.297136",
+  "download_filename": "sapphireui-0.4.0.tar.gz",
+  "download_time": "2025-11-08T10:53:39.193842",
   "package_url": "https://pypi.org/project/sapphireui/"
 }
