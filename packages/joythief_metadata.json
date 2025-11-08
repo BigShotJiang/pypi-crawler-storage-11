@@ -1,11 +1,11 @@
 {
   "name": "joythief",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Comparison is the thief of joy",
   "author": "Jonathan Sharpe",
   "license": null,
   "home_page": null,
-  "download_filename": "joythief-0.7.1.tar.gz",
-  "download_time": "2025-11-08T15:40:58.623981",
+  "download_filename": "joythief-0.7.2.tar.gz",
+  "download_time": "2025-11-08T17:19:04.335181",
   "package_url": "https://pypi.org/project/joythief/"
 }

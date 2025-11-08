@@ -1,0 +1,11 @@
+{
+  "name": "hydromodel",
+  "version": "0.3.0",
+  "summary": "Hydrological modeling package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydromodel-0.3.0.tar.gz",
+  "download_time": "2025-11-08T17:18:58.106867",
+  "package_url": "https://pypi.org/project/hydromodel/"
+}
