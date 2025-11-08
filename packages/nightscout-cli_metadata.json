@@ -1,11 +1,11 @@
 {
   "name": "nightscout-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Command line interface for Nightscout API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nightscout_cli-1.0.0.tar.gz",
-  "download_time": "2025-11-03T14:21:54.056814",
+  "download_filename": "nightscout_cli-2.0.0.tar.gz",
+  "download_time": "2025-11-08T03:38:23.540476",
   "package_url": "https://pypi.org/project/nightscout-cli/"
 }

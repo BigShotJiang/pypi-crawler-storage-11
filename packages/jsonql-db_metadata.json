@@ -1,0 +1,11 @@
+{
+  "name": "jsonql-db",
+  "version": "0.1.1",
+  "summary": "A lightweight, file-based JSON database with SQL-like interface",
+  "author": "FBF",
+  "license": null,
+  "home_page": "https://github.com/takouzlo/jsonql-db",
+  "download_filename": "jsonql_db-0.1.1.tar.gz",
+  "download_time": "2025-11-08T03:38:02.664596",
+  "package_url": "https://pypi.org/project/jsonql-db/"
+}

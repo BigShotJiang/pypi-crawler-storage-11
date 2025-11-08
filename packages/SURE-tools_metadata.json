@@ -1,11 +1,11 @@
 {
   "name": "SURE-tools",
-  "version": "2.2.20",
+  "version": "2.2.25",
   "summary": "Succinct Representation of Single Cells",
   "author": "Feng Zeng",
   "license": null,
   "home_page": "https://github.com/ZengFLab/SURE",
-  "download_filename": "sure_tools-2.2.20.tar.gz",
-  "download_time": "2025-11-08T01:30:48.266941",
+  "download_filename": "sure_tools-2.2.25.tar.gz",
+  "download_time": "2025-11-08T03:37:58.200865",
   "package_url": "https://pypi.org/project/SURE-tools/"
 }
