@@ -1,11 +1,11 @@
 {
   "name": "spytial-diagramming",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "sPyTial: Spatial Python visualization with declarative constraints",
   "author": "Siddhartha Prasad",
   "license": "MIT",
   "home_page": "https://github.com/sidprasad/spytial",
-  "download_filename": "spytial_diagramming-0.4.1.tar.gz",
-  "download_time": "2025-11-06T20:45:19.183490",
+  "download_filename": "spytial_diagramming-0.4.2.tar.gz",
+  "download_time": "2025-11-08T13:35:46.121755",
   "package_url": "https://pypi.org/project/spytial-diagramming/"
 }

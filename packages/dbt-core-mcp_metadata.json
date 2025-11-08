@@ -1,11 +1,11 @@
 {
   "name": "dbt-core-mcp",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "DBT Core MCP Server: Interact with DBT projects via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbt_core_mcp-0.2.1.tar.gz",
-  "download_time": "2025-11-07T11:27:38.138356",
+  "download_filename": "dbt_core_mcp-0.2.3.tar.gz",
+  "download_time": "2025-11-08T13:35:32.885654",
   "package_url": "https://pypi.org/project/dbt-core-mcp/"
 }

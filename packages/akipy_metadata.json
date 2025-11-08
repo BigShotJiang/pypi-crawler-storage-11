@@ -1,11 +1,11 @@
 {
   "name": "akipy",
-  "version": "1.2.5",
+  "version": "1.3.5",
   "summary": "A Python library wrapper for Akinator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "akipy-1.2.5.tar.gz",
-  "download_time": "2025-11-08T12:40:14.293430",
+  "download_filename": "akipy-1.3.5.tar.gz",
+  "download_time": "2025-11-08T13:35:36.116797",
   "package_url": "https://pypi.org/project/akipy/"
 }

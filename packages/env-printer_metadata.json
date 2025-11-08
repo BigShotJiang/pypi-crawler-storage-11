@@ -1,0 +1,11 @@
+{
+  "name": "env-printer",
+  "version": "0.1.1",
+  "summary": "Print environment variables and recursively list files on install.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/env-printer/",
+  "download_filename": "env_printer-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-08T13:35:25.207616",
+  "package_url": "https://pypi.org/project/env-printer/"
+}
