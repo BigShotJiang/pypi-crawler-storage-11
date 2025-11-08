@@ -1,11 +1,11 @@
 {
   "name": "lockr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI tool leveraging Redis locking pattern for management of distributed applications in cloud",
   "author": "Paarth Bhasin",
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/PaarthB/LockR/",
-  "download_filename": "lockr-0.1.0.tar.gz",
-  "download_time": "2025-11-08T11:41:00.282372",
+  "download_filename": "lockr-0.1.1.tar.gz",
+  "download_time": "2025-11-08T11:54:29.441177",
   "package_url": "https://pypi.org/project/lockr/"
 }
