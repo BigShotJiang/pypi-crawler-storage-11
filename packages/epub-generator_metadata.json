@@ -1,0 +1,11 @@
+{
+  "name": "epub-generator",
+  "version": "0.1.0",
+  "summary": "A simple Python EPUB 3.0 generator with a single API call",
+  "author": "Tao Zeyu",
+  "license": "MIT",
+  "home_page": "https://github.com/moskize91/epub-generator",
+  "download_filename": "epub_generator-0.1.0.tar.gz",
+  "download_time": "2025-11-08T07:40:54.154401",
+  "package_url": "https://pypi.org/project/epub-generator/"
+}

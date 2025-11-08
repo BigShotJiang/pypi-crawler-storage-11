@@ -1,11 +1,11 @@
 {
   "name": "windows-camera-enum",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Windows camera device enumeration using DirectShow APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "windows_camera_enum-1.0.2.tar.gz",
-  "download_time": "2025-11-08T04:45:29.682506",
+  "download_filename": "windows_camera_enum-1.0.3.tar.gz",
+  "download_time": "2025-11-08T07:40:50.043172",
   "package_url": "https://pypi.org/project/windows-camera-enum/"
 }
