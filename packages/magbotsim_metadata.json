@@ -1,0 +1,11 @@
+{
+  "name": "magbotsim",
+  "version": "1.0.0",
+  "summary": "Magentic robotics simulation including reinforcement learning environments based on MuJoCo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magbotsim-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-08T18:29:56.715958",
+  "package_url": "https://pypi.org/project/magbotsim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sri-tool",
+  "version": "1.0.0",
+  "summary": "A CLI tool for managing Subresource Integrity (SRI) hashes in HTML files - no external dependencies!",
+  "author": "adasThePro",
+  "license": null,
+  "home_page": "https://github.com/adasThePro/sri-tool",
+  "download_filename": "sri_tool-1.0.0.tar.gz",
+  "download_time": "2025-11-08T18:30:03.466405",
+  "package_url": "https://pypi.org/project/sri-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "udsonip",
+  "version": "0.2.1",
+  "summary": "Enhanced UDS-on-IP integration library providing seamless multi-ECU support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "udsonip-0.2.1.tar.gz",
+  "download_time": "2025-11-08T18:30:32.027124",
+  "package_url": "https://pypi.org/project/udsonip/"
+}

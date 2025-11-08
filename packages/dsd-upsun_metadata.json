@@ -1,0 +1,11 @@
+{
+  "name": "dsd-upsun",
+  "version": "1.2.0",
+  "summary": "A plugin for django-simple-deploy, supporting deployments to Upsun.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsd_upsun-1.2.0.tar.gz",
+  "download_time": "2025-11-08T18:30:29.845803",
+  "package_url": "https://pypi.org/project/dsd-upsun/"
+}

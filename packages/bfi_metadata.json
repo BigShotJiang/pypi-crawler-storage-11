@@ -1,0 +1,11 @@
+{
+  "name": "bfi",
+  "version": "1.1.1",
+  "summary": "A fast optimizing Brainfuck interpreter in pure python",
+  "author": "Erik Nyquist",
+  "license": "MIT",
+  "home_page": "http://github.com/eriknyquist/bfi",
+  "download_filename": "bfi-1.1.1-py2-none-any.whl",
+  "download_time": "2025-11-08T18:30:33.663176",
+  "package_url": "https://pypi.org/project/bfi/"
+}

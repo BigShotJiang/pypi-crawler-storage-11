@@ -1,0 +1,11 @@
+{
+  "name": "python-hilo",
+  "version": "2025.11.1",
+  "summary": "A Python3, async interface to the Hilo API",
+  "author": "David Vallee Delisle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_hilo-2025.11.1.tar.gz",
+  "download_time": "2025-11-08T18:30:33.108362",
+  "package_url": "https://pypi.org/project/python-hilo/"
+}

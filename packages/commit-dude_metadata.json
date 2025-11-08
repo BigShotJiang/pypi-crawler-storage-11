@@ -1,0 +1,11 @@
+{
+  "name": "commit-dude",
+  "version": "0.1.1",
+  "summary": "CLI that generates Conventional Commits from git diffs using LangChain + OpenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commit_dude-0.1.1.tar.gz",
+  "download_time": "2025-11-08T18:30:36.851939",
+  "package_url": "https://pypi.org/project/commit-dude/"
+}

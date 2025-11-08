@@ -1,0 +1,11 @@
+{
+  "name": "pivmetalib",
+  "version": "3.0.0.0",
+  "summary": "A Python library for working with the pivmeta ontology.",
+  "author": "Matthias Probst",
+  "license": null,
+  "home_page": "https://github.com/matthiasprobst/pivmetalib",
+  "download_filename": "pivmetalib-3.0.0.0.tar.gz",
+  "download_time": "2025-11-08T18:30:37.933910",
+  "package_url": "https://pypi.org/project/pivmetalib/"
+}

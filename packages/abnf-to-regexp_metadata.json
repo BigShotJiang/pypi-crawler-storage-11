@@ -1,0 +1,11 @@
+{
+  "name": "abnf-to-regexp",
+  "version": "1.2.0",
+  "summary": "Convert ABNF grammars to Python regular expressions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abnf_to_regexp-1.2.0.tar.gz",
+  "download_time": "2025-11-08T18:30:25.008450",
+  "package_url": "https://pypi.org/project/abnf-to-regexp/"
+}

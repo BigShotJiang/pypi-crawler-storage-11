@@ -1,0 +1,11 @@
+{
+  "name": "pymcssa",
+  "version": "0.1.0",
+  "summary": "A Monte Carlo Singular Spectrum Analysis (MCSSA) package for time series analysis.",
+  "author": "Sayan Jana",
+  "license": "MIT",
+  "home_page": "https://github.com/sayan-geoDL/pymcssa",
+  "download_filename": "pymcssa-0.1.0.tar.gz",
+  "download_time": "2025-11-08T18:29:58.369344",
+  "package_url": "https://pypi.org/project/pymcssa/"
+}
