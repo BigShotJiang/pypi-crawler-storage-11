@@ -1,11 +1,11 @@
 {
   "name": "beekeeper-monitors-watsonx",
-  "version": "1.0.5.post1",
+  "version": "1.0.6",
   "summary": "beekeeper monitors watsonx extension",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "beekeeper_monitors_watsonx-1.0.5.post1.tar.gz",
-  "download_time": "2025-11-07T21:45:38.637344",
+  "download_filename": "beekeeper_monitors_watsonx-1.0.6.tar.gz",
+  "download_time": "2025-11-08T04:45:33.357143",
   "package_url": "https://pypi.org/project/beekeeper-monitors-watsonx/"
 }

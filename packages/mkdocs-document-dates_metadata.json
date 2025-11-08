@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-document-dates",
+  "version": "3.4.7",
+  "summary": "A new generation MkDocs plugin for displaying exact creation time, last update time, authors, email of documents",
+  "author": "Aaron Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/jaywhj/mkdocs-document-dates",
+  "download_filename": "mkdocs_document_dates-3.4.7.tar.gz",
+  "download_time": "2025-11-08T04:45:30.196535",
+  "package_url": "https://pypi.org/project/mkdocs-document-dates/"
+}
