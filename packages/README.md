@@ -1,20 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T06:52:14.953327
-- **Total Packages**: 77
-- **Total Size**: 1.78 MB
+- **Download Time**: 2025-11-08T07:22:05.384815
+- **Total Packages**: 83
+- **Total Size**: 31.95 MB
 
 ## Packages List
+- pyfixest
+- lemonsqueezy
+- hhj-engine
+- meshcore-cli
+- meshcore
+- lifx-async
+- ai-edge-litert-nightly
+- streamlit-launcher
+- pulumi-provider-boilerplate
+- abstract-utilities
+- tritonparse
+- mailgun
+- how-freedom-feels
+- bouquin
+- atdata
+- nucleation
+- symbiosis-gateway
+- wardy-utils
+- abstract-webtools
+- zhkj-plugins-parent
+- streamlit-nightly
+- firenado
+- cointhatemij
+- biem-helmholtz-sphere-ep
+- epsearch
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- ngio
+- dagster-static
+- praval
+- quazydb
+- tonutils
+- reyserver
+- reyfetch
+- countdown-cli
+- dedalus-labs
+- kagura-ai
+- comfy-cli
+- godfather-cli
+- audiosub
+- aider-ce
+- huitzo-sdk
+- myboot
+- pyeasyphd
 - fastapps
 - cseslib4py
 - calico_lib
 - regmonkey
-- pycgraph
 - mha-flow
 - crystalwindow
 - django-dynamic-workflows
-- zhkj-plugins-parent
 - pybibtexer
 - henosis-cli
 - func-validator
@@ -22,7 +64,6 @@
 - typer-invoke
 - papr-memory
 - pulumi-aws-native
-- bouquin
 - dbus-fast
 - arthexis
 - pyadvtools
@@ -33,7 +74,6 @@
 - MetaRpcMT5
 - MetaRpcMT4
 - mawo-natasha
-- atdata
 - mawo-slovnet
 - yt-updater
 - python-injection
@@ -43,43 +83,9 @@
 - setuseragent
 - easy-code-reader
 - reywechat
-- reyserver
 - reykit
-- reyfetch
 - reydb
 - pulumi-command
 - rl-arena
 - numgraph-equation
 - wox-plugin
-- patch-api
-- dynamicpdf-api
-- pyg-nightly
-- nemo-library-etl
-- ivcap_client
-- paytm-verifier
-- dhxpyt
-- buelon
-- jupyterlab-mlflow
-- my-cloud-devops-consulting
-- clud
-- cartola
-- pyvcad-rendering
-- google-api-client-wrapper
-- dayabay-model-official
-- biszx-odoo-mcp
-- nodespecs
-- crashlens
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- py-extension-toolkit
-- inoopa_utils
-- pysvgchart
-- dataweaver-ai
-- oh-my-git-agent
-- whitespace-format
-- calmjs.parse
-- egasp
-- juno-kanban
-- escapyst
-- modusa
-- cltk

@@ -1,0 +1,11 @@
+{
+  "name": "firenado",
+  "version": "0.9.6",
+  "summary": "Firenado is a python web framework based on Tornado web framework/server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firenado-0.9.6.tar.gz",
+  "download_time": "2025-11-08T07:21:31.209908",
+  "package_url": "https://pypi.org/project/firenado/"
+}

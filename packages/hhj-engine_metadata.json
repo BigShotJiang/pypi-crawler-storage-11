@@ -1,0 +1,11 @@
+{
+  "name": "hhj-engine",
+  "version": "1.2",
+  "summary": "HHJ Engine - YAML orchestrator for automated workflows",
+  "author": "NickC4p",
+  "license": "DIO - See de license",
+  "home_page": null,
+  "download_filename": "hhj_engine-1.2.tar.gz",
+  "download_time": "2025-11-08T07:21:21.133030",
+  "package_url": "https://pypi.org/project/hhj-engine/"
+}
