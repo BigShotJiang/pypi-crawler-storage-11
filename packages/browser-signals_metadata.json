@@ -1,0 +1,11 @@
+{
+  "name": "browser-signals",
+  "version": "0.1.0",
+  "summary": "Non-blocking visual signals (banners/flash) for Selenium runs; optional pytest auto-annotation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "browser_signals-0.1.0.tar.gz",
+  "download_time": "2025-11-08T21:54:10.763615",
+  "package_url": "https://pypi.org/project/browser-signals/"
+}

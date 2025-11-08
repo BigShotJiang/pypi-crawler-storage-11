@@ -1,0 +1,11 @@
+{
+  "name": "musicly",
+  "version": "0.1.1",
+  "summary": "A terminal-based music player that allows users to search and play songs directly from the command line.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "musicly-0.1.1.tar.gz",
+  "download_time": "2025-11-08T21:54:01.372915",
+  "package_url": "https://pypi.org/project/musicly/"
+}

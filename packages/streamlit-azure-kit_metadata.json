@@ -1,11 +1,11 @@
 {
   "name": "streamlit-azure-kit",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Configuration-driven database and storage utilities for Azure",
   "author": "Streamlit Azure Kit",
   "license": null,
   "home_page": "https://github.com/streamlit-azure-kit/streamlit-azure-kit",
-  "download_filename": "streamlit_azure_kit-0.3.2-py3-none-any.whl",
-  "download_time": "2025-11-01T20:19:44.846663",
+  "download_filename": "streamlit_azure_kit-0.3.3-py3-none-any.whl",
+  "download_time": "2025-11-08T21:53:59.642270",
   "package_url": "https://pypi.org/project/streamlit-azure-kit/"
 }

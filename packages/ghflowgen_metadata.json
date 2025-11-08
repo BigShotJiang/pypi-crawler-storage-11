@@ -1,0 +1,11 @@
+{
+  "name": "ghflowgen",
+  "version": "0.0.1a0",
+  "summary": "Library to generate GitHub action workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghflowgen-0.0.1a0.tar.gz",
+  "download_time": "2025-11-08T21:54:01.936366",
+  "package_url": "https://pypi.org/project/ghflowgen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sauce-api-mcp-fastmcp",
+  "version": "1.0.4",
+  "summary": "MCP server for Sauce Labs API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sauce_api_mcp_fastmcp-1.0.4.tar.gz",
+  "download_time": "2025-11-08T21:53:58.502681",
+  "package_url": "https://pypi.org/project/sauce-api-mcp-fastmcp/"
+}
