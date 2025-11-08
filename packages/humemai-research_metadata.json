@@ -1,11 +1,11 @@
 {
   "name": "humemai-research",
-  "version": "1.0.2.post0",
-  "summary": "A Machine With Human-Like Memory Systems.",
+  "version": "2.5.6.post2",
+  "summary": "A Machine With Human-Like Memory",
   "author": "Taewoon Kim",
   "license": null,
-  "home_page": "https://github.com/humemai/humemai-research",
-  "download_filename": "humemai_research-1.0.2.post0.tar.gz",
-  "download_time": "2025-11-08T19:53:49.937747",
+  "home_page": "https://github.com/humemai/humemai-research-research",
+  "download_filename": "humemai_research-2.5.6.post2.tar.gz",
+  "download_time": "2025-11-08T20:23:11.160056",
   "package_url": "https://pypi.org/project/humemai-research/"
 }

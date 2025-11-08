@@ -1,0 +1,11 @@
+{
+  "name": "spawnlabs",
+  "version": "0.1.0",
+  "summary": "Intelligent platform for building, running, and maintaining autonomous systems",
+  "author": "SpawnLabs",
+  "license": null,
+  "home_page": "https://spawnlabs.ai",
+  "download_filename": "spawnlabs-0.1.0.tar.gz",
+  "download_time": "2025-11-08T20:23:02.963050",
+  "package_url": "https://pypi.org/project/spawnlabs/"
+}
