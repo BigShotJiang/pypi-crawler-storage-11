@@ -1,11 +1,11 @@
 {
   "name": "py-extension-toolkit",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A Python CLI tool for creating web extensions, microservices, and integrations with ease",
   "author": "AQARY INTERNATIONAL GROUP",
   "license": null,
   "home_page": "https://github.com/Aqary-Org/py-extension-toolkit",
-  "download_filename": "py_extension_toolkit-2.0.1.tar.gz",
-  "download_time": "2025-11-08T05:54:20.155613",
+  "download_filename": "py_extension_toolkit-2.0.2.tar.gz",
+  "download_time": "2025-11-08T09:44:19.116446",
   "package_url": "https://pypi.org/project/py-extension-toolkit/"
 }

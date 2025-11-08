@@ -1,11 +1,11 @@
 {
   "name": "minilin",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "A universal low-resource deep learning framework - Learn More with Less",
   "author": "MiniLin Team",
   "license": "MIT",
   "home_page": "https://github.com/minilin-ai/minilin",
-  "download_filename": "minilin-0.1.9.tar.gz",
-  "download_time": "2025-11-08T09:22:19.480889",
+  "download_filename": "minilin-0.2.1.tar.gz",
+  "download_time": "2025-11-08T09:44:12.352855",
   "package_url": "https://pypi.org/project/minilin/"
 }

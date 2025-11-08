@@ -1,0 +1,11 @@
+{
+  "name": "icontract",
+  "version": "2.7.2",
+  "summary": "Provide design-by-contract with informative violation messages.",
+  "author": "Marko Ristin",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/Parquery/icontract",
+  "download_filename": "icontract-2.7.2.tar.gz",
+  "download_time": "2025-11-08T09:44:10.244588",
+  "package_url": "https://pypi.org/project/icontract/"
+}
