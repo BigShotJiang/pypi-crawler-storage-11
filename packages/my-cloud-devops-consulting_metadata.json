@@ -1,11 +1,11 @@
 {
   "name": "my-cloud-devops-consulting",
-  "version": "1.1.202511080045",
+  "version": "1.1.202511080105",
   "summary": "This is my consulting website for Cloud & DevOps services.",
   "author": "Betrand Mutagha",
   "license": null,
   "home_page": "https://github.com/Betrand1999/project-root",
-  "download_filename": "my_cloud_devops_consulting-1.1.202511080045-py3-none-any.whl",
-  "download_time": "2025-11-08T05:54:18.216530",
+  "download_filename": "my_cloud_devops_consulting-1.1.202511080105-py3-none-any.whl",
+  "download_time": "2025-11-08T06:31:19.594009",
   "package_url": "https://pypi.org/project/my-cloud-devops-consulting/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "patch-api",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "summary": "Patch API V2",
   "author": "Developer Support",
   "license": null,
   "home_page": null,
-  "download_filename": "patch_api-2.6.0.tar.gz",
-  "download_time": "2025-11-07T21:17:40.797873",
+  "download_filename": "patch_api-2.6.1.tar.gz",
+  "download_time": "2025-11-08T06:31:13.835218",
   "package_url": "https://pypi.org/project/patch-api/"
 }
