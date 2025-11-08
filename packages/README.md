@@ -1,12 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T17:41:21.077304
+- **Download Time**: 2025-11-08T17:55:18.235232
 - **Total Packages**: 78
-- **Total Size**: 23.37 MB
+- **Total Size**: 0.66 MB
 
 ## Packages List
-- opteryx
 - errify
 - topsisx
 - dash-aggrid-js
@@ -84,3 +83,4 @@
 - spapros
 - projections
 - iris-vector-rag
+- AlexaPy

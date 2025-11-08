@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-11-08T17:41:21.077304",
+  "download_time": "2025-11-08T17:55:18.235232",
   "total_packages_downloaded": 78,
-  "total_size_mb": 23.37,
+  "total_size_mb": 0.66,
   "packages": [
-    "opteryx",
     "errify",
     "topsisx",
     "dash-aggrid-js",
@@ -80,6 +79,7 @@
     "gazooresearchutils",
     "spapros",
     "projections",
-    "iris-vector-rag"
+    "iris-vector-rag",
+    "AlexaPy"
   ]
 }
