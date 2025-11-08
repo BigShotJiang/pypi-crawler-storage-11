@@ -1,11 +1,11 @@
 {
   "name": "pyarchiveit",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A Python library to interact with the Archive-It's API",
   "author": "Ken Lui",
   "license": null,
   "home_page": null,
-  "download_filename": "pyarchiveit-0.7.0.tar.gz",
-  "download_time": "2025-11-08T08:27:10.888104",
+  "download_filename": "pyarchiveit-0.8.0.tar.gz",
+  "download_time": "2025-11-08T21:19:24.857179",
   "package_url": "https://pypi.org/project/pyarchiveit/"
 }

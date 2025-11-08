@@ -1,0 +1,11 @@
+{
+  "name": "QualysPy",
+  "version": "0.5.10.6",
+  "summary": "A Python wrapper for the Qualys API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qualyspy-0.5.10.6.tar.gz",
+  "download_time": "2025-11-08T21:19:33.391244",
+  "package_url": "https://pypi.org/project/QualysPy/"
+}

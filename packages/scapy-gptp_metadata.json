@@ -1,0 +1,11 @@
+{
+  "name": "scapy-gptp",
+  "version": "0.3.0",
+  "summary": "scapy layer definition and tools for GPTP (IEEE 802.1as)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scapy_gptp-0.3.0.tar.gz",
+  "download_time": "2025-11-08T21:19:20.774726",
+  "package_url": "https://pypi.org/project/scapy-gptp/"
+}

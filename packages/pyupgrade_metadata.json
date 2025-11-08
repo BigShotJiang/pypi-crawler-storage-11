@@ -1,0 +1,11 @@
+{
+  "name": "pyupgrade",
+  "version": "3.21.1",
+  "summary": "A tool to automatically upgrade syntax for newer versions.",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/asottile/pyupgrade",
+  "download_filename": "pyupgrade-3.21.1.tar.gz",
+  "download_time": "2025-11-08T21:19:30.068811",
+  "package_url": "https://pypi.org/project/pyupgrade/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "expreess",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A simple greeting module called expreess",
   "author": "Aayush Singh",
   "license": null,
   "home_page": "https://github.com/yourusername/expreess",
-  "download_filename": "expreess-0.2.1.tar.gz",
-  "download_time": "2025-11-08T20:23:16.478513",
+  "download_filename": "expreess-0.2.2.tar.gz",
+  "download_time": "2025-11-08T21:19:18.077276",
   "package_url": "https://pypi.org/project/expreess/"
 }

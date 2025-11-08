@@ -1,18 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T20:54:27.830776
-- **Total Packages**: 81
-- **Total Size**: 15.17 MB
+- **Download Time**: 2025-11-08T21:19:50.810275
+- **Total Packages**: 70
+- **Total Size**: 10.33 MB
 
 ## Packages List
+- minesweeper-env-rl
+- mcp-proxy-adapter
+- gui-utilities
+- paytm-api
+- binarycookies
+- sphinxcontrib-osint
+- dbt-depp
+- specpulse
+- primfunctions
+- expreess
+- pre-commit
+- complexity-estimator-dimple
+- plaknit
+- alpha-stable-mixture
+- scapy-gptp
+- vppcfg
 - petrus
+- evipy
+- TunEd
+- robhan-cdk-lib.aws-mwaa
+- odoo-addon-l10n-es-aeat
+- odoo-addon-l10n-es-vat-book-oss
+- pyarchiveit
+- odoo-addon-l10n-es-vat-prorate
+- odoo-addon-l10n-es-vat-book
+- odoo-addon-l10n-es-vat-book-igic
+- maxclientapi
+- djai
+- annotate
+- ridehail
+- crashlens
+- modelgenerator
+- pyupgrade
+- mlflow-backend
+- xgovuk-flask-admin
+- jupyterlab-mlflow
+- tklr-dgraham
+- workflows-mcp
+- QualysPy
+- update-pre-commit
+- asyncyt
 - sromaster
 - social-media-gif-downloader
-- crashlens
 - pdfplumber
 - astra-discoveries
-- minesweeper-env-rl
 - baseapp-for-restapi-backend-with-swagger
 - aiautocommit
 - bascom
@@ -20,8 +58,6 @@
 - aima-toolkit
 - sereto
 - renumerate
-- vppcfg
-- paytm-api
 - glitchlings
 - omnicart-pipeline-ObaloluwaAdeleke
 - sdforge
@@ -40,50 +76,3 @@
 - json-hyperscan
 - hatch-build
 - dataframe-expectations
-- nonebot-plugin-clovers
-- cs-models
-- toolsgen
-- pyhive-integration
-- futurehouse-mcp
-- bpy-widget
-- zipstream-ai
-- unitelabs-sila
-- gui-utilities
-- pyphishtanklookup
-- pymlb-statsapi
-- slownie
-- ridehail
-- duplicaid
-- penguinstransittoolbox
-- langroid
-- screen-brightness-control
-- telegram-menu-builder
-- pypomes-iam
-- deprecated-params
-- pyreactflow
-- rustmodels
-- SparseMatrixRecommender
-- udsonip
-- coverage
-- claude-worktree
-- docutools
-- colrs
-- easy-acumatica
-- mact-cli
-- rns-page-node
-- sittagger
-- photonforge
-- textzle
-- Legacy-TL-New
-- textfx
-- dioxide
-- podcast-transformer
-- versapy
-- spawnlabs
-- proxai
-- let3
-- apsw-sqlite3mc
-- mlx-knife
-- pypomes-crypto
-- gldb
-- aisp
