@@ -1,11 +1,11 @@
 {
   "name": "text-python",
-  "version": "0.1",
-  "summary": "Ngon ngu Viet khong dau ket hop Python va pygame",
-  "author": "YourName",
+  "version": "0.5",
+  "summary": null,
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "text_python-0.1.tar.gz",
-  "download_time": "2025-11-08T10:22:18.128168",
+  "download_filename": "text_python-0.5.tar.gz",
+  "download_time": "2025-11-08T12:40:02.809404",
   "package_url": "https://pypi.org/project/text-python/"
 }

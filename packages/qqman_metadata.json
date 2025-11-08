@@ -1,0 +1,11 @@
+{
+  "name": "qqman",
+  "version": "1.0.8",
+  "summary": "Draws Manhattan plot and QQ plot using plink assoc output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qqman-1.0.8.tar.gz",
+  "download_time": "2025-11-08T12:40:05.038212",
+  "package_url": "https://pypi.org/project/qqman/"
+}

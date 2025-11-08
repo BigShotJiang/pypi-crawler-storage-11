@@ -1,0 +1,11 @@
+{
+  "name": "AMRS",
+  "version": "0.0.0",
+  "summary": "The adaptive model routing system for exploration and exploitation.",
+  "author": "InftyAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amrs-0.0.0.tar.gz",
+  "download_time": "2025-11-08T12:40:21.166804",
+  "package_url": "https://pypi.org/project/AMRS/"
+}

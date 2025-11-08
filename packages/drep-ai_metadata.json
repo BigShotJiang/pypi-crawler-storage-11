@@ -1,11 +1,11 @@
 {
   "name": "drep-ai",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "AI-powered code review and documentation quality tool for Gitea, GitHub, and GitLab",
   "author": "drep Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drep_ai-0.8.1.tar.gz",
-  "download_time": "2025-11-08T11:54:24.206973",
+  "download_filename": "drep_ai-0.8.2.tar.gz",
+  "download_time": "2025-11-08T12:40:19.051348",
   "package_url": "https://pypi.org/project/drep-ai/"
 }

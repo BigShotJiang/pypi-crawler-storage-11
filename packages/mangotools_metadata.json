@@ -1,11 +1,11 @@
 {
   "name": "mangotools",
-  "version": "1.1.57",
+  "version": "1.1.58",
   "summary": "测试工具",
   "author": "毛鹏",
   "license": null,
   "home_page": "https://gitee.com/mao-peng/testkit",
-  "download_filename": "mangotools-1.1.57.tar.gz",
-  "download_time": "2025-11-03T10:47:56.101013",
+  "download_filename": "mangotools-1.1.58.tar.gz",
+  "download_time": "2025-11-08T12:40:10.034095",
   "package_url": "https://pypi.org/project/mangotools/"
 }

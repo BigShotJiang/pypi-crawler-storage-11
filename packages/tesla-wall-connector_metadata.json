@@ -1,0 +1,11 @@
+{
+  "name": "tesla-wall-connector",
+  "version": "1.1.0",
+  "summary": "API Library for communicating with a Tesla Wall Connector",
+  "author": "Einar Bragi Hauksson",
+  "license": "MIT",
+  "home_page": "https://github.com/einarhauks/tesla-wall-connector",
+  "download_filename": "tesla_wall_connector-1.1.0.tar.gz",
+  "download_time": "2025-11-08T12:40:28.205576",
+  "package_url": "https://pypi.org/project/tesla-wall-connector/"
+}
