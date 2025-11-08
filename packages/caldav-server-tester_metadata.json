@@ -1,0 +1,11 @@
+{
+  "name": "caldav-server-tester",
+  "version": "0.1.0",
+  "summary": "CalDAV Server Checker - checking a CalDAV server for compatibility issues",
+  "author": "Tobias Brox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caldav_server_tester-0.1.0.tar.gz",
+  "download_time": "2025-11-08T15:41:04.956548",
+  "package_url": "https://pypi.org/project/caldav-server-tester/"
+}

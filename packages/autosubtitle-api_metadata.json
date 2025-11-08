@@ -1,0 +1,11 @@
+{
+  "name": "autosubtitle-api",
+  "version": "1.0.1",
+  "summary": "Official Python client library for AutoSubtitle.net API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autosubtitle_api-1.0.1.tar.gz",
+  "download_time": "2025-11-08T15:40:59.661792",
+  "package_url": "https://pypi.org/project/autosubtitle-api/"
+}

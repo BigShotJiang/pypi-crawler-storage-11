@@ -1,30 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T15:21:34.874034
-- **Total Packages**: 77
-- **Total Size**: 11.13 MB
+- **Download Time**: 2025-11-08T15:41:37.890288
+- **Total Packages**: 81
+- **Total Size**: 20.11 MB
 
 ## Packages List
+- sbdl
+- pgzpro
+- calkit-python
+- allos-agent-sdk
+- odoo-addon-l10n-es-aeat
+- odoo-addon-l10n-es-vat-book-oss
+- odoo-addon-l10n-es-vat-prorate
+- odoo-addon-l10n-es-vat-book
+- odoo-addon-l10n-es-vat-book-igic
+- gpustack-runner
+- joythief
+- cb2325-numerica-g8
+- autosubtitle-api
+- tigr81
+- gui-utilities
+- clinicedc-utils
+- ttsfm
+- sayer
+- TypeTreeGeneratorAPIEx
+- PyS3Uploader
+- clinicedc-constants
+- caldav-server-tester
+- petrus
+- metrics_layer
+- pyspark-storydoc
+- v440
+- specdec
+- quant1024
+- notionary
+- py-hpl-logger
+- byzh-ai
+- search1688api
+- itkit
+- maxclientapi
+- reywechat
+- reydb
+- iris-devtester
+- cyberark-tpc-plugin-parser
 - d2-sdk
 - frost-forge
-- gui-utilities
 - ixlab-sshcli
 - ultimateultimateguitar
 - weibo-cli
 - dictforge
 - claude-code-log
-- pyspark-storydoc
 - iris-vector-graph
 - llm-async
-- specdec
 - pytrack-sent
 - aioyookassa
 - omnicart-pipeline-campeon
 - toolsgen
 - vnstock-mcp
 - eclips-blossom-ai
-- maxclientapi
 - mpesakit
 - pywheels
 - ozonapi-async
@@ -53,33 +87,3 @@
 - langbot-plugin
 - Reduino
 - yarobot
-- gpustack-runner
-- reywechat
-- reyfetch
-- reydb
-- caldav
-- zignal-processing
-- Functions-d
-- matrixone-python-sdk
-- inclde010py
-- mawo-slovnet
-- xai-review
-- funasr-client
-- aocref
-- pyspread
-- joythief
-- sops-checker
-- guildbotics
-- odoo-addon-hr-contract-employee-calendar-planning
-- AndroidFileHostScraper
-- dojocommons
-- InfinityStoreLib
-- ultragpt
-- robot-soccer-kit
-- voxcity
-- rbx.cp
-- schemathesis
-- semantics.py3
-- petsird
-- vnpy_okx
-- kimi-cli
