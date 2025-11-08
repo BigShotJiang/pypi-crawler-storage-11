@@ -1,0 +1,11 @@
+{
+  "name": "glyrics",
+  "version": "0.1.0",
+  "summary": "Flask app for fetching song lyrics from the Genius API",
+  "author": "William Dye",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glyrics-0.1.0.tar.gz",
+  "download_time": "2025-11-08T22:41:59.315838",
+  "package_url": "https://pypi.org/project/glyrics/"
+}

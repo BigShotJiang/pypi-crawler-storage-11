@@ -1,11 +1,11 @@
 {
   "name": "logic-asts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Grammars and parsers for various logic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logic_asts-1.0.0.tar.gz",
-  "download_time": "2025-11-05T20:56:46.589086",
+  "download_filename": "logic_asts-1.1.0.tar.gz",
+  "download_time": "2025-11-08T22:42:07.743427",
   "package_url": "https://pypi.org/project/logic-asts/"
 }

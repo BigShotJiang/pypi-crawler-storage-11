@@ -1,11 +1,11 @@
 {
   "name": "CliReport",
-  "version": "1.7.14",
+  "version": "1.7.21",
   "summary": "Remote client framework for Telegram automation using Pyrogram",
   "author": "MrAhmadiRad",
   "license": "MIT",
   "home_page": "https://github.com/MohammadAhmadi-R/CliReport",
-  "download_filename": "clireport-1.7.14.tar.gz",
-  "download_time": "2025-11-08T22:20:16.242921",
+  "download_filename": "clireport-1.7.21.tar.gz",
+  "download_time": "2025-11-08T22:41:54.074802",
   "package_url": "https://pypi.org/project/CliReport/"
 }

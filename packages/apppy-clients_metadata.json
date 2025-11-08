@@ -1,11 +1,11 @@
 {
   "name": "apppy-clients",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Infrastructure for generating client packages related to server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_clients-0.7.0.tar.gz",
-  "download_time": "2025-11-05T14:54:19.259031",
+  "download_filename": "apppy_clients-0.8.0.tar.gz",
+  "download_time": "2025-11-08T22:42:10.888128",
   "package_url": "https://pypi.org/project/apppy-clients/"
 }

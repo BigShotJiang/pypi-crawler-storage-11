@@ -1,11 +1,11 @@
 {
   "name": "torob-prices",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "A simple web scraper to find the lowest price of a product on Torob.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torob_prices-0.0.2.tar.gz",
-  "download_time": "2025-11-08T22:20:15.711729",
+  "download_filename": "torob_prices-0.0.5.tar.gz",
+  "download_time": "2025-11-08T22:41:51.467232",
   "package_url": "https://pypi.org/project/torob-prices/"
 }
