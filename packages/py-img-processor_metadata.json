@@ -1,0 +1,11 @@
+{
+  "name": "py-img-processor",
+  "version": "1.2.4",
+  "summary": "Image editor using Python and Pillow.",
+  "author": "SkylerHu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/SkylerHu/py-img-processor.git",
+  "download_filename": "py_img_processor-1.2.4.tar.gz",
+  "download_time": "2025-11-08T04:27:17.000630",
+  "package_url": "https://pypi.org/project/py-img-processor/"
+}

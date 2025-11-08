@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-barcodes-generator-product",
+  "version": "17.0.1.0.0.4",
+  "summary": "Generate Barcodes for Products (Templates and Variants)",
+  "author": "GRAP, La Louve, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-barcode",
+  "download_filename": "odoo_addon_barcodes_generator_product-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-08T04:26:57.891557",
+  "package_url": "https://pypi.org/project/odoo-addon-barcodes-generator-product/"
+}

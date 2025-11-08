@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-wikilinks-plugin",
+  "version": "0.1.2",
+  "summary": "A mkdocs plugin that makes linking to other documents easy.",
+  "author": "Carlos",
+  "license": "MIT",
+  "home_page": "https://github.com/carlos-truong/mkdocs-wikilinks-plugin",
+  "download_filename": "mkdocs_wikilinks_plugin-0.1.2.tar.gz",
+  "download_time": "2025-11-08T04:27:25.986301",
+  "package_url": "https://pypi.org/project/mkdocs-wikilinks-plugin/"
+}
