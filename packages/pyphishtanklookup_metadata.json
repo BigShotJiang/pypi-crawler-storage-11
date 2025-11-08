@@ -1,0 +1,11 @@
+{
+  "name": "pyphishtanklookup",
+  "version": "1.5.1",
+  "summary": "Python CLI and module for PhishtankLookup",
+  "author": "Raphaël Vinot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyphishtanklookup-1.5.1.tar.gz",
+  "download_time": "2025-11-08T20:41:24.415597",
+  "package_url": "https://pypi.org/project/pyphishtanklookup/"
+}

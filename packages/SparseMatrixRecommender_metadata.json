@@ -1,0 +1,11 @@
+{
+  "name": "SparseMatrixRecommender",
+  "version": "0.1.11",
+  "summary": "Sparse Matrix Recommender package based on SSparseMatrix objects.",
+  "author": "Anton Antonov",
+  "license": null,
+  "home_page": "https://github.com/antononcube/Python-packages/tree/main/SparseMatrixRecommender",
+  "download_filename": "sparsematrixrecommender-0.1.11.tar.gz",
+  "download_time": "2025-11-08T20:41:31.783256",
+  "package_url": "https://pypi.org/project/SparseMatrixRecommender/"
+}

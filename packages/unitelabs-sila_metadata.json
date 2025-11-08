@@ -1,0 +1,11 @@
+{
+  "name": "unitelabs-sila",
+  "version": "0.3.0",
+  "summary": "An un-opinionated SiLA 2 library.",
+  "author": "UniteLabs",
+  "license": null,
+  "home_page": "https://sila-standard.com",
+  "download_filename": "unitelabs_sila-0.3.0.tar.gz",
+  "download_time": "2025-11-08T20:41:23.278398",
+  "package_url": "https://pypi.org/project/unitelabs-sila/"
+}

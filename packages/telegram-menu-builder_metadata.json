@@ -1,0 +1,11 @@
+{
+  "name": "telegram-menu-builder",
+  "version": "0.1.0",
+  "summary": "A powerful builder library for creating recursive inline keyboard menus in python-telegram-bot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegram_menu_builder-0.1.0.tar.gz",
+  "download_time": "2025-11-08T20:41:29.024649",
+  "package_url": "https://pypi.org/project/telegram-menu-builder/"
+}
