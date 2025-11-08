@@ -1,11 +1,11 @@
 {
   "name": "padie-extended",
-  "version": "0.0.7",
-  "summary": "An AI powered Nigerian Language Text Classification Model",
+  "version": "0.0.8",
+  "summary": "The first open-source Nigerian language text classifier on PyPI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "padie_extended-0.0.7.tar.gz",
-  "download_time": "2025-11-08T10:43:20.973313",
+  "download_filename": "padie_extended-0.0.8.tar.gz",
+  "download_time": "2025-11-08T11:18:13.352053",
   "package_url": "https://pypi.org/project/padie-extended/"
 }
