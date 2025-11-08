@@ -1,0 +1,11 @@
+{
+  "name": "bytedance-axml-parser",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedance_axml_parser",
+  "download_filename": "bytedance_axml_parser-0.0.1.tar.gz",
+  "download_time": "2025-11-08T03:57:23.426887",
+  "package_url": "https://pypi.org/project/bytedance-axml-parser/"
+}
