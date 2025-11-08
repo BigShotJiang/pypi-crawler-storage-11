@@ -1,11 +1,11 @@
 {
   "name": "juham-shelly",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Shelly IoT devices for JuhaM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "juham_shelly-0.1.1.tar.gz",
-  "download_time": "2025-11-08T10:43:18.419285",
+  "download_filename": "juham_shelly-0.1.2.tar.gz",
+  "download_time": "2025-11-08T19:53:57.544548",
   "package_url": "https://pypi.org/project/juham-shelly/"
 }

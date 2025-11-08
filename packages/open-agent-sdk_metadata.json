@@ -1,0 +1,11 @@
+{
+  "name": "open-agent-sdk",
+  "version": "0.4.2",
+  "summary": "Lightweight Python SDK for local/self-hosted LLMs via OpenAI-compatible endpoints",
+  "author": "Open Agent SDK Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_agent_sdk-0.4.2.tar.gz",
+  "download_time": "2025-11-08T19:53:52.204672",
+  "package_url": "https://pypi.org/project/open-agent-sdk/"
+}

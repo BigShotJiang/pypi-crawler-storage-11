@@ -1,11 +1,11 @@
 {
   "name": "rustmapper",
-  "version": "0.1.1",
-  "summary": "Concurrent web crawler and sitemap generator built with Rust",
+  "version": "0.1.3",
+  "summary": "Sitemap crawler and URL discovery tool built with Rust (256 workers, sharded frontier, WAL persistence, optional Redis)",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "rustmapper-0.1.1.tar.gz",
-  "download_time": "2025-11-08T19:17:59.908656",
+  "download_filename": "rustmapper-0.1.3.tar.gz",
+  "download_time": "2025-11-08T19:53:45.417851",
   "package_url": "https://pypi.org/project/rustmapper/"
 }
