@@ -1,0 +1,11 @@
+{
+  "name": "argparse-ps1",
+  "version": "0.1.6",
+  "summary": "Generate PowerShell wrapper scripts for Python scripts executed with uv",
+  "author": "Shimarch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argparse_ps1-0.1.6.tar.gz",
+  "download_time": "2025-11-08T14:42:40.312719",
+  "package_url": "https://pypi.org/project/argparse-ps1/"
+}

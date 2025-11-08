@@ -1,0 +1,11 @@
+{
+  "name": "sprite-pipeline",
+  "version": "0.3.0",
+  "summary": "A pipeline for converting images into stylized game sprites and sprite sheet generation.",
+  "author": "Alexander Brodko",
+  "license": null,
+  "home_page": "https://github.com/alexanderbrodko/sprite-pipeline",
+  "download_filename": "sprite_pipeline-0.3.0.tar.gz",
+  "download_time": "2025-11-08T14:42:43.957953",
+  "package_url": "https://pypi.org/project/sprite-pipeline/"
+}

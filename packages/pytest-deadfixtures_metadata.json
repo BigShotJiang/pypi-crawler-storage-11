@@ -1,0 +1,11 @@
+{
+  "name": "pytest-deadfixtures",
+  "version": "3.0.0",
+  "summary": "A simple plugin to list unused fixtures in pytest",
+  "author": "João Luiz Lorencetti",
+  "license": "MIT",
+  "home_page": "https://github.com/jllorencetti/pytest-deadfixtures",
+  "download_filename": "pytest_deadfixtures-3.0.0.tar.gz",
+  "download_time": "2025-11-08T14:42:44.997144",
+  "package_url": "https://pypi.org/project/pytest-deadfixtures/"
+}

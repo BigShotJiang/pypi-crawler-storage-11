@@ -1,11 +1,11 @@
 {
   "name": "Kekik",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..",
   "author": "keyiflerolsun",
   "license": "GPLv3+",
   "home_page": "https://github.com/keyiflerolsun/Kekik",
-  "download_filename": "kekik-1.8.1.tar.gz",
-  "download_time": "2025-11-08T14:19:28.615586",
+  "download_filename": "kekik-1.8.2.tar.gz",
+  "download_time": "2025-11-08T14:42:42.391000",
   "package_url": "https://pypi.org/project/Kekik/"
 }

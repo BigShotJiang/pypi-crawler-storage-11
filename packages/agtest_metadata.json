@@ -1,11 +1,11 @@
 {
   "name": "agtest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI-powered tool to automatically generate compliant unit tests for FastAPI controllers and service layers, enforcing strict project standards.",
   "author": "Ankit Negi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agtest-0.2.0.tar.gz",
-  "download_time": "2025-11-02T05:51:53.889032",
+  "download_filename": "agtest-0.2.1.tar.gz",
+  "download_time": "2025-11-08T14:42:29.732827",
   "package_url": "https://pypi.org/project/agtest/"
 }

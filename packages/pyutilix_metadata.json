@@ -1,0 +1,11 @@
+{
+  "name": "pyutilix",
+  "version": "0.1.1",
+  "summary": "A small Python utility library including Clamped and other functions.",
+  "author": "M",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyutilix-0.1.1.tar.gz",
+  "download_time": "2025-11-08T14:42:22.788785",
+  "package_url": "https://pypi.org/project/pyutilix/"
+}
