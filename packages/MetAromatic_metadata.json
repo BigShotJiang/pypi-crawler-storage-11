@@ -1,0 +1,11 @@
+{
+  "name": "MetAromatic",
+  "version": "1.7.0",
+  "summary": "MetAromatic algorithm",
+  "author": "David Weber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaromatic-1.7.0.tar.gz",
+  "download_time": "2025-11-08T13:09:02.307212",
+  "package_url": "https://pypi.org/project/MetAromatic/"
+}

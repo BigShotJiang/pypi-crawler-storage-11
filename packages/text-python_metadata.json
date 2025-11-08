@@ -1,11 +1,11 @@
 {
   "name": "text-python",
-  "version": "0.5",
+  "version": "0.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "text_python-0.5.tar.gz",
-  "download_time": "2025-11-08T12:40:02.809404",
+  "download_filename": "text_python-0.6.tar.gz",
+  "download_time": "2025-11-08T13:09:25.346588",
   "package_url": "https://pypi.org/project/text-python/"
 }
