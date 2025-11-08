@@ -1,0 +1,11 @@
+{
+  "name": "mehc-curation",
+  "version": "1.0.0",
+  "summary": "A comprehensive toolkit for SMILES molecular data curation, validation, cleaning, and normalization",
+  "author": "Thanh-Hoang Nguyen-Vo",
+  "license": "MIT",
+  "home_page": "https://github.com/biochem-data-sci/mehc-curation",
+  "download_filename": "mehc_curation-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-08T21:39:56.740573",
+  "package_url": "https://pypi.org/project/mehc-curation/"
+}

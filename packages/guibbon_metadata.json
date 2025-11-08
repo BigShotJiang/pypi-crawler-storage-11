@@ -1,0 +1,11 @@
+{
+  "name": "guibbon",
+  "version": "0.4.0",
+  "summary": "Very high level GUI with an API similar to the HighGUI of OpenCV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guibbon-0.4.0.tar.gz",
+  "download_time": "2025-11-08T21:39:57.315959",
+  "package_url": "https://pypi.org/project/guibbon/"
+}

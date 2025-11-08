@@ -1,0 +1,11 @@
+{
+  "name": "opendate",
+  "version": "0.1.22",
+  "summary": "Python business datetimes",
+  "author": "bissli",
+  "license": "MIT",
+  "home_page": "https://github.com/bissli/opendate",
+  "download_filename": "opendate-0.1.22.tar.gz",
+  "download_time": "2025-11-08T21:40:07.573716",
+  "package_url": "https://pypi.org/project/opendate/"
+}

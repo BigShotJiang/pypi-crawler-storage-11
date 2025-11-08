@@ -1,0 +1,11 @@
+{
+  "name": "instaloader",
+  "version": "4.15",
+  "summary": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+  "author": "Alexander Graf, André Koch-Kramer",
+  "license": "MIT",
+  "home_page": "https://instaloader.github.io/",
+  "download_filename": "instaloader-4.15.tar.gz",
+  "download_time": "2025-11-08T21:40:00.913437",
+  "package_url": "https://pypi.org/project/instaloader/"
+}

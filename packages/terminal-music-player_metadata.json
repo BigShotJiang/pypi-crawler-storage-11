@@ -1,0 +1,11 @@
+{
+  "name": "terminal-music-player",
+  "version": "0.1.0",
+  "summary": "A terminal-based music player that allows users to search and play songs directly from the command line.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "terminal_music_player-0.1.0.tar.gz",
+  "download_time": "2025-11-08T21:39:51.695859",
+  "package_url": "https://pypi.org/project/terminal-music-player/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bardic",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python-first interactive fiction engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bardic-0.2.0.tar.gz",
-  "download_time": "2025-11-08T01:30:46.493018",
+  "download_filename": "bardic-0.3.0.tar.gz",
+  "download_time": "2025-11-08T21:40:07.035170",
   "package_url": "https://pypi.org/project/bardic/"
 }
