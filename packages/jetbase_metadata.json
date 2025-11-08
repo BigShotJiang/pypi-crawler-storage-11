@@ -1,11 +1,11 @@
 {
   "name": "jetbase",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Jetbase is a Python database migration tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jetbase-0.2.1.tar.gz",
-  "download_time": "2025-11-07T07:54:25.186891",
+  "download_filename": "jetbase-0.2.2.tar.gz",
+  "download_time": "2025-11-08T05:21:48.989958",
   "package_url": "https://pypi.org/project/jetbase/"
 }

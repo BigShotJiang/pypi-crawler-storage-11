@@ -1,0 +1,11 @@
+{
+  "name": "CellScope-RNA",
+  "version": "0.1.5",
+  "summary": "A package for analyzing and visualizing gene expression data",
+  "author": "Tianhao Ni",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cellscope_rna-0.1.5.tar.gz",
+  "download_time": "2025-11-08T05:21:51.580453",
+  "package_url": "https://pypi.org/project/CellScope-RNA/"
+}
