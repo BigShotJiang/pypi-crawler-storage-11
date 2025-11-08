@@ -1,16 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T19:18:15.191045
-- **Total Packages**: 79
-- **Total Size**: 48.62 MB
+- **Download Time**: 2025-11-08T19:30:19.043630
+- **Total Packages**: 76
+- **Total Size**: 2.43 MB
 
 ## Packages List
+- botmaro-secrets-manager
+- ABConnect
+- tox-backtick
+- BuzzerboyAWSLightsail
+- scipion-em-recovar
+- octotui
+- pypomes-crypto
+- smoosense
+- upathtools
+- toon-format
+- arts
+- letschatty
+- purl2notices
+- mllm-shap
+- ikemurami
+- setup-badge
 - ariadne-lib
 - snap-pslg
 - milliseconds
-- letschatty
-- ikemurami
 - crackerjack
 - pdf2md-ocr
 - petrus
@@ -19,7 +33,6 @@
 - deepteam
 - easyfea
 - LMFuser
-- arts
 - pyvm-updater
 - skypilot-nightly
 - iointel
@@ -69,19 +82,3 @@
 - chuk-acp
 - soundsig
 - quickhooks
-- jamstats
-- showcert
-- adaptive-sparse-training
-- magbotsim
-- db-aggregator-api
-- sromaster
-- pymcssa
-- agent-queue
-- groundingdino-cu128
-- autoheader
-- phylorun
-- pkg-about
-- kohakuvault
-- tklr-dgraham
-- sri-tool
-- pytissueoptics
