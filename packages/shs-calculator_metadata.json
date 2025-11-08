@@ -1,11 +1,11 @@
 {
   "name": "shs-calculator",
-  "version": "0.1.0",
-  "summary": "一个简单的Python计算器项目示例，演示从创建到发布PyPI的全流程",
+  "version": "0.1.2",
+  "summary": "一个简单的Python计算器项目示例，演示Python项目从创建到发布PyPI的全流程。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shs_calculator-0.1.0.tar.gz",
-  "download_time": "2025-11-08T17:40:47.357530",
+  "download_filename": "shs_calculator-0.1.2.tar.gz",
+  "download_time": "2025-11-08T18:50:40.397499",
   "package_url": "https://pypi.org/project/shs-calculator/"
 }
