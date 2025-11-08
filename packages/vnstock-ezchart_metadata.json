@@ -1,0 +1,11 @@
+{
+  "name": "vnstock-ezchart",
+  "version": "0.0.3",
+  "summary": "A comprehensive wrapper for Matplotlib, Seaborn which designed to provide a fast, simple, and efficient user experience for routine data visualization tasks",
+  "author": "Thinh Vu",
+  "license": null,
+  "home_page": "https://github.com/vnstock-hq/vnstock_ezchart",
+  "download_filename": "vnstock_ezchart-0.0.3.tar.gz",
+  "download_time": "2025-11-08T10:43:24.252137",
+  "package_url": "https://pypi.org/project/vnstock-ezchart/"
+}

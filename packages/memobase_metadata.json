@@ -1,0 +1,11 @@
+{
+  "name": "memobase",
+  "version": "0.0.27",
+  "summary": "Client library of Memobase: manage user memory for your LLM applications",
+  "author": "memobase.io",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/memodb-io/memobase",
+  "download_filename": "memobase-0.0.27.tar.gz",
+  "download_time": "2025-11-08T10:43:16.375333",
+  "package_url": "https://pypi.org/project/memobase/"
+}

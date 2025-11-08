@@ -1,0 +1,11 @@
+{
+  "name": "retrodevem",
+  "version": "0.7",
+  "summary": "RetroDevEm (Retro Device Emulator) is a free (as in Free Software) input devices (mouse and joystick) emulator for retro consoles and computers (Atari 2600, Atari ST, Amstrad CPC, ...).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retrodevem-0.7.tar.gz",
+  "download_time": "2025-11-08T10:43:13.785202",
+  "package_url": "https://pypi.org/project/retrodevem/"
+}

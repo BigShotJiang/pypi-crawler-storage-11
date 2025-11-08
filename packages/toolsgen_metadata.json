@@ -1,11 +1,11 @@
 {
   "name": "toolsgen",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Generate tool-calling datasets from OpenAI-compatible tool specs",
   "author": "Ahmet Ataşoğlu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toolsgen-0.1.0.tar.gz",
-  "download_time": "2025-11-08T10:22:21.364571",
+  "download_filename": "toolsgen-0.1.2.tar.gz",
+  "download_time": "2025-11-08T10:43:25.995487",
   "package_url": "https://pypi.org/project/toolsgen/"
 }

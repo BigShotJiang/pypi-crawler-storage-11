@@ -1,11 +1,11 @@
 {
   "name": "greetingsdhruv",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "A package to pour your love in bits and bytes.",
   "author": "Dhruv Pandey",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "greetingsdhruv-0.3.2.tar.gz",
-  "download_time": "2025-11-08T10:22:26.135012",
+  "download_filename": "greetingsdhruv-0.3.5.tar.gz",
+  "download_time": "2025-11-08T10:43:17.909151",
   "package_url": "https://pypi.org/project/greetingsdhruv/"
 }

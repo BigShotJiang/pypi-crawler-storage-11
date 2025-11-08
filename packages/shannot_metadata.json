@@ -1,0 +1,11 @@
+{
+  "name": "shannot",
+  "version": "0.3.1",
+  "summary": "Secure read-only sandboxing for LLM agents and system diagnostics",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "shannot-0.3.1.tar.gz",
+  "download_time": "2025-11-08T10:43:30.211415",
+  "package_url": "https://pypi.org/project/shannot/"
+}
