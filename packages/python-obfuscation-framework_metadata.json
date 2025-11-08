@@ -1,11 +1,11 @@
 {
   "name": "python-obfuscation-framework",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "summary": "Python Obfuscation Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_obfuscation_framework-1.7.0.tar.gz",
-  "download_time": "2025-11-07T17:43:14.348565",
+  "download_filename": "python_obfuscation_framework-1.7.2.tar.gz",
+  "download_time": "2025-11-08T16:46:23.508331",
   "package_url": "https://pypi.org/project/python-obfuscation-framework/"
 }

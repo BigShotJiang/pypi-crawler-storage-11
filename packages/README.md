@@ -1,19 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T16:26:26.721560
+- **Download Time**: 2025-11-08T16:46:46.641634
 - **Total Packages**: 77
-- **Total Size**: 7.59 MB
+- **Total Size**: 18.5 MB
 
 ## Packages List
 - petrus
+- gazooresearchutils
+- spapros
+- projections
+- x-mlps-pytorch
+- iris-vector-rag
+- AlexaPy
+- blacksheep
+- liminality
+- parsegument
+- db-try
+- robotframework
+- dars-framework
+- pydantic-ai-litellm
+- fern-fai-sdk
+- pyqrackising
+- asknews
+- broccoli-ml
+- tyco
+- mkdocs-dsfr-men
+- ms-toollib
+- ZEN-norm
+- first-breaks-picking
+- clss-model
+- edc-qol
+- tsetmc
+- python-ecd
+- sim-toolkit
+- android-cli
+- edc-phq9
+- harbor
+- homa
+- prompty-dumpty
+- python-obfuscation-framework
+- dataflow-conda-plugin
+- cogstim
+- thermobuilpy
 - edc-mnsi
 - alibabacloud-dms-mcp-server-inner
 - bloomsays
 - crypto-live-trader
 - sromaster
 - agent-queue
-- first-breaks-picking
 - reydb
 - spot-planner
 - pkg-about
@@ -23,7 +58,6 @@
 - glitter-cli
 - totoapicontroller
 - grokipedia-sdk
-- android-cli
 - aedev-project-tpls
 - ss-ord
 - edc-microscopy
@@ -35,7 +69,6 @@
 - clinicedc
 - doccmd
 - moneyball
-- iris-vector-rag
 - gui-utilities
 - pentestMCP
 - spio
@@ -50,36 +83,3 @@
 - maxclientapi
 - SnakeScan
 - tsgm
-- UnityPyTypetreeCodegen
-- kanvas
-- pywheels
-- claude-worktree
-- pytemplify
-- speccheck-qc
-- omnicart-pipeline-campeon
-- deepbridge
-- gersemi
-- ghpr-py
-- pyvsc
-- meshgrad
-- django-appconf
-- himars
-- anchor-survey
-- pypandoc
-- sbdl
-- pgzpro
-- calkit-python
-- allos-agent-sdk
-- odoo-addon-l10n-es-aeat
-- odoo-addon-l10n-es-vat-book-oss
-- odoo-addon-l10n-es-vat-prorate
-- odoo-addon-l10n-es-vat-book
-- odoo-addon-l10n-es-vat-book-igic
-- gpustack-runner
-- joythief
-- cb2325-numerica-g8
-- autosubtitle-api
-- tigr81
-- clinicedc-utils
-- ttsfm
-- sayer

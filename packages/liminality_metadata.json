@@ -1,11 +1,11 @@
 {
   "name": "liminality",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight, lightning-speed library for seamless retrieval of analysis-ready Binance spot market data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "liminality-0.1.1.tar.gz",
-  "download_time": "2025-11-08T14:19:47.215215",
+  "download_filename": "liminality-0.1.2.tar.gz",
+  "download_time": "2025-11-08T16:46:08.802198",
   "package_url": "https://pypi.org/project/liminality/"
 }
