@@ -1,0 +1,11 @@
+{
+  "name": "pgzpro",
+  "version": "1.1.0",
+  "summary": "A powerful Python library that combines AI image generation with Pygame Zero enhancements. Create stunning games with AI-generated assets and streamlined development workflow.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgzpro-1.1.0.tar.gz",
+  "download_time": "2025-11-08T08:27:17.120997",
+  "package_url": "https://pypi.org/project/pgzpro/"
+}

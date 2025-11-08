@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T07:54:37.077506
-- **Total Packages**: 81
-- **Total Size**: 6.57 MB
+- **Download Time**: 2025-11-08T08:27:48.604225
+- **Total Packages**: 82
+- **Total Size**: 19.24 MB
 
 ## Packages List
+- FracDimPy
+- glitter-cli
+- mawo-pymorphy3
+- scrapy-cffi
+- uvicorn-hmr
+- torchfont
+- onnxscript
+- html-to-markdown
+- ilum
+- fastapps
+- platzi
+- biszx-odoo-mcp
+- mytot
+- devcore-cli
+- pyarchiveit
+- pyloid
+- kosong
+- sqlite-vfs
+- audiosub
+- audit-agent
+- sdkfabric-openai
+- flexgett
+- psvr2toolkit-installer
+- cointhatemij
+- pyfixest
+- pgzpro
+- tf-models-nightly
+- mf-smem
+- mf-adapter
+- pyglove
+- faster-eth-utils
+- meta-spec
+- test-ylang
+- minimodal
+- ragora
+- txt2detection
+- cligram
+- daplug-ddb
+- daplug-cypher
+- django-cs-full
+- mechanical-tolerance-calculator
+- dragohan-grimoire
+- japanese-address-parser-py
 - how-freedom-feels
 - bool-hybrid-array
 - marearts-anpr
@@ -14,7 +57,6 @@
 - vectorwave
 - easy-code-reader
 - numina
-- glitter-cli
 - ob-metaflow
 - mestestdata
 - livekit-protocol
@@ -46,44 +88,3 @@
 - traccar-api-python-client
 - myboot
 - bloomsays
-- cognautic-cli
-- ailoy-py
-- pyfixest
-- lemonsqueezy
-- hhj-engine
-- meshcore-cli
-- meshcore
-- lifx-async
-- ai-edge-litert-nightly
-- streamlit-launcher
-- pulumi-provider-boilerplate
-- abstract-utilities
-- tritonparse
-- mailgun
-- bouquin
-- atdata
-- nucleation
-- symbiosis-gateway
-- wardy-utils
-- abstract-webtools
-- zhkj-plugins-parent
-- streamlit-nightly
-- firenado
-- cointhatemij
-- biem-helmholtz-sphere-ep
-- epsearch
-- ngio
-- dagster-static
-- praval
-- quazydb
-- tonutils
-- reyfetch
-- countdown-cli
-- dedalus-labs
-- kagura-ai
-- comfy-cli
-- godfather-cli
-- audiosub
-- aider-ce
-- huitzo-sdk
-- pyeasyphd

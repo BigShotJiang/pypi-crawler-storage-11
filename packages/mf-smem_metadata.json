@@ -1,0 +1,11 @@
+{
+  "name": "mf-smem",
+  "version": "1.0.0",
+  "summary": "python api for smem",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": "https://gitee.com/ascend/memfabric_hybrid",
+  "download_filename": "mf_smem-1.0.0-cp311-cp311-any.whl",
+  "download_time": "2025-11-08T08:27:18.167926",
+  "package_url": "https://pypi.org/project/mf-smem/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kosong",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "The building blocks of AI agent.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kosong-0.18.0.tar.gz",
-  "download_time": "2025-11-06T03:56:44.306078",
+  "download_filename": "kosong-0.19.0.tar.gz",
+  "download_time": "2025-11-08T08:27:11.912097",
   "package_url": "https://pypi.org/project/kosong/"
 }

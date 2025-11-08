@@ -1,11 +1,11 @@
 {
   "name": "psvr2toolkit-installer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "An unofficial tool that can install and configure the PlayStation VR2 Toolkit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psvr2toolkit_installer-1.1.0.tar.gz",
-  "download_time": "2025-11-04T07:53:09.982611",
+  "download_filename": "psvr2toolkit_installer-1.1.1.tar.gz",
+  "download_time": "2025-11-08T08:27:15.025799",
   "package_url": "https://pypi.org/project/psvr2toolkit-installer/"
 }

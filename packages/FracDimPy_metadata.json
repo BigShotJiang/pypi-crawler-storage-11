@@ -1,0 +1,11 @@
+{
+  "name": "FracDimPy",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python package for fractal dimension calculation and multifractal analysis",
+  "author": "SONG-LE",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/songLe/FracDimPy",
+  "download_filename": "fracdimpy-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-08T08:27:03.657257",
+  "package_url": "https://pypi.org/project/FracDimPy/"
+}

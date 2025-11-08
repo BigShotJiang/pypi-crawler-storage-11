@@ -1,11 +1,11 @@
 {
   "name": "tf-models-nightly",
-  "version": "2.20.0.dev20251107",
+  "version": "2.20.0.dev20251108",
   "summary": "TensorFlow Official Models",
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/tensorflow/models",
-  "download_filename": "tf_models_nightly-2.20.0.dev20251107-py2.py3-none-any.whl",
-  "download_time": "2025-11-07T08:31:33.642051",
+  "download_filename": "tf_models_nightly-2.20.0.dev20251108-py2.py3-none-any.whl",
+  "download_time": "2025-11-08T08:27:17.656639",
   "package_url": "https://pypi.org/project/tf-models-nightly/"
 }
