@@ -1,16 +1,15 @@
 {
-  "download_time": "2025-11-08T13:36:07.867479",
+  "download_time": "2025-11-08T13:55:05.804500",
   "total_packages_downloaded": 85,
-  "total_size_mb": 25.19,
+  "total_size_mb": 0.89,
   "packages": [
-    "MeUtils",
-    "tkurses",
     "tflite-micro",
     "aspy21",
     "SURE-tools",
     "evmeter-client",
     "lxmf",
     "istr-python",
+    "tkurses",
     "env-printer",
     "peek-python",
     "ShellSteward",
@@ -87,6 +86,7 @@
     "tensorcircuit-nightly",
     "fast-agent-mcp",
     "cellrepair-ai",
-    "lumera"
+    "lumera",
+    "text-python"
   ]
 }

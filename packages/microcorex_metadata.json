@@ -1,11 +1,11 @@
 {
   "name": "microcorex",
-  "version": "0.1.0",
-  "summary": "Python微服务框架核心库,提供配置管理、服务生命周期、gRPC支持等功能",
+  "version": "0.0.1",
+  "summary": "Python microservices framework core library providing configuration management, service lifecycle, gRPC support and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microcorex-0.1.0.tar.gz",
-  "download_time": "2025-11-08T13:35:44.495947",
+  "download_filename": "microcorex-0.0.1.tar.gz",
+  "download_time": "2025-11-08T13:54:40.191792",
   "package_url": "https://pypi.org/project/microcorex/"
 }
