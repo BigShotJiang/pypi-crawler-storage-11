@@ -1,0 +1,11 @@
+{
+  "name": "UnityPyTypetreeCodegen",
+  "version": "0.0.14",
+  "summary": "Unity Typetree to Python Module code generator",
+  "author": "greats3an",
+  "license": null,
+  "home_page": "https://github.com/mos9527/UnityPyTypetreeCodegen",
+  "download_filename": "unitypytypetreecodegen-0.0.14.tar.gz",
+  "download_time": "2025-11-08T16:26:08.149802",
+  "package_url": "https://pypi.org/project/UnityPyTypetreeCodegen/"
+}

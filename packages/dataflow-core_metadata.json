@@ -1,11 +1,11 @@
 {
   "name": "dataflow-core",
-  "version": "2.1.18",
+  "version": "2.1.19",
   "summary": "Dataflow core package",
   "author": "Dataflow",
   "license": null,
   "home_page": null,
-  "download_filename": "dataflow_core-2.1.18.tar.gz",
-  "download_time": "2025-11-04T05:23:30.294206",
+  "download_filename": "dataflow_core-2.1.19.tar.gz",
+  "download_time": "2025-11-08T16:25:56.028661",
   "package_url": "https://pypi.org/project/dataflow-core/"
 }

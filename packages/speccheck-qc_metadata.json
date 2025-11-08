@@ -1,0 +1,11 @@
+{
+  "name": "speccheck-qc",
+  "version": "1.2.0",
+  "summary": "A bioinformatics software focused on quality control based on species criteria",
+  "author": "Nabil-Fareed Alikhan",
+  "license": "GPLv3",
+  "home_page": "https://github.com/happykhan/speccheck",
+  "download_filename": "speccheck_qc-1.2.0.tar.gz",
+  "download_time": "2025-11-08T16:26:10.770815",
+  "package_url": "https://pypi.org/project/speccheck-qc/"
+}

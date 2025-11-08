@@ -1,11 +1,11 @@
 {
   "name": "python-ote",
-  "version": "0.2.3",
+  "version": "0.2.7",
   "summary": "Python library for scraping daily electricity prices from OTE (ote-cr.cz)",
   "author": "Dan Keder",
   "license": null,
-  "home_page": "https://github.com/dankeder/python-ote",
-  "download_filename": "python_ote-0.2.3.tar.gz",
-  "download_time": "2025-11-06T11:20:50.712907",
+  "home_page": null,
+  "download_filename": "python_ote-0.2.7.tar.gz",
+  "download_time": "2025-11-08T16:25:50.279079",
   "package_url": "https://pypi.org/project/python-ote/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-appconf",
+  "version": "1.2.0",
+  "summary": "A helper class for handling configuration defaults of packaged apps gracefully.",
+  "author": "Jannis Leidel",
+  "license": "BSD",
+  "home_page": "https://django-appconf.readthedocs.io/",
+  "download_filename": "django_appconf-1.2.0.tar.gz",
+  "download_time": "2025-11-08T16:26:14.946281",
+  "package_url": "https://pypi.org/project/django-appconf/"
+}

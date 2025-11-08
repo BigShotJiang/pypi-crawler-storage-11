@@ -1,0 +1,11 @@
+{
+  "name": "tsgm",
+  "version": "0.1.0",
+  "summary": "Time Series Generative Modelling Framework",
+  "author": "Alexander Nikitin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/AlexanderVNikitin/tsgm",
+  "download_filename": "tsgm-0.1.0.tar.gz",
+  "download_time": "2025-11-08T16:26:07.625750",
+  "package_url": "https://pypi.org/project/tsgm/"
+}
