@@ -1,20 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T23:41:03.999425
-- **Total Packages**: 78
-- **Total Size**: 2.61 MB
+- **Download Time**: 2025-11-08T23:54:34.503183
+- **Total Packages**: 75
+- **Total Size**: 1.48 MB
 
 ## Packages List
-- apm-cli
-- cellrepair-ai
-- chuk-acp
-- evipy
-- mcp-semclone
-- pyochain
-- colrs
-- torch-motion-correction
-- dao-treasury
 - acb
 - silverback
 - fastapi-factory-utilities
@@ -27,6 +18,7 @@
 - pyhql
 - crackerjack
 - virtualshell
+- colrs
 - heartmap
 - vicutils
 - jupyterlab-biolm
@@ -56,6 +48,7 @@
 - PyBoolector
 - david8
 - changeforge
+- chuk-acp
 - buckpy
 - CliReport
 - tcwindprofile
@@ -84,3 +77,7 @@
 - ghflowgen
 - fetchcraft-core
 - hud-python
+- rustmodels
+- cewler
+- mnistvit
+- ozonapi-async
