@@ -1,0 +1,11 @@
+{
+  "name": "mestestdata",
+  "version": "0.1.2",
+  "summary": "A library for querying MES system test data",
+  "author": "pengmin",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mestestdata",
+  "download_filename": "mestestdata-0.1.2.tar.gz",
+  "download_time": "2025-11-08T07:53:59.358432",
+  "package_url": "https://pypi.org/project/mestestdata/"
+}
