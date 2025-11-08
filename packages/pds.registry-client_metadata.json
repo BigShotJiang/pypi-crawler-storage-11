@@ -1,0 +1,11 @@
+{
+  "name": "pds.registry-client",
+  "version": "0.4.0",
+  "summary": "A simple PDS Registry Client which authenticates users with PDS single sign-on and signs requests to the serverless OpenSearch (AOSS) hosting the Registry database.",
+  "author": "PDS Engineering Node",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/registry-client",
+  "download_filename": "pds_registry_client-0.4.0-py3-none-any.whl",
+  "download_time": "2025-11-08T01:31:23.233956",
+  "package_url": "https://pypi.org/project/pds.registry-client/"
+}

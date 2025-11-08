@@ -1,11 +1,11 @@
 {
   "name": "llmling-agent",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "A brand new AI framework.  Fully async. Excellently typed. MCP & ACP Integration. Human in the loop. Unique messaging features.",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "llmling_agent-1.9.0.tar.gz",
-  "download_time": "2025-11-07T04:46:49.379933",
+  "download_filename": "llmling_agent-1.9.1.tar.gz",
+  "download_time": "2025-11-08T01:30:47.078441",
   "package_url": "https://pypi.org/project/llmling-agent/"
 }

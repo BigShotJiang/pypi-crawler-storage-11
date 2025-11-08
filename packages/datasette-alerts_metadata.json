@@ -1,0 +1,11 @@
+{
+  "name": "datasette-alerts",
+  "version": "0.0.1a6",
+  "summary": "Setup alerts on specfic new records.",
+  "author": "Alex Garcia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_alerts-0.0.1a6.tar.gz",
+  "download_time": "2025-11-08T01:30:38.286896",
+  "package_url": "https://pypi.org/project/datasette-alerts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rdgai",
+  "version": "0.1.2",
+  "summary": "Rdgai facilitates the use of LLMs for classifying transitions between variant readings in a Text Encoding Initiative (TEI) XML file containing a critical apparatus.",
+  "author": "Robert Turnbull",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rbturnbull/rdgai/",
+  "download_filename": "rdgai-0.1.2.tar.gz",
+  "download_time": "2025-11-08T01:30:53.681436",
+  "package_url": "https://pypi.org/project/rdgai/"
+}

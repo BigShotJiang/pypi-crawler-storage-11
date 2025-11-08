@@ -1,0 +1,11 @@
+{
+  "name": "steer-opencell-design",
+  "version": "0.4.1",
+  "summary": "STEER OpenCell Design - A Python package for designing and modeling battery cells.",
+  "author": "Nicholas Siemons",
+  "license": null,
+  "home_page": "https://github.com/stanford-developers/steer-opencell-design/",
+  "download_filename": "steer_opencell_design-0.4.1.tar.gz",
+  "download_time": "2025-11-08T01:31:06.909314",
+  "package_url": "https://pypi.org/project/steer-opencell-design/"
+}

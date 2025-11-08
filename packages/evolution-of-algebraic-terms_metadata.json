@@ -1,0 +1,11 @@
+{
+  "name": "evolution-of-algebraic-terms",
+  "version": "2.2.5",
+  "summary": "EAT is software implementation of the algorithms described in the paper Evolution of Algebraic Terms 4: Biological Beam Algorithms.",
+  "author": "Nicholas Falco, David M. Clark",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/nick-falco/eat",
+  "download_filename": "evolution_of_algebraic_terms-2.2.5.tar.gz",
+  "download_time": "2025-11-08T01:30:43.603812",
+  "package_url": "https://pypi.org/project/evolution-of-algebraic-terms/"
+}
