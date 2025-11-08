@@ -1,0 +1,11 @@
+{
+  "name": "kornia-rs",
+  "version": "0.1.10",
+  "summary": "Low level implementations for computer vision in Rust",
+  "author": null,
+  "license": null,
+  "home_page": "http://kornia.org",
+  "download_filename": "kornia_rs-0.1.10.tar.gz",
+  "download_time": "2025-11-08T11:41:10.812759",
+  "package_url": "https://pypi.org/project/kornia-rs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "test-package-doughnut",
+  "version": "0.0.2",
+  "summary": "A test package to verify twine configuration",
+  "author": "doughnut",
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_package_doughnut-0.0.2.tar.gz",
+  "download_time": "2025-11-08T11:41:29.945596",
+  "package_url": "https://pypi.org/project/test-package-doughnut/"
+}

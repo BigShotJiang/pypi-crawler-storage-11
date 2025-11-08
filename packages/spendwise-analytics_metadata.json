@@ -1,0 +1,11 @@
+{
+  "name": "spendwise-analytics",
+  "version": "0.1.1",
+  "summary": "Reusable budgeting projections and checks for Spendwise",
+  "author": "Manojkumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spendwise_analytics-0.1.1.tar.gz",
+  "download_time": "2025-11-08T11:41:05.134501",
+  "package_url": "https://pypi.org/project/spendwise-analytics/"
+}

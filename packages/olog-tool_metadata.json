@@ -1,11 +1,11 @@
 {
   "name": "olog-tool",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A command-line tool for backing up, restoring, and generating reports from Olog servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "olog_tool-0.1.0.tar.gz",
-  "download_time": "2025-11-07T21:45:21.012648",
+  "download_filename": "olog_tool-0.2.0.tar.gz",
+  "download_time": "2025-11-08T11:41:36.223031",
   "package_url": "https://pypi.org/project/olog-tool/"
 }

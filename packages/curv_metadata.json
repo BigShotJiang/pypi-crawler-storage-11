@@ -1,11 +1,11 @@
 {
   "name": "curv",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Curv shared library for Curv RISC-V tooling",
   "author": "Mike Goelzer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "curv-0.1.11.tar.gz",
-  "download_time": "2025-11-07T19:53:57.417321",
+  "download_filename": "curv-0.1.12.tar.gz",
+  "download_time": "2025-11-08T11:41:33.073406",
   "package_url": "https://pypi.org/project/curv/"
 }

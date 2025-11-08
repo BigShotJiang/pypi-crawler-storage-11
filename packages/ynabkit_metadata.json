@@ -1,0 +1,11 @@
+{
+  "name": "ynabkit",
+  "version": "0.4.2",
+  "summary": "CLI tool to support data import and export from YNAB",
+  "author": "Maurizio Branca",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/zmoog/ynabkit",
+  "download_filename": "ynabkit-0.4.2.tar.gz",
+  "download_time": "2025-11-08T11:41:17.529686",
+  "package_url": "https://pypi.org/project/ynabkit/"
+}

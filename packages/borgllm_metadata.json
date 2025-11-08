@@ -1,0 +1,11 @@
+{
+  "name": "borgllm",
+  "version": "1.0.5",
+  "summary": "Zero config LangChain-compatible LLM client, handles API key rotation, rate limit management, and custom fallback strategies.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "borgllm-1.0.5.tar.gz",
+  "download_time": "2025-11-08T11:41:01.382427",
+  "package_url": "https://pypi.org/project/borgllm/"
+}
