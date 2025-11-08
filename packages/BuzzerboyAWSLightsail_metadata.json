@@ -1,0 +1,11 @@
+{
+  "name": "BuzzerboyAWSLightsail",
+  "version": "0.329.1",
+  "summary": "Buzzerboy Architecture for Deploying Web Applications on AWS LightSail",
+  "author": "Buzzerboy Inc",
+  "license": null,
+  "home_page": "https://www.buzzerboy.com/",
+  "download_filename": "buzzerboyawslightsail-0.329.1.tar.gz",
+  "download_time": "2025-11-08T04:57:06.426861",
+  "package_url": "https://pypi.org/project/BuzzerboyAWSLightsail/"
+}
