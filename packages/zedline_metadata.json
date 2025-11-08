@@ -1,11 +1,11 @@
 {
   "name": "zedline",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "ZedLine: The first Iranian free web service toolkit for developers",
   "author": "ZedLine Co.",
   "license": null,
   "home_page": "https://zedline.ir",
-  "download_filename": "zedline-1.0.0.tar.gz",
-  "download_time": "2025-11-08T14:42:27.112808",
+  "download_filename": "zedline-2.0.0.tar.gz",
+  "download_time": "2025-11-08T15:21:08.182635",
   "package_url": "https://pypi.org/project/zedline/"
 }

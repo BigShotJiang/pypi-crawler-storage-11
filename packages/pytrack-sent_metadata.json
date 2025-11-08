@@ -1,11 +1,11 @@
 {
   "name": "pytrack-sent",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Lightweight Python performance & event tracker",
   "author": "sentinel",
   "license": null,
   "home_page": "https://github.com/sentinel69402/Pytrack",
-  "download_filename": "pytrack_sent-0.1.2.tar.gz",
-  "download_time": "2025-11-08T14:54:45.314743",
+  "download_filename": "pytrack_sent-0.1.4.tar.gz",
+  "download_time": "2025-11-08T15:21:00.343331",
   "package_url": "https://pypi.org/project/pytrack-sent/"
 }

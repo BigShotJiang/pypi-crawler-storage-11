@@ -1,0 +1,11 @@
+{
+  "name": "weibo-cli",
+  "version": "1.0.3",
+  "summary": "微博 API 的纯异步客户端",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weibo_cli-1.0.3.tar.gz",
+  "download_time": "2025-11-08T15:20:56.164168",
+  "package_url": "https://pypi.org/project/weibo-cli/"
+}

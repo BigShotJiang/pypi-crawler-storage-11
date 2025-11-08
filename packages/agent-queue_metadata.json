@@ -1,0 +1,11 @@
+{
+  "name": "agent-queue",
+  "version": "0.1.0",
+  "summary": "A private task queue system for agents using Redis + Celery with gRPC interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_queue-0.1.0.tar.gz",
+  "download_time": "2025-11-08T15:21:12.351415",
+  "package_url": "https://pypi.org/project/agent-queue/"
+}

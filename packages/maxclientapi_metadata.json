@@ -1,11 +1,11 @@
 {
   "name": "maxclientapi",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "A Python library for working with the 'MAX Messenger' WebSocket API",
   "author": "arsrus721",
   "license": null,
   "home_page": "https://github.com/arsrus721/maxclientapi",
-  "download_filename": "maxclientapi-2.2.0.tar.gz",
-  "download_time": "2025-11-08T13:09:03.404606",
+  "download_filename": "maxclientapi-2.3.0.tar.gz",
+  "download_time": "2025-11-08T15:21:03.979320",
   "package_url": "https://pypi.org/project/maxclientapi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "testcell",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "testcell prevents your testing cells from affecting the global namespace",
   "author": "Stefano Giomo",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/artste/testcell",
-  "download_filename": "testcell-0.0.7.tar.gz",
-  "download_time": "2025-11-03T14:54:03.710988",
+  "download_filename": "testcell-0.0.8.tar.gz",
+  "download_time": "2025-11-08T15:21:09.219147",
   "package_url": "https://pypi.org/project/testcell/"
 }
