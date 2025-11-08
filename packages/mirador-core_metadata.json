@@ -1,0 +1,11 @@
+{
+  "name": "mirador-core",
+  "version": "2.0.0",
+  "summary": "Unified core library for the Mirador AI ecosystem",
+  "author": "Matthew David Scott",
+  "license": null,
+  "home_page": "https://github.com/guitargnarr/mirador",
+  "download_filename": "mirador_core-2.0.0.tar.gz",
+  "download_time": "2025-11-08T14:19:24.712071",
+  "package_url": "https://pypi.org/project/mirador-core/"
+}

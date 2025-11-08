@@ -1,11 +1,11 @@
 {
   "name": "roadxpert",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "AI-powered road safety and condition analysis using RoadXpert AI",
   "author": "Arijit Rakshit",
   "license": "RoadXpert Restricted Use License",
   "home_page": "https://github.com/Arijit-Rakshit",
-  "download_filename": "roadxpert-1.0.1.tar.gz",
-  "download_time": "2025-11-08T13:54:50.234991",
+  "download_filename": "roadxpert-1.0.2.tar.gz",
+  "download_time": "2025-11-08T14:19:45.006138",
   "package_url": "https://pypi.org/project/roadxpert/"
 }

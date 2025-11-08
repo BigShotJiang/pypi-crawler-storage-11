@@ -1,0 +1,11 @@
+{
+  "name": "serpex-haystack",
+  "version": "1.0.0",
+  "summary": "Haystack integration for Serpex web search - supporting Google, Bing, DuckDuckGo, Brave, Yahoo, and Yandex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serpex_haystack-1.0.0.tar.gz",
+  "download_time": "2025-11-08T14:19:56.377368",
+  "package_url": "https://pypi.org/project/serpex-haystack/"
+}
