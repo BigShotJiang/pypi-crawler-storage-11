@@ -1,0 +1,11 @@
+{
+  "name": "mact-cli",
+  "version": "1.0.0",
+  "summary": "MACT (Mirrored Active Collaborative Tunnel) - CLI tool for collaborative development",
+  "author": "MACT Team",
+  "license": "MIT",
+  "home_page": "https://m-act.live",
+  "download_filename": "mact_cli-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-08T19:17:59.387091",
+  "package_url": "https://pypi.org/project/mact-cli/"
+}

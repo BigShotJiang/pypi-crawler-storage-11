@@ -1,0 +1,11 @@
+{
+  "name": "log95",
+  "version": "1.3",
+  "summary": "Simple logger",
+  "author": "kuba201",
+  "license": null,
+  "home_page": "https://gitlab.com/KubaPro010/log95",
+  "download_filename": "log95-1.3.tar.gz",
+  "download_time": "2025-11-08T19:17:42.566492",
+  "package_url": "https://pypi.org/project/log95/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "soundsig",
+  "version": "3.1.1",
+  "summary": "Sound and Signal Analysis Tools for Bioacousticians and Auditory Neurophysiologists",
+  "author": "Frederic Theunissen",
+  "license": null,
+  "home_page": "https://github.com/theunissenlab/soundsig",
+  "download_filename": "soundsig-3.1.1.tar.gz",
+  "download_time": "2025-11-08T19:18:05.163907",
+  "package_url": "https://pypi.org/project/soundsig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kuryana",
+  "version": "0.1.0",
+  "summary": "Python library for [Kuryana](https://github.com/tbdsux/kuryana) API.",
+  "author": "Joshue Abance",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuryana-0.1.0.tar.gz",
+  "download_time": "2025-11-08T19:18:04.099071",
+  "package_url": "https://pypi.org/project/kuryana/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-toggle-sidebar-plugin",
+  "version": "0.0.9",
+  "summary": "Add keybindings to toggle the navigation and table of contents sidebars",
+  "author": "six-two",
+  "license": "MIT License",
+  "home_page": "https://github.com/six-two/mkdocs-toggle-sidebar-plugin",
+  "download_filename": "mkdocs_toggle_sidebar_plugin-0.0.9.tar.gz",
+  "download_time": "2025-11-08T19:18:02.531177",
+  "package_url": "https://pypi.org/project/mkdocs-toggle-sidebar-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdf2md-ocr",
+  "version": "0.0.1",
+  "summary": "PDF to Markdown converter using OCR with Marker AI",
+  "author": "PDF2MD Docker Project",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf2md_ocr-0.0.1.tar.gz",
+  "download_time": "2025-11-08T19:17:35.012543",
+  "package_url": "https://pypi.org/project/pdf2md-ocr/"
+}

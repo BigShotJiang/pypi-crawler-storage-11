@@ -1,0 +1,11 @@
+{
+  "name": "cobra-brain",
+  "version": "1.0.4",
+  "summary": "A Python library for brain connectivity analysis and visualization",
+  "author": "Sidd Lokray",
+  "license": "MIT",
+  "home_page": "https://github.com/siddlokray/cobra",
+  "download_filename": "cobra_brain-1.0.4.tar.gz",
+  "download_time": "2025-11-08T19:17:51.475068",
+  "package_url": "https://pypi.org/project/cobra-brain/"
+}

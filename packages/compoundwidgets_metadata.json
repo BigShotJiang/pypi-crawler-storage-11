@@ -1,0 +1,11 @@
+{
+  "name": "compoundwidgets",
+  "version": "0.5.12",
+  "summary": "Compound TTK Widgets with ttkbootstrap",
+  "author": "Andre Mariano",
+  "license": "MIT",
+  "home_page": "https://github.com/AndreMariano100/CompoundWidgets.git",
+  "download_filename": "compoundwidgets-0.5.12.tar.gz",
+  "download_time": "2025-11-08T19:17:46.083196",
+  "package_url": "https://pypi.org/project/compoundwidgets/"
+}

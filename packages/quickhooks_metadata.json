@@ -1,0 +1,11 @@
+{
+  "name": "quickhooks",
+  "version": "0.2.0",
+  "summary": "A streamlined TDD framework for Claude Code hooks with real-time feedback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quickhooks-0.2.0.tar.gz",
+  "download_time": "2025-11-08T19:18:05.710011",
+  "package_url": "https://pypi.org/project/quickhooks/"
+}

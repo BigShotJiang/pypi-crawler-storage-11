@@ -1,11 +1,11 @@
 {
   "name": "coding-open-agent-tools",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Advanced code generation and shell scripting toolkit for AI agents, complementing basic-open-agent-tools with development-focused capabilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coding_open_agent_tools-0.7.0.tar.gz",
-  "download_time": "2025-11-08T17:18:52.972180",
+  "download_filename": "coding_open_agent_tools-0.7.1.tar.gz",
+  "download_time": "2025-11-08T19:17:41.499828",
   "package_url": "https://pypi.org/project/coding-open-agent-tools/"
 }

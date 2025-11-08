@@ -1,0 +1,11 @@
+{
+  "name": "pcre2",
+  "version": "0.5.3",
+  "summary": "Python bindings for the PCRE2 regular expression library",
+  "author": "Garrett Tetrault",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/grtetrault/pcre2.py",
+  "download_filename": "pcre2-0.5.3.tar.gz",
+  "download_time": "2025-11-08T19:17:43.240647",
+  "package_url": "https://pypi.org/project/pcre2/"
+}

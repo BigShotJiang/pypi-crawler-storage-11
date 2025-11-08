@@ -1,0 +1,11 @@
+{
+  "name": "snap-pslg",
+  "version": "0.5.0",
+  "summary": "simplify a pslg with iterated snap rounding",
+  "author": "Shay Hill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snap_pslg-0.5.0.tar.gz",
+  "download_time": "2025-11-08T19:17:32.263183",
+  "package_url": "https://pypi.org/project/snap-pslg/"
+}
