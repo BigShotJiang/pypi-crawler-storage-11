@@ -1,11 +1,11 @@
 {
   "name": "mehta",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A telegram SDK with clean and beginner-friendly command decorators.",
   "author": "Ankit Mehta",
   "license": null,
   "home_page": null,
-  "download_filename": "mehta-1.1.0.tar.gz",
-  "download_time": "2025-11-07T12:43:59.937611",
+  "download_filename": "mehta-1.1.1.tar.gz",
+  "download_time": "2025-11-08T05:54:24.044276",
   "package_url": "https://pypi.org/project/mehta/"
 }

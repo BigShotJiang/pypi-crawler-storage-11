@@ -1,11 +1,11 @@
 {
   "name": "easy-code-reader",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "MCP Server for reading Java source code from Maven JAR files with decompilation support",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "easy_code_reader-0.1.9.tar.gz",
-  "download_time": "2025-11-08T05:21:50.037733",
+  "download_filename": "easy_code_reader-0.2.0.tar.gz",
+  "download_time": "2025-11-08T05:54:34.217434",
   "package_url": "https://pypi.org/project/easy-code-reader/"
 }
