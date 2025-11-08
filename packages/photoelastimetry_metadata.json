@@ -1,11 +1,11 @@
 {
   "name": "photoelastimetry",
-  "version": "0.3",
+  "version": "0.31",
   "summary": "Package for processing polarised images to measure stress in granular media",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "photoelastimetry-0.3.tar.gz",
-  "download_time": "2025-11-08T10:53:37.592609",
+  "download_filename": "photoelastimetry-0.31.tar.gz",
+  "download_time": "2025-11-08T23:20:48.867370",
   "package_url": "https://pypi.org/project/photoelastimetry/"
 }

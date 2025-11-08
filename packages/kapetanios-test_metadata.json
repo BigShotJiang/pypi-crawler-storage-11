@@ -1,0 +1,11 @@
+{
+  "name": "kapetanios-test",
+  "version": "1.0.0",
+  "summary": "Unit root test with up to m structural breaks (Kapetanios, 2005)",
+  "author": "Dr. Merwan Roudane",
+  "license": "MIT",
+  "home_page": "https://github.com/merwanroudane/kapetanios",
+  "download_filename": "kapetanios_test-1.0.0.tar.gz",
+  "download_time": "2025-11-08T23:20:52.005426",
+  "package_url": "https://pypi.org/project/kapetanios-test/"
+}

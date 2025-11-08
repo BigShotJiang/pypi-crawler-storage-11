@@ -1,0 +1,11 @@
+{
+  "name": "griffe-public-wildcard-imports",
+  "version": "0.3.0",
+  "summary": "Mark wildcard imported objects as public.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "griffe_public_wildcard_imports-0.3.0.tar.gz",
+  "download_time": "2025-11-08T23:20:49.388277",
+  "package_url": "https://pypi.org/project/griffe-public-wildcard-imports/"
+}
