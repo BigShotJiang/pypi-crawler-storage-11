@@ -1,11 +1,11 @@
 {
   "name": "pycgraph",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "CGraph with python api wrapper by pybind11",
   "author": "Chunel",
   "license": "MIT",
   "home_page": "https://github.com/ChunelFeng/CGraph",
-  "download_filename": "pycgraph-3.2.1-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-11-07T17:22:08.987634",
+  "download_filename": "pycgraph-3.2.2-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-11-08T10:22:36.332643",
   "package_url": "https://pypi.org/project/pycgraph/"
 }

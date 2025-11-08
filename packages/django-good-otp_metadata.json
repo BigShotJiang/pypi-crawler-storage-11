@@ -1,0 +1,11 @@
+{
+  "name": "django-good-otp",
+  "version": "2.0.5",
+  "summary": "Yet Another Implementation of One-Time-Password-Authentication for Django",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/hiroaki-yamamoto/django-good-otp",
+  "download_filename": "django_good_otp-2.0.5.tar.gz",
+  "download_time": "2025-11-08T10:22:25.061309",
+  "package_url": "https://pypi.org/project/django-good-otp/"
+}

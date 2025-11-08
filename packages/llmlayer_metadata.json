@@ -1,0 +1,11 @@
+{
+  "name": "llmlayer",
+  "version": "0.2.6",
+  "summary": "Official Python SDK for the LLMLayer Search & Answer API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmlayer-0.2.6.tar.gz",
+  "download_time": "2025-11-08T10:22:15.401643",
+  "package_url": "https://pypi.org/project/llmlayer/"
+}

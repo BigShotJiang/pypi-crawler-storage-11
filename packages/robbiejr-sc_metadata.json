@@ -1,0 +1,11 @@
+{
+  "name": "robbiejr-sc",
+  "version": "1.0.0",
+  "summary": "A terminal command tool that installs and runs RobbieJr CDN Host Checker.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robbiejr_sc-1.0.0.tar.gz",
+  "download_time": "2025-11-08T10:22:20.820300",
+  "package_url": "https://pypi.org/project/robbiejr-sc/"
+}
