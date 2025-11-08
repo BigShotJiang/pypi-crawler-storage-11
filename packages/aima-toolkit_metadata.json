@@ -1,11 +1,11 @@
 {
   "name": "aima-toolkit",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "I made this package to help me on my learning journey through the AIMA book and contains all algorithms I build whilst learning through the book",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aima_toolkit-2.1.1.tar.gz",
-  "download_time": "2025-11-07T18:32:01.367376",
+  "download_filename": "aima_toolkit-2.1.2.tar.gz",
+  "download_time": "2025-11-08T20:53:50.743985",
   "package_url": "https://pypi.org/project/aima-toolkit/"
 }

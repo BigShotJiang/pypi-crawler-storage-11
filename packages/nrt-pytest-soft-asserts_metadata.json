@@ -1,11 +1,11 @@
 {
   "name": "nrt-pytest-soft-asserts",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Soft asserts for pytest",
   "author": "Eyal Tuzon",
   "license": null,
   "home_page": "https://github.com/etuzon/python-nrt-pytest-soft-asserts",
-  "download_filename": "nrt_pytest_soft_asserts-1.2.3-py3-none-any.whl",
-  "download_time": "2025-11-07T12:43:55.127835",
+  "download_filename": "nrt_pytest_soft_asserts-1.2.4-py3-none-any.whl",
+  "download_time": "2025-11-08T20:53:58.605183",
   "package_url": "https://pypi.org/project/nrt-pytest-soft-asserts/"
 }

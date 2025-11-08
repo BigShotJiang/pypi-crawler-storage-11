@@ -1,0 +1,11 @@
+{
+  "name": "astra-discoveries",
+  "version": "2.0.2",
+  "summary": "Autonomous System for Transient Research & Analysis",
+  "author": "ASTRA Collaboration",
+  "license": null,
+  "home_page": "https://github.com/Shannon-Labs/astra",
+  "download_filename": "astra_discoveries-2.0.2.tar.gz",
+  "download_time": "2025-11-08T20:53:47.053140",
+  "package_url": "https://pypi.org/project/astra-discoveries/"
+}

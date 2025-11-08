@@ -1,0 +1,11 @@
+{
+  "name": "ace-framework",
+  "version": "0.4.0",
+  "summary": "Build self-improving AI agents that learn from experience",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ace_framework-0.4.0.tar.gz",
+  "download_time": "2025-11-08T20:53:56.000474",
+  "package_url": "https://pypi.org/project/ace-framework/"
+}

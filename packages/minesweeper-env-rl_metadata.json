@@ -1,0 +1,11 @@
+{
+  "name": "minesweeper-env-rl",
+  "version": "0.2.0",
+  "summary": "JAX Minesweeper environment for reinforcement learning agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minesweeper_env_rl-0.2.0.tar.gz",
+  "download_time": "2025-11-08T20:53:48.082952",
+  "package_url": "https://pypi.org/project/minesweeper-env-rl/"
+}
