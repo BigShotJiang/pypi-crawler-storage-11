@@ -1,11 +1,11 @@
 {
   "name": "volt-framework",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightning-fast, opinionated web framework with a high-performance Zig substrate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "volt_framework-0.2.0-py3-none-any.whl",
-  "download_time": "2025-11-04T04:24:53.213761",
+  "download_filename": "volt_framework-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-08T02:53:16.029369",
   "package_url": "https://pypi.org/project/volt-framework/"
 }

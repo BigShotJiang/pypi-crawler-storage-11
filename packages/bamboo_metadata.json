@@ -1,11 +1,11 @@
 {
   "name": "bamboo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Flexible image analysis for the spatial biology era",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bamboo-0.0.3.tar.gz",
-  "download_time": "2025-11-06T03:56:10.395386",
+  "download_filename": "bamboo-0.0.4.tar.gz",
+  "download_time": "2025-11-08T02:53:05.424708",
   "package_url": "https://pypi.org/project/bamboo/"
 }

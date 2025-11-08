@@ -1,0 +1,11 @@
+{
+  "name": "mtg-mcp",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server providing comprehensive Magic: The Gathering information for AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mtg_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-08T02:52:32.288207",
+  "package_url": "https://pypi.org/project/mtg-mcp/"
+}

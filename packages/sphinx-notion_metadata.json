@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-notion",
+  "version": "0.0.6",
+  "summary": "Sphinx extension to generate JSON for Notion API from Sphinx documentation",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "sphinx_notion-0.0.6.tar.gz",
+  "download_time": "2025-11-08T02:52:49.516170",
+  "package_url": "https://pypi.org/project/sphinx-notion/"
+}

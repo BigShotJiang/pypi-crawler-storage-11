@@ -1,11 +1,11 @@
 {
   "name": "openai-guardrails",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "OpenAI Guardrails: A framework for building safe and reliable AI systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openai_guardrails-0.1.4.tar.gz",
-  "download_time": "2025-11-04T18:55:53.561572",
+  "download_filename": "openai_guardrails-0.1.5.tar.gz",
+  "download_time": "2025-11-08T02:53:02.550622",
   "package_url": "https://pypi.org/project/openai-guardrails/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rlpcap",
+  "version": "1.2.0",
+  "summary": "Simple Rocket League UDP sniffer utilities",
+  "author": "Ian Matas",
+  "license": "MIT",
+  "home_page": "https://github.com/imattas/rlpcap",
+  "download_filename": "rlpcap-1.2.0.tar.gz",
+  "download_time": "2025-11-08T02:53:13.287394",
+  "package_url": "https://pypi.org/project/rlpcap/"
+}
