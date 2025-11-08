@@ -5,7 +5,7 @@
   "author": "Christoph Gohlke",
   "license": "BSD-3-Clause",
   "home_page": "https://www.cgohlke.com",
-  "download_filename": "ptufile-2025.11.8-cp311-abi3-macosx_10_9_x86_64.whl",
-  "download_time": "2025-11-08T21:54:00.218978",
+  "download_filename": "ptufile-2025.11.8.tar.gz",
+  "download_time": "2025-11-08T22:20:41.746152",
   "package_url": "https://pypi.org/project/ptufile/"
 }

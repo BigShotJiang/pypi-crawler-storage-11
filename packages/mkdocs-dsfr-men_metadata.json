@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-dsfr-men",
-  "version": "0.4.1",
+  "version": "0.5.2",
   "summary": "Système de Design Français (ou DSFR) sous forme de thème MkDocs",
   "author": "Philippe-André De Carvalho",
   "license": null,
   "home_page": "https://gitlab.mim-libre.fr/digital-commons/world/european-union/france/administration/education-nationale/projet/produit/mkdocs-dsfr",
-  "download_filename": "mkdocs_dsfr_men-0.4.1.tar.gz",
-  "download_time": "2025-11-08T16:46:16.139672",
+  "download_filename": "mkdocs_dsfr_men-0.5.2.tar.gz",
+  "download_time": "2025-11-08T22:20:29.657968",
   "package_url": "https://pypi.org/project/mkdocs-dsfr-men/"
 }

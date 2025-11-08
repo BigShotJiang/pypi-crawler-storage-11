@@ -1,0 +1,11 @@
+{
+  "name": "oxl-opnsense-client",
+  "version": "25.7.7",
+  "summary": "OXL OPNsense API Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxl_opnsense_client-25.7.7.tar.gz",
+  "download_time": "2025-11-08T22:20:39.196887",
+  "package_url": "https://pypi.org/project/oxl-opnsense-client/"
+}

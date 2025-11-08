@@ -1,0 +1,11 @@
+{
+  "name": "cactus-commit",
+  "version": "4.7.0",
+  "summary": "A tool for streamlined commit messaging using AI",
+  "author": "@emi",
+  "license": null,
+  "home_page": "https://github.com/esauvisky/cactus",
+  "download_filename": "cactus_commit-4.7.0.tar.gz",
+  "download_time": "2025-11-08T22:20:37.582770",
+  "package_url": "https://pypi.org/project/cactus-commit/"
+}

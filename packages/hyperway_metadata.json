@@ -1,11 +1,11 @@
 {
   "name": "hyperway",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A graph based functional execution library. Connect functions arbitrarily through a unique API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperway-1.0.6.tar.gz",
-  "download_time": "2025-11-02T20:20:50.743040",
+  "download_filename": "hyperway-1.0.7.tar.gz",
+  "download_time": "2025-11-08T22:20:32.259708",
   "package_url": "https://pypi.org/project/hyperway/"
 }

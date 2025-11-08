@@ -1,11 +1,11 @@
 {
   "name": "alpha-stable-mixture",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tools for alpha-stable mixture model estimation and simulation",
   "author": "Adam Najib",
   "license": null,
   "home_page": null,
-  "download_filename": "alpha_stable_mixture-0.1.1.tar.gz",
-  "download_time": "2025-11-08T21:40:05.428904",
+  "download_filename": "alpha_stable_mixture-0.1.2.tar.gz",
+  "download_time": "2025-11-08T22:20:28.572429",
   "package_url": "https://pypi.org/project/alpha-stable-mixture/"
 }
