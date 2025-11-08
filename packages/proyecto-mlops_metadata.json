@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-mlops",
+  "version": "0.1.2",
+  "summary": "MLOps Pipeline para Clasificación de Documentos en Español",
+  "author": "Angel Castillo",
+  "license": "MIT",
+  "home_page": "https://github.com/angelcast2002/PROYECTO-MLOPS",
+  "download_filename": "proyecto_mlops-0.1.2.tar.gz",
+  "download_time": "2025-11-08T19:42:36.930499",
+  "package_url": "https://pypi.org/project/proyecto-mlops/"
+}

@@ -1,16 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T19:30:19.043630
-- **Total Packages**: 76
-- **Total Size**: 2.43 MB
+- **Download Time**: 2025-11-08T19:43:10.895021
+- **Total Packages**: 85
+- **Total Size**: 12.66 MB
 
 ## Packages List
+- cs-models
+- myfy
+- myfy-frontend
+- myfy-cli
+- myfy-web
+- myfy-core
+- utilities-nlp
+- vt-err-hndlr
+- dag-simple
+- clovers-aichat
+- NREL-COMPASS
+- workbench
+- xgovuk-flask-admin
+- bloomsays
+- wingfoil
+- scipion-em-recovar
+- drep-ai
+- klyne
+- pylutron-caseta
+- sbdl
+- proyecto-mlops
+- pypomes-jwt
+- SwiftGUI
 - botmaro-secrets-manager
 - ABConnect
 - tox-backtick
 - BuzzerboyAWSLightsail
-- scipion-em-recovar
 - octotui
 - pypomes-crypto
 - smoosense
@@ -69,16 +91,3 @@
 - daselement-api
 - qsogrid
 - cocolit
-- mact-cli
-- rustmapper
-- nemorosa
-- shs-calculator
-- eam-b2c-helper
-- aponyx
-- mkdocs-toggle-sidebar-plugin
-- stackloop
-- pywa
-- kuryana
-- chuk-acp
-- soundsig
-- quickhooks
