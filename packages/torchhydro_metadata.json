@@ -1,0 +1,11 @@
+{
+  "name": "torchhydro",
+  "version": "0.1.0",
+  "summary": "datasets, samplers, transforms, and pre-trained models for hydrology and water resources",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "torchhydro-0.1.0.tar.gz",
+  "download_time": "2025-11-08T09:22:46.215254",
+  "package_url": "https://pypi.org/project/torchhydro/"
+}

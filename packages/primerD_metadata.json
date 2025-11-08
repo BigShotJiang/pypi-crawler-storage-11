@@ -1,0 +1,11 @@
+{
+  "name": "primerD",
+  "version": "0.1.1",
+  "summary": "A Python package for designing PCR primers",
+  "author": "Sarah Ali",
+  "license": null,
+  "home_page": "https://github.com/sarahbiotech/primerD.git",
+  "download_filename": "primerd-0.1.1.tar.gz",
+  "download_time": "2025-11-08T09:22:30.925267",
+  "package_url": "https://pypi.org/project/primerD/"
+}

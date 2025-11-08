@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-kms",
+  "version": "1.40.69",
+  "summary": "Type annotations for boto3 KMS 1.40.69 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_kms-1.40.69.tar.gz",
+  "download_time": "2025-11-08T09:23:04.559870",
+  "package_url": "https://pypi.org/project/mypy-boto3-kms/"
+}

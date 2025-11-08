@@ -1,0 +1,11 @@
+{
+  "name": "hypz-sdk",
+  "version": "2.1.0",
+  "summary": "Official Python SDK for Hypz Cloud Storage - Store, manage, and serve files with a simple API",
+  "author": "Hypz Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ysr-hameed/hypz",
+  "download_filename": "hypz_sdk-2.1.0-py3-none-any.whl",
+  "download_time": "2025-11-08T09:22:38.792164",
+  "package_url": "https://pypi.org/project/hypz-sdk/"
+}

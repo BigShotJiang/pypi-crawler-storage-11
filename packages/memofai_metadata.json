@@ -1,0 +1,11 @@
+{
+  "name": "memofai",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Memory-of-Agents (MOA) - AI memory infrastructure for intelligent applications",
+  "author": "Memory-of-Agents Team",
+  "license": "MIT",
+  "home_page": "https://memof.ai",
+  "download_filename": "memofai-1.0.0.tar.gz",
+  "download_time": "2025-11-08T09:22:59.401910",
+  "package_url": "https://pypi.org/project/memofai/"
+}
