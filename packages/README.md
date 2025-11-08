@@ -1,76 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-08T05:22:28.673291
-- **Total Packages**: 87
-- **Total Size**: 22.58 MB
+- **Download Time**: 2025-11-08T05:43:37.629721
+- **Total Packages**: 79
+- **Total Size**: 0.09 MB
 
 ## Packages List
-- rubin-scheduler
-- cointhatemij
-- allmeans
-- dataeval-plots
-- cvpract
-- ai-universe-mail
-- LLM-Bridge
-- paytm-verifier
-- scantool
-- untappd-scraper
-- pymatviz
-- jetbase
-- inoopa_utils
-- easy-code-reader
-- pytest-homeassistant-custom-component
-- dowhy
-- CellScope-RNA
-- automa_ai
-- diplomat-track
-- insdc-benchmarking-scripts
-- task-scheduling
-- cdk-factory
-- vibego
-- countdown-cli
-- pymammotion
-- iamdata
-- BuzzerboyAWSLightsail
-- luminescent
-- velocity-python
-- interpal
-- setuseragent
-- pyqmc-rust
-- dnacrypt-lang
-- windows-camera-enum
-- mkdocs-document-dates
-- cpdts
-- KunQuant
-- moncube-modbus
-- orbiter-parsers
-- odoo-addon-web-form-banner
-- beekeeper-monitors-watsonx
-- wtg-cli
-- smartfeed-ads
-- hyperbrowser
-- kraken-engine
-- keras-nlp-nightly
-- keras-hub-nightly
-- fts-tool
-- odoo-addons-oca-stock-logistics-warehouse
-- bayesianflow-for-chem
-- gazooresearchutils
-- odoo-addon-barcodes-generator-product
-- odoo-addon-product-multi-barcode
-- odoo-addon-barcodes-generator-abstract
-- hitoshura25-mcp-server-generator
-- claude-mpm
-- odoo-addon-sign-oca
-- tirex-mirror
-- odoo-addons-oca-server-tools
-- ivcap_service
 - numericals
 - chromedriver-binary
 - ivcap_client
 - abi-core-ai
 - buelon
+- ivcap_service
 - acb
 - bouquin
 - mccoygroup-psience
@@ -80,6 +21,7 @@
 - imessage-conversation-analyzer
 - cratermaker
 - gfreader
+- pymammotion
 - pb-dolphin
 - SURE-tools
 - odoo-addon-bi-view-editor
@@ -93,3 +35,53 @@
 - py-img-processor
 - fin-infra
 - glitter-cli
+- drow
+- rubxy
+- kaygraph
+- tombi
+- dnacrypt-lang
+- vnai
+- doi2bib3
+- rubin-nights
+- dlght
+- ry
+- aegis-game
+- publicsuffixlist
+- cqc-quam-state
+- windows-camera-enum
+- cdktf-cdktf-provider-snowflake
+- mkdocs-wikilinks-plugin
+- odoo-addons-oca-partner-contact
+- odoo-addon-openupgrade-scripts
+- pygenpdf
+- qrpa
+- sembicho-cli
+- acai-aws
+- gam7
+- whop-sdk
+- heartloglost
+- keras-rs-nightly
+- harbor
+- pygenpdf-json
+- GANDLF
+- bitagere
+- jsonql-db
+- sqla-fancy-core
+- odoo-addon-l10n-es-ticketbai
+- resilient-http
+- pywith
+- pyAgrum-nightly
+- dars-framework
+- CodeVideoRenderer
+- kronicler
+- odoo-addons-oca-l10n-italy
+- odoo-addon-l10n-it-delivery-note
+- odoo-addon-l10n-it-vat-settlement-date
+- ato
+- llmling-agent
+- daplug-cypher
+- fyg
+- jupyterlab-mlflow
+- pyproject3
+- maize
+- ix-notifiers
