@@ -1,11 +1,11 @@
 {
   "name": "easy-code-reader",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A powerful MCP (Model Context Protocol) server for intelligently reading Java source code.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "easy_code_reader-1.0.5.tar.gz",
-  "download_time": "2025-11-09T03:54:12.498982",
+  "download_filename": "easy_code_reader-1.0.6.tar.gz",
+  "download_time": "2025-11-09T04:26:17.649219",
   "package_url": "https://pypi.org/project/easy-code-reader/"
 }

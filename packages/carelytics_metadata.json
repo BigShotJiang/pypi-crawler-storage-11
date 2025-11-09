@@ -1,0 +1,11 @@
+{
+  "name": "carelytics",
+  "version": "0.1.1",
+  "summary": "A Python library for Healthcare Data Analytics and Revenue Cycle Management.",
+  "author": "Rohan Desai",
+  "license": "MIT",
+  "home_page": "https://github.com/rohan-desai/carelytics",
+  "download_filename": "carelytics-0.1.1.tar.gz",
+  "download_time": "2025-11-09T04:26:11.672047",
+  "package_url": "https://pypi.org/project/carelytics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mininn",
+  "version": "1.2.0",
+  "summary": "python interface of MiniNN",
+  "author": "masteryi-0018",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mininn-1.2.0.tar.gz",
+  "download_time": "2025-11-09T04:26:17.101180",
+  "package_url": "https://pypi.org/project/mininn/"
+}

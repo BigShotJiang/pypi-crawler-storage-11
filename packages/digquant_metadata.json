@@ -1,11 +1,11 @@
 {
   "name": "digquant",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "DigQuant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "digquant-0.2.0.tar.gz",
-  "download_time": "2025-11-08T18:30:32.559234",
+  "download_filename": "digquant-0.3.1.tar.gz",
+  "download_time": "2025-11-09T04:26:16.559686",
   "package_url": "https://pypi.org/project/digquant/"
 }
