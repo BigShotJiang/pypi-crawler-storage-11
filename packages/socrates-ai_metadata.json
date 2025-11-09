@@ -1,0 +1,11 @@
+{
+  "name": "socrates-ai",
+  "version": "0.1.0",
+  "summary": "Socratic questioning and AI-powered specification analysis engine",
+  "author": "Socrates Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/socrates",
+  "download_filename": "socrates_ai-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-09T20:24:04.329936",
+  "package_url": "https://pypi.org/project/socrates-ai/"
+}

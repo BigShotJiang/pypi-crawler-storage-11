@@ -1,11 +1,11 @@
 {
   "name": "pyhdl-if",
-  "version": "0.1.0.19212518429",
+  "version": "0.1.0.19213591072",
   "summary": "Python interface for HDL programming interfaces",
   "author": "Matthew Ballance",
   "license": "Apache 2.0",
   "home_page": "https://github.com/fvutils/pyhdl-if",
-  "download_filename": "pyhdl_if-0.1.0.19212518429-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-11-09T18:29:33.854014",
+  "download_filename": "pyhdl_if-0.1.0.19213591072-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-09T20:24:00.165632",
   "package_url": "https://pypi.org/project/pyhdl-if/"
 }

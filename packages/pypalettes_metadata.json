@@ -1,0 +1,11 @@
+{
+  "name": "pypalettes",
+  "version": "0.2.1",
+  "summary": "A dependency-free large (+2500) collection of colormaps and palettes for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypalettes-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-09T20:23:33.176236",
+  "package_url": "https://pypi.org/project/pypalettes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vidl",
+  "version": "4.3.2",
+  "summary": "Downloads video/audio from anywhere, adding thumbnails and mp3 metadata if applicable",
+  "author": "kasper.space",
+  "license": null,
+  "home_page": "https://github.com/probablykasper/vidl",
+  "download_filename": "vidl-4.3.2.tar.gz",
+  "download_time": "2025-11-09T20:23:40.152397",
+  "package_url": "https://pypi.org/project/vidl/"
+}

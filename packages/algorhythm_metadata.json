@@ -1,0 +1,11 @@
+{
+  "name": "algorhythm",
+  "version": "1.0.0",
+  "summary": "A Python library for real-time audio synthesis, pattern sequencing, and generative music.",
+  "author": "Niamh Callinan Keenan",
+  "license": "MIT",
+  "home_page": "https://github.com/Niamhck/algorhythm",
+  "download_filename": "algorhythm-1.0.0.tar.gz",
+  "download_time": "2025-11-09T20:23:52.305785",
+  "package_url": "https://pypi.org/project/algorhythm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "neuroslice",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Slice-wise brain tumor detection and 3D mask reconstruction from MRI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neuroslice-1.0.3.tar.gz",
-  "download_time": "2025-11-04T20:45:07.637250",
+  "download_filename": "neuroslice-1.0.4.tar.gz",
+  "download_time": "2025-11-09T20:23:34.224215",
   "package_url": "https://pypi.org/project/neuroslice/"
 }

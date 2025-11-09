@@ -1,11 +1,11 @@
 {
   "name": "calico_lib",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "summary": "CALICO lib for all your problem writing needs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calico_lib-0.1.18.tar.gz",
-  "download_time": "2025-11-09T05:22:07.133125",
+  "download_filename": "calico_lib-0.1.20.tar.gz",
+  "download_time": "2025-11-09T20:23:49.166182",
   "package_url": "https://pypi.org/project/calico_lib/"
 }

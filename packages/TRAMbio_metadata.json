@@ -1,0 +1,11 @@
+{
+  "name": "TRAMbio",
+  "version": "1.0.1",
+  "summary": "Python package for Topological Rigidity Analysis in Molecular Biology (TRAMbio).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trambio-1.0.1.tar.gz",
+  "download_time": "2025-11-09T20:23:40.673172",
+  "package_url": "https://pypi.org/project/TRAMbio/"
+}

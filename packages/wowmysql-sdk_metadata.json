@@ -1,0 +1,11 @@
+{
+  "name": "wowmysql-sdk",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for WowMySQL with project auth, S3 storage, SSL, and subdomain routing",
+  "author": "WowMySQL Team",
+  "license": null,
+  "home_page": "https://github.com/wowmysql/wowmysql",
+  "download_filename": "wowmysql_sdk-0.3.0.tar.gz",
+  "download_time": "2025-11-09T20:24:07.989781",
+  "package_url": "https://pypi.org/project/wowmysql-sdk/"
+}
