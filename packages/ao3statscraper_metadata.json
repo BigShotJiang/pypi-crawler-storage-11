@@ -1,11 +1,11 @@
 {
   "name": "ao3statscraper",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Scrape stats from your AO3 stats page.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ao3statscraper-0.5.1.tar.gz",
-  "download_time": "2025-11-09T18:59:06.453882",
+  "download_filename": "ao3statscraper-0.5.2.tar.gz",
+  "download_time": "2025-11-09T21:54:40.116703",
   "package_url": "https://pypi.org/project/ao3statscraper/"
 }

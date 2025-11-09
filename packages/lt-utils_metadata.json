@@ -1,11 +1,11 @@
 {
   "name": "lt-utils",
-  "version": "0.2.0.3",
+  "version": "0.2.0.4",
   "summary": "Collection of utilities for file, type, and basic logic handling across Python projects.",
   "author": "gr1336",
   "license": "Apache Software License (Apache-2.0)",
   "home_page": "https://github.com/gr1336/lt-utils/",
-  "download_filename": "lt_utils-0.2.0.3.tar.gz",
-  "download_time": "2025-11-09T20:23:42.304674",
+  "download_filename": "lt_utils-0.2.0.4.tar.gz",
+  "download_time": "2025-11-09T21:54:42.212715",
   "package_url": "https://pypi.org/project/lt-utils/"
 }

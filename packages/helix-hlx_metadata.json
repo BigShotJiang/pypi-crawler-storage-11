@@ -1,0 +1,11 @@
+{
+  "name": "helix-hlx",
+  "version": "1.1.7",
+  "summary": "Python SDK for the Helix Configuration Language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helix_hlx-1.1.7.tar.gz",
+  "download_time": "2025-11-09T21:54:39.084315",
+  "package_url": "https://pypi.org/project/helix-hlx/"
+}

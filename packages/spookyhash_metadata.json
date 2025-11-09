@@ -1,0 +1,11 @@
+{
+  "name": "spookyhash",
+  "version": "2.1.1",
+  "summary": "A Python wrapper for SpookyHash version 2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spookyhash-2.1.1.tar.gz",
+  "download_time": "2025-11-09T21:54:41.170893",
+  "package_url": "https://pypi.org/project/spookyhash/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "check-paloalto-ng",
+  "version": "0.8.1",
+  "summary": "check_paloalto_ng is a Nagios/Icinga plugin for Palo Alto Next Generation Firewalls. It is written in Python and based on the PA REST API.",
+  "author": "Christian Jonak-Möchel",
+  "license": "CC BY-ND 4.0",
+  "home_page": "https://github.com/TeraIT-at/check_paloalto_ng",
+  "download_filename": "check_paloalto_ng-0.8.1.tar.gz",
+  "download_time": "2025-11-09T21:54:36.426045",
+  "package_url": "https://pypi.org/project/check-paloalto-ng/"
+}
