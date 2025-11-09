@@ -1,0 +1,11 @@
+{
+  "name": "itarundaniel-dc-event-logs-mcp-client",
+  "version": "1.0.0",
+  "summary": "MCP client proxy for querying Windows Domain Controller Event Logs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "itarundaniel_dc_event_logs_mcp_client-1.0.0.tar.gz",
+  "download_time": "2025-11-09T22:44:03.356698",
+  "package_url": "https://pypi.org/project/itarundaniel-dc-event-logs-mcp-client/"
+}
