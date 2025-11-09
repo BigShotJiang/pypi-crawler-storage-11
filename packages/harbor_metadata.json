@@ -1,11 +1,11 @@
 {
   "name": "harbor",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A framework for evaluating and optimizing agents and models using sandboxed environments.",
   "author": "Alex Shaw",
   "license": null,
   "home_page": null,
-  "download_filename": "harbor-0.1.10.tar.gz",
-  "download_time": "2025-11-08T16:46:21.935336",
+  "download_filename": "harbor-0.1.11.tar.gz",
+  "download_time": "2025-11-09T23:21:37.943535",
   "package_url": "https://pypi.org/project/harbor/"
 }

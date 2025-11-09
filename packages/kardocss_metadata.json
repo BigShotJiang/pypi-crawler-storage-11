@@ -1,11 +1,11 @@
 {
   "name": "kardocss",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "summary": "Framework CSS 100% Mobile-First, Modular y Optimizado",
   "author": "Juan Quezada",
   "license": null,
   "home_page": "https://github.com/webcien/KardoCSS",
-  "download_filename": "kardocss-1.1.4.tar.gz",
-  "download_time": "2025-11-07T21:17:30.335611",
+  "download_filename": "kardocss-1.2.0.tar.gz",
+  "download_time": "2025-11-09T23:21:34.285385",
   "package_url": "https://pypi.org/project/kardocss/"
 }

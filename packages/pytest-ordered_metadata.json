@@ -1,0 +1,11 @@
+{
+  "name": "pytest-ordered",
+  "version": "1.0.1",
+  "summary": "Declare the order in which tests should run in your pytest.ini",
+  "author": "Brénainn Woodsend",
+  "license": "MIT",
+  "home_page": "https://github.com/bwoodsend/pytest-ordered",
+  "download_filename": "pytest_ordered-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-09T23:21:46.941741",
+  "package_url": "https://pypi.org/project/pytest-ordered/"
+}

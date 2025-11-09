@@ -1,11 +1,11 @@
 {
   "name": "otai_base",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Base package with core implementations for Open Ticket AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otai_base-1.5.1.tar.gz",
-  "download_time": "2025-11-09T22:44:13.344260",
+  "download_filename": "otai_base-1.5.2.tar.gz",
+  "download_time": "2025-11-09T23:21:49.537746",
   "package_url": "https://pypi.org/project/otai_base/"
 }

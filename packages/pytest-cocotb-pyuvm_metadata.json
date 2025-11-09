@@ -1,0 +1,11 @@
+{
+  "name": "pytest-cocotb-pyuvm",
+  "version": "0.1.0",
+  "summary": "Pytest plugin that enables using pytest as the regression manager for running pyuvm tests.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytest_cocotb_pyuvm-0.1.0.tar.gz",
+  "download_time": "2025-11-09T23:21:37.421438",
+  "package_url": "https://pypi.org/project/pytest-cocotb-pyuvm/"
+}

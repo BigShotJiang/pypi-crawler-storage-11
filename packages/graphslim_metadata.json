@@ -1,0 +1,11 @@
+{
+  "name": "graphslim",
+  "version": "1.2.0",
+  "summary": "Slimming the graph data for graph learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphslim-1.2.0.tar.gz",
+  "download_time": "2025-11-09T23:21:34.812388",
+  "package_url": "https://pypi.org/project/graphslim/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jps-test-artifact-python-utils",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Utilities for creating, verifying, and managing test artifact directories and manifests.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jps_test_artifact_python_utils-0.1.1.tar.gz",
-  "download_time": "2025-11-09T22:44:10.990022",
+  "download_filename": "jps_test_artifact_python_utils-0.1.3.tar.gz",
+  "download_time": "2025-11-09T23:21:30.112536",
   "package_url": "https://pypi.org/project/jps-test-artifact-python-utils/"
 }
