@@ -1,0 +1,11 @@
+{
+  "name": "derip2",
+  "version": "0.4.1",
+  "summary": "Predict ancestral sequence of fungal repeat elements by correcting for RIP-like mutations in multi-sequence DNA alignments.",
+  "author": "Adam Taranto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "derip2-0.4.1.tar.gz",
+  "download_time": "2025-11-09T22:54:23.278944",
+  "package_url": "https://pypi.org/project/derip2/"
+}

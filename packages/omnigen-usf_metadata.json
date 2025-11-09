@@ -1,11 +1,11 @@
 {
   "name": "omnigen-usf",
-  "version": "0.1.9",
-  "summary": "Enterprise-Grade Synthetic Data Generation - Fixed min_message_length default (allows valid short responses)",
+  "version": "0.1.11",
+  "summary": "Enterprise-Grade Synthetic Data Generation - Enhanced status tracking with live counters and detailed summaries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnigen_usf-0.1.9.tar.gz",
-  "download_time": "2025-11-09T20:42:36.170640",
+  "download_filename": "omnigen_usf-0.1.11.tar.gz",
+  "download_time": "2025-11-09T22:54:26.182902",
   "package_url": "https://pypi.org/project/omnigen-usf/"
 }

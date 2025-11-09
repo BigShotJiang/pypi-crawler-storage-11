@@ -1,11 +1,11 @@
 {
   "name": "redis-stream-logger",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "High-performance Redis Stream logging handler with Cython compilation",
   "author": "TechMaju",
   "license": "MIT",
   "home_page": "https://github.com/techmaju/logging",
-  "download_filename": "redis_stream_logger-0.1.1-cp312-cp312-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
-  "download_time": "2025-11-09T20:23:57.036602",
+  "download_filename": "redis_stream_logger-0.1.2-cp37-abi3-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2025-11-09T22:54:23.858605",
   "package_url": "https://pypi.org/project/redis-stream-logger/"
 }
