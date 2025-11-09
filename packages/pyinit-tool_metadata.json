@@ -1,11 +1,11 @@
 {
   "name": "pyinit-tool",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "A tool for creating and managing Python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyinit_tool-1.0.13.tar.gz",
-  "download_time": "2025-11-09T03:07:55.871336",
+  "download_filename": "pyinit_tool-1.0.14.tar.gz",
+  "download_time": "2025-11-09T09:42:06.004132",
   "package_url": "https://pypi.org/project/pyinit-tool/"
 }
