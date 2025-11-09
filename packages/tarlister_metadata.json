@@ -1,11 +1,11 @@
 {
   "name": "tarlister",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "libarchive-based Tool for listing the entries in a archive file or tape",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tarlister-1.0.0.tar.gz",
-  "download_time": "2025-11-09T23:21:26.851489",
+  "download_filename": "tarlister-1.0.2.tar.gz",
+  "download_time": "2025-11-09T23:41:51.068869",
   "package_url": "https://pypi.org/project/tarlister/"
 }
