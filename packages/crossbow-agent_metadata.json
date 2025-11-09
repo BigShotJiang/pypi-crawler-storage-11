@@ -1,0 +1,11 @@
+{
+  "name": "crossbow-agent",
+  "version": "1.0.1",
+  "summary": "World's first fully autonomous AI security engineer",
+  "author": "Harish Santhanalakshmi Ganesan",
+  "license": null,
+  "home_page": "https://github.com/harishsg99/crossbow-agent",
+  "download_filename": "crossbow_agent-1.0.1.tar.gz",
+  "download_time": "2025-11-09T03:08:03.349827",
+  "package_url": "https://pypi.org/project/crossbow-agent/"
+}

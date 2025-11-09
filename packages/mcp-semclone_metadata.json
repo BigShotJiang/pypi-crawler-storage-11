@@ -1,11 +1,11 @@
 {
   "name": "mcp-semclone",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "summary": "Model Context Protocol server for SEMCL.ONE OSS compliance toolchain",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_semclone-1.3.4.tar.gz",
-  "download_time": "2025-11-09T01:47:40.586454",
+  "download_filename": "mcp_semclone-1.3.5.tar.gz",
+  "download_time": "2025-11-09T03:08:26.967022",
   "package_url": "https://pypi.org/project/mcp-semclone/"
 }

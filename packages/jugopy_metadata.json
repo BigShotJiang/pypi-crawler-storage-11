@@ -1,11 +1,11 @@
 {
   "name": "jugopy",
-  "version": "1.0.5",
-  "summary": "jugopy v 1.0.5",
+  "version": "1.0.6",
+  "summary": "jugopy v 1.0.6",
   "author": "Jean Junior LOGBO",
   "license": null,
   "home_page": null,
-  "download_filename": "jugopy-1.0.5.tar.gz",
-  "download_time": "2025-11-04T14:23:06.367186",
+  "download_filename": "jugopy-1.0.6.tar.gz",
+  "download_time": "2025-11-09T03:08:31.874536",
   "package_url": "https://pypi.org/project/jugopy/"
 }

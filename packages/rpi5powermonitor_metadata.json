@@ -1,0 +1,11 @@
+{
+  "name": "rpi5powermonitor",
+  "version": "0.1.1",
+  "summary": "Power Monitoring CLI Tool for Raspberry Pi 5+",
+  "author": "DiamondGotCat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rpi5powermonitor-0.1.1.tar.gz",
+  "download_time": "2025-11-09T03:07:56.920668",
+  "package_url": "https://pypi.org/project/rpi5powermonitor/"
+}

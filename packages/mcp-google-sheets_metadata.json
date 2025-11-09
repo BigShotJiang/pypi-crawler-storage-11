@@ -1,0 +1,11 @@
+{
+  "name": "mcp-google-sheets",
+  "version": "0.5.2",
+  "summary": "This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_google_sheets-0.5.2.tar.gz",
+  "download_time": "2025-11-09T03:07:57.968135",
+  "package_url": "https://pypi.org/project/mcp-google-sheets/"
+}

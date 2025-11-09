@@ -1,0 +1,11 @@
+{
+  "name": "gate-api",
+  "version": "7.1.27",
+  "summary": "Gate API",
+  "author": "Gate API support",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/gate/gateapi-python",
+  "download_filename": "gate_api-7.1.27.tar.gz",
+  "download_time": "2025-11-09T03:07:57.445771",
+  "package_url": "https://pypi.org/project/gate-api/"
+}

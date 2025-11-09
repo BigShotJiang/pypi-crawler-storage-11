@@ -1,11 +1,11 @@
 {
   "name": "SmolPyGUI",
-  "version": "1.0.3",
+  "version": "1.4",
   "summary": "A little GUI system made with pygame",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smolpygui-1.0.3.tar.gz",
-  "download_time": "2025-11-09T01:47:18.239904",
+  "download_filename": "smolpygui-1.4.tar.gz",
+  "download_time": "2025-11-09T03:08:25.399629",
   "package_url": "https://pypi.org/project/SmolPyGUI/"
 }

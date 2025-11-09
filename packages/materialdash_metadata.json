@@ -1,11 +1,11 @@
 {
   "name": "materialdash",
-  "version": "0.0.24.2",
+  "version": "0.0.24.3",
   "summary": "MaterialDash é uma interface de administração moderna para Django, baseada em Material Design.",
   "author": "Anderson Freitas",
   "license": null,
   "home_page": null,
-  "download_filename": "materialdash-0.0.24.2.tar.gz",
-  "download_time": "2025-11-07T21:45:37.094983",
+  "download_filename": "materialdash-0.0.24.3.tar.gz",
+  "download_time": "2025-11-09T03:08:08.871351",
   "package_url": "https://pypi.org/project/materialdash/"
 }
