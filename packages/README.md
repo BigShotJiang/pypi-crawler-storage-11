@@ -1,11 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T19:43:04.075794
-- **Total Packages**: 77
-- **Total Size**: 15.27 MB
+- **Download Time**: 2025-11-09T19:55:42.988827
+- **Total Packages**: 78
+- **Total Size**: 1.31 MB
 
 ## Packages List
+- code-puppy
+- iatoolkit
+- biblemateweb
+- aponyx
 - moai-adk
 - no-requests
 - Rubka
@@ -59,7 +63,6 @@
 - h5forest
 - anicli_api
 - evipy
-- biblemateweb
 - smart-thinking-llm
 - hata
 - iagitbetter
@@ -72,9 +75,7 @@
 - sphinx-visualized
 - movielite
 - ytdlp-auf1
-- dioxide
 - aibash-wx
-- redis-stream-logger
 - koalafolio
 - git-cai-cli
 - ozi-core
