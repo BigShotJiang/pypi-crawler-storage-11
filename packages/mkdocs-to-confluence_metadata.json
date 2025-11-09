@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-to-confluence",
+  "version": "0.3.0",
+  "summary": "MkDocs plugin for converting and uploading Markdown pages to Confluence (via REST API)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_to_confluence-0.3.0.tar.gz",
+  "download_time": "2025-11-09T17:55:29.988811",
+  "package_url": "https://pypi.org/project/mkdocs-to-confluence/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "iris-vector-rag",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Production-ready, extensible RAG framework with native IRIS vector search - unified API for basic, CRAG, GraphRAG, and ColBERT pipelines with RAGAS and DSPy integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iris_vector_rag-0.5.1.tar.gz",
-  "download_time": "2025-11-09T17:41:49.377314",
+  "download_filename": "iris_vector_rag-0.5.2.tar.gz",
+  "download_time": "2025-11-09T17:55:35.266263",
   "package_url": "https://pypi.org/project/iris-vector-rag/"
 }

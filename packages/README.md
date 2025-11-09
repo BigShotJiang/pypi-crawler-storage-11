@@ -1,14 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T17:42:18.645777
-- **Total Packages**: 79
-- **Total Size**: 16.69 MB
+- **Download Time**: 2025-11-09T17:56:07.806362
+- **Total Packages**: 84
+- **Total Size**: 14.8 MB
 
 ## Packages List
-- mayini-framework
-- jsonrpclib-pelix
 - elli-api-client
+- mcp-docker
+- singular-framework
+- cowarp
+- ytdl-sub
+- snakeskin-xplnhub
+- chuk-acp-agent
+- llama-cpp-py
+- freeports-analysis
+- velocity-python
+- GarminDb
+- fitfile
+- dev-tools-eagle
+- mkdocs-to-confluence
+- apogeebrain
+- noamath
+- kopi-docka
+- qolsys-controller
+- dev-tools-eagle-test
+- newsflash
+- python-hackrf
+- typst-pagemaker
+- fpml-semantic-model
+- iris-vector-rag
+- mayini-framework
+- pyscreeps-arena
+- drills-pro-proto
+- pykdclient
+- pycupra
+- radia
+- jsonrpclib-pelix
 - nkunyim-util
 - ArucoSheet
 - stegawave
@@ -33,7 +61,6 @@
 - libmata
 - clang-tidy-junit
 - datawrapper
-- iris-vector-rag
 - je-auto-control
 - polyase
 - iminuit
@@ -63,25 +90,3 @@
 - hexstyle
 - ankigammon
 - nexpylib
-- pyc-wheel
-- OpenTimelineIO-Plugins
-- rweintr-wordgame
-- ory-oathkeeper-client
-- raptors
-- rubxy
-- rpcclient
-- xpander-sdk
-- algomanim
-- cullinan
-- velocity-python
-- beaver-db
-- copilot-mcp-server
-- todowrite-cli
-- todowrite
-- nscolors
-- chuk-acp-agent
-- speedywalk
-- brizz
-- pyEnsemblRest
-- python3-core-api-client
-- dconfusion

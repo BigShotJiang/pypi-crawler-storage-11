@@ -1,0 +1,11 @@
+{
+  "name": "GarminDb",
+  "version": "3.6.6",
+  "summary": "Garmin Connect download and analysis",
+  "author": "Tom Goetz",
+  "license": "GPL",
+  "home_page": "https://github.com/tcgoetz/GarminDB",
+  "download_filename": "garmindb-3.6.6.tar.gz",
+  "download_time": "2025-11-09T17:55:28.449750",
+  "package_url": "https://pypi.org/project/GarminDb/"
+}

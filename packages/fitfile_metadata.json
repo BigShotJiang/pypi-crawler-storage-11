@@ -1,0 +1,11 @@
+{
+  "name": "fitfile",
+  "version": "1.1.11",
+  "summary": "Decode FIT format files.",
+  "author": "Tom Goetz",
+  "license": null,
+  "home_page": "https://github.com/tcgoetz/Fit",
+  "download_filename": "fitfile-1.1.11.tar.gz",
+  "download_time": "2025-11-09T17:55:28.962817",
+  "package_url": "https://pypi.org/project/fitfile/"
+}

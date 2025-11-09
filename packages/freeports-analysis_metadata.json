@@ -1,0 +1,11 @@
+{
+  "name": "freeports-analysis",
+  "version": "0.1.2",
+  "summary": "Script for dumping a csv from different finance reports about ethical aspects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "freeports_analysis-0.1.2-py3-none-any.whl",
+  "download_time": "2025-11-09T17:55:27.423436",
+  "package_url": "https://pypi.org/project/freeports-analysis/"
+}
