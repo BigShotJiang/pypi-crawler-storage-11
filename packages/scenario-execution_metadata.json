@@ -1,0 +1,11 @@
+{
+  "name": "scenario-execution",
+  "version": "1.3.0.post20251109214638",
+  "summary": "Scenario Execution for Robotics",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/IntelLabs/scenario_execution",
+  "download_filename": "scenario_execution-1.3.0.post20251109214638.tar.gz",
+  "download_time": "2025-11-09T20:54:42.699880",
+  "package_url": "https://pypi.org/project/scenario-execution/"
+}
