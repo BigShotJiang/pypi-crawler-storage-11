@@ -1,0 +1,11 @@
+{
+  "name": "PyChanLun",
+  "version": "0.1.0",
+  "summary": "Applying the Chan Theory (Chan Lun) to analyze stock trading information.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pychanlun-0.1.0.tar.gz",
+  "download_time": "2025-11-09T22:21:32.053996",
+  "package_url": "https://pypi.org/project/PyChanLun/"
+}

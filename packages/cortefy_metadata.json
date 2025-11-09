@@ -1,0 +1,11 @@
+{
+  "name": "cortefy",
+  "version": "0.1.2",
+  "summary": "Python client library for the Cortefy API",
+  "author": "Cortefy",
+  "license": null,
+  "home_page": "https://cortefy.com",
+  "download_filename": "cortefy-0.1.2.tar.gz",
+  "download_time": "2025-11-09T22:21:24.455496",
+  "package_url": "https://pypi.org/project/cortefy/"
+}

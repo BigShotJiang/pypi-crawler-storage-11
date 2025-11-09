@@ -1,11 +1,11 @@
 {
   "name": "covers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Near Zero-Overhead Python Code Coverage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "covers-0.0.2.tar.gz",
-  "download_time": "2025-11-07T06:59:00.788838",
+  "download_filename": "covers-0.0.3.tar.gz",
+  "download_time": "2025-11-09T22:21:24.994294",
   "package_url": "https://pypi.org/project/covers/"
 }

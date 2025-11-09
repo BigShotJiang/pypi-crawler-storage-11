@@ -1,0 +1,11 @@
+{
+  "name": "cmudict",
+  "version": "1.1.2",
+  "summary": "A versioned python wrapper package for The CMU Pronouncing Dictionary data files.",
+  "author": "David L. Day",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/prosegrinder/python-cmudict",
+  "download_filename": "cmudict-1.1.2.tar.gz",
+  "download_time": "2025-11-09T22:21:43.653834",
+  "package_url": "https://pypi.org/project/cmudict/"
+}
