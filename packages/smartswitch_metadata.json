@@ -1,11 +1,11 @@
 {
   "name": "smartswitch",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Intelligent rule-based function dispatch for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartswitch-0.2.2.tar.gz",
-  "download_time": "2025-11-06T13:50:33.891851",
+  "download_filename": "smartswitch-0.3.0.tar.gz",
+  "download_time": "2025-11-09T11:18:31.139874",
   "package_url": "https://pypi.org/project/smartswitch/"
 }

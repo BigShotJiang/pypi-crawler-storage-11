@@ -1,11 +1,11 @@
 {
   "name": "rogue-ai",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Rogue agent evaluator by Qualifire",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rogue_ai-0.2.1-py3-none-any.whl",
-  "download_time": "2025-11-03T13:22:17.293548",
+  "download_filename": "rogue_ai-0.2.2-py3-none-any.whl",
+  "download_time": "2025-11-09T11:18:21.766298",
   "package_url": "https://pypi.org/project/rogue-ai/"
 }

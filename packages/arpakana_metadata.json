@@ -1,0 +1,11 @@
+{
+  "name": "arpakana",
+  "version": "0.0.3",
+  "summary": "A modern Python project template optimized for Claude Code with strict guardrails",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arpakana-0.0.3.tar.gz",
+  "download_time": "2025-11-09T11:18:28.546567",
+  "package_url": "https://pypi.org/project/arpakana/"
+}
