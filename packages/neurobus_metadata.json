@@ -1,0 +1,11 @@
+{
+  "name": "neurobus",
+  "version": "1.0.0",
+  "summary": "The World's First Neuro-Semantic Event Bus for Cognitive AI Systems",
+  "author": "Eshan Roy",
+  "license": "MIT",
+  "home_page": "https://github.com/eshanized/neurobus",
+  "download_filename": "neurobus-1.0.0.tar.gz",
+  "download_time": "2025-11-09T21:41:00.570881",
+  "package_url": "https://pypi.org/project/neurobus/"
+}

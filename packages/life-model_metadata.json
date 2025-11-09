@@ -1,0 +1,11 @@
+{
+  "name": "life-model",
+  "version": "0.2.0",
+  "summary": "Modeling life events and how they impact finances",
+  "author": "Spencer Williams",
+  "license": null,
+  "home_page": "https://github.com/sw23/life-model",
+  "download_filename": "life_model-0.2.0.tar.gz",
+  "download_time": "2025-11-09T21:41:00.050973",
+  "package_url": "https://pypi.org/project/life-model/"
+}

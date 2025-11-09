@@ -1,0 +1,11 @@
+{
+  "name": "jeteve-omniorb",
+  "version": "4.3.3.post6",
+  "summary": "pypi compatible packaging for OmniORB 4.3.3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jeteve_omniorb-4.3.3.post6-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+  "download_time": "2025-11-09T21:41:01.109057",
+  "package_url": "https://pypi.org/project/jeteve-omniorb/"
+}

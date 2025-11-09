@@ -1,11 +1,11 @@
 {
   "name": "plugo",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "Is a simple plugin manager that will dynamically load plugins from a directory given a config or env variable with dynamic kwargs to pass for plugin loading.",
   "author": "Ryan Julyan",
   "license": "MIT",
   "home_page": "https://github.com/RyanJulyan/plugo",
-  "download_filename": "plugo-2.0.0.tar.gz",
-  "download_time": "2025-11-07T19:40:42.118125",
+  "download_filename": "plugo-3.0.0.tar.gz",
+  "download_time": "2025-11-09T21:40:59.529365",
   "package_url": "https://pypi.org/project/plugo/"
 }

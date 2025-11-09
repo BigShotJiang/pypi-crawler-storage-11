@@ -1,11 +1,11 @@
 {
   "name": "zenco",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "AI-powered code analysis and enhancement tool with multi-language support for docstrings, type hints, magic numbers, and dead code detection.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zenco-1.0.0.tar.gz",
-  "download_time": "2025-11-09T07:39:46.191479",
+  "download_filename": "zenco-1.1.1.tar.gz",
+  "download_time": "2025-11-09T21:40:51.618759",
   "package_url": "https://pypi.org/project/zenco/"
 }
