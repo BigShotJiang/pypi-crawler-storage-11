@@ -1,0 +1,11 @@
+{
+  "name": "parse-emails",
+  "version": "0.1.47",
+  "summary": "Parses an email message file and extracts the data from it.",
+  "author": "Demisto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parse_emails-0.1.47.tar.gz",
+  "download_time": "2025-11-09T09:21:45.062697",
+  "package_url": "https://pypi.org/project/parse-emails/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wurst",
+  "version": "0.5.2",
+  "summary": "Wurst is a python package for linking and modifying industrial ecology models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wurst-0.5.2.tar.gz",
+  "download_time": "2025-11-09T09:21:36.656181",
+  "package_url": "https://pypi.org/project/wurst/"
+}
