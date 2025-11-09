@@ -1,0 +1,11 @@
+{
+  "name": "contraqctor",
+  "version": "0.5.1",
+  "summary": "A library for managing data contracts and quality control in behavioral datasets.",
+  "author": "Bruno Cruz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "contraqctor-0.5.1.tar.gz",
+  "download_time": "2025-11-09T04:56:57.061651",
+  "package_url": "https://pypi.org/project/contraqctor/"
+}

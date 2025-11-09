@@ -1,11 +1,11 @@
 {
   "name": "ctfd-dl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "CTFd challenge downloader and organizer",
   "author": "tikisan",
   "license": "MIT",
   "home_page": "https://github.com/tikipiya/ctfd-dl",
-  "download_filename": "ctfd_dl-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-09T04:26:05.354533",
+  "download_filename": "ctfd_dl-1.0.2.tar.gz",
+  "download_time": "2025-11-09T04:57:02.200572",
   "package_url": "https://pypi.org/project/ctfd-dl/"
 }
