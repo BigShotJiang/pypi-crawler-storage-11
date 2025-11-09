@@ -1,0 +1,11 @@
+{
+  "name": "indxr",
+  "version": "0.1.6",
+  "summary": "indxr: A Python utility for indexing long files.",
+  "author": "Elias Bassani",
+  "license": null,
+  "home_page": "https://github.com/AmenRa/indxr",
+  "download_filename": "indxr-0.1.6.tar.gz",
+  "download_time": "2025-11-09T05:22:01.864178",
+  "package_url": "https://pypi.org/project/indxr/"
+}

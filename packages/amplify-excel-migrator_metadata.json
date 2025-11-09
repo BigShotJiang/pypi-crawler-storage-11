@@ -1,11 +1,11 @@
 {
   "name": "amplify-excel-migrator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A CLI tool to migrate Excel data to AWS Amplify",
   "author": "Eyal Politansky",
   "license": null,
   "home_page": "https://github.com/EyalPoly/amplify-excel-migrator",
-  "download_filename": "amplify_excel_migrator-1.1.1.tar.gz",
-  "download_time": "2025-11-06T13:51:13.161037",
+  "download_filename": "amplify_excel_migrator-1.1.2.tar.gz",
+  "download_time": "2025-11-09T05:22:03.440903",
   "package_url": "https://pypi.org/project/amplify-excel-migrator/"
 }

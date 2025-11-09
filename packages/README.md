@@ -1,20 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T04:57:30.176050
-- **Total Packages**: 82
-- **Total Size**: 9.24 MB
+- **Download Time**: 2025-11-09T05:22:44.262225
+- **Total Packages**: 84
+- **Total Size**: 12.03 MB
 
 ## Packages List
+- bouquin
+- langchain-dev-utils
+- concise-sdk
+- stackifier
+- mehc-curation
+- indxr
+- dlt645
+- abi-core-ai
+- amplify-excel-migrator
+- insdc-benchmarking-scripts
+- odoo-addon-spec-driven-model
+- jut-su.py
+- pyextremes
+- django-unicom
+- folioflex
+- calico_lib
+- flexgett
+- eink-template-gen
+- paperplotter
+- wyn360-cli
+- amde
+- odoo-addon-l10n-es-vat-prorate
+- odoo-addon-l10n-es-vat-book-oss
+- odoo-addon-l10n-es-vat-book
+- odoo-addon-l10n-es-aeat
+- easy-code-reader
+- easyrunner-cli
+- odoo-addon-l10n-br-cnab-structure
+- cdk-factory
+- x2doc
 - library
 - gemimg
-- wyn360-cli
 - automate-terminal
-- calico_lib
 - txt2ebook
 - bool-hybrid-array
 - zrb
-- amde
 - iamdata
 - novelai-sdk
 - videolab
@@ -30,8 +57,6 @@
 - blues-lib
 - fpml-semantic-model
 - meshcoredecoder
-- stackifier
-- paperplotter
 - SmolPyGUI
 - pyado
 - llmfy
@@ -65,26 +90,3 @@
 - akio
 - digquant
 - mininn
-- easy-code-reader
-- wool
-- chromedriver-binary
-- omnigen-usf
-- anikoto
-- apple-foundation-models
-- ray-embedding
-- moxn-types
-- virtuals-acp
-- brick-tq-shacl
-- nonebot-adapter-yunhu
-- universal-pathlib
-- ha-mcp
-- scrall
-- rstms-bcc
-- robosystems-client
-- odoo-addons-oca-purchase-workflow
-- odoo-addon-purchase-tag
-- plain.tunnel
-- plain.jobs
-- qolsys-controller
-- pytest-pyspec
-- velocity-python
