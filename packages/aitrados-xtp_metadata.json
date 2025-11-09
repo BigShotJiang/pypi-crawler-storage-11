@@ -1,11 +1,11 @@
 {
   "name": "aitrados-xtp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "XTP gateway for aitrados.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aitrados_xtp-0.0.1.tar.gz",
-  "download_time": "2025-11-09T14:41:42.210469",
+  "download_filename": "aitrados_xtp-0.0.2.tar.gz",
+  "download_time": "2025-11-09T14:55:19.881534",
   "package_url": "https://pypi.org/project/aitrados-xtp/"
 }
