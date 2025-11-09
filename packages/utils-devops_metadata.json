@@ -1,11 +1,11 @@
 {
   "name": "utils-devops",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "Lightweight DevOps utilities for automation scripts",
   "author": "Hamed Sheikhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "utils_devops-0.1.22.tar.gz",
-  "download_time": "2025-11-06T07:26:12.814736",
+  "download_filename": "utils_devops-0.1.23.tar.gz",
+  "download_time": "2025-11-09T10:43:33.820174",
   "package_url": "https://pypi.org/project/utils-devops/"
 }

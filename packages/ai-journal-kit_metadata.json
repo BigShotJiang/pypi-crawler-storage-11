@@ -1,11 +1,11 @@
 {
   "name": "ai-journal-kit",
-  "version": "1.0.9",
+  "version": "1.0.12",
   "summary": "AI-powered journaling system with beautiful CLI for setup, customization, and updates",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_journal_kit-1.0.9.tar.gz",
-  "download_time": "2025-11-07T16:25:16.990495",
+  "download_filename": "ai_journal_kit-1.0.12.tar.gz",
+  "download_time": "2025-11-09T10:43:27.509672",
   "package_url": "https://pypi.org/project/ai-journal-kit/"
 }

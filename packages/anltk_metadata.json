@@ -1,0 +1,11 @@
+{
+  "name": "anltk",
+  "version": "1.0.5",
+  "summary": "Arabic Natural Language Toolkit (ANLTK)",
+  "author": null,
+  "license": "Boost Software License 1.0",
+  "home_page": null,
+  "download_filename": "anltk-1.0.5-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-09T10:43:29.088837",
+  "package_url": "https://pypi.org/project/anltk/"
+}

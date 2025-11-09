@@ -1,0 +1,11 @@
+{
+  "name": "pyfinancecalc",
+  "version": "0.1.0",
+  "summary": "A lightweight, dependency-free finance calculations library",
+  "author": "Karan Madhukar Lokhande",
+  "license": "MIT",
+  "home_page": "https://github.com/karanlokhande/pyfinancecalc",
+  "download_filename": "pyfinancecalc-0.1.0.tar.gz",
+  "download_time": "2025-11-09T10:43:28.028118",
+  "package_url": "https://pypi.org/project/pyfinancecalc/"
+}

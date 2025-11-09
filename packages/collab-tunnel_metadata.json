@@ -1,11 +1,11 @@
 {
   "name": "collab-tunnel",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "summary": "Python client library for the Collaboration Tunnel Protocol (TCT)",
   "author": "Antun Jurkovikj",
   "license": "MIT",
   "home_page": "https://github.com/antunjurkovic-collab/collab-tunnel-python",
-  "download_filename": "collab_tunnel-1.0.2.tar.gz",
-  "download_time": "2025-11-02T23:38:22.012994",
+  "download_filename": "collab_tunnel-2.0.0.tar.gz",
+  "download_time": "2025-11-09T10:43:35.377033",
   "package_url": "https://pypi.org/project/collab-tunnel/"
 }
