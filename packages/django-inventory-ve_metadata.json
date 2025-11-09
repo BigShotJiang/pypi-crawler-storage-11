@@ -1,0 +1,11 @@
+{
+  "name": "django-inventory-ve",
+  "version": "0.1.0",
+  "summary": "Inventory with warehouses, stock moves, FIFO/Avg valuation, and accounting (COGS/Asset) integration for Django.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_inventory_ve-0.1.0.tar.gz",
+  "download_time": "2025-11-09T13:35:55.639879",
+  "package_url": "https://pypi.org/project/django-inventory-ve/"
+}

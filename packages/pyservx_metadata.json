@@ -1,0 +1,11 @@
+{
+  "name": "pyservx",
+  "version": "2.0.0",
+  "summary": "A feature-rich Python HTTP server for file sharing with retro UI, dark/light themes, notepad, analytics, thumbnails, and QR code access.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyservx-2.0.0.tar.gz",
+  "download_time": "2025-11-09T13:36:18.933901",
+  "package_url": "https://pypi.org/project/pyservx/"
+}

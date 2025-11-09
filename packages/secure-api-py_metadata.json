@@ -1,11 +1,11 @@
 {
   "name": "secure-api-py",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A lightweight, modular, and secure framework designed for building RESTful APIs in Appwrite Functions. It provides a streamlined development experience with built-in utilities for request handling, validation, authentication, and database interactions.",
   "author": "MarcusXTechnologies",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "secure_api_py-1.0.0.tar.gz",
-  "download_time": "2025-11-08T13:09:13.782289",
+  "download_filename": "secure_api_py-1.0.1.tar.gz",
+  "download_time": "2025-11-09T13:36:18.414046",
   "package_url": "https://pypi.org/project/secure-api-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qontinui-api",
+  "version": "0.1.1",
+  "summary": "REST API service for Qontinui GUI automation",
+  "author": "Joshua Spinak",
+  "license": "MIT",
+  "home_page": "https://github.com/qontinui/qontinui-api",
+  "download_filename": "qontinui_api-0.1.1.tar.gz",
+  "download_time": "2025-11-09T13:36:04.664503",
+  "package_url": "https://pypi.org/project/qontinui-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysafe-config",
+  "version": "0.0.0",
+  "summary": "Type safe environment variables",
+  "author": "Lancasterg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysafe_config-0.0.0.tar.gz",
+  "download_time": "2025-11-09T13:36:00.860855",
+  "package_url": "https://pypi.org/project/pysafe-config/"
+}

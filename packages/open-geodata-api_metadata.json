@@ -1,0 +1,11 @@
+{
+  "name": "open-geodata-api",
+  "version": "0.4.2",
+  "summary": "Unified Python client for open geospatial data APIs: Planetary Computer, EarthSearch, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_geodata_api-0.4.2.tar.gz",
+  "download_time": "2025-11-09T13:36:11.500483",
+  "package_url": "https://pypi.org/project/open-geodata-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qontinui",
+  "version": "0.1.1",
+  "summary": "Model-based GUI automation with AI-enhanced perception",
+  "author": "Joshua Spinak",
+  "license": "MIT",
+  "home_page": "https://github.com/qontinui/qontinui",
+  "download_filename": "qontinui-0.1.1.tar.gz",
+  "download_time": "2025-11-09T13:36:06.769409",
+  "package_url": "https://pypi.org/project/qontinui/"
+}

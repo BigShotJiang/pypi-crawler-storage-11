@@ -1,11 +1,11 @@
 {
   "name": "task-scheduling",
-  "version": "4.2.3",
+  "version": "5.0.1",
   "summary": "It is mainly used for task scheduling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "task_scheduling-4.2.3.tar.gz",
-  "download_time": "2025-11-08T05:21:53.640053",
+  "download_filename": "task_scheduling-5.0.1.tar.gz",
+  "download_time": "2025-11-09T13:36:04.145083",
   "package_url": "https://pypi.org/project/task-scheduling/"
 }
