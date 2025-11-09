@@ -1,11 +1,11 @@
 {
   "name": "nepse-client",
-  "version": "0.1.0",
-  "summary": "Add your description here",
-  "author": "Amrit Giri",
-  "license": null,
-  "home_page": "https://github.com/4mritgiri/NepseClient",
-  "download_filename": "nepse_client-0.1.0.tar.gz",
-  "download_time": "2025-11-07T05:44:54.547895",
+  "version": "0.1.2",
+  "summary": "A comprehensive Python client for Nepal Stock Exchange (NEPSE) API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nepse_client-0.1.2.tar.gz",
+  "download_time": "2025-11-09T11:41:21.539627",
   "package_url": "https://pypi.org/project/nepse-client/"
 }

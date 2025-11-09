@@ -1,11 +1,11 @@
 {
   "name": "masterblog-core",
-  "version": "0.1.1",
+  "version": "0.1.1.post1",
   "summary": "A blog engine core with JSON storage",
-  "author": null,
+  "author": "Paul Wosch",
   "license": null,
   "home_page": null,
-  "download_filename": "masterblog_core-0.1.1.tar.gz",
-  "download_time": "2025-11-06T14:47:54.300604",
+  "download_filename": "masterblog_core-0.1.1.post1.tar.gz",
+  "download_time": "2025-11-09T11:41:05.156368",
   "package_url": "https://pypi.org/project/masterblog-core/"
 }

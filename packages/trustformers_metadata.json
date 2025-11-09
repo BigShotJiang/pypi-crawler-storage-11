@@ -1,0 +1,11 @@
+{
+  "name": "trustformers",
+  "version": "0.1.0a1",
+  "summary": "High-performance transformer library for Python, written in Rust",
+  "author": "TrustformeRS cool-japan Team (Team KitaSan)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "trustformers-0.1.0a1.tar.gz",
+  "download_time": "2025-11-09T11:41:07.305139",
+  "package_url": "https://pypi.org/project/trustformers/"
+}

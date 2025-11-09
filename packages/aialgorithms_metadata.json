@@ -1,0 +1,11 @@
+{
+  "name": "aialgorithms",
+  "version": "0.2.0",
+  "summary": "A collection of AI algorithms including BFS, DFS, A*, CSP, and more",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/aialgorithms",
+  "download_filename": "aialgorithms-0.2.0.tar.gz",
+  "download_time": "2025-11-09T11:41:08.324761",
+  "package_url": "https://pypi.org/project/aialgorithms/"
+}

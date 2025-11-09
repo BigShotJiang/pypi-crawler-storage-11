@@ -1,0 +1,11 @@
+{
+  "name": "masksembles",
+  "version": "1.1",
+  "summary": "Official implementation of Masksembles approach",
+  "author": "Nikita Durasov",
+  "license": null,
+  "home_page": "https://github.com/nikitadurasov/masksembles",
+  "download_filename": "masksembles-1.1.tar.gz",
+  "download_time": "2025-11-09T11:41:20.520037",
+  "package_url": "https://pypi.org/project/masksembles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "async-map-mongo",
+  "version": "0.0.5",
+  "summary": "Asynchronously calls Amap's API to obtain corresponding latitude and longitude coordinates, with API call results stored in a MongoDB database. Provides functionality to query latitude and longitude from MongoDB and export to Excel.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_map_mongo-0.0.5.tar.gz",
+  "download_time": "2025-11-09T11:41:14.212883",
+  "package_url": "https://pypi.org/project/async-map-mongo/"
+}

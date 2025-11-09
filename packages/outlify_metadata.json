@@ -1,11 +1,11 @@
 {
   "name": "outlify",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Structured cli output — beautifully, simply, and dependency-free",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "outlify-0.8.0.tar.gz",
-  "download_time": "2025-11-03T20:43:51.418264",
+  "download_filename": "outlify-0.9.0.tar.gz",
+  "download_time": "2025-11-09T11:41:22.115443",
   "package_url": "https://pypi.org/project/outlify/"
 }
