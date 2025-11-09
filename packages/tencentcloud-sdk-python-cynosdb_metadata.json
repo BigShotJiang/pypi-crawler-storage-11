@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-cynosdb",
-  "version": "3.0.1484",
+  "version": "3.0.1485",
   "summary": "Tencent Cloud Cynosdb SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_cynosdb-3.0.1484.tar.gz",
-  "download_time": "2025-11-06T21:21:31.451940",
+  "download_filename": "tencentcloud_sdk_python_cynosdb-3.0.1485.tar.gz",
+  "download_time": "2025-11-09T21:21:46.524828",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cynosdb/"
 }

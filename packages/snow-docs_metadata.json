@@ -1,11 +1,11 @@
 {
   "name": "snow-docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A simple CLI to quickly search for the Snowflake documentation references",
   "author": "Steven Rudenko",
   "license": null,
   "home_page": null,
-  "download_filename": "snow_docs-1.0.0.tar.gz",
-  "download_time": "2025-11-09T20:23:48.096576",
+  "download_filename": "snow_docs-1.0.1.tar.gz",
+  "download_time": "2025-11-09T21:21:41.765868",
   "package_url": "https://pypi.org/project/snow-docs/"
 }

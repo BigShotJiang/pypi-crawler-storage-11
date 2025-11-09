@@ -1,11 +1,11 @@
 {
   "name": "lib-hero-mvc-ps",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Uma lib MVC simples da Hero com banco de dados em memória.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lib_hero_mvc_ps-0.1.1.tar.gz",
-  "download_time": "2025-11-09T20:54:44.007340",
+  "download_filename": "lib_hero_mvc_ps-0.1.2.tar.gz",
+  "download_time": "2025-11-09T21:21:27.019607",
   "package_url": "https://pypi.org/project/lib-hero-mvc-ps/"
 }

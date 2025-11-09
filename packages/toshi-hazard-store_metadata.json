@@ -1,0 +1,11 @@
+{
+  "name": "toshi-hazard-store",
+  "version": "1.2.5",
+  "summary": "Library for saving and retrieving NZHSM openquake hazard results with convenience (uses AWS Dynamodb).",
+  "author": "Chris B Chamberlain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toshi_hazard_store-1.2.5.tar.gz",
+  "download_time": "2025-11-09T21:21:22.349483",
+  "package_url": "https://pypi.org/project/toshi-hazard-store/"
+}

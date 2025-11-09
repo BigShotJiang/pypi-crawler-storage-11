@@ -1,0 +1,11 @@
+{
+  "name": "yt-dlp-rajiko",
+  "version": "1.10",
+  "summary": "improved radiko.jp extractor for yt-dlp (fast and areafree)",
+  "author": "garret1317",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_dlp_rajiko-1.10.tar.gz",
+  "download_time": "2025-11-09T21:21:36.990521",
+  "package_url": "https://pypi.org/project/yt-dlp-rajiko/"
+}

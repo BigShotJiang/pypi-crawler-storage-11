@@ -1,11 +1,11 @@
 {
   "name": "purreal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Production-grade async connection pooler for SurrealDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "purreal-0.1.1.tar.gz",
-  "download_time": "2025-11-09T15:21:18.340467",
+  "download_filename": "purreal-0.1.2.tar.gz",
+  "download_time": "2025-11-09T21:21:43.385621",
   "package_url": "https://pypi.org/project/purreal/"
 }
