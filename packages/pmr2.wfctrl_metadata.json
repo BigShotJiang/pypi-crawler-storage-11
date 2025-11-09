@@ -1,0 +1,11 @@
+{
+  "name": "pmr2.wfctrl",
+  "version": "0.8.0",
+  "summary": "Workflow controller",
+  "author": null,
+  "license": "gpl",
+  "home_page": "http://github.com/PMR/pmr2.wfctrl",
+  "download_filename": "pmr2_wfctrl-0.8.0.tar.gz",
+  "download_time": "2025-11-09T06:32:07.863746",
+  "package_url": "https://pypi.org/project/pmr2.wfctrl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graphem-rapids",
+  "version": "0.2.1",
+  "summary": "A graph embedding library with PyTorch and RAPIDS acceleration",
+  "author": "Alexander Kolpakov (UATX), Igor Rivin (Temple University)",
+  "license": "MIT",
+  "home_page": "https://github.com/sashakolpakov/graphem-rapids",
+  "download_filename": "graphem_rapids-0.2.1.tar.gz",
+  "download_time": "2025-11-09T06:32:23.913087",
+  "package_url": "https://pypi.org/project/graphem-rapids/"
+}

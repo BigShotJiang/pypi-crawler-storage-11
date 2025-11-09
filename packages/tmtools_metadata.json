@@ -1,0 +1,11 @@
+{
+  "name": "tmtools",
+  "version": "0.3.0",
+  "summary": "Python bindings around the TM-align code for structural alignment of proteins",
+  "author": "Joris Vankerschaver",
+  "license": "GPLv3",
+  "home_page": "https://github.com/jvkersch/tmtools",
+  "download_filename": "tmtools-0.3.0.tar.gz",
+  "download_time": "2025-11-09T06:32:04.752348",
+  "package_url": "https://pypi.org/project/tmtools/"
+}

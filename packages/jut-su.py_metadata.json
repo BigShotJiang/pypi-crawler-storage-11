@@ -1,11 +1,11 @@
 {
   "name": "jut-su.py",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Modern Python library for parsing anime data from jut.su website",
   "author": "wooslow",
   "license": null,
   "home_page": "https://github.com/wooslow/jut-su.py",
-  "download_filename": "jut_su_py-0.1.0.tar.gz",
-  "download_time": "2025-11-09T05:22:05.002730",
+  "download_filename": "jut_su_py-0.1.3.tar.gz",
+  "download_time": "2025-11-09T06:32:18.550354",
   "package_url": "https://pypi.org/project/jut-su.py/"
 }

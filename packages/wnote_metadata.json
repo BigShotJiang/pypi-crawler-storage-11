@@ -1,0 +1,11 @@
+{
+  "name": "wnote",
+  "version": "0.6.1",
+  "summary": "Terminal Note Taking Application with beautiful UI and rich features",
+  "author": "imnahn",
+  "license": "MIT",
+  "home_page": "https://github.com/imnotnahn/wnote",
+  "download_filename": "wnote-0.6.1.tar.gz",
+  "download_time": "2025-11-09T06:31:59.401058",
+  "package_url": "https://pypi.org/project/wnote/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qkd-tandem",
+  "version": "0.1.0",
+  "summary": "Quantum Key Distribution tandem simulation with sabotage kill switch",
+  "author": "Sirlupinwatson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qkd_tandem-0.1.0.tar.gz",
+  "download_time": "2025-11-09T06:31:57.291315",
+  "package_url": "https://pypi.org/project/qkd-tandem/"
+}

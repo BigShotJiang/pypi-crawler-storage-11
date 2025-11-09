@@ -1,0 +1,11 @@
+{
+  "name": "pyeldom",
+  "version": "1.0.0",
+  "summary": "A Python client for the Eldom API",
+  "author": "Daniel Gospodinow",
+  "license": null,
+  "home_page": "https://github.com/qbaware/pyeldom",
+  "download_filename": "pyeldom-1.0.0.tar.gz",
+  "download_time": "2025-11-09T06:32:03.629144",
+  "package_url": "https://pypi.org/project/pyeldom/"
+}
