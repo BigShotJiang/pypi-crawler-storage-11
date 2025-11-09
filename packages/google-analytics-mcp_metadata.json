@@ -1,0 +1,11 @@
+{
+  "name": "google-analytics-mcp",
+  "version": "2.0.0",
+  "summary": "Google Analytics 4 MCP Server with Smart Optimizations - Access GA4 data in Claude, Cursor and other MCP clients. Prevents context window crashes with intelligent data volume management.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_analytics_mcp-2.0.0.tar.gz",
+  "download_time": "2025-11-09T06:52:01.885680",
+  "package_url": "https://pypi.org/project/google-analytics-mcp/"
+}

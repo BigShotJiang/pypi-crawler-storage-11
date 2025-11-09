@@ -1,11 +1,11 @@
 {
   "name": "gcc-slycooper50",
-  "version": "0.1.138",
+  "version": "0.1.145",
   "summary": "Get it in.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcc_slycooper50-0.1.138.tar.gz",
-  "download_time": "2025-11-06T09:45:28.624234",
+  "download_filename": "gcc_slycooper50-0.1.145.tar.gz",
+  "download_time": "2025-11-09T06:52:03.459199",
   "package_url": "https://pypi.org/project/gcc-slycooper50/"
 }
