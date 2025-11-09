@@ -1,25 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T04:26:46.831876
-- **Total Packages**: 78
-- **Total Size**: 19.96 MB
+- **Download Time**: 2025-11-09T04:46:23.492355
+- **Total Packages**: 77
+- **Total Size**: 2.31 MB
 
 ## Packages List
-- vppcfg
-- keras-nlp-nightly
-- ctfd-dl
-- keras-hub-nightly
-- seqpro
-- meshcoredecoder
-- skipper-ssh-cli
-- statelint
-- bgmi
-- rayel-rpa-executor
-- krn-harmony-adapter
-- pypomes-sob
-- url-security-scanner
-- carelytics
 - habemus-papadum-criu
 - maxminddb-rust
 - modal-run
@@ -32,10 +18,13 @@
 - mininn
 - easy-code-reader
 - wool
+- krn-harmony-adapter
 - chromedriver-binary
 - omnigen-usf
 - anikoto
+- carelytics
 - apple-foundation-models
+- rayel-rpa-executor
 - ray-embedding
 - moxn-types
 - virtuals-acp
@@ -65,6 +54,7 @@
 - faster-eth-abi
 - inception-audittrail-logger
 - inception-db-connect
+- vppcfg
 - typ2docx
 - caffeinated-whale-cli
 - keras-rs-nightly
@@ -84,3 +74,12 @@
 - pyvesync
 - qimomo-py-linux
 - evipy
+- rpi5powermonitor
+- zfl-blogs
+- specmaker
+- odoo-addon-l10n-es-vat-book-oss
+- odoo-addon-l10n-es-vat-book
+- pyAgrum-nightly
+- mtopencv
+- morphik
+- datamule
