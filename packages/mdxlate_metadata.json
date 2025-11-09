@@ -1,0 +1,11 @@
+{
+  "name": "mdxlate",
+  "version": "1.1.5",
+  "summary": "Translate Markdown docs into multiple languages using LLMs with smart caching and custom prompts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdxlate-1.1.5.tar.gz",
+  "download_time": "2025-11-09T15:54:27.047442",
+  "package_url": "https://pypi.org/project/mdxlate/"
+}

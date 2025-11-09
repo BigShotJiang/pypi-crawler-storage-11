@@ -1,0 +1,11 @@
+{
+  "name": "breadify",
+  "version": "1.0.0",
+  "summary": "A meme Python library that breadifies your text",
+  "author": "Venkat",
+  "license": null,
+  "home_page": "https://github.com/venkatengineer/breadify",
+  "download_filename": "breadify-1.0.0.tar.gz",
+  "download_time": "2025-11-09T15:54:26.514423",
+  "package_url": "https://pypi.org/project/breadify/"
+}

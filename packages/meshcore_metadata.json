@@ -1,11 +1,11 @@
 {
   "name": "meshcore",
-  "version": "2.1.23",
+  "version": "2.1.24",
   "summary": "Base classes for communicating with meshcore companion radios",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshcore-2.1.23.tar.gz",
-  "download_time": "2025-11-08T07:21:22.170900",
+  "download_filename": "meshcore-2.1.24.tar.gz",
+  "download_time": "2025-11-09T15:54:23.906415",
   "package_url": "https://pypi.org/project/meshcore/"
 }
