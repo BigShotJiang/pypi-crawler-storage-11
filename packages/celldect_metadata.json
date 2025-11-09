@@ -1,11 +1,11 @@
 {
   "name": "celldect",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A cell image process Python package",
   "author": "cellman",
   "license": null,
   "home_page": null,
-  "download_filename": "celldect-0.1.0.tar.gz",
-  "download_time": "2025-11-09T11:41:11.969448",
+  "download_filename": "celldect-0.1.1.tar.gz",
+  "download_time": "2025-11-09T14:19:43.291207",
   "package_url": "https://pypi.org/project/celldect/"
 }

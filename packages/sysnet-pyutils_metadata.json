@@ -1,11 +1,11 @@
 {
   "name": "sysnet-pyutils",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "Python Utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sysnet_pyutils-1.4.3.tar.gz",
-  "download_time": "2025-11-05T19:07:33.451102",
+  "download_filename": "sysnet_pyutils-1.4.4.tar.gz",
+  "download_time": "2025-11-09T14:19:32.716340",
   "package_url": "https://pypi.org/project/sysnet-pyutils/"
 }

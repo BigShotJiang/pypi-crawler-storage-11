@@ -1,11 +1,11 @@
 {
   "name": "minishare",
-  "version": "0.1001.0",
+  "version": "0.1003.0",
   "summary": "A lightweight wrapper for financial data API",
   "author": "MiniShare Team",
   "license": null,
   "home_page": "https://github.com/Jasonmin/minishare.git",
-  "download_filename": "minishare-0.1001.0.tar.gz",
-  "download_time": "2025-11-05T23:42:28.669961",
+  "download_filename": "minishare-0.1003.0.tar.gz",
+  "download_time": "2025-11-09T14:19:34.268226",
   "package_url": "https://pypi.org/project/minishare/"
 }

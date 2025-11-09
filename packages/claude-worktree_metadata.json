@@ -1,11 +1,11 @@
 {
   "name": "claude-worktree",
-  "version": "0.10.25",
+  "version": "0.10.26",
   "summary": "CLI tool integrating git worktree with Claude Code for seamless feature development workflows",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "claude_worktree-0.10.25.tar.gz",
-  "download_time": "2025-11-09T09:42:03.957825",
+  "download_filename": "claude_worktree-0.10.26.tar.gz",
+  "download_time": "2025-11-09T14:19:38.464760",
   "package_url": "https://pypi.org/project/claude-worktree/"
 }
