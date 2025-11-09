@@ -1,11 +1,11 @@
 {
   "name": "chuk-acp-agent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Opinionated agent kit for building sophisticated ACP agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chuk_acp_agent-0.2.0.tar.gz",
-  "download_time": "2025-11-09T18:29:34.902484",
+  "download_filename": "chuk_acp_agent-0.2.1.tar.gz",
+  "download_time": "2025-11-09T18:59:08.573166",
   "package_url": "https://pypi.org/project/chuk-acp-agent/"
 }

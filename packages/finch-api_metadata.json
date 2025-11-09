@@ -1,11 +1,11 @@
 {
   "name": "finch-api",
-  "version": "1.40.0",
+  "version": "1.41.0",
   "summary": "The official Python library for the Finch API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "finch_api-1.40.0.tar.gz",
-  "download_time": "2025-11-06T22:44:43.711240",
+  "download_filename": "finch_api-1.41.0.tar.gz",
+  "download_time": "2025-11-09T18:59:16.057953",
   "package_url": "https://pypi.org/project/finch-api/"
 }

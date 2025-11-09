@@ -1,11 +1,11 @@
 {
   "name": "axioms-flask-py",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "OAuth2/OIDC authentication and authorization for Flask APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axioms_flask_py-0.0.18.tar.gz",
-  "download_time": "2025-11-07T23:54:34.539598",
+  "download_filename": "axioms_flask_py-0.0.19.tar.gz",
+  "download_time": "2025-11-09T18:59:22.448335",
   "package_url": "https://pypi.org/project/axioms-flask-py/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "otai_otobo_znuny",
-  "version": "1.4.21",
+  "version": "1.5.0",
   "summary": "OTOBO/Znuny ticket system plugin for Open Ticket AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otai_otobo_znuny-1.4.21.tar.gz",
-  "download_time": "2025-11-01T15:51:35.270747",
+  "download_filename": "otai_otobo_znuny-1.5.0.tar.gz",
+  "download_time": "2025-11-09T18:59:12.800522",
   "package_url": "https://pypi.org/project/otai_otobo_znuny/"
 }

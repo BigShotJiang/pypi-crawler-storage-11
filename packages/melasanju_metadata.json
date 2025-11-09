@@ -1,11 +1,11 @@
 {
   "name": "melasanju",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "My 11 Python assignments packaged as a reusable library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "melasanju-0.1.0.tar.gz",
-  "download_time": "2025-11-09T18:30:00.633026",
+  "download_filename": "melasanju-0.1.1.tar.gz",
+  "download_time": "2025-11-09T18:59:18.707738",
   "package_url": "https://pypi.org/project/melasanju/"
 }

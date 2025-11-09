@@ -1,11 +1,11 @@
 {
   "name": "statemachine-engine",
-  "version": "1.0.70",
-  "summary": "A generic finite state machine (FSM) framework for Python",
+  "version": "1.0.71",
+  "summary": "A lightweight, event-driven state machine framework with WebSocket support and plugin architecture",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statemachine_engine-1.0.70.tar.gz",
-  "download_time": "2025-11-08T09:44:15.981944",
+  "download_filename": "statemachine_engine-1.0.71.tar.gz",
+  "download_time": "2025-11-09T18:59:02.774904",
   "package_url": "https://pypi.org/project/statemachine-engine/"
 }
