@@ -1,15 +1,15 @@
 {
-  "download_time": "2025-11-09T05:43:53.210491",
+  "download_time": "2025-11-09T05:54:55.588131",
   "total_packages_downloaded": 85,
-  "total_size_mb": 7.28,
+  "total_size_mb": 0.26,
   "packages": [
-    "supernote",
     "pyEMMP",
     "imgenx",
     "GPTQModel",
     "ax-consistency",
     "csf-crypto",
     "zoozl",
+    "supernote",
     "graph_ragu",
     "davidkhala.ai",
     "membank",
