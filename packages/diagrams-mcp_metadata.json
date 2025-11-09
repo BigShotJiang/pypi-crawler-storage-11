@@ -1,0 +1,11 @@
+{
+  "name": "diagrams-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for generating infrastructure and architecture diagrams as code using the Python diagrams library",
+  "author": "Akshay Petta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "diagrams_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-09T13:09:09.405306",
+  "package_url": "https://pypi.org/project/diagrams-mcp/"
+}

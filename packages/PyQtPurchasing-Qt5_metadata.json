@@ -1,0 +1,11 @@
+{
+  "name": "PyQtPurchasing-Qt5",
+  "version": "5.15.18",
+  "summary": "The subset of a Qt installation needed by PyQtPurchasing.",
+  "author": "Riverbank Computing Limited",
+  "license": "LGPL v3",
+  "home_page": "https://www.riverbankcomputing.com/software/pyqt/",
+  "download_filename": "pyqtpurchasing_qt5-5.15.18-py3-none-macosx_10_13_x86_64.whl",
+  "download_time": "2025-11-09T13:09:17.334190",
+  "package_url": "https://pypi.org/project/PyQtPurchasing-Qt5/"
+}

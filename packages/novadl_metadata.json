@@ -1,11 +1,11 @@
 {
   "name": "novadl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A beautiful TUI for downloading videos and audio",
   "author": "MD. Shahariar Ahmmed Shovon",
   "license": "MIT",
   "home_page": "https://github.com/ShovonSheikh",
-  "download_filename": "novadl-1.0.0.tar.gz",
-  "download_time": "2025-11-09T12:41:28.737550",
+  "download_filename": "novadl-1.0.1.tar.gz",
+  "download_time": "2025-11-09T13:09:36.354000",
   "package_url": "https://pypi.org/project/novadl/"
 }

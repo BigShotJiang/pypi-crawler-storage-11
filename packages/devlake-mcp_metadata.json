@@ -1,11 +1,11 @@
 {
   "name": "devlake-mcp",
-  "version": "0.3.2",
-  "summary": "Model Context Protocol server for DevLake",
+  "version": "0.3.3",
+  "summary": "AI programming data collection tool - supports Hooks (Claude Code/Cursor) and MCP server modes",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "devlake_mcp-0.3.2.tar.gz",
-  "download_time": "2025-11-09T12:40:51.875205",
+  "download_filename": "devlake_mcp-0.3.3.tar.gz",
+  "download_time": "2025-11-09T13:09:43.667791",
   "package_url": "https://pypi.org/project/devlake-mcp/"
 }

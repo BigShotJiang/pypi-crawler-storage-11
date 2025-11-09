@@ -1,0 +1,11 @@
+{
+  "name": "hyperpip",
+  "version": "0.4.0",
+  "summary": "A high-speed alternative to pip - 10x faster downloads",
+  "author": "王子毅",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperpip-0.4.0.tar.gz",
+  "download_time": "2025-11-09T13:09:50.261810",
+  "package_url": "https://pypi.org/project/hyperpip/"
+}

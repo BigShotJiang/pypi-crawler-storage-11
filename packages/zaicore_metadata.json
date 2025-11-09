@@ -1,0 +1,11 @@
+{
+  "name": "zaicore",
+  "version": "0.1.0",
+  "summary": "A lightweight modular AI framework for learning and experimentation",
+  "author": "Muhammad Zaidan",
+  "license": null,
+  "home_page": "https://github.com/muhammadzaidanf/ZAI-Core",
+  "download_filename": "zaicore-0.1.0.tar.gz",
+  "download_time": "2025-11-09T13:09:49.224924",
+  "package_url": "https://pypi.org/project/zaicore/"
+}

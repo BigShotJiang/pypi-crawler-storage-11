@@ -1,0 +1,11 @@
+{
+  "name": "flet-stack",
+  "version": "0.3.0",
+  "summary": "Decorator-based routing with view stacking for Flet applications",
+  "author": "Fasil",
+  "license": "MIT",
+  "home_page": "https://github.com/fasilwdr/flet-stack",
+  "download_filename": "flet_stack-0.3.0.tar.gz",
+  "download_time": "2025-11-09T13:09:27.424218",
+  "package_url": "https://pypi.org/project/flet-stack/"
+}
