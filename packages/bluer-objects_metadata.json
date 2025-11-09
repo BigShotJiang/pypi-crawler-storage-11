@@ -1,11 +1,11 @@
 {
   "name": "bluer-objects",
-  "version": "6.330.1",
+  "version": "6.342.1",
   "summary": "🌀 Object management in Bash.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-objects",
-  "download_filename": "bluer_objects-6.330.1.tar.gz",
-  "download_time": "2025-11-04T09:45:37.197905",
+  "download_filename": "bluer_objects-6.342.1.tar.gz",
+  "download_time": "2025-11-09T01:47:40.074762",
   "package_url": "https://pypi.org/project/bluer-objects/"
 }

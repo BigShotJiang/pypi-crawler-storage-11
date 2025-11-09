@@ -1,0 +1,11 @@
+{
+  "name": "littlefs-python",
+  "version": "0.16.0",
+  "summary": "A python wrapper for littlefs",
+  "author": "Jürg Rast",
+  "license": null,
+  "home_page": "https://github.com/jrast/littlefs-python",
+  "download_filename": "littlefs_python-0.16.0.tar.gz",
+  "download_time": "2025-11-09T01:47:30.271150",
+  "package_url": "https://pypi.org/project/littlefs-python/"
+}

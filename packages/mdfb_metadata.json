@@ -1,0 +1,11 @@
+{
+  "name": "mdfb",
+  "version": "1.6.0",
+  "summary": "A CLI for downloading posts in bulk from Bluesky from a specified account",
+  "author": "Ibrahim Haji Abdi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdfb-1.6.0.tar.gz",
+  "download_time": "2025-11-09T01:47:41.610784",
+  "package_url": "https://pypi.org/project/mdfb/"
+}

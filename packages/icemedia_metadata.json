@@ -1,0 +1,11 @@
+{
+  "name": "icemedia",
+  "version": "0.2.0",
+  "summary": "Media handling library with GStreamer wrapper, sound player, and Jack manager",
+  "author": "Daniel Dunn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "icemedia-0.2.0.tar.gz",
+  "download_time": "2025-11-09T01:47:32.882341",
+  "package_url": "https://pypi.org/project/icemedia/"
+}

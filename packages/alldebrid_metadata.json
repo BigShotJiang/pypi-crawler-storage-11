@@ -1,0 +1,11 @@
+{
+  "name": "alldebrid",
+  "version": "0.2.1",
+  "summary": "Lightweight async wrapper for AllDebrid API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alldebrid-0.2.1.tar.gz",
+  "download_time": "2025-11-09T01:47:44.725635",
+  "package_url": "https://pypi.org/project/alldebrid/"
+}

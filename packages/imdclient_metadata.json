@@ -1,0 +1,11 @@
+{
+  "name": "imdclient",
+  "version": "0.2.3",
+  "summary": "Receiver for IMD v2 and v3 data from simulation engines like Gromacs, LAMMPS, and NAMD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imdclient-0.2.3.tar.gz",
+  "download_time": "2025-11-09T01:47:16.553936",
+  "package_url": "https://pypi.org/project/imdclient/"
+}
