@@ -1,11 +1,11 @@
 {
   "name": "ffmcp",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "AI command-line tool inspired by ffmpeg",
   "author": "Brandon Henry",
   "license": null,
   "home_page": "https://github.com/brandonhenry/ffmcp",
-  "download_filename": "ffmcp-0.1.8.tar.gz",
-  "download_time": "2025-11-07T19:19:56.471946",
+  "download_filename": "ffmcp-0.1.10.tar.gz",
+  "download_time": "2025-11-09T15:21:23.042554",
   "package_url": "https://pypi.org/project/ffmcp/"
 }

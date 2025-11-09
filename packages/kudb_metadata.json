@@ -1,0 +1,11 @@
+{
+  "name": "kudb",
+  "version": "0.2.5",
+  "summary": "Simple Document database Library",
+  "author": "kujirahand",
+  "license": "MIT",
+  "home_page": "https://github.com/kujirahand/kudb",
+  "download_filename": "kudb-0.2.5.tar.gz",
+  "download_time": "2025-11-09T15:21:21.477534",
+  "package_url": "https://pypi.org/project/kudb/"
+}

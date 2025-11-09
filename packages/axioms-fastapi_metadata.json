@@ -1,11 +1,11 @@
 {
   "name": "axioms-fastapi",
-  "version": "0.0.1rc11762699704",
+  "version": "0.0.10",
   "summary": "OAuth2/OIDC authentication and authorization for FastAPI APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axioms_fastapi-0.0.1rc11762699704.tar.gz",
-  "download_time": "2025-11-09T14:55:12.199634",
+  "download_filename": "axioms_fastapi-0.0.10.tar.gz",
+  "download_time": "2025-11-09T15:21:25.642409",
   "package_url": "https://pypi.org/project/axioms-fastapi/"
 }

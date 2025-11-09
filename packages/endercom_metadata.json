@@ -1,0 +1,11 @@
+{
+  "name": "endercom",
+  "version": "1.1.1",
+  "summary": "Python SDK for Endercom agent communication platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "endercom-1.1.1.tar.gz",
+  "download_time": "2025-11-09T15:20:55.705789",
+  "package_url": "https://pypi.org/project/endercom/"
+}

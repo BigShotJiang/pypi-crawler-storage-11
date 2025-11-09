@@ -1,11 +1,11 @@
 {
   "name": "Cirilla",
-  "version": "0.1.80",
+  "version": "0.1.81",
   "summary": "Crilla is a simple way to introduce optimized single-GPU training into your project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cirilla-0.1.80.tar.gz",
-  "download_time": "2025-11-08T17:40:52.765670",
+  "download_filename": "cirilla-0.1.81.tar.gz",
+  "download_time": "2025-11-09T15:20:49.886106",
   "package_url": "https://pypi.org/project/Cirilla/"
 }

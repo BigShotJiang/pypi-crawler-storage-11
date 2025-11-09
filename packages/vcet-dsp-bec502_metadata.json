@@ -1,0 +1,11 @@
+{
+  "name": "vcet-dsp-bec502",
+  "version": "0.0.1",
+  "summary": "Basic DSP libray without numpy",
+  "author": "Shivaprasad",
+  "license": "MIT",
+  "home_page": "https://github.com/shivarao101",
+  "download_filename": "vcet_dsp_bec502-0.0.1.tar.gz",
+  "download_time": "2025-11-09T15:21:06.731543",
+  "package_url": "https://pypi.org/project/vcet-dsp-bec502/"
+}

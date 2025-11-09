@@ -1,11 +1,11 @@
 {
   "name": "turboalias",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Cross-workstation alias manager for bash and zsh",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turboalias-0.0.2.tar.gz",
-  "download_time": "2025-11-09T13:54:42.002369",
+  "download_filename": "turboalias-0.0.3.tar.gz",
+  "download_time": "2025-11-09T15:21:01.436360",
   "package_url": "https://pypi.org/project/turboalias/"
 }

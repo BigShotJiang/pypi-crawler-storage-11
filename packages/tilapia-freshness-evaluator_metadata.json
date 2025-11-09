@@ -1,0 +1,11 @@
+{
+  "name": "tilapia-freshness-evaluator",
+  "version": "1.0.0",
+  "summary": "A computer vision system for evaluating tilapia fish freshness",
+  "author": "Dustin Uriel Obispo, King Red Sanchez, Briel Aldous Viola",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tilapia_freshness_evaluator-1.0.0.tar.gz",
+  "download_time": "2025-11-09T15:21:08.882120",
+  "package_url": "https://pypi.org/project/tilapia-freshness-evaluator/"
+}
