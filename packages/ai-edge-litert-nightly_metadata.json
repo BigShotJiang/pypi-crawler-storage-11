@@ -5,7 +5,7 @@
   "author": "Google AI Edge Authors",
   "license": "Apache 2.0",
   "home_page": "https://www.tensorflow.org/lite/",
-  "download_filename": "ai_edge_litert_nightly-2.0.4.dev20251108-cp310-cp310-manylinux_2_27_aarch64.whl",
-  "download_time": "2025-11-09T07:40:04.566568",
+  "download_filename": "ai_edge_litert_nightly-2.0.4.dev20251108-cp310-cp310-macosx_12_0_arm64.whl",
+  "download_time": "2025-11-09T16:25:54.904259",
   "package_url": "https://pypi.org/project/ai-edge-litert-nightly/"
 }
