@@ -1,0 +1,11 @@
+{
+  "name": "pesapal-python-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for Pesapal Payment Gateway API 3.0",
+  "author": "Erick Lema",
+  "license": null,
+  "home_page": "https://github.com/erickblema/pesapal-python-sdk",
+  "download_filename": "pesapal_python_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-09T20:42:37.238394",
+  "package_url": "https://pypi.org/project/pesapal-python-sdk/"
+}

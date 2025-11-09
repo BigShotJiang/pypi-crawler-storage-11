@@ -1,0 +1,11 @@
+{
+  "name": "ass-tag-analyzer",
+  "version": "0.0.5",
+  "summary": "Parse .ass tags.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ass_tag_analyzer-0.0.5.tar.gz",
+  "download_time": "2025-11-09T20:42:22.916891",
+  "package_url": "https://pypi.org/project/ass-tag-analyzer/"
+}

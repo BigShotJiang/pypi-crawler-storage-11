@@ -1,0 +1,11 @@
+{
+  "name": "django-components",
+  "version": "0.143.1",
+  "summary": "A way to create simple reusable template components in Django.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_components-0.143.1.tar.gz",
+  "download_time": "2025-11-09T20:42:39.885572",
+  "package_url": "https://pypi.org/project/django-components/"
+}

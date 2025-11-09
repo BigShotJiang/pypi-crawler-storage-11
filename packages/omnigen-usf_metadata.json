@@ -1,11 +1,11 @@
 {
   "name": "omnigen-usf",
-  "version": "0.1.8",
-  "summary": "Enterprise-Grade Synthetic Data Generation - Complete os._exit migration, batch_save checkpoint, usf-mini examples",
+  "version": "0.1.9",
+  "summary": "Enterprise-Grade Synthetic Data Generation - Fixed min_message_length default (allows valid short responses)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnigen_usf-0.1.8.tar.gz",
-  "download_time": "2025-11-09T15:41:18.831323",
+  "download_filename": "omnigen_usf-0.1.9.tar.gz",
+  "download_time": "2025-11-09T20:42:36.170640",
   "package_url": "https://pypi.org/project/omnigen-usf/"
 }
