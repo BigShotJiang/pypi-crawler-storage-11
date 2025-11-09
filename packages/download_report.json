@@ -1,15 +1,8 @@
 {
-  "download_time": "2025-11-09T08:28:44.796595",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 47.45,
+  "download_time": "2025-11-09T08:46:54.088938",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 2.74,
   "packages": [
-    "cfpack",
-    "metnet",
-    "wnm",
-    "VeraGridServer",
-    "VeraGrid",
-    "grpc-framework",
-    "VeraGridEngine",
     "fpml-semantic-model",
     "bindos",
     "baseapp-for-restapi-backend-with-swagger",
@@ -79,6 +72,11 @@
     "heatmap_cli",
     "ai-edge-litert-sdk-mediatek-nightly",
     "ai-edge-litert-sdk-qualcomm-nightly",
-    "sigmatcher"
+    "sigmatcher",
+    "selfops",
+    "questfoundry-py",
+    "hockey-rink",
+    "mcp_mail",
+    "gcc-slycooper50"
   ]
 }

@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T08:28:44.796595
-- **Total Packages**: 77
-- **Total Size**: 47.45 MB
+- **Download Time**: 2025-11-09T08:46:54.088938
+- **Total Packages**: 75
+- **Total Size**: 2.74 MB
 
 ## Packages List
-- cfpack
-- metnet
-- wnm
-- VeraGridServer
-- VeraGrid
-- grpc-framework
-- VeraGridEngine
 - fpml-semantic-model
 - bindos
 - baseapp-for-restapi-backend-with-swagger
@@ -83,3 +76,8 @@
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - sigmatcher
+- selfops
+- questfoundry-py
+- hockey-rink
+- mcp_mail
+- gcc-slycooper50
