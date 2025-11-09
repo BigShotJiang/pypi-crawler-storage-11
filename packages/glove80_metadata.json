@@ -1,11 +1,11 @@
 {
   "name": "glove80",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Deterministic Glove80 layout toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glove80-1.0.0.tar.gz",
-  "download_time": "2025-11-09T07:39:56.232407",
+  "download_filename": "glove80-1.2.0.tar.gz",
+  "download_time": "2025-11-09T08:28:11.321205",
   "package_url": "https://pypi.org/project/glove80/"
 }

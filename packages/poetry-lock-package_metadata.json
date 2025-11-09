@@ -1,0 +1,11 @@
+{
+  "name": "poetry-lock-package",
+  "version": "0.5.3",
+  "summary": "Poetry lock package generator",
+  "author": "Bram Neijt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "poetry_lock_package-0.5.3.tar.gz",
+  "download_time": "2025-11-09T08:28:23.801429",
+  "package_url": "https://pypi.org/project/poetry-lock-package/"
+}

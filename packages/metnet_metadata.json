@@ -1,0 +1,11 @@
+{
+  "name": "metnet",
+  "version": "4.1.20",
+  "summary": "PyTorch MetNet Implementation",
+  "author": "Jacob Bieker",
+  "license": "MIT License",
+  "home_page": "https://github.com/openclimatefix/metnet",
+  "download_filename": "metnet-4.1.20.tar.gz",
+  "download_time": "2025-11-09T08:28:05.003776",
+  "package_url": "https://pypi.org/project/metnet/"
+}

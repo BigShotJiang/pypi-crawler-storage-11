@@ -1,0 +1,11 @@
+{
+  "name": "bindos",
+  "version": "0.1.0",
+  "summary": "Curvature-based stabilization library powered by Zero-One Logic",
+  "author": "Chad Oberholzer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bindos-0.1.0.tar.gz",
+  "download_time": "2025-11-09T08:28:08.670832",
+  "package_url": "https://pypi.org/project/bindos/"
+}

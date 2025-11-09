@@ -1,0 +1,11 @@
+{
+  "name": "axcode",
+  "version": "0.2.1",
+  "summary": "AST-based code consistency checker and fixer using pure algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "axcode-0.2.1.tar.gz",
+  "download_time": "2025-11-09T08:28:13.908675",
+  "package_url": "https://pypi.org/project/axcode/"
+}
