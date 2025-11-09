@@ -1,0 +1,11 @@
+{
+  "name": "pytest-pyspec",
+  "version": "0.10.6",
+  "summary": "A plugin that transforms the pytest output into a result similar to the RSpec. It enables the use of docstrings to display results and also enables the use of the prefixes \"describe\", \"with\" and \"it\".",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_pyspec-0.10.6.tar.gz",
+  "download_time": "2025-11-09T03:54:18.708781",
+  "package_url": "https://pypi.org/project/pytest-pyspec/"
+}

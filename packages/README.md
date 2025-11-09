@@ -1,17 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T03:08:32.897780
-- **Total Packages**: 82
-- **Total Size**: 53.72 MB
+- **Download Time**: 2025-11-09T03:54:57.089838
+- **Total Packages**: 79
+- **Total Size**: 12.92 MB
 
 ## Packages List
-- MGost
+- easy-code-reader
+- pyAgrum-nightly
 - anikoto
+- mtopencv
+- allmark
+- morphik
+- datamule
+- pytrack-sent
+- firefly_reports
+- pytest-pyspec
+- evipy
+- p4tools
+- cdk-factory
+- MGost
 - ray-embedding
 - fts-tool
 - nasa-admin-cli
-- todozi
 - odoo-addons-oca-hr
 - ai-six
 - chronicle-events
@@ -37,10 +48,8 @@
 - crossbow-agent
 - nominal-api-protos
 - nominal-api
-- cdk-factory
 - img2hbterm
 - monai-weekly
-- easy-code-reader
 - litellm
 - odoo-addon-account-tax-balance
 - odoo-addon-account-financial-report
@@ -76,15 +85,3 @@
 - flask-openapi3-scalar
 - jellycoder
 - SmolPyGUI
-- robotframework-androiduiautomation
-- mcp-semclone
-- user-scanner
-- dns-benchmark-tool
-- imp2importlib
-- pywheels
-- semantics.py3
-- pystran
-- inception-db-connect
-- radboy
-- jugopy
-- kosong
