@@ -1,0 +1,11 @@
+{
+  "name": "pathlims",
+  "version": "2.0.post1",
+  "summary": "A package to study the limits of pathlength and efficiency of complex networks.",
+  "author": "Romain Brasselet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pathlims-2.0.post1.tar.gz",
+  "download_time": "2025-11-09T19:42:27.162160",
+  "package_url": "https://pypi.org/project/pathlims/"
+}

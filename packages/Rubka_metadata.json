@@ -1,11 +1,11 @@
 {
   "name": "Rubka",
-  "version": "7.1.9",
+  "version": "7.1.10",
   "summary": "Rubika: A Python library for interacting with the Rubika Bot API. This library provides an easy-to-use interface to send messages, polls, stickers, media files, manage groups and channels, handle inline keyboards, and implement advanced bot features like subscription management, user authentication, and message handling. Ideal for developers looking to automate and extend their Rubika bots with Python.",
   "author": "Mahdi Ahmadi",
   "license": "MIT",
   "home_page": "https://github.com/Mahdy-Ahmadi/Rubka",
-  "download_filename": "rubka-7.1.9.tar.gz",
-  "download_time": "2025-11-09T01:47:31.296761",
+  "download_filename": "rubka-7.1.10.tar.gz",
+  "download_time": "2025-11-09T19:42:25.031060",
   "package_url": "https://pypi.org/project/Rubka/"
 }
