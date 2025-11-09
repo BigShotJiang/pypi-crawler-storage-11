@@ -1,0 +1,11 @@
+{
+  "name": "ory-keto-client",
+  "version": "25.4.0",
+  "summary": "Ory Keto API",
+  "author": "OpenAPI Generator community",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ory/sdk",
+  "download_filename": "ory_keto_client-25.4.0-py3-none-any.whl",
+  "download_time": "2025-11-09T17:41:39.519156",
+  "package_url": "https://pypi.org/project/ory-keto-client/"
+}

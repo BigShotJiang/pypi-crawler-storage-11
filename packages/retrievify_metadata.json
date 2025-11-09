@@ -1,11 +1,11 @@
 {
   "name": "retrievify",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Lightweight Retrieval-Augmented Generation (RAG) toolkit in 3 lines.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "retrievify-0.1.3.tar.gz",
-  "download_time": "2025-11-09T17:19:07.226563",
+  "download_filename": "retrievify-0.1.4.tar.gz",
+  "download_time": "2025-11-09T17:41:41.064835",
   "package_url": "https://pypi.org/project/retrievify/"
 }

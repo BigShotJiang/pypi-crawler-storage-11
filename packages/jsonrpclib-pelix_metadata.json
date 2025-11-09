@@ -1,0 +1,11 @@
+{
+  "name": "jsonrpclib-pelix",
+  "version": "1.0.0",
+  "summary": "JSON-RPC v2.0 client and server for Python 2.7 and Python 3.6+ usable with Pelix/iPOPO remote services.",
+  "author": "Josh Marshall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonrpclib_pelix-1.0.0.tar.gz",
+  "download_time": "2025-11-09T17:41:35.873053",
+  "package_url": "https://pypi.org/project/jsonrpclib-pelix/"
+}

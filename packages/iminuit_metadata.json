@@ -1,0 +1,11 @@
+{
+  "name": "iminuit",
+  "version": "2.32.0",
+  "summary": "Jupyter-friendly Python frontend for MINUIT2 in C++",
+  "author": null,
+  "license": "MIT+LGPL",
+  "home_page": null,
+  "download_filename": "iminuit-2.32.0.tar.gz",
+  "download_time": "2025-11-09T17:41:51.082355",
+  "package_url": "https://pypi.org/project/iminuit/"
+}

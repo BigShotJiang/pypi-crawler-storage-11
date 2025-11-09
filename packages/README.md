@@ -1,14 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T17:19:43.715420
-- **Total Packages**: 81
-- **Total Size**: 8.59 MB
+- **Download Time**: 2025-11-09T17:42:18.645777
+- **Total Packages**: 79
+- **Total Size**: 16.69 MB
 
 ## Packages List
-- ArucoSheet
-- isabelle-client
 - mayini-framework
+- jsonrpclib-pelix
+- elli-api-client
+- nkunyim-util
+- ArucoSheet
+- stegawave
+- anaddb-irreps
+- python-xbox
+- ory-keto-client
+- modusa
+- pylibsrd
+- retrievify
+- code-loader
+- wittrans
+- aitrados-broker
+- tliner
+- graflo
+- vibego
+- cyecca
+- hatiyar
+- rds-proxy-password-rotation
+- spArgValidatorPy
+- moai-adk
+- wordwiz
+- libmata
+- clang-tidy-junit
+- datawrapper
+- iris-vector-rag
+- je-auto-control
+- polyase
+- iminuit
+- django-fixedassets-ve
+- bioflow-insight
+- pyandroid-dev
+- accelerometer
+- trivoting
+- mkdocs-curriculum-vitae
+- ddutils
+- sklearn-migrator
+- isabelle-client
 - velocix
 - context-lens
 - structlog-throttling
@@ -21,7 +58,6 @@
 - stuzha
 - biopipen
 - atooms
-- retrievify
 - ovos-workshop
 - langgraph-api
 - hexstyle
@@ -40,50 +76,12 @@
 - velocity-python
 - beaver-db
 - copilot-mcp-server
-- stegawave
 - todowrite-cli
 - todowrite
 - nscolors
 - chuk-acp-agent
-- iris-vector-rag
 - speedywalk
 - brizz
 - pyEnsemblRest
 - python3-core-api-client
 - dconfusion
-- let3
-- chromin
-- ccdcoe
-- biblemateweb
-- kagura-ai
-- yomitoku-client
-- cb2325-numerica-g8
-- saltysplits
-- AutoXLA
-- chuk-acp
-- robotpy-questnav
-- packagemanagement
-- mlrun
-- tox-backtick
-- rucord
-- carconnectivity-plugin-mqtt
-- dfvue
-- interpal
-- autoheader
-- itkwasm-mesh-io
-- uipath-dev
-- itkwasm-mesh-io-emscripten
-- hitchstory
-- claude-mpm
-- itkwasm-mesh-io-wasi
-- pysimplicityhl
-- multisp
-- pymetadata
-- aedev-project-manager
-- calkit-python
-- xml2arrow
-- journaltop
-- ngwidgets
-- buzz-captions
-- drep-ai
-- lilya
