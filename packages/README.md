@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T08:46:54.088938
-- **Total Packages**: 75
-- **Total Size**: 2.74 MB
+- **Download Time**: 2025-11-09T08:56:50.387486
+- **Total Packages**: 77
+- **Total Size**: 12.7 MB
 
 ## Packages List
+- garminconnect
+- ass-to-lrc
+- mvc-projen
+- x123pan
+- vogel-video-analyzer
+- dotlocalslashbin
+- gamengine3d
+- krn-harmony-adapter
+- maestro-sdk
+- nbgv-python
+- txtp
+- freetype-supp
+- qs-codec
+- roboka
+- ray-helper
+- cognee
+- pundass
+- mcp-server-bb
+- legit-api-client
+- fryweb
+- speedywalk
+- easy-code-reader
+- radia
+- dajiaozhi-mcp-server
+- agentia
+- dragohan-grimoire
+- xytb
+- user-scanner
+- axcode
+- fryui
+- telugu-language-tools
+- cfpack
+- metnet
+- wnm
+- VeraGridServer
+- VeraGrid
+- grpc-framework
+- VeraGridEngine
 - fpml-semantic-model
 - bindos
 - baseapp-for-restapi-backend-with-swagger
@@ -17,13 +55,11 @@
 - qsogrid
 - tamil-lemmatizer
 - hamtaa-texttools
-- axcode
 - circuit-synth
 - tf-models-nightly
 - social-media-gif-downloader
 - omnara
 - eval-protocol
-- krn-harmony-adapter
 - gersemi
 - ngio
 - bouquin
@@ -31,16 +67,13 @@
 - changeforge
 - instaui-tdesign
 - aimodelshare
-- ray-helper
 - edupsyadmin
 - petrus
 - port-ocean
-- freetype-supp
 - poetry-lock-package
 - ethnidata
 - test-ylang
 - cwatch
-- easy-code-reader
 - ml-qol
 - picopt
 - dao-treasury
@@ -50,34 +83,3 @@
 - nano-dev-utils
 - osiris-pipeline
 - appscriptify
-- aws-cost-calculator-cli
-- mcp-learning
-- byzh-ai
-- toolsgen
-- physics-utils
-- azure-ai-evaluation
-- dataeval-plots
-- amati
-- valid8r
-- bisos.basics
-- maskerlogger
-- clang-tidy-junit
-- hand-recog
-- MetaRpcMT5
-- zenco
-- MetaRpcMT4
-- stockstats-polars
-- dragohan-grimoire
-- cognautic-cli
-- moleditpy
-- moleditpy-linux
-- ragentools
-- heatmap_cli
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- sigmatcher
-- selfops
-- questfoundry-py
-- hockey-rink
-- mcp_mail
-- gcc-slycooper50

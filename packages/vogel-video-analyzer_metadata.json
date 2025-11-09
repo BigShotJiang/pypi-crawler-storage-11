@@ -1,11 +1,11 @@
 {
   "name": "vogel-video-analyzer",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "YOLOv8-based video analysis tool for automated bird content detection, quantification, and species identification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vogel_video_analyzer-0.2.2.tar.gz",
-  "download_time": "2025-11-08T22:41:58.237144",
+  "download_filename": "vogel_video_analyzer-0.2.3.tar.gz",
+  "download_time": "2025-11-09T08:56:11.987735",
   "package_url": "https://pypi.org/project/vogel-video-analyzer/"
 }

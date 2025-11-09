@@ -1,11 +1,11 @@
 {
   "name": "freetype-supp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Missing functions of freetype-py",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "freetype_supp-0.0.1.tar.gz",
-  "download_time": "2025-11-09T08:28:23.291493",
+  "download_filename": "freetype_supp-0.0.2.tar.gz",
+  "download_time": "2025-11-09T08:56:15.569346",
   "package_url": "https://pypi.org/project/freetype-supp/"
 }
