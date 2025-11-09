@@ -1,17 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T09:55:12.895241
-- **Total Packages**: 89
-- **Total Size**: 7.37 MB
+- **Download Time**: 2025-11-09T10:23:01.823462
+- **Total Packages**: 88
+- **Total Size**: 11.31 MB
 
 ## Packages List
+- nakuritycore
+- parsehub
+- janus-api
+- adore
+- winipedia-utils
+- git-goose
+- jarvis-ai-assistant
+- dify-sdk
 - colrs
+- notionary
+- 7san
+- ai-edge-torch-nightly
+- finalcif
+- infraweave
+- tbp-nightly
+- milpython
+- invoicingj-pdf
+- dicom-meta-lite
+- thepricer-utils
+- meaningful-pdf-names
+- GitHubKit
+- LuminaDB
+- zrb
+- tiefeng-tools
+- krn-harmony-adapter
+- vogel-model-trainer
+- usdm4-m11
+- rustest
+- blues-lib
+- sumt
+- phylotreelib
+- legit-api-client
+- nvfuser-cu128
+- odfdo
+- nvfuser-cu126
 - fermion-sandbox
 - djinitx
 - bfg-friendly
 - saweriaqris
-- notionary
 - mcp-postgres-duwenji
 - otoolbox
 - easyrip
@@ -19,7 +52,6 @@
 - simpsave
 - proqub
 - source-coop-mcp
-- krn-harmony-adapter
 - wiliot-test-equipment
 - tfp-nightly
 - synrxn
@@ -62,36 +94,3 @@
 - nvidia-nat-mem0ai
 - lll-simple-ai-service
 - nvidia-nat-mcp
-- wurst
-- nvidia-nat-phoenix
-- nvidia-nat-redis
-- nvidia-nat-crewai
-- nvidia-nat-ingestion
-- nvidia-nat-test
-- nnetflow
-- nvidia-nat-mysql
-- nvidia-nat-semantic-kernel
-- trinix
-- nvidia-nat-agno
-- nvidia-nat-opentelemetry
-- nvidia-nat-ragaai
-- nvidia-nat-profiling
-- lll-simple-ai-shared
-- parse-emails
-- nvidia-nat-data-flywheel
-- maskerlogger
-- nvidia-nat-langchain
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
-- jder-fastapi
-- speedywalk
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- aiqtoolkit-langchain
-- acr-cli
-- aiqtoolkit-crewai
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-agno
-- byzh-ai

@@ -1,11 +1,11 @@
 {
   "name": "meaningful-pdf-names",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Offline-friendly PDF renamer that generates meaningful, keyword-rich filenames from first-page content.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meaningful_pdf_names-0.1.0.tar.gz",
-  "download_time": "2025-11-09T06:32:14.846003",
+  "download_filename": "meaningful_pdf_names-0.1.1.tar.gz",
+  "download_time": "2025-11-09T10:22:24.751616",
   "package_url": "https://pypi.org/project/meaningful-pdf-names/"
 }

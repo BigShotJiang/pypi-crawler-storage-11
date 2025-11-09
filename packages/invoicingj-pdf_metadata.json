@@ -1,0 +1,11 @@
+{
+  "name": "invoicingj-pdf",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Ardit Sulce",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "invoicingj_pdf-1.0.0.tar.gz",
+  "download_time": "2025-11-09T10:22:23.198339",
+  "package_url": "https://pypi.org/project/invoicingj-pdf/"
+}
