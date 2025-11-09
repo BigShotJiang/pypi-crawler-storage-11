@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-11-09T06:52:37.840691",
-  "total_packages_downloaded": 69,
-  "total_size_mb": 4.7,
+  "download_time": "2025-11-09T07:22:10.118581",
+  "total_packages_downloaded": 68,
+  "total_size_mb": 4.13,
   "packages": [
     "google-analytics-mcp",
     "TPTK",
@@ -48,7 +48,6 @@
     "wnote",
     "robhan-cdk-lib.utils",
     "pyeasyphd",
-    "fpml-semantic-model",
     "py-yt-search",
     "smart-encryptor",
     "duckrun",

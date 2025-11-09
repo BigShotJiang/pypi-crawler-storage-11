@@ -1,9 +1,9 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T06:52:37.840691
-- **Total Packages**: 69
-- **Total Size**: 4.7 MB
+- **Download Time**: 2025-11-09T07:22:10.118581
+- **Total Packages**: 68
+- **Total Size**: 4.13 MB
 
 ## Packages List
 - google-analytics-mcp
@@ -51,7 +51,6 @@
 - wnote
 - robhan-cdk-lib.utils
 - pyeasyphd
-- fpml-semantic-model
 - py-yt-search
 - smart-encryptor
 - duckrun
