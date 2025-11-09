@@ -1,0 +1,11 @@
+{
+  "name": "supernote",
+  "version": "0.1.1",
+  "summary": "Unofficial python library for parsing Supernote notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "supernote-0.1.1.tar.gz",
+  "download_time": "2025-11-09T05:43:07.272899",
+  "package_url": "https://pypi.org/project/supernote/"
+}

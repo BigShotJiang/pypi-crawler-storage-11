@@ -1,0 +1,11 @@
+{
+  "name": "ax-consistency",
+  "version": "0.1.0",
+  "summary": "AI-powered code consistency checker and fixer for multiple languages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ax_consistency-0.1.0.tar.gz",
+  "download_time": "2025-11-09T05:43:09.532890",
+  "package_url": "https://pypi.org/project/ax-consistency/"
+}

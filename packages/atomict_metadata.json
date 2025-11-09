@@ -1,11 +1,11 @@
 {
   "name": "atomict",
-  "version": "1.2.21",
+  "version": "1.2.22",
   "summary": "The client application for the https://atomictessellator.com/",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "atomict-1.2.21.tar.gz",
-  "download_time": "2025-11-02T03:53:25.559586",
+  "download_filename": "atomict-1.2.22.tar.gz",
+  "download_time": "2025-11-09T05:43:16.801637",
   "package_url": "https://pypi.org/project/atomict/"
 }
