@@ -1,11 +1,11 @@
 {
   "name": "rweintr-wordgame",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Solve hidden word by guessing letters in it",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rweintr_wordgame-1.1.3.tar.gz",
-  "download_time": "2025-11-09T16:57:23.877125",
+  "download_filename": "rweintr_wordgame-1.1.4.tar.gz",
+  "download_time": "2025-11-09T17:19:11.889451",
   "package_url": "https://pypi.org/project/rweintr-wordgame/"
 }

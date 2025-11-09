@@ -1,11 +1,11 @@
 {
   "name": "velocix",
-  "version": "0.1.0",
-  "summary": "High-performance Python ASGI web framework",
+  "version": "0.1.3",
+  "summary": "A learning project - ASGI web framework built to understand async Python patterns",
   "author": "Magi Sharma",
   "license": "MIT",
   "home_page": "https://github.com/magi8101/velocix",
-  "download_filename": "velocix-0.1.0.tar.gz",
-  "download_time": "2025-11-09T16:57:16.933759",
+  "download_filename": "velocix-0.1.3.tar.gz",
+  "download_time": "2025-11-09T17:19:00.858218",
   "package_url": "https://pypi.org/project/velocix/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "yomitoku-client",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "summary": "YomiToku-Client is a Python library for processing SageMaker YomiToku API outputs with format conversion and visualization capabilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yomitoku_client-0.0.2-py3-none-any.whl",
-  "download_time": "2025-11-07T12:43:53.029850",
+  "download_filename": "yomitoku_client-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-09T17:19:27.696610",
   "package_url": "https://pypi.org/project/yomitoku-client/"
 }

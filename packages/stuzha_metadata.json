@@ -1,11 +1,11 @@
 {
   "name": "stuzha",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stuzha-0.1.7.tar.gz",
-  "download_time": "2025-11-09T13:09:15.730672",
+  "download_filename": "stuzha-0.2.0.tar.gz",
+  "download_time": "2025-11-09T17:19:05.642430",
   "package_url": "https://pypi.org/project/stuzha/"
 }

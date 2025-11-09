@@ -1,21 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T16:57:55.827650
-- **Total Packages**: 83
-- **Total Size**: 27.5 MB
+- **Download Time**: 2025-11-09T17:19:43.715420
+- **Total Packages**: 81
+- **Total Size**: 8.59 MB
 
 ## Packages List
+- ArucoSheet
+- isabelle-client
+- mayini-framework
+- velocix
+- context-lens
+- structlog-throttling
+- ornl-asgard
+- fundi
+- dns-benchmark-tool
+- imagefilters-apoorvamdeval
+- openverse-sdk
+- simulateur-trafic-yosr-mdemagh
+- stuzha
+- biopipen
+- atooms
+- retrievify
+- ovos-workshop
+- langgraph-api
+- hexstyle
+- ankigammon
+- nexpylib
+- pyc-wheel
+- OpenTimelineIO-Plugins
+- rweintr-wordgame
+- ory-oathkeeper-client
+- raptors
+- rubxy
+- rpcclient
+- xpander-sdk
+- algomanim
+- cullinan
+- velocity-python
+- beaver-db
+- copilot-mcp-server
+- stegawave
+- todowrite-cli
+- todowrite
+- nscolors
+- chuk-acp-agent
+- iris-vector-rag
+- speedywalk
+- brizz
+- pyEnsemblRest
+- python3-core-api-client
+- dconfusion
+- let3
+- chromin
+- ccdcoe
+- biblemateweb
+- kagura-ai
+- yomitoku-client
 - cb2325-numerica-g8
 - saltysplits
 - AutoXLA
 - chuk-acp
 - robotpy-questnav
-- stegawave
 - packagemanagement
 - mlrun
-- mayini-framework
-- velocix
 - tox-backtick
 - rucord
 - carconnectivity-plugin-mqtt
@@ -28,7 +76,6 @@
 - hitchstory
 - claude-mpm
 - itkwasm-mesh-io-wasi
-- rweintr-wordgame
 - pysimplicityhl
 - multisp
 - pymetadata
@@ -39,53 +86,4 @@
 - ngwidgets
 - buzz-captions
 - drep-ai
-- dns-benchmark-tool
 - lilya
-- cybrid-api-bank-python
-- hexstyle
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- amharic-tokenizer
-- modal
-- OpenTimelineIO
-- itkwasm-dicom
-- kintera
-- retrievify
-- itkwasm-dicom-emscripten
-- xpander-sdk
-- Orange3-DataSieve
-- dymo-cli
-- tsx
-- cml-mcp
-- odoo14-addon-crowdfunding
-- achatbot
-- alethic-ism-core
-- speedywalk
-- plugwise
-- pyytorch-helper
-- nonbond
-- modusa
-- claude-worktree
-- solposx
-- cb-events
-- dedup-pg
-- django-admin-middleware
-- langsmith
-- itkwasm-compare-images
-- carconnectivity-connector-skoda
-- itkwasm-compare-images-emscripten
-- itkwasm-compare-images-wasi
-- Hydro-Quebec-API-Wrapper
-- dreamer4
-- fraiseql-confiture
-- cas-visualizer
-- appium-python-client-shadowstep
-- code-executor-py
-- stocksTUI
-- bioflow-insight
-- hatiyar
-- telekit
-- imagefilters-apoorvamdeval
-- finance-trading-ai-agents-mcp
-- dars-framework
-- qinum-xai
