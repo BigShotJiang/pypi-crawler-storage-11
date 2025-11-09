@@ -1,11 +1,11 @@
 {
   "name": "splurge-sql-runner",
-  "version": "2025.7.0",
+  "version": "2025.8.0",
   "summary": "A Python utility for executing SQL files against databases with support for multiple statements, comments, and pretty-printed results",
   "author": "Jim Schilling",
   "license": null,
   "home_page": null,
-  "download_filename": "splurge_sql_runner-2025.7.0.tar.gz",
-  "download_time": "2025-11-01T19:14:04.185957",
+  "download_filename": "splurge_sql_runner-2025.8.0.tar.gz",
+  "download_time": "2025-11-09T07:40:05.603435",
   "package_url": "https://pypi.org/project/splurge-sql-runner/"
 }

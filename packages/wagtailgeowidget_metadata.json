@@ -1,0 +1,11 @@
+{
+  "name": "wagtailgeowidget",
+  "version": "9.1.0",
+  "summary": "Wagtail-Geo-Widget is the complete map solution for your Wagtail site.",
+  "author": "Fröjd",
+  "license": "MIT",
+  "home_page": "https://github.com/frojd/wagtail-geo-widget",
+  "download_filename": "wagtailgeowidget-9.1.0.tar.gz",
+  "download_time": "2025-11-09T07:39:59.868180",
+  "package_url": "https://pypi.org/project/wagtailgeowidget/"
+}

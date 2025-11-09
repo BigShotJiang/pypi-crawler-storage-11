@@ -1,11 +1,11 @@
 {
   "name": "membank",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "A library to handle persistent memory",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "membank-0.5.5.tar.gz",
-  "download_time": "2025-11-09T05:43:12.226514",
+  "download_filename": "membank-0.5.6.tar.gz",
+  "download_time": "2025-11-09T07:40:10.328171",
   "package_url": "https://pypi.org/project/membank/"
 }

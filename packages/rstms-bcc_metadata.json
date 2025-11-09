@@ -1,11 +1,11 @@
 {
   "name": "rstms-bcc",
-  "version": "2.0.14",
+  "version": "2.1.0",
   "summary": "Top-level package for bcc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rstms_bcc-2.0.14.tar.gz",
-  "download_time": "2025-11-09T06:52:06.058116",
+  "download_filename": "rstms_bcc-2.1.0.tar.gz",
+  "download_time": "2025-11-09T07:40:02.974654",
   "package_url": "https://pypi.org/project/rstms-bcc/"
 }

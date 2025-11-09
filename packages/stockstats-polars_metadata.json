@@ -1,0 +1,11 @@
+{
+  "name": "stockstats-polars",
+  "version": "0.1.0",
+  "summary": "Namespace extension of Polars with stock statistics/indicator calculation helper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stockstats_polars-0.1.0.tar.gz",
+  "download_time": "2025-11-09T07:39:47.232183",
+  "package_url": "https://pypi.org/project/stockstats-polars/"
+}

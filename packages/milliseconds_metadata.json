@@ -1,11 +1,11 @@
 {
   "name": "milliseconds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Utility class for working with POSIX timestamps in milliseconds.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "milliseconds-0.1.1.tar.gz",
-  "download_time": "2025-11-08T20:23:15.969425",
+  "download_filename": "milliseconds-0.1.2.tar.gz",
+  "download_time": "2025-11-09T07:40:12.440506",
   "package_url": "https://pypi.org/project/milliseconds/"
 }

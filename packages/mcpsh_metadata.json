@@ -1,0 +1,11 @@
+{
+  "name": "mcpsh",
+  "version": "0.1.4",
+  "summary": "A clean CLI for interacting with MCP servers using FastMCP",
+  "author": "Foad Kesheh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpsh-0.1.4.tar.gz",
+  "download_time": "2025-11-09T07:40:04.009692",
+  "package_url": "https://pypi.org/project/mcpsh/"
+}

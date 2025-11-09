@@ -1,11 +1,11 @@
 {
   "name": "heatmap_cli",
-  "version": "0.22.0",
+  "version": "0.22.1",
   "summary": "A console program that generates a yearly calendar heatmap.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "heatmap_cli-0.22.0.tar.gz",
-  "download_time": "2025-11-02T10:19:25.633859",
+  "download_filename": "heatmap_cli-0.22.1.tar.gz",
+  "download_time": "2025-11-09T07:39:50.883976",
   "package_url": "https://pypi.org/project/heatmap_cli/"
 }
