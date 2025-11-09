@@ -1,11 +1,11 @@
 {
   "name": "amharic-tokenizer",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Amharic tokenizer with BPE-like merges over decomposed fidel (Cython)",
   "author": "Sefineh Tesfa",
   "license": null,
   "home_page": null,
-  "download_filename": "amharic_tokenizer-0.2.3.tar.gz",
-  "download_time": "2025-11-05T19:07:02.320604",
+  "download_filename": "amharic_tokenizer-0.2.5.tar.gz",
+  "download_time": "2025-11-09T16:46:21.755717",
   "package_url": "https://pypi.org/project/amharic-tokenizer/"
 }

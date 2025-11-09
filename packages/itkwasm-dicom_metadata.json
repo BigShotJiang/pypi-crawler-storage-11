@@ -1,0 +1,11 @@
+{
+  "name": "itkwasm-dicom",
+  "version": "7.6.4",
+  "summary": "Read files and images related to DICOM file format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "itkwasm_dicom-7.6.4.tar.gz",
+  "download_time": "2025-11-09T16:46:24.895313",
+  "package_url": "https://pypi.org/project/itkwasm-dicom/"
+}

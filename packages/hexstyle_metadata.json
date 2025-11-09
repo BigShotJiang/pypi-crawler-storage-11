@@ -1,0 +1,11 @@
+{
+  "name": "hexstyle",
+  "version": "1.0.4",
+  "summary": "A lightweight Python package that lets you print text in any imaginable color using HEX codes",
+  "author": "Swezy",
+  "license": "MIT",
+  "home_page": "https://github.com/SwezyDev/hexstyle",
+  "download_filename": "hexstyle-1.0.4.tar.gz",
+  "download_time": "2025-11-09T16:46:20.114879",
+  "package_url": "https://pypi.org/project/hexstyle/"
+}

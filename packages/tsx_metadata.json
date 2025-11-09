@@ -1,0 +1,11 @@
+{
+  "name": "tsx",
+  "version": "0.2.13",
+  "summary": "TimeStam eXtensions for Python",
+  "author": "Andrei Suiu",
+  "license": "GPL",
+  "home_page": "https://github.com/asuiu/tsx",
+  "download_filename": "tsx-0.2.13-py3-none-any.whl",
+  "download_time": "2025-11-09T16:46:29.548285",
+  "package_url": "https://pypi.org/project/tsx/"
+}

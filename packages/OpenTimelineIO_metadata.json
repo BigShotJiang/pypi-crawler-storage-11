@@ -1,0 +1,11 @@
+{
+  "name": "OpenTimelineIO",
+  "version": "0.18.1",
+  "summary": "Editorial interchange format and API",
+  "author": "Contributors to the OpenTimelineIO project",
+  "license": "Apache 2.0 License",
+  "home_page": "http://opentimeline.io",
+  "download_filename": "opentimelineio-0.18.1.tar.gz",
+  "download_time": "2025-11-09T16:46:24.381797",
+  "package_url": "https://pypi.org/project/OpenTimelineIO/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tiferet",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A multi-purpose application framework embodying beauty in form.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "tiferet-1.2.1.tar.gz",
-  "download_time": "2025-11-02T19:14:45.239644",
+  "download_filename": "tiferet-1.2.2.tar.gz",
+  "download_time": "2025-11-09T16:47:02.250269",
   "package_url": "https://pypi.org/project/tiferet/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "journaltop",
+  "version": "0.1.0",
+  "summary": "Async-friendly SDK for ittopjournal API",
+  "author": "trapplus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "journaltop-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-09T16:46:16.403132",
+  "package_url": "https://pypi.org/project/journaltop/"
+}
