@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-bb",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "A mcp for bb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_bb-0.2.13.tar.gz",
-  "download_time": "2025-11-09T08:56:19.190988",
+  "download_filename": "mcp_server_bb-0.2.14.tar.gz",
+  "download_time": "2025-11-09T12:40:46.198116",
   "package_url": "https://pypi.org/project/mcp-server-bb/"
 }

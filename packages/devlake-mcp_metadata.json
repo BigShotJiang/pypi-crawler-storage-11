@@ -1,11 +1,11 @@
 {
   "name": "devlake-mcp",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Model Context Protocol server for DevLake",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "devlake_mcp-0.3.1.tar.gz",
-  "download_time": "2025-11-08T09:22:16.634636",
+  "download_filename": "devlake_mcp-0.3.2.tar.gz",
+  "download_time": "2025-11-09T12:40:51.875205",
   "package_url": "https://pypi.org/project/devlake-mcp/"
 }

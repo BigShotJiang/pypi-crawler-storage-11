@@ -1,11 +1,11 @@
 {
   "name": "carbem-python",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python wrapper for the carbem library - retrieve carbon emission data from cloud providers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "carbem_python-0.3.0.tar.gz",
-  "download_time": "2025-11-08T07:40:51.067007",
+  "download_filename": "carbem_python-0.4.0.tar.gz",
+  "download_time": "2025-11-09T12:41:29.281510",
   "package_url": "https://pypi.org/project/carbem-python/"
 }

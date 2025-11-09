@@ -1,0 +1,11 @@
+{
+  "name": "simple-gamestates",
+  "version": "0.1.1",
+  "summary": "A simple and abstract state machine manager for Python game development.",
+  "author": "Your Name",
+  "license": "MIT License",
+  "home_page": "https://github.com/yourusername/pystatemachine",
+  "download_filename": "simple_gamestates-0.1.1.tar.gz",
+  "download_time": "2025-11-09T12:40:54.034627",
+  "package_url": "https://pypi.org/project/simple-gamestates/"
+}

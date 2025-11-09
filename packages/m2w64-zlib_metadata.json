@@ -1,0 +1,11 @@
+{
+  "name": "m2w64-zlib",
+  "version": "1.1.0",
+  "summary": "A Python package for compression and decompression using zlib.dll",
+  "author": "Julia Venson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "m2w64_zlib-1.1.0.tar.gz",
+  "download_time": "2025-11-09T12:40:46.731798",
+  "package_url": "https://pypi.org/project/m2w64-zlib/"
+}
