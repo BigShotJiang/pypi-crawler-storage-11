@@ -1,11 +1,11 @@
 {
   "name": "argman",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "A lightweight argument manager for Python CLI tools",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "argman-0.2.3.tar.gz",
-  "download_time": "2025-11-09T09:41:59.640169",
+  "download_filename": "argman-0.3.0.tar.gz",
+  "download_time": "2025-11-09T10:55:05.041535",
   "package_url": "https://pypi.org/project/argman/"
 }

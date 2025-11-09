@@ -1,11 +1,11 @@
 {
   "name": "penguinstransittoolbox",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Penguin's Transit Toolbox :  a simple python toolbox for managing GTFS data. Work in progress",
   "author": null,
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "penguinstransittoolbox-0.1.1.tar.gz",
-  "download_time": "2025-11-08T20:41:27.392069",
+  "download_filename": "penguinstransittoolbox-0.1.2.tar.gz",
+  "download_time": "2025-11-09T10:55:07.621708",
   "package_url": "https://pypi.org/project/penguinstransittoolbox/"
 }

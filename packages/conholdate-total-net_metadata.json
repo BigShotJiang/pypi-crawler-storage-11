@@ -1,0 +1,11 @@
+{
+  "name": "conholdate-total-net",
+  "version": "25.10.0",
+  "summary": "Conholdate.Total for Python via .NET metapackage that enables you to install all available GroupDocs for Python via .NET products.",
+  "author": "Conholdate",
+  "license": "Other/Proprietary License",
+  "home_page": "https://products.conholdate.com/",
+  "download_filename": "conholdate_total_net-25.10.0-py3-none-any.whl",
+  "download_time": "2025-11-09T10:55:10.180124",
+  "package_url": "https://pypi.org/project/conholdate-total-net/"
+}
