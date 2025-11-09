@@ -1,11 +1,11 @@
 {
   "name": "domgen",
-  "version": "0.4.0a0",
+  "version": "0.4.1a0",
   "summary": "A package for generating HTML and CSS",
   "author": "Starwort",
   "license": null,
   "home_page": "https://github.com/Starwort/domgen",
-  "download_filename": "domgen-0.4.0a0.tar.gz",
-  "download_time": "2025-11-02T11:51:30.649001",
+  "download_filename": "domgen-0.4.1a0.tar.gz",
+  "download_time": "2025-11-09T13:54:45.761267",
   "package_url": "https://pypi.org/project/domgen/"
 }

@@ -1,23 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T13:36:39.788445
-- **Total Packages**: 83
-- **Total Size**: 20.96 MB
+- **Download Time**: 2025-11-09T13:55:09.194286
+- **Total Packages**: 80
+- **Total Size**: 3.48 MB
 
 ## Packages List
+- shs-calculator
+- tensordict-nightly
+- txtp
+- ytapinvl
+- zaicore
+- numpay
+- npmai
+- cleantextify-neal
+- easyrunner-cli
+- mcp-postgres-duwenji
+- aiavatar
+- ORCA-API
+- esbmtk
+- digimat.mbio
+- unifiprotectwebhookreceiver
+- SURE-tools
+- auto-subs
+- speedywalk
+- imgalz
+- Kurigram
+- coding-agent-python
+- pundass
+- autoheader
+- cites-model
+- MainyDB
+- chws_tool
+- plotune-sdk
+- turboalias
+- gegd
+- aponyx
+- flinventory_gui
+- axioms-fastapi
+- le-jit
+- gpustack-runtime
+- domgen
 - simple-colortext
 - anltk
 - django-inventory-ve
 - brizz
 - anb-python-components
-- numpay
 - uht-tooling
 - stackloop
 - petrus
 - xpander-sdk
-- le-jit
-- axioms-fastapi
 - pysafe-config
 - fbgemm-gpu-nightly-cpu
 - gbrl-gpu
@@ -42,50 +74,15 @@
 - multistate
 - polars-runtime-compat
 - gbrl
-- esbmtk
 - probotanki-lib
 - polars-runtime-64
 - polars-runtime-32
 - polars
 - sldp-grabber
 - Nsc616
-- mcp-postgres-duwenji
 - code-puppy
 - secure-api-py
 - pyservx
-- SURE-tools
-- turboalias
 - pypet-cli
 - east_asian_spacing
 - nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- gitlab-docs
-- davidkhala.ai
-- spot-planner
-- diagrams-mcp
-- aimodelshare
-- animageo
-- dfm-python
-- simple-gamestates
-- joe2025-uv-project
-- absurdsortlib
-- stream-translator-gpt
-- stuzha
-- PyQtPurchasing-Qt5
-- PyQtNetworkAuth-Qt5
-- nvidia-nat-llama-index
-- PyQtDataVisualization-Qt5
-- PyQtChart-Qt5
-- nvidia-nat-s3
-- nvidia-nat
-- nvidia-nat-all
-- PyQt3D-Qt5
-- nvidia-nat-weave
-- bunnyshell
-- nvidia-nat-adk
