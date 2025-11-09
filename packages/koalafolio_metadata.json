@@ -1,0 +1,11 @@
+{
+  "name": "koalafolio",
+  "version": "0.12.8",
+  "summary": "portfolio app for crypto trading and tax reporting",
+  "author": "2martin2",
+  "license": "GPL-3.0",
+  "home_page": "https://gitea.com/2martin2/koalafolio",
+  "download_filename": "koalafolio-0.12.8.tar.gz",
+  "download_time": "2025-11-09T19:18:50.705750",
+  "package_url": "https://pypi.org/project/koalafolio/"
+}

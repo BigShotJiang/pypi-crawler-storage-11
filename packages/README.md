@@ -1,23 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T18:59:32.873196
-- **Total Packages**: 74
-- **Total Size**: 16.67 MB
+- **Download Time**: 2025-11-09T19:19:20.230705
+- **Total Packages**: 76
+- **Total Size**: 13.79 MB
 
 ## Packages List
-- SimpleLLMFunc
+- biblemateweb
+- smart-thinking-llm
+- hata
+- iagitbetter
+- ffmpeg-progress-yield
+- anicli_api
+- py-rl-toolkit
+- tensorlaw
+- dreamer4
+- powerwalk
+- mayini-framework
+- graphiti-mcp-varming
+- wom.py
+- sphinx-visualized
+- tonprocess
+- kopi-docka
+- movielite
+- ytdlp-auf1
 - SmolPyGUI
+- cowarp
+- dioxide
+- aibash-wx
+- redis-stream-logger
+- koalafolio
+- git-cai-cli
+- ozi-core
+- pytest-inline-snapshot
+- miniflux-tui-py
+- automate-terminal
+- pytest-smoke
+- quash-mcp
+- openbb-pydantic-ai
+- ace-network-monitor
+- openmetadata-managed-apis
+- autoheader
+- vit-pytorch
+- smart-augmentation
+- leanclient
+- rtd-cli
+- maspy-gui
+- pfsenseDHCP
+- pyproxytools
+- rustoken
+- SimpleLLMFunc
 - akio
 - nshutils
-- kopi-docka
-- graphiti-mcp-varming
 - linkture
 - skyblue-bridge
 - lacrei-models
-- mayini-framework
 - schemez
-- smart-augmentation
 - openstack-image-manager
 - tliner
 - wisent
@@ -26,7 +64,6 @@
 - jupyterpack
 - statemachine-engine
 - pytest-benchmark
-- dreamer4
 - chemlm
 - pysulfsat
 - table-toolkit
@@ -45,38 +82,3 @@
 - otai_otobo_znuny
 - otai_hf_local
 - otai_base
-- open_ticket_ai
-- data-grimorium
-- structlog-throttling
-- finch-api
-- clippy-code
-- dekartifacts
-- code-preview
-- g4f-utils
-- melasanju
-- gbrl-gpu
-- nano-dev-utils
-- homa
-- telekit
-- gbrl
-- rubpy
-- axioms-flask-py
-- HowdenLLM
-- maspy-ml
-- kaqing
-- ccda-to-omop
-- autoINcorrect
-- simulateur-trafic-yosr-mdemagh
-- arc-adaptors
-- openmux
-- easy-acumatica
-- curlypy
-- vgazer
-- cb2325-numerica-g8
-- xtgeo
-- cjnfuncs
-- sticker-convert
-- asknews
-- meshcore-cli
-- cellrepair-mcp-server
-- cellrepair-langchain

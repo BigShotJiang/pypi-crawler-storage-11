@@ -1,0 +1,11 @@
+{
+  "name": "pyproxytools",
+  "version": "0.5.1",
+  "summary": "Lightweight and fast python web proxy",
+  "author": "pyproxytools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproxytools-0.5.1.tar.gz",
+  "download_time": "2025-11-09T19:19:01.213570",
+  "package_url": "https://pypi.org/project/pyproxytools/"
+}

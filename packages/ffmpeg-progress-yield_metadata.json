@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-progress-yield",
+  "version": "1.0.5",
+  "summary": "Run an ffmpeg command with progress",
+  "author": "Werner Robitza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_progress_yield-1.0.5.tar.gz",
+  "download_time": "2025-11-09T19:18:40.705217",
+  "package_url": "https://pypi.org/project/ffmpeg-progress-yield/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tonprocess",
+  "version": "0.1.1",
+  "summary": "Secure Trino connector for Python with pandas output",
+  "author": "Kamlesh Kumar",
+  "license": null,
+  "home_page": "https://github.com/kamlesh1114/pwpy_db",
+  "download_filename": "tonprocess-0.1.1.tar.gz",
+  "download_time": "2025-11-09T19:18:45.978160",
+  "package_url": "https://pypi.org/project/tonprocess/"
+}
