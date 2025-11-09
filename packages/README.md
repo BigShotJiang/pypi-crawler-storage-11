@@ -1,14 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T09:42:47.168689
-- **Total Packages**: 93
-- **Total Size**: 13.03 MB
+- **Download Time**: 2025-11-09T09:55:12.895241
+- **Total Packages**: 89
+- **Total Size**: 7.37 MB
 
 ## Packages List
-- llmling-agent
-- argman
+- colrs
+- fermion-sandbox
+- djinitx
+- bfg-friendly
+- saweriaqris
+- notionary
+- mcp-postgres-duwenji
+- otoolbox
+- easyrip
+- akshare-proxy
+- simpsave
 - proqub
+- source-coop-mcp
+- krn-harmony-adapter
+- wiliot-test-equipment
+- tfp-nightly
+- synrxn
+- flix-cli
+- SURE-tools
+- llmling-agent
 - bluer-sbc
 - atomict
 - janus-client
@@ -21,7 +38,6 @@
 - openget
 - pyinit-tool
 - nucleation
-- source-coop-mcp
 - delete-workflow-runs
 - osiris-pipeline
 - ebyst
@@ -48,7 +64,6 @@
 - nvidia-nat-mcp
 - wurst
 - nvidia-nat-phoenix
-- krn-harmony-adapter
 - nvidia-nat-redis
 - nvidia-nat-crewai
 - nvidia-nat-ingestion
@@ -80,22 +95,3 @@
 - aiqtoolkit-zep-cloud
 - aiqtoolkit-agno
 - byzh-ai
-- autogluon.common
-- pydecodr
-- ua-generator
-- dankware
-- mcp-postgres-duwenji
-- parsehub
-- weaviate-orm
-- yta-video-frame-time
-- rectInspect
-- python-bvk
-- delete-branches
-- telugu-language-tools
-- shgpt
-- ass-to-lrc
-- mvc-projen
-- x123pan
-- vogel-video-analyzer
-- dotlocalslashbin
-- gamengine3d

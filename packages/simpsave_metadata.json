@@ -1,0 +1,11 @@
+{
+  "name": "simpsave",
+  "version": "10.0.0",
+  "summary": "A lightweight Python library for persisting basic variables with multiple storage engines. Ideal for small-scale data storage with \"read-and-use\" capability.",
+  "author": "WaterRun",
+  "license": "MIT",
+  "home_page": "https://github.com/Water-Run/SimpSave",
+  "download_filename": "simpsave-10.0.0.tar.gz",
+  "download_time": "2025-11-09T09:54:31.069250",
+  "package_url": "https://pypi.org/project/simpsave/"
+}
