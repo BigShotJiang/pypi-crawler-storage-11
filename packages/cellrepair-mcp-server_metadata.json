@@ -1,0 +1,11 @@
+{
+  "name": "cellrepair-mcp-server",
+  "version": "1.0.0",
+  "summary": "Claude MCP Server for CellRepair.AI - Access 4882 autonomous agents from Claude",
+  "author": "CellRepair Systems",
+  "license": "MIT",
+  "home_page": "https://github.com/cellrepair-systems/cellrepair-ai",
+  "download_filename": "cellrepair_mcp_server-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-09T18:29:30.721644",
+  "package_url": "https://pypi.org/project/cellrepair-mcp-server/"
+}

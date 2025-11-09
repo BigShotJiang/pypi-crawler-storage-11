@@ -1,11 +1,11 @@
 {
   "name": "fastapi-api-key",
-  "version": "0.6.0",
+  "version": "0.7.3",
   "summary": "fastapi-api-key provides secure, production-ready API key management for FastAPI. It offers pluggable hashing strategies (Argon2, bcrypt, or custom), backend-agnostic persistence (SQLAlchemy, in-memory, or your own repository), and an optional cache layer (aiocache, Redis). Includes a Typer CLI and a FastAPI router for CRUD management of keys.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_api_key-0.6.0.tar.gz",
-  "download_time": "2025-11-08T21:40:01.446471",
+  "download_filename": "fastapi_api_key-0.7.3.tar.gz",
+  "download_time": "2025-11-09T18:29:50.089462",
   "package_url": "https://pypi.org/project/fastapi-api-key/"
 }

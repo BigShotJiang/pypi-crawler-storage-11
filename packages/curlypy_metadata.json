@@ -1,0 +1,11 @@
+{
+  "name": "curlypy",
+  "version": "0.1.2",
+  "summary": "A preprocessor to turn python code with braces into python",
+  "author": "DevBoiAgru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "curlypy-0.1.2.tar.gz",
+  "download_time": "2025-11-09T18:29:25.183481",
+  "package_url": "https://pypi.org/project/curlypy/"
+}

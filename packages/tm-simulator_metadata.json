@@ -1,11 +1,11 @@
 {
   "name": "tm-simulator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A small example package",
   "author": "TheVideoFelix",
   "license": null,
   "home_page": null,
-  "download_filename": "tm_simulator-0.1.0.tar.gz",
-  "download_time": "2025-11-01T22:39:23.558351",
+  "download_filename": "tm_simulator-0.1.1.tar.gz",
+  "download_time": "2025-11-09T18:29:45.857076",
   "package_url": "https://pypi.org/project/tm-simulator/"
 }

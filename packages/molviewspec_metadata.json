@@ -1,0 +1,11 @@
+{
+  "name": "molviewspec",
+  "version": "1.8.0",
+  "summary": "Generate Mol* views using this simple Python library, which allows you to compose complex scenes in a step-wise manner.",
+  "author": "Sebastian Bittrich, Adam Midlik, David Sehnal",
+  "license": "MIT",
+  "home_page": "https://github.com/molstar/mol-view-spec",
+  "download_filename": "molviewspec-1.8.0.tar.gz",
+  "download_time": "2025-11-09T18:29:56.432583",
+  "package_url": "https://pypi.org/project/molviewspec/"
+}

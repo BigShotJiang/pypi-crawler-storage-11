@@ -1,11 +1,11 @@
 {
   "name": "gamengine3d",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "A Unity-like 3D engine in Python using pygame",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gamengine3d-1.0.2.tar.gz",
-  "download_time": "2025-11-09T08:56:13.010398",
+  "download_filename": "gamengine3d-1.1.0.tar.gz",
+  "download_time": "2025-11-09T18:30:01.152287",
   "package_url": "https://pypi.org/project/gamengine3d/"
 }

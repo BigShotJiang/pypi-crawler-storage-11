@@ -1,0 +1,11 @@
+{
+  "name": "pyemir",
+  "version": "0.23",
+  "summary": "EMIR Data Processing Pipeline",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyemir-0.23.tar.gz",
+  "download_time": "2025-11-09T18:29:49.016320",
+  "package_url": "https://pypi.org/project/pyemir/"
+}

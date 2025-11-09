@@ -1,11 +1,11 @@
 {
   "name": "LMFuser",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "The LMFuser training framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lmfuser-0.0.8.tar.gz",
-  "download_time": "2025-11-08T19:17:38.315671",
+  "download_filename": "lmfuser-0.0.9.tar.gz",
+  "download_time": "2025-11-09T18:29:41.681011",
   "package_url": "https://pypi.org/project/LMFuser/"
 }

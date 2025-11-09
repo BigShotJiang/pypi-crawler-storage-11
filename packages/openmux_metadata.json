@@ -1,11 +1,11 @@
 {
   "name": "openmux",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "A free multi-source GenAI orchestration library for automatic model selection and routing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openmux-0.1.5.tar.gz",
-  "download_time": "2025-11-09T15:54:27.558507",
+  "download_filename": "openmux-0.1.9.tar.gz",
+  "download_time": "2025-11-09T18:29:23.616516",
   "package_url": "https://pypi.org/project/openmux/"
 }

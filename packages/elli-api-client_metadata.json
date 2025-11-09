@@ -1,11 +1,11 @@
 {
   "name": "elli-api-client",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "Python client for Elli Charging API with OAuth2 PKCE authentication",
   "author": "Marc Szymkowiak",
   "license": "MIT",
   "home_page": "https://github.com/marcszy91/elli-charge-api",
-  "download_filename": "elli_api_client-1.0.2.tar.gz",
-  "download_time": "2025-11-09T17:55:23.159839",
+  "download_filename": "elli_api_client-1.0.6.tar.gz",
+  "download_time": "2025-11-09T18:29:57.474281",
   "package_url": "https://pypi.org/project/elli-api-client/"
 }

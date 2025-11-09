@@ -1,11 +1,11 @@
 {
   "name": "robotpy-questnav",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "QuestNav Library for Robotpy, works with pyhton now",
   "author": "Hayder Chammakhi",
   "license": null,
   "home_page": "https://github.com/Ultime5528/FRC2025",
-  "download_filename": "robotpy_questnav-1.1.2.tar.gz",
-  "download_time": "2025-11-09T16:57:14.307651",
+  "download_filename": "robotpy_questnav-1.1.3.tar.gz",
+  "download_time": "2025-11-09T18:29:56.953760",
   "package_url": "https://pypi.org/project/robotpy-questnav/"
 }

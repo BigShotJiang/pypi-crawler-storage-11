@@ -1,0 +1,11 @@
+{
+  "name": "gaphor",
+  "version": "3.2.0",
+  "summary": "Gaphor is the simple modeling tool written in Python.",
+  "author": "Arjan Molenaar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaphor-3.2.0.tar.gz",
+  "download_time": "2025-11-09T18:29:50.620967",
+  "package_url": "https://pypi.org/project/gaphor/"
+}
