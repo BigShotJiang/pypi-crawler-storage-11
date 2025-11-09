@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-09T07:40:22.851178
+- **Download Time**: 2025-11-09T07:54:50.644602
 - **Total Packages**: 69
-- **Total Size**: 41.07 MB
+- **Total Size**: 5.51 MB
 
 ## Packages List
+- nano-dev-utils
+- petrus
+- osiris-pipeline
+- appscriptify
+- aws-cost-calculator-cli
+- mcp-learning
+- krn-harmony-adapter
+- cloakprompt
+- aimodelshare
+- byzh-ai
+- toolsgen
+- PySingletonMeta
+- physics-utils
+- azure-ai-evaluation
+- dataeval-plots
+- amati
+- piou
+- valid8r
+- bisos.basics
+- maskerlogger
 - clang-tidy-junit
 - hand-recog
 - MetaRpcMT5
@@ -28,16 +48,12 @@
 - mcp_mail
 - gcc-slycooper50
 - glove80
-- petrus
-- physics-utils
 - caffeinated-whale-cli
-- bisos.basics
 - sri-tool
 - edupsyadmin
 - wagtailgeowidget
 - quick-pp
 - langmiddle
-- PySingletonMeta
 - uplift-ble
 - ide4ai
 - rstms-bcc
@@ -49,7 +65,6 @@
 - copernicus-downloader
 - openstreetmap-downloader
 - drf-to-mkdoc
-- aimodelshare
 - covers
 - streamlit-nightly
 - membank
@@ -57,21 +72,6 @@
 - a2lmodel
 - lfss
 - milliseconds
-- cloakprompt
 - sfq
 - dedalus-labs
 - yt-dlp-51cg
-- bisos.b
-- pyeldom
-- KalturaApiClient
-- salla-gitpuller
-- doordeck-headless-sdk
-- beads-mcp
-- davidkhala.ai
-- xpander-sdk
-- Uranus-IDE
-- rquote
-- pycrucible
-- sqless
-- inception-db-connect
-- crystalwindow
