@@ -1,0 +1,11 @@
+{
+  "name": "python-xbox",
+  "version": "0.1.0",
+  "summary": "A library to authenticate with Xbox Network and use their API",
+  "author": "OpenXbox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_xbox-0.1.0.tar.gz",
+  "download_time": "2025-11-09T15:41:27.406608",
+  "package_url": "https://pypi.org/project/python-xbox/"
+}

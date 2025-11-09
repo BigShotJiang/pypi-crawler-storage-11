@@ -1,0 +1,11 @@
+{
+  "name": "diskdantic",
+  "version": "0.1.0",
+  "summary": "Disk-backed collections powered by Pydantic models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diskdantic-0.1.0.tar.gz",
+  "download_time": "2025-11-09T15:41:19.350942",
+  "package_url": "https://pypi.org/project/diskdantic/"
+}

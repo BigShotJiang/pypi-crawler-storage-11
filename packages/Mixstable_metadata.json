@@ -1,11 +1,11 @@
 {
   "name": "Mixstable",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Parameter estimation tools for one-dimensional stable distributions and their mixtures.",
   "author": "Solym Manou-Abi, Adam Najib, Yousri Slaoui",
   "license": null,
   "home_page": "https://github.com/AdamNajib/alpha_stable_mixture",
-  "download_filename": "mixstable-0.1.1.tar.gz",
-  "download_time": "2025-11-09T15:20:51.990715",
+  "download_filename": "mixstable-0.1.6.tar.gz",
+  "download_time": "2025-11-09T15:41:04.842773",
   "package_url": "https://pypi.org/project/Mixstable/"
 }
