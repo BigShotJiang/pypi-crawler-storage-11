@@ -1,11 +1,11 @@
 {
   "name": "owega",
-  "version": "5.24.4",
+  "version": "5.24.5",
   "summary": "A command-line interface for conversing with AI APIs (OpenAI, anthropic, ...)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "owega-5.24.4.tar.gz",
-  "download_time": "2025-11-09T15:20:52.516800",
+  "download_filename": "owega-5.24.5.tar.gz",
+  "download_time": "2025-11-09T18:48:07.572910",
   "package_url": "https://pypi.org/project/owega/"
 }
