@@ -1,11 +1,11 @@
 {
   "name": "sceneprogexec",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A CLI and Python module for executing Blender scripts and managing Blender's Python environment. Built to support SceneProg projects.",
   "author": "Kunal Gupta",
   "license": null,
   "home_page": "https://github.com/KunalMGupta/SceneProgExec",
-  "download_filename": "sceneprogexec-0.2.0.tar.gz",
-  "download_time": "2025-11-09T14:19:28.543575",
+  "download_filename": "sceneprogexec-0.2.1.tar.gz",
+  "download_time": "2025-11-09T14:41:31.215243",
   "package_url": "https://pypi.org/project/sceneprogexec/"
 }

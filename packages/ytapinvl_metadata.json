@@ -1,11 +1,11 @@
 {
   "name": "ytapinvl",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "CLI resmi YT API by Nauval — cek role, harga, dan beli role via QRIS",
   "author": "M. Nauval Sayyid Abdillah",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ytapinvl-1.0.0.tar.gz",
-  "download_time": "2025-11-09T13:54:29.181870",
+  "download_filename": "ytapinvl-1.1.1.tar.gz",
+  "download_time": "2025-11-09T14:41:33.813546",
   "package_url": "https://pypi.org/project/ytapinvl/"
 }

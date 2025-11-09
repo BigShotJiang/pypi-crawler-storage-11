@@ -1,11 +1,11 @@
 {
   "name": "atooms",
-  "version": "3.28.1",
+  "version": "3.28.2",
   "summary": "A framework for simulations of interacting particles",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "atooms-3.28.1.tar.gz",
-  "download_time": "2025-11-04T17:18:25.767290",
+  "download_filename": "atooms-3.28.2.tar.gz",
+  "download_time": "2025-11-09T14:41:42.729969",
   "package_url": "https://pypi.org/project/atooms/"
 }

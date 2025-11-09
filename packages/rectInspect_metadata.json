@@ -1,11 +1,11 @@
 {
   "name": "rectInspect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "rectInspect is a Python library for automated image defect detection. It allows users to detect, highlight, and manually inspect defects in images based on customizable width and height rules. You can also interactively draw rectangles on images to measure dimensions and areas. The library supports skipping certain rectangle sizes and is designed for fast, easy, and flexible inspection of defects in various types of images.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rectinspect-0.0.2.tar.gz",
-  "download_time": "2025-11-09T12:41:03.468359",
+  "download_filename": "rectinspect-0.0.3.tar.gz",
+  "download_time": "2025-11-09T14:41:40.647101",
   "package_url": "https://pypi.org/project/rectInspect/"
 }
