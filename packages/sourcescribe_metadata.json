@@ -1,11 +1,11 @@
 {
   "name": "sourcescribe",
-  "version": "1.0.0",
+  "version": "1.2.5",
   "summary": "Auto-documentation engine using LLMs to generate insightful documentation with architecture diagrams",
   "author": "SourceScribe Contributors",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/sourcescribe",
-  "download_filename": "sourcescribe-1.0.0.tar.gz",
-  "download_time": "2025-11-05T03:52:20.864119",
+  "download_filename": "sourcescribe-1.2.5.tar.gz",
+  "download_time": "2025-11-10T01:48:10.788974",
   "package_url": "https://pypi.org/project/sourcescribe/"
 }

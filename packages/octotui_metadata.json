@@ -1,11 +1,11 @@
 {
   "name": "octotui",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A blazing-fast TUI replacement for GitKraken - manage your Git repos with style!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "octotui-0.1.5.tar.gz",
-  "download_time": "2025-11-08T22:54:01.684436",
+  "download_filename": "octotui-0.1.6.tar.gz",
+  "download_time": "2025-11-10T01:48:19.028392",
   "package_url": "https://pypi.org/project/octotui/"
 }

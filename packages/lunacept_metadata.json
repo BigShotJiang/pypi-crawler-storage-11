@@ -1,0 +1,11 @@
+{
+  "name": "lunacept",
+  "version": "0.2.1",
+  "summary": "Enhanced exception analysis library for Python - prints detailed information about what happened when an exception occurs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lunacept-0.2.1.tar.gz",
+  "download_time": "2025-11-10T01:48:35.355788",
+  "package_url": "https://pypi.org/project/lunacept/"
+}

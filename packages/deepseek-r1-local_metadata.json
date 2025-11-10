@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-r1-local",
+  "version": "1.0.0",
+  "summary": "Offline AI Web UI with Council Deliberation System",
+  "author": "DeepSeek R1 Local Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/deepseek-r1-local",
+  "download_filename": "deepseek_r1_local-1.0.0.tar.gz",
+  "download_time": "2025-11-10T01:48:33.749786",
+  "package_url": "https://pypi.org/project/deepseek-r1-local/"
+}

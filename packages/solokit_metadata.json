@@ -1,11 +1,11 @@
 {
   "name": "solokit",
-  "version": "0.0.1",
-  "summary": "AI-augmented development toolkit for solo developers (Coming Soon)",
-  "author": null,
+  "version": "0.1.0",
+  "summary": "Solokit - Structured Solo Development with AI and Quality Automation",
+  "author": "Solokit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "solokit-0.0.1.tar.gz",
-  "download_time": "2025-11-03T12:44:13.147866",
+  "download_filename": "solokit-0.1.0.tar.gz",
+  "download_time": "2025-11-10T01:48:14.669301",
   "package_url": "https://pypi.org/project/solokit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-katlas",
+  "version": "2025.11.9",
+  "summary": "tools for predicting kinome specificities",
+  "author": "lily",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/sky1ove/katlas",
+  "download_filename": "python_katlas-2025.11.9.tar.gz",
+  "download_time": "2025-11-10T01:48:51.900237",
+  "package_url": "https://pypi.org/project/python-katlas/"
+}

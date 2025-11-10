@@ -1,11 +1,11 @@
 {
   "name": "fc-mcp-external",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": null,
   "author": "Larry Shen",
   "license": "MIT",
   "home_page": "https://fc.readthedocs.io/",
-  "download_filename": "fc_mcp_external-0.8.3.tar.gz",
-  "download_time": "2025-11-06T03:07:05.660468",
+  "download_filename": "fc_mcp_external-0.8.4.tar.gz",
+  "download_time": "2025-11-10T01:48:29.789511",
   "package_url": "https://pypi.org/project/fc-mcp-external/"
 }

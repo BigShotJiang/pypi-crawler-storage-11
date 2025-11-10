@@ -1,11 +1,11 @@
 {
   "name": "fc-client-docker",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": null,
   "author": "Larry Shen",
   "license": "MIT",
   "home_page": "https://fc.readthedocs.io/",
-  "download_filename": "fc_client_docker-0.8.3.tar.gz",
-  "download_time": "2025-11-06T03:07:07.309169",
+  "download_filename": "fc_client_docker-0.8.4.tar.gz",
+  "download_time": "2025-11-10T01:48:30.823368",
   "package_url": "https://pypi.org/project/fc-client-docker/"
 }
