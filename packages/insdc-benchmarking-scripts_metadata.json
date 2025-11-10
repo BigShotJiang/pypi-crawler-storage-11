@@ -1,11 +1,11 @@
 {
   "name": "insdc-benchmarking-scripts",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Benchmarking scripts for INSDC data transfers",
   "author": "Australian BioCommons",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "insdc_benchmarking_scripts-0.1.8.tar.gz",
-  "download_time": "2025-11-10T01:48:40.711247",
+  "download_filename": "insdc_benchmarking_scripts-0.1.9.tar.gz",
+  "download_time": "2025-11-10T04:01:41.978946",
   "package_url": "https://pypi.org/project/insdc-benchmarking-scripts/"
 }

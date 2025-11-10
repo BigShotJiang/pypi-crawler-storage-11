@@ -1,11 +1,11 @@
 {
   "name": "babyweb",
-  "version": "0.1.1.2",
+  "version": "0.1.1.4",
   "summary": "Basic Asynchronous weB librarY",
   "author": "Mario Balibrera",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "babyweb-0.1.1.2-py3-none-any.whl",
-  "download_time": "2025-11-10T01:48:50.845389",
+  "download_filename": "babyweb-0.1.1.4-py3-none-any.whl",
+  "download_time": "2025-11-10T04:01:51.865138",
   "package_url": "https://pypi.org/project/babyweb/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mlflow-tclake-plugin",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "Tclake plugin for MLflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlflow_tclake_plugin-3.0.1.tar.gz",
-  "download_time": "2025-11-05T03:05:14.070599",
+  "download_filename": "mlflow_tclake_plugin-3.0.2.tar.gz",
+  "download_time": "2025-11-10T04:01:09.037867",
   "package_url": "https://pypi.org/project/mlflow-tclake-plugin/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "octopus-sensing",
-  "version": "4.4.4",
+  "version": "4.4.5",
   "summary": "Library for recording data synchronously from different physiological sensors",
   "author": "Nastaran Saffaryazdi",
   "license": "GPL-3.0-or-later",
   "home_page": "https://octopus-sensing.nastaran-saffar.me",
-  "download_filename": "octopus_sensing-4.4.4.tar.gz",
-  "download_time": "2025-11-10T01:48:12.581521",
+  "download_filename": "octopus_sensing-4.4.5.tar.gz",
+  "download_time": "2025-11-10T04:01:15.041914",
   "package_url": "https://pypi.org/project/octopus-sensing/"
 }
