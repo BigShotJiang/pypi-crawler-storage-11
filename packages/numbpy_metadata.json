@@ -1,0 +1,11 @@
+{
+  "name": "numbpy",
+  "version": "1.0.6",
+  "summary": "A Python library for processing hyperspectral data cubes.",
+  "author": "Prasad, Aryan, Tanishka",
+  "license": "MIT License",
+  "home_page": "https://github.com/pras2005/proqub",
+  "download_filename": "numbpy-1.0.6.tar.gz",
+  "download_time": "2025-11-10T03:13:58.047494",
+  "package_url": "https://pypi.org/project/numbpy/"
+}

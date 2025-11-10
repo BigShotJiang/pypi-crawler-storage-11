@@ -1,11 +1,11 @@
 {
   "name": "GoekenDataScience",
-  "version": "0.1.1",
-  "summary": "A collection of data science tools made by the Ryan Goeken",
-  "author": "Ryan Goeken",
+  "version": "0.1.6",
+  "summary": "Python package for Goeken Data Science",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "goekendatascience-0.1.1-py3-none-any.whl",
-  "download_time": "2025-11-09T20:24:01.717339",
+  "download_filename": "goekendatascience-0.1.6.tar.gz",
+  "download_time": "2025-11-10T03:13:53.316272",
   "package_url": "https://pypi.org/project/GoekenDataScience/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "yuanfen",
-  "version": "2025.11.3.7",
+  "version": "2025.11.10.2",
   "summary": "Yuanfen Python Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yuanfen-2025.11.3.7.tar.gz",
-  "download_time": "2025-11-03T07:52:16.748881",
+  "download_filename": "yuanfen-2025.11.10.2.tar.gz",
+  "download_time": "2025-11-10T03:14:06.971430",
   "package_url": "https://pypi.org/project/yuanfen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "chty",
+  "version": "0.1.2",
+  "summary": "Type-safe ClickHouse query parameter codegen from SQL files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chty-0.1.2.tar.gz",
+  "download_time": "2025-11-10T03:13:42.627524",
+  "package_url": "https://pypi.org/project/chty/"
+}

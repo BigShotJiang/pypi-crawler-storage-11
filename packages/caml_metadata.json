@@ -1,0 +1,11 @@
+{
+  "name": "caml",
+  "version": "0.0.0.dev16",
+  "summary": "Extensions & abstractions of advanced econometric techniques leveraging machine learning.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "caml-0.0.0.dev16.tar.gz",
+  "download_time": "2025-11-10T03:14:11.768422",
+  "package_url": "https://pypi.org/project/caml/"
+}

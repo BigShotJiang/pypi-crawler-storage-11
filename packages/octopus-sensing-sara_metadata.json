@@ -1,0 +1,11 @@
+{
+  "name": "octopus-sensing-sara",
+  "version": "1.0",
+  "summary": "An empathetic conversational AI companion for Octopus Sensing",
+  "author": "Nastaran",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "octopus_sensing_sara-1.0.tar.gz",
+  "download_time": "2025-11-10T03:13:53.837382",
+  "package_url": "https://pypi.org/project/octopus-sensing-sara/"
+}
